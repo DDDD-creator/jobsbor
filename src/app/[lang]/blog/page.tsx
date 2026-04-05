@@ -1,6 +1,7 @@
 /**
  * Blog Listing Page
  * Aggregated articles from global tech/Web3/career RSS feeds
+ * With client-side category filtering
  */
 
 import { notFound } from 'next/navigation'
@@ -11,9 +12,11 @@ import blogPosts from '@/data/blog-posts.json'
 import { Header } from '@/components/layout/Header'
 import { Footer } from '@/components/layout/Footer'
 import { BlogPostCard } from '@/components/blog/BlogPostCard'
-import { Filter, Rss } from 'lucide-react'
+import { BlogFilters } from '@/components/blog/BlogFilters'
+import { Rss } from 'lucide-react'
 
 export const revalidate = 21600 // Revalidate every 6 hours
+
 export function generateStaticParams() {
   return locales.map((lang) => ({ lang }))
 }
@@ -41,7 +44,12 @@ export async function generateMetadata({
   }
 }
 
-const CATEGORY_FILTERS = ['all', 'technology', 'web3', 'remote-work']
+const CATEGORY_FILTERS = ['all', 'technology', 'web3', 'business', 'remote-work']
+
+const categoryLabels: Record<string, Record<string, string>> = {
+  zh: { all: '全部', technology: '科技', web3: 'Web3', business: '商业', 'remote-work': '远程工作' },
+  en: { all: 'All', technology: 'Technology', web3: 'Web3', business: 'Business', 'remote-work': 'Remote Work' },
+}
 
 export default async function BlogPage({
   params,
@@ -53,13 +61,16 @@ export default async function BlogPage({
 
   const locale = lang as Locale
   const translations = await loadTranslations(locale)
+  const labels = categoryLabels[locale] || categoryLabels['en']
 
-  const labels: Record<string, string> = locale === 'zh'
-    ? { all: '全部', technology: '科技', web3: 'Web3', 'remote-work': '远程工作', title: '博客', subtitle: '全球科技与职业资讯实时聚合', noPosts: '暂无文章', source: '来源' }
-    : { all: 'All', technology: 'Technology', web3: 'Web3', 'remote-work': 'Remote Work', title: 'Blog', subtitle: 'Real-time global tech & career news aggregation', noPosts: 'No posts yet', source: 'Source' }
-
-  // For SSG, we show all posts (filtering can be done client-side)
   const posts = blogPosts || []
+
+  // Source stats
+  const sourceList = [...new Set(posts.map(p => p.source))]
+  const categoryStats: Record<string, number> = {}
+  posts.forEach(p => {
+    categoryStats[p.sourceCategory] = (categoryStats[p.sourceCategory] || 0) + 1
+  })
 
   return (
     <>
@@ -77,28 +88,33 @@ export default async function BlogPage({
                   {locale === 'zh' ? 'RSS 实时聚合' : 'Live RSS Aggregation'}
                 </span>
               </div>
-              <h1 className="text-4xl font-bold text-white mb-4">{labels.title}</h1>
-              <p className="text-lg text-gray-400">{labels.subtitle}</p>
+              <h1 className="text-4xl font-bold text-white mb-4">
+                {locale === 'zh' ? '博客' : 'Blog'}
+              </h1>
+              <p className="text-lg text-gray-400">
+                {locale === 'zh'
+                  ? '全球科技与职业资讯实时聚合，每 6 小时自动更新'
+                  : 'Real-time global tech & career news aggregation, auto-updated every 6 hours'}
+              </p>
             </div>
           </div>
         </section>
 
-        {/* Category Filters */}
+        {/* Filters + Stats */}
         <section className="py-6 border-b border-white/5">
           <div className="container mx-auto px-4 sm:px-6 lg:px-8">
-            <div className="flex items-center gap-3 overflow-x-auto pb-2">
-              <Filter className="h-4 w-4 text-gray-500 flex-shrink-0" />
-              {CATEGORY_FILTERS.map((cat) => (
-                <button
-                  key={cat}
-                  className="px-4 py-1.5 rounded-full text-sm font-medium glass-card text-gray-400 hover:text-white hover:border-neon-cyan/30 transition-all whitespace-nowrap"
-                >
-                  {labels[cat] || cat}
-                </button>
-              ))}
-              <span className="text-xs text-gray-600 ml-auto flex-shrink-0">
-                {posts.length} {locale === 'zh' ? '篇文章' : 'articles'}
-              </span>
+            <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
+              <BlogFilters
+                categories={CATEGORY_FILTERS.map(cat => ({
+                  key: cat,
+                  label: labels[cat] || cat,
+                  count: cat === 'all' ? posts.length : (categoryStats[cat] || 0),
+                }))}
+              />
+              <div className="flex items-center gap-4 text-xs text-gray-600">
+                <span>{posts.length} {locale === 'zh' ? '篇文章' : 'articles'}</span>
+                <span>{sourceList.length} {locale === 'zh' ? '个来源' : 'sources'}</span>
+              </div>
             </div>
           </div>
         </section>
@@ -116,7 +132,7 @@ export default async function BlogPage({
               <div className="text-center py-24">
                 <Rss className="h-16 w-16 text-gray-600 mx-auto mb-4" />
                 <h3 className="text-xl font-semibold text-gray-400 mb-2">
-                  {labels.noPosts}
+                  {locale === 'zh' ? '暂无文章' : 'No posts yet'}
                 </h3>
                 <p className="text-gray-500">
                   {locale === 'zh' ? '文章正在更新中...' : 'Posts are being updated...'}
