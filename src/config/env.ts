@@ -5,11 +5,13 @@
 
 const requiredEnvVars = [
   'DATABASE_URL',
-  'NEXTAUTH_SECRET',
-  'NEXTAUTH_URL',
 ]
 
 const optionalEnvVars = [
+  'NEXTAUTH_SECRET',
+  'NEXTAUTH_URL',
+  'NEXT_PUBLIC_SITE_URL',
+  'NEXT_PUBLIC_SITE_NAME',
   'STRIPE_SECRET_KEY',
   'STRIPE_WEBHOOK_SECRET',
   'NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY',
@@ -26,6 +28,12 @@ export function validateEnv() {
     }
   }
   
+  // Log warnings for optional missing vars
+  const missingOptional = optionalEnvVars.filter(v => !process.env[v])
+  if (missingOptional.length > 0) {
+    console.log(`⚠️  Optional environment variables not set: ${missingOptional.join(', ')}`)
+  }
+  
   if (missing.length > 0) {
     console.error('❌ 缺少必要的环境变量:')
     for (const envVar of missing) {
@@ -33,23 +41,10 @@ export function validateEnv() {
     }
     console.error('\n请在 .env.local 或 Vercel 环境中配置这些变量')
     
-    // 只在运行时严格检查，构建时仅警告
+    // 仅在非构建时抛出错误
     const isBuildTime = process.env.NEXT_PHASE === 'phase-production-build'
-    if (process.env.NODE_ENV === 'production' && !isBuildTime) {
+    if (!isBuildTime) {
       throw new Error(`缺少必要的环境变量: ${missing.join(', ')}`)
     }
-  }
-  
-  // 检查可选变量
-  const missingOptional = optionalEnvVars.filter(v => !process.env[v])
-  if (missingOptional.length > 0) {
-    console.warn('⚠️  可选环境变量未配置（某些功能可能不可用）:')
-    for (const envVar of missingOptional) {
-      console.warn(`   - ${envVar}`)
-    }
-  }
-  
-  if (missing.length === 0) {
-    console.log('✅ 环境变量验证通过')
   }
 }
