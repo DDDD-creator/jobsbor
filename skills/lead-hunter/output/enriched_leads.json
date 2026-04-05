@@ -1,0 +1,426 @@
+[
+  {
+    "url": "https://www.kuaikanmanhua.com",
+    "name": "快看漫画",
+    "category": "漫画平台",
+    "source": "scrape",
+    "added_date": "2026-03-25",
+    "test_result": "成功提取10个邮箱",
+    "domain": "kuaikanmanhua.com",
+    "business_name": "快看漫画_官方漫画_漫画大全免费在线观看",
+    "emails": [
+      "lijia@kkworld.com",
+      "shaoyuan@kkworld.com",
+      "kolkoc@kkworld.com",
+      "adsoperation@kkworld.com",
+      "pr@kkworld.com",
+      "banquan@kkworld.com",
+      "pinpai@kkworld.com",
+      "jubaoyouxiang@kkworld.com",
+      "kuaikanshortvideo@gmail.com",
+      "copyright-youtube@kkworld.com"
+    ],
+    "phones": [
+      "18519767151"
+    ],
+    "primary_email": "lijia@kkworld.com",
+    "primary_phone": "18519767151",
+    "confidence": "medium",
+    "timestamp": 1774385054.0778525,
+    "quality_score": 70
+  },
+  {
+    "url": "https://www.zymk.cn",
+    "name": "知音漫客",
+    "category": "漫画平台",
+    "source": "scrape",
+    "added_date": "2026-03-25",
+    "test_result": "成功提取4个邮箱",
+    "domain": "zymk.cn",
+    "business_name": "国内知名原创动漫平台_斗破苍穹漫画官网_知音漫客网",
+    "emails": [
+      "banquan@xiaomingtaiji.com",
+      "jubao@xiaomingtaiji.com",
+      "kefu@xiaomingtaiji.com",
+      "kefu@xiaomingtaiji.comQQ"
+    ],
+    "phones": [],
+    "primary_email": "banquan@xiaomingtaiji.com",
+    "primary_phone": "",
+    "confidence": "medium",
+    "timestamp": 1774385056.4217293,
+    "quality_score": 50
+  },
+  {
+    "url": "https://www.manhuagui.com",
+    "name": "漫画柜",
+    "category": "漫画平台",
+    "source": "whois",
+    "added_date": "2026-03-25",
+    "test_result": "未提取到邮箱",
+    "domain": "manhuagui.com",
+    "business_name": "",
+    "emails": [
+      "abuse-complaints@squarespace.com"
+    ],
+    "phones": [],
+    "primary_email": "abuse-complaints@squarespace.com",
+    "primary_phone": "",
+    "confidence": "medium",
+    "timestamp": 1774385059.7368383,
+    "whois_org": "SEEMH",
+    "whois_email": "abuse-complaints@squarespace.com",
+    "quality_score": 50
+  },
+  {
+    "url": "https://www.dm5.com",
+    "name": "动漫屋",
+    "category": "漫画平台",
+    "source": "whois",
+    "added_date": "2026-03-25",
+    "test_result": "未提取到邮箱",
+    "domain": "dm5.com",
+    "business_name": "动漫屋_在线漫画_为看漫画的人而生",
+    "emails": [
+      "abuse@ename.com"
+    ],
+    "phones": [],
+    "primary_email": "abuse@ename.com",
+    "primary_phone": "",
+    "confidence": "medium",
+    "timestamp": 1774385071.23147,
+    "whois_org": "",
+    "whois_email": "abuse@ename.com",
+    "quality_score": 50
+  },
+  {
+    "url": "https://www.cartoonmad.com",
+    "name": "CartoonMad",
+    "category": "漫画平台",
+    "source": "whois",
+    "added_date": "2026-03-25",
+    "test_result": "未提取到邮箱",
+    "domain": "cartoonmad.com",
+    "business_name": "",
+    "emails": [
+      "abuse@godaddy.com"
+    ],
+    "phones": [],
+    "primary_email": "abuse@godaddy.com",
+    "primary_phone": "",
+    "confidence": "medium",
+    "timestamp": 1774385077.2418609,
+    "whois_org": "Domains By Proxy, LLC",
+    "whois_email": "abuse@godaddy.com",
+    "quality_score": 50
+  },
+  {
+    "url": "https://m.mkzhan.com",
+    "name": "漫客栈",
+    "category": "漫画平台",
+    "source": "whois",
+    "added_date": "2026-03-25",
+    "test_result": "未提取到邮箱",
+    "domain": "mkzhan.com",
+    "business_name": "国内原创在线漫画平台_好看的漫画大全 - 漫客栈",
+    "emails": [
+      "DomainAbuse@service.aliyun.com"
+    ],
+    "phones": [],
+    "primary_email": "DomainAbuse@service.aliyun.com",
+    "primary_phone": "",
+    "confidence": "medium",
+    "timestamp": 1774385079.779542,
+    "whois_org": "",
+    "whois_email": "DomainAbuse@service.aliyun.com",
+    "quality_score": 50
+  },
+  {
+    "url": "https://www.manhuatai.com",
+    "name": "漫画台",
+    "category": "漫画平台",
+    "source": "whois",
+    "added_date": "2026-03-25",
+    "test_result": "SSL证书问题",
+    "domain": "manhuatai.com",
+    "business_name": "",
+    "emails": [
+      "abuse@ename.com"
+    ],
+    "phones": [],
+    "primary_email": "abuse@ename.com",
+    "primary_phone": "",
+    "confidence": "medium",
+    "timestamp": 1774385082.8726752,
+    "whois_org": "",
+    "whois_email": "abuse@ename.com",
+    "quality_score": 50
+  },
+  {
+    "url": "https://www.damotu.com",
+    "name": "大魔王漫画",
+    "category": "漫画平台",
+    "source": "whois",
+    "added_date": "2026-03-25",
+    "test_result": "连接超时",
+    "domain": "damotu.com",
+    "business_name": "",
+    "emails": [
+      "DomainAbuse@service.aliyun.com"
+    ],
+    "phones": [],
+    "primary_email": "DomainAbuse@service.aliyun.com",
+    "primary_phone": "",
+    "confidence": "medium",
+    "timestamp": 1774385084.9142258,
+    "whois_org": "",
+    "whois_email": "DomainAbuse@service.aliyun.com",
+    "quality_score": 50
+  },
+  {
+    "url": "https://www.w3schools.com",
+    "name": "W3Schools",
+    "category": "教育技术",
+    "source": "scrape",
+    "added_date": "2026-03-25",
+    "test_result": "成功提取4个邮箱",
+    "domain": "w3schools.com",
+    "business_name": "W3Schools.com",
+    "emails": [
+      "hello@w3schools.com",
+      "support@w3schools.com",
+      "sales@w3schools.com",
+      "help@w3schools.com"
+    ],
+    "phones": [],
+    "primary_email": "hello@w3schools.com",
+    "primary_phone": "",
+    "confidence": "medium",
+    "timestamp": 1774385096.9511902,
+    "quality_score": 50
+  },
+  {
+    "url": "https://ac.qq.com",
+    "name": "腾讯动漫",
+    "category": "漫画平台",
+    "source": "scrape",
+    "added_date": "2026-03-25",
+    "test_result": "待测试",
+    "domain": "qq.com",
+    "business_name": "动漫 - 腾讯动漫官方网站 - 首页",
+    "emails": [
+      "niumin@yuewen.com",
+      "qingdandan@yuewen.com",
+      "maoyiqing@yuewen.com",
+      "3041738885@qq.com",
+      "dujuan.c@yuewen.com",
+      "ac_copyright@qq.com",
+      "zengchao@yuewen.com",
+      "dm@yuewen.com",
+      "wangying.f@yuewen.com"
+    ],
+    "phones": [],
+    "primary_email": "niumin@yuewen.com",
+    "primary_phone": "",
+    "confidence": "medium",
+    "timestamp": 1774385098.3205233,
+    "quality_score": 50
+  },
+  {
+    "url": "https://manga.bilibili.com",
+    "name": "哔哩哔哩漫画",
+    "category": "漫画平台",
+    "source": "scrape",
+    "added_date": "2026-03-25",
+    "test_result": "待测试",
+    "domain": "bilibili.com",
+    "business_name": "哔哩哔哩漫画 - bilibili 正版漫画平台",
+    "emails": [
+      "pr@bilibili.com",
+      "ghzmz@bilibili.com",
+      "pwhz@bilibili.com",
+      "gamebd@bilibili.com",
+      "gongyi@bilibili.com",
+      "dahuiyuan@bilibili.com",
+      "overseas@bilibili.com",
+      "video@bilibili.com",
+      "Oasis@bilibili.com"
+    ],
+    "phones": [],
+    "primary_email": "pr@bilibili.com",
+    "primary_phone": "",
+    "confidence": "medium",
+    "timestamp": 1774385100.4051926,
+    "quality_score": 50
+  },
+  {
+    "url": "https://www.dmzj.com",
+    "name": "动漫之家",
+    "category": "漫画平台",
+    "source": "whois",
+    "added_date": "2026-03-25",
+    "test_result": "待测试",
+    "domain": "dmzj.com",
+    "business_name": "",
+    "emails": [
+      "DomainAbuse@service.aliyun.com"
+    ],
+    "phones": [],
+    "primary_email": "DomainAbuse@service.aliyun.com",
+    "primary_phone": "",
+    "confidence": "medium",
+    "timestamp": 1774385102.3915634,
+    "whois_org": "",
+    "whois_email": "DomainAbuse@service.aliyun.com",
+    "quality_score": 50
+  },
+  {
+    "url": "https://www.u17.com",
+    "name": "有妖气",
+    "category": "漫画平台",
+    "source": "whois",
+    "added_date": "2026-03-25",
+    "test_result": "待测试",
+    "domain": "u17.com",
+    "business_name": "",
+    "emails": [
+      "DomainAbuse@service.aliyun.com"
+    ],
+    "phones": [],
+    "primary_email": "DomainAbuse@service.aliyun.com",
+    "primary_phone": "",
+    "confidence": "medium",
+    "timestamp": 1774385104.0957453,
+    "whois_org": "",
+    "whois_email": "DomainAbuse@service.aliyun.com",
+    "quality_score": 50
+  },
+  {
+    "url": "https://www.manhuaren.com",
+    "name": "漫画人",
+    "category": "漫画平台",
+    "source": "whois",
+    "added_date": "2026-03-25",
+    "test_result": "待测试",
+    "domain": "manhuaren.com",
+    "business_name": "漫画人 - 为爱漫画的人而生",
+    "emails": [
+      "abuse@ename.com"
+    ],
+    "phones": [],
+    "primary_email": "abuse@ename.com",
+    "primary_phone": "",
+    "confidence": "medium",
+    "timestamp": 1774385106.17904,
+    "whois_org": "",
+    "whois_email": "abuse@ename.com",
+    "quality_score": 50
+  },
+  {
+    "url": "https://www.dongman.com",
+    "name": "咚漫",
+    "category": "漫画平台",
+    "source": "whois",
+    "added_date": "2026-03-25",
+    "test_result": "待测试",
+    "domain": "dongman.com",
+    "business_name": "",
+    "emails": [
+      "abuse@ename.com"
+    ],
+    "phones": [],
+    "primary_email": "abuse@ename.com",
+    "primary_phone": "",
+    "confidence": "medium",
+    "timestamp": 1774385108.8163114,
+    "whois_org": "",
+    "whois_email": "abuse@ename.com",
+    "quality_score": 50
+  },
+  {
+    "url": "https://www.kuaikan.com",
+    "name": "快看",
+    "category": "漫画平台",
+    "source": "scrape",
+    "added_date": "2026-03-25",
+    "test_result": "待测试",
+    "domain": "kuaikan.com",
+    "business_name": "è±æµ· - ä¸æ³¨è®¾è®¡æè½æåï¼å©ä½ åçäººè®¾è®¡å¸",
+    "emails": [
+      "contact@kuaikan.com"
+    ],
+    "phones": [
+      "18560039710"
+    ],
+    "primary_email": "contact@kuaikan.com",
+    "primary_phone": "18560039710",
+    "confidence": "medium",
+    "timestamp": 1774385110.9865127,
+    "quality_score": 70
+  },
+  {
+    "url": "https://www.manhuatai.com",
+    "name": "漫画台",
+    "category": "漫画平台",
+    "source": "whois",
+    "added_date": "2026-03-25",
+    "test_result": "待测试",
+    "domain": "manhuatai.com",
+    "business_name": "",
+    "emails": [
+      "abuse@ename.com"
+    ],
+    "phones": [],
+    "primary_email": "abuse@ename.com",
+    "primary_phone": "",
+    "confidence": "medium",
+    "timestamp": 1774385113.4712737,
+    "whois_org": "",
+    "whois_email": "abuse@ename.com",
+    "quality_score": 50
+  },
+  {
+    "url": "https://www.mkzhan.com",
+    "name": "漫客栈",
+    "category": "漫画平台",
+    "source": "scrape",
+    "added_date": "2026-03-25",
+    "test_result": "待测试",
+    "domain": "mkzhan.com",
+    "business_name": "国内原创在线漫画平台_好看的漫画大全 - 漫客栈",
+    "emails": [
+      "banquan@xiaomingtaiji.com",
+      "jubao@xiaomingtaiji.com",
+      "tougao@xiaomingtaiji.com"
+    ],
+    "phones": [
+      "17507497487"
+    ],
+    "primary_email": "banquan@xiaomingtaiji.com",
+    "primary_phone": "17507497487",
+    "confidence": "medium",
+    "timestamp": 1774385115.3266788,
+    "quality_score": 70
+  },
+  {
+    "url": "https://www.36mh.com",
+    "name": "36漫画",
+    "category": "漫画平台",
+    "source": "whois",
+    "added_date": "2026-03-25",
+    "test_result": "待测试",
+    "domain": "36mh.com",
+    "business_name": "",
+    "emails": [
+      "abuse@godaddy.com"
+    ],
+    "phones": [],
+    "primary_email": "abuse@godaddy.com",
+    "primary_phone": "",
+    "confidence": "medium",
+    "timestamp": 1774385121.1404133,
+    "whois_org": "Domains By Proxy, LLC",
+    "whois_email": "abuse@godaddy.com",
+    "quality_score": 50
+  }
+]

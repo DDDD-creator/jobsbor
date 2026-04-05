@@ -1,0 +1,345 @@
+# enrichment.yaml
+# 数据丰富配置 - 成人漫画网站站长信息补全
+
+# 启用状态
+enabled: true
+
+# ═══════════════════════════════════════════════════════════════
+# 邮箱发现配置
+# ═══════════════════════════════════════════════════════════════
+
+email_discovery:
+  enabled: true
+  
+  # 方法1: 模式匹配（免费）
+  pattern_matching:
+    enabled: true
+    common_patterns:
+      - "{first}@{domain}"                    # john@company.com
+      - "{first}.{last}@{domain}"             # john.smith@company.com
+      - "{first}{last}@{domain}"              # johnsmith@company.com
+      - "{f}{last}@{domain}"                  # jsmith@company.com
+      - "{first}_{last}@{domain}"             # john_smith@company.com
+      - "{first}-{last}@{domain}"             # john-smith@company.com
+      - "{last}@{domain}"                     # smith@company.com
+      - "{first}{l}@{domain}"                 # johns@company.com
+    
+    # 根据公司规模调整模式概率
+    pattern_likelihood:
+      small_sites:                            # 1-5人团队
+        - "{first}@{domain}": 0.40
+        - "{admin}@{domain}": 0.30            # admin@, webmaster@等
+        - "{first}.{last}@{domain}": 0.15
+        
+      medium_sites:                           # 6-10人团队
+        - "{first}.{last}@{domain}": 0.35
+        - "{first}@{domain}": 0.25
+        - "{contact}@{domain}": 0.20          # contact@, info@等
+  
+  # 方法2: 公开来源抓取（免费）
+  public_sources:
+    enabled: true
+    sources:
+      website:
+        - contact_page
+        - about_page
+        - footer
+        - privacy_policy
+      
+      whois:
+        enabled: true
+        priority: "medium"
+        
+      social_media:
+        enabled: false  # 成人站长可能不使用公开社交
+  
+  # 方法3: API服务（可能需要付费）
+  api_services:
+    hunter_io:
+      enabled: false  # 需要API密钥
+      api_key: ${HUNTER_API_KEY}
+      monthly_limit: 25  # 免费额度
+      priority: "high"
+      
+    apollo_io:
+      enabled: false  # 需要API密钥
+      api_key: ${APOLLO_API_KEY}
+      
+    clearbit:
+      enabled: false  # 需要API密钥
+      api_key: ${CLEARBIT_API_KEY}
+
+# ═══════════════════════════════════════════════════════════════
+# 邮箱验证配置
+# ═══════════════════════════════════════════════════════════════
+
+email_verification:
+  enabled: true
+  
+  # 基本语法验证
+  syntax_check:
+    enabled: true
+    rules:
+      - must_match_regex: true
+      - must_have_valid_tld: true
+      - no_disposable_domains: true
+      - no_role_accounts: false  # 允许admin@, contact@等
+  
+  # SMTP验证（轻量级）
+  smtp_check:
+    enabled: true
+    timeout_seconds: 5
+    check_mx_records: true
+    check_mailbox: false  # 不实际发送邮件
+  
+  # 第三方验证服务
+  third_party:
+    hunter_verification:
+      enabled: false  # 需要API密钥
+      api_key: ${HUNTER_API_KEY}
+      
+    zerobounce:
+      enabled: false  # 需要API密钥
+      api_key: ${ZEROBOUNCE_API_KEY}
+  
+  # 验证阈值
+  verification_thresholds:
+    syntax_valid: 0.3
+    smtp_valid: 0.6
+    fully_verified: 0.8
+
+# ═══════════════════════════════════════════════════════════════
+# 公司数据丰富
+# ═══════════════════════════════════════════════════════════════
+
+company_enrichment:
+  enabled: true
+  
+  # 基础公司信息
+  basic_info:
+    enabled: true
+    sources:
+      - website_scraping
+      - whois_lookup
+      - public_records
+    
+    # 成人内容网站特定字段
+    custom_fields:
+      - site_category: "成人漫画"
+      - content_type: "漫画/二次元"
+      - monetization_methods: "广告/合作"
+      - target_audience: "成人"
+  
+  # 技术栈检测
+  tech_stack:
+    enabled: true
+    detection_methods:
+      - builtwith_lookup: false  # 需要API
+      - wappalyzer_scan: true    # 本地扫描
+      - manual_indicators: true
+    
+    # 关注的成人网站常见技术
+    indicators:
+      cms:
+        - wordpress
+        - joomla
+        - drupal
+        - custom
+      
+      analytics:
+        - google_analytics
+        - baidu_tongji
+        - cnzz
+      
+      ad_networks:
+        - google_adsense
+        - baidu_union
+        - custom_ads
+      
+      cdn:
+        - cloudflare
+        - akamai
+        - china_cdn
+  
+  # 流量估计
+  traffic_estimation:
+    enabled: true
+    methods:
+      - alexa_rank: false  # 需要API
+      - similarweb: false  # 需要API
+      - manual_estimation: true
+    
+    estimation_factors:
+      - site_age
+      - content_volume
+      - update_frequency
+      - backlink_quality
+
+# ═══════════════════════════════════════════════════════════════
+# 社交资料链接
+# ═══════════════════════════════════════════════════════════════
+
+social_profiles:
+  enabled: true
+  
+  # 成人站长可能使用的平台
+  platforms:
+    telegram:
+      enabled: true
+      discovery_methods:
+        - website_links
+        - username_patterns
+        
+    twitter:
+      enabled: false  # 成人内容可能受限
+      
+    github:
+      enabled: true  # 技术型站长
+      
+    linkedin:
+      enabled: false  # 成人内容不适合
+      
+    specialized:
+      enabled: true
+      platforms:
+        - "二次元社区"
+        - "漫画论坛"
+        - "ACGN平台"
+  
+  # 发现方法
+  discovery_methods:
+    website_scraping: true
+    email_pattern: true
+    username_guessing: true
+  
+  # 验证方法
+  verification:
+    profile_active: true
+    recent_activity: true
+    matches_name: true
+
+# ═══════════════════════════════════════════════════════════════
+# 人员信息丰富
+# ═══════════════════════════════════════════════════════════════
+
+person_enrichment:
+  enabled: true
+  
+  # 姓名提取
+  name_extraction:
+    enabled: true
+    sources:
+      - email_address
+      - social_profiles
+      - website_about
+      - whois_registrant
+    
+    # 中文姓名处理
+    chinese_name_handling:
+      enabled: true
+      name_order: "family_name first"
+      common_family_names: ["王", "李", "张", "刘", "陈", "杨", "赵", "黄", "周", "吴"]
+  
+  # 职位提取
+  title_extraction:
+    enabled: true
+    common_titles:
+      - "站长"
+      - "管理员"
+      - "创始人"
+      - "运营"
+      - "编辑"
+      - "技术"
+    
+    extraction_methods:
+      - email_signature: true
+      - social_bio: true
+      - website_content: true
+  
+  # 联系方式补充
+  contact_info:
+    enabled: true
+    types:
+      - phone
+      - wechat
+      - qq
+      - skype
+    
+    discovery_methods:
+      - website_contact_page: true
+      - social_profiles: true
+      - public_records: false
+
+# ═══════════════════════════════════════════════════════════════
+# 丰富流程配置
+# ═══════════════════════════════════════════════════════════════
+
+enrichment_workflow:
+  # 执行顺序
+  execution_order:
+    1: email_discovery
+    2: email_verification
+    3: company_enrichment
+    4: social_profiles
+    5: person_enrichment
+  
+  # 并行处理
+  parallel_processing:
+    enabled: true
+    max_concurrent: 3
+  
+  # 重试机制
+  retry_policy:
+    max_retries: 2
+    retry_delay_seconds: 5
+    exponential_backoff: true
+  
+  # 超时设置
+  timeouts:
+    total_enrichment_seconds: 30
+    per_source_seconds: 10
+  
+  # 缓存策略
+  caching:
+    enabled: true
+    ttl_hours: 168  # 7天
+    cache_dir: "/root/.openclaw/workspace/skills/lead-hunter/cache"
+
+# ═══════════════════════════════════════════════════════════════
+# 输出配置
+# ═══════════════════════════════════════════════════════════════
+
+output:
+  format: "json"
+  save_to: "/root/.openclaw/workspace/skills/lead-hunter/output/enriched_leads.json"
+  include_raw_data: false
+  compression: false
+  
+  # 字段包含
+  include_fields:
+    - basic_info
+    - verified_emails
+    - company_data
+    - social_profiles
+    - person_data
+    - confidence_scores
+  
+  # 质量评分
+  quality_scoring:
+    enabled: true
+    weights:
+      email_verification: 40
+      company_data: 25
+      person_data: 20
+      social_profiles: 15
+    
+    thresholds:
+      high_quality: 0.7
+      medium_quality: 0.5
+      low_quality: 0.3
+  
+  # 隐私保护
+  privacy:
+    anonymize_pii: false  # 成人行业可能需要真实联系
+    encrypt_sensitive: false
+    data_retention_days: 30

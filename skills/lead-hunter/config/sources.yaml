@@ -1,0 +1,309 @@
+# sources.yaml
+# 数据源配置 - 成人漫画网站站长发现
+
+# 启用状态
+enabled: true
+
+# ═══════════════════════════════════════════════════════════════
+# 社交媒体数据源
+# ═══════════════════════════════════════════════════════════════
+
+twitter:
+  enabled: false  # 需要API密钥，暂时禁用
+  api_version: v2
+  credentials:
+    bearer_token: ${TWITTER_BEARER_TOKEN}  # 从环境变量获取
+  
+  discovery_methods:
+    # 方法1: 关键词搜索（中文成人内容相关）
+    keyword_search:
+      queries:
+        - "成人漫画 站长"
+        - "H漫 网站"
+        - "漫画网站 运营"
+        - "二次元 成人 内容"
+        - "网站流量 变现"
+        - "广告合作 寻找"
+      filters:
+        min_followers: 100
+        max_followers: 50000
+        verified_only: false
+        has_website: true
+        account_age_days: 180
+        language: "zh"
+    
+    # 方法2: 竞争对手关注者
+    competitor_followers:
+      accounts:
+        - "漫画相关账号1"  # 需要替换为实际账号
+        - "漫画相关账号2"
+      sample_size: 500
+      filter_by_bio:
+        must_contain: ["站长", "运营", "漫画", "网站"]
+    
+  rate_limits:
+    requests_per_15min: 450
+    delay_between_requests: 2s
+
+github:
+  enabled: false  # 技术型站长，暂时禁用
+  credentials:
+    token: ${GITHUB_TOKEN}
+  
+  discovery_methods:
+    repository_search:
+      queries:
+        - "漫画网站"
+        - "成人内容"
+        - "wordpress 漫画"
+      language: "JavaScript,Python,PHP"
+      min_stars: 1
+      
+    user_search:
+      queries:
+        - "漫画 开发者"
+        - "网站 站长"
+      location: "China"
+      min_followers: 10
+
+# ═══════════════════════════════════════════════════════════════
+# 平台数据源
+# ═══════════════════════════════════════════════════════════════
+
+product_hunt:
+  enabled: false  # 成人内容可能不适合Product Hunt
+  
+moltbook:
+  enabled: false  # AI生态，可能不适用
+  
+linkedin:
+  enabled: false  # 风险较高，成人内容可能被禁止
+
+# ═══════════════════════════════════════════════════════════════
+# 自定义数据源（推荐用于成人内容）
+# ═══════════════════════════════════════════════════════════════
+
+custom_rss:
+  enabled: false  # 暂时禁用，需要实际RSS源
+  feeds: []
+
+manual_list:
+  enabled: true  # 手动添加网站列表
+  websites:
+    # 成功提取联系方式的网站（已验证）
+    - url: "https://www.kuaikanmanhua.com"
+      name: "快看漫画"
+      category: "漫画平台"
+      added_date: "2026-03-25"
+      test_result: "成功提取10个邮箱"
+      
+    - url: "https://www.zymk.cn"
+      name: "知音漫客"
+      category: "漫画平台"
+      added_date: "2026-03-25"
+      test_result: "成功提取4个邮箱"
+    
+    # 未提取到联系方式的网站（测试样本）
+    - url: "https://www.manhuagui.com"
+      name: "漫画柜"
+      category: "漫画平台"
+      added_date: "2026-03-25"
+      test_result: "未提取到邮箱"
+      
+    - url: "https://www.dm5.com"
+      name: "动漫屋"
+      category: "漫画平台"
+      added_date: "2026-03-25"
+      test_result: "未提取到邮箱"
+      
+    - url: "https://www.cartoonmad.com"
+      name: "CartoonMad"
+      category: "漫画平台"
+      added_date: "2026-03-25"
+      test_result: "未提取到邮箱"
+      
+    - url: "https://m.mkzhan.com"
+      name: "漫客栈"
+      category: "漫画平台"
+      added_date: "2026-03-25"
+      test_result: "未提取到邮箱"
+      
+    - url: "https://www.manhuatai.com"
+      name: "漫画台"
+      category: "漫画平台"
+      added_date: "2026-03-25"
+      test_result: "SSL证书问题"
+      
+    - url: "https://www.damotu.com"
+      name: "大魔王漫画"
+      category: "漫画平台"
+      added_date: "2026-03-25"
+      test_result: "连接超时"
+    
+    # 教育/技术网站（对比测试）
+    - url: "https://www.w3schools.com"
+      name: "W3Schools"
+      category: "教育技术"
+      added_date: "2026-03-25"
+      test_result: "成功提取4个邮箱"
+    
+    # 更多漫画平台（扩大测试样本）
+    - url: "https://ac.qq.com"
+      name: "腾讯动漫"
+      category: "漫画平台"
+      added_date: "2026-03-25"
+      test_result: "待测试"
+      
+    - url: "https://manga.bilibili.com"
+      name: "哔哩哔哩漫画"
+      category: "漫画平台"
+      added_date: "2026-03-25"
+      test_result: "待测试"
+      
+    - url: "https://www.dmzj.com"
+      name: "动漫之家"
+      category: "漫画平台"
+      added_date: "2026-03-25"
+      test_result: "待测试"
+      
+    - url: "https://www.u17.com"
+      name: "有妖气"
+      category: "漫画平台"
+      added_date: "2026-03-25"
+      test_result: "待测试"
+      
+    - url: "https://www.manhuaren.com"
+      name: "漫画人"
+      category: "漫画平台"
+      added_date: "2026-03-25"
+      test_result: "待测试"
+      
+    - url: "https://www.dongman.com"
+      name: "咚漫"
+      category: "漫画平台"
+      added_date: "2026-03-25"
+      test_result: "待测试"
+      
+    - url: "https://www.kuaikan.com"
+      name: "快看"
+      category: "漫画平台"
+      added_date: "2026-03-25"
+      test_result: "待测试"
+      
+    - url: "https://www.manhuatai.com"
+      name: "漫画台"
+      category: "漫画平台"
+      added_date: "2026-03-25"
+      test_result: "待测试"
+      
+    - url: "https://www.mkzhan.com"
+      name: "漫客栈"
+      category: "漫画平台"
+      added_date: "2026-03-25"
+      test_result: "待测试"
+      
+    - url: "https://www.36mh.com"
+      name: "36漫画"
+      category: "漫画平台"
+      added_date: "2026-03-25"
+      test_result: "待测试"
+
+# ═══════════════════════════════════════════════════════════════
+# 网站抓取配置
+# ═══════════════════════════════════════════════════════════════
+
+web_scraping:
+  enabled: true
+  sources:
+    # 通过搜索引擎结果发现网站
+    search_engine_discovery:
+      enabled: true
+      queries:
+        - "site:*.com 成人漫画"
+        - "site:*.cn 漫画网站"
+        - "site:*.net H漫"
+        - "intitle:漫画 在线"
+        - "inurl:comic 成人"
+      max_results_per_query: 50
+      delay_between_queries: 3s
+    
+    # 从已知网站提取外链
+    link_extraction:
+      enabled: true
+      seed_sites:
+        - "https://example-comic-portal.com"
+        - "https://comic-directory.example"
+      max_depth: 2
+      same_domain_only: false
+  
+  rate_limits:
+    requests_per_minute: 20
+    respect_robots_txt: true
+    user_agent: "Mozilla/5.0 (compatible; LeadHunter/1.0; +https://example.com/bot)"
+
+# ═══════════════════════════════════════════════════════════════
+# 数据源优先级
+# ═══════════════════════════════════════════════════════════════
+
+source_priority:
+  1: manual_list      # 手动列表最可靠
+  2: custom_rss       # 自定义RSS次之
+  3: web_scraping     # 网页抓取
+  4: twitter          # 社交媒体
+  5: github           # 代码平台
+
+# ═══════════════════════════════════════════════════════════════
+# 数据过滤规则
+# ═══════════════════════════════════════════════════════════════
+
+filters:
+  # 网站质量过滤
+  website_quality:
+    min_alexa_rank: null      # 不限制最低排名
+    max_alexa_rank: 1000000   # 排除排名太差的网站
+    min_monthly_visitors: 1000
+    must_have_ssl: true
+    must_be_active: true      # 最近30天有更新
+    
+  # 内容过滤
+  content_filters:
+    must_contain_keywords:
+      - "漫画"
+      - "comic"
+      - "图"
+    should_contain_keywords:
+      - "成人"
+      - "二次元"
+      - "H"
+    exclude_keywords:
+      - "赌博"
+      - "诈骗"
+      - "非法"
+      
+  # 地理过滤
+  geography:
+    target_countries:
+      - CN
+      - TW
+      - HK
+    target_languages:
+      - zh
+      - zh-CN
+      - zh-TW
+
+# ═══════════════════════════════════════════════════════════════
+# 输出配置
+# ═══════════════════════════════════════════════════════════════
+
+output:
+  format: "json"
+  save_to: "/root/.openclaw/workspace/skills/lead-hunter/output/discovered_leads.json"
+  batch_size: 100
+  deduplicate: true
+  
+  # 字段映射
+  field_mapping:
+    source_url: "url"
+    source_name: "name"
+    discovered_at: "timestamp"
+    source_type: "source"

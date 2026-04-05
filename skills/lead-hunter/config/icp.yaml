@@ -1,0 +1,145 @@
+# icp.yaml
+name: "adult-comic-site-owners"
+description: "中小型成人漫画网站站长，有流量变现需求，适合后付模式合作"
+
+# ═══════════════════════════════════════════════════════════════
+# FIRMOGRAPHICS (Company-level)
+# ═══════════════════════════════════════════════════════════════
+
+company:
+  # Industry targeting
+  industries:
+    include:
+      - adult
+      - entertainment
+      - media
+      - comics
+      - digital-content
+    exclude:
+      - gambling
+      - tobacco
+      - pharmaceuticals
+      
+  # Company stage
+  stage:
+    include:
+      - individual
+      - small-team
+      - bootstrapped
+    exclude:
+      - enterprise
+      - public
+      - large-corporate
+      
+  # Employee count
+  employee_range:
+    min: 1
+    max: 10
+    
+  # Funding - not applicable for most adult sites
+  funding:
+    min: 0
+    max: 0
+    recent_round_within: null
+    
+  # Geography
+  location:
+    countries:
+      - CN
+      - TW
+      - HK
+    regions:
+      - Asia
+      - East-Asia
+    exclude_countries:
+      - sanctioned_list
+      
+  # Tech stack signals - adult sites often use specific tech
+  tech_stack:
+    must_have:
+      - website
+    good_to_have:
+      - wordpress
+      - google-analytics
+      - ad-scripts
+      - cdn
+    red_flags:
+      - enterprise-cms
+      - custom-built-complex
+      
+# ═══════════════════════════════════════════════════════════════
+# DEMOGRAPHICS (Person-level)
+# ═══════════════════════════════════════════════════════════════
+
+person:
+  # Titles for adult site operators
+  titles:
+    include:
+      - founder
+      - owner
+      - webmaster
+      - admin
+      - administrator
+      - 站主
+      - 站长
+      - 管理员
+    exclude:
+      - intern
+      - assistant
+      - coordinator
+      - employee
+      
+  # Seniority
+  seniority:
+    include:
+      - owner
+      - founder
+      - decision-maker
+      
+  # Department
+  department:
+    include:
+      - executive
+      - operations
+      - technical
+      - content
+      
+# ═══════════════════════════════════════════════════════════════
+# INTENT SIGNALS (Behavioral)
+# ═══════════════════════════════════════════════════════════════
+
+intent_signals:
+  # Activity that suggests they need monetization/partnerships
+  strong_signals:
+    - posted_about: ["流量变现", "广告合作", "网站收入", "用户增长"]
+    - searched_for: ["广告联盟", "网站盈利", "流量合作", "cpa合作"]
+    - visited: ["ad-networks", "monetization-tools", "partnership-pages"]
+    - tech_added: ["google-adsense", "ad-managers", "analytics-tools"]
+    
+  medium_signals:
+    - posted_about: ["网站运营", "seo优化", "用户体验", "内容更新"]
+    - engaged_with: ["webmaster-communities", "site-monetization"]
+    - attended: ["webmaster-events", "digital-marketing-webinars"]
+    
+  timing_signals:
+    - site_age: 180            # Site older than 6 months
+    - traffic_growth: 20       # 20%+ traffic growth recently
+    - content_update_freq: 7   # Updates content weekly
+    
+# ═══════════════════════════════════════════════════════════════
+# SCORING WEIGHTS
+# ═══════════════════════════════════════════════════════════════
+
+scoring:
+  weights:
+    industry_match: 25
+    stage_match: 15
+    title_match: 20
+    location_match: 15
+    intent_signals: 20
+    site_traffic: 5
+    
+  thresholds:
+    hot: 75              # Score >= 75 = hot lead
+    warm: 60             # Score >= 60 = warm lead
+    cold: 40             # Score < 40 = cold lead

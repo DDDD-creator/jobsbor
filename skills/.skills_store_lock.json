@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "skills": {
+    "lead-hunter": {
+      "name": "Lead Hunter",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=lead-hunter",
+      "source": "skillhub",
+      "version": "1.0.1"
+    },
+    "contact-enrichment": {
+      "name": "Contact Enrichment",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=contact-enrichment",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "scrape": {
+      "name": "Scrape",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=scrape",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "github-ops": {
+      "name": "Github Ops",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=github-ops",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "github-search": {
+      "name": "github-search",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=github-search",
+      "source": "skillhub",
+      "version": "1.0.0"
+    }
+  }
+}
