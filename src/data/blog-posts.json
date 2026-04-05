@@ -11,7 +11,7 @@
     "source": "Business Insider",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:05.586Z"
+    "fetchedAt": "2026-04-05T21:59:58.915Z"
   },
   {
     "title": "A simple explainer on what quantum computing actually is, and why it is terrifying for bitcoin",
@@ -25,7 +25,7 @@
     "source": "CoinDesk",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:56.233Z"
+    "fetchedAt": "2026-04-05T21:59:44.505Z"
   },
   {
     "title": "I quit my corporate job at 25 to sell pizza with a friend. Now we have 9 locations.",
@@ -39,7 +39,7 @@
     "source": "Business Insider",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:05.586Z"
+    "fetchedAt": "2026-04-05T21:59:58.915Z"
   },
   {
     "title": "Polymarket odds of US invading Iran this year reach 63% after Trump's post",
@@ -53,7 +53,7 @@
     "source": "CoinTelegraph",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:54.129Z"
+    "fetchedAt": "2026-04-05T21:59:42.407Z"
   },
   {
     "title": "Polymarket took down wagers tied to rescue of downed Air Force officer",
@@ -67,7 +67,7 @@
     "source": "TechCrunch",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:35.692Z"
+    "fetchedAt": "2026-04-05T21:59:27.364Z"
   },
   {
     "title": "Polymarket pulls controversial Iran rescue markets after intense backlash",
@@ -81,7 +81,7 @@
     "source": "CoinDesk",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:56.233Z"
+    "fetchedAt": "2026-04-05T21:59:44.505Z"
   },
   {
     "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
@@ -95,7 +95,35 @@
     "source": "TechCrunch",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:35.692Z"
+    "fetchedAt": "2026-04-05T21:59:27.364Z"
+  },
+  {
+    "title": "Gemma 4 on iPhone",
+    "link": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
+    "description": "Article URL: https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337\nComments URL: https://news.ycombinator.com/item?id=47652561\nPoints: 228\n# Comments: 61",
+    "pubDate": "Sun, 05 Apr 2026 18:45:53 +0000",
+    "author": "janandonly",
+    "category": "",
+    "image": "",
+    "id": "aHR0cHM6Ly9hcHBz",
+    "source": "Hacker News Best",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T21:59:40.356Z"
+  },
+  {
+    "title": "As Wall Street moves on-chain, DeFi faces a $330 billion trust test it can’t dodge",
+    "link": "https://cryptoslate.com/wall-street-blockchain-defi-on-chain-capital/",
+    "description": "Wall Street spent the first quarter of 2026 systematically narrowing DeFi's claim to the future of finance. In January, ICE announced NYSE was building a tokenized securities platform with 24/7 operations, instant settlement, dollar-based order sizing, and stablecoin funding, with BNY and Citi provi",
+    "pubDate": "Sun, 05 Apr 2026 18:35:59 +0000",
+    "author": "Gino Matos",
+    "category": "DeFi",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/04/wallstreet-defi.jpg",
+    "id": "aHR0cHM6Ly9jcnlw",
+    "source": "CryptoSlate",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T21:59:54.299Z"
   },
   {
     "title": "Los Thuthanaka’s Wak&#8217;a is a mellower follow-up to last year’s surprise Pitchfork favorite",
@@ -109,7 +137,7 @@
     "source": "The Verge",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:43.889Z"
+    "fetchedAt": "2026-04-05T21:59:35.479Z"
   },
   {
     "title": "OCSF explained: The shared data language security teams have been missing",
@@ -123,7 +151,7 @@
     "source": "VentureBeat",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:45.945Z"
+    "fetchedAt": "2026-04-05T21:59:37.530Z"
   },
   {
     "title": "Claude, OpenClaw and the new reality: AI agents are here — and so is the chaos",
@@ -137,7 +165,7 @@
     "source": "VentureBeat",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:45.945Z"
+    "fetchedAt": "2026-04-05T21:59:37.530Z"
   },
   {
     "title": "As people look for ways to make new friends, here are the apps promising to help",
@@ -151,7 +179,7 @@
     "source": "TechCrunch",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:35.692Z"
+    "fetchedAt": "2026-04-05T21:59:27.364Z"
   },
   {
     "title": "I spent 11 hours in Korean Air&#39;s business-class suites. My seat felt more private than I expected and had cool perks.",
@@ -165,7 +193,7 @@
     "source": "Business Insider",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:05.586Z"
+    "fetchedAt": "2026-04-05T21:59:58.915Z"
   },
   {
     "title": "Bitcoin and the US dollar have a 'symbiotic' relationship: BPI exec",
@@ -179,7 +207,21 @@
     "source": "CoinTelegraph",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:54.129Z"
+    "fetchedAt": "2026-04-05T21:59:42.407Z"
+  },
+  {
+    "title": "Algorand just jumped 50% after Google flags quantum risk for Bitcoin and Ethereum",
+    "link": "https://cryptoslate.com/algorand-just-jumped-50-after-a-google-flags-quantum-risk-for-bitcoin-and-ethereum/",
+    "description": "Algorand has emerged as an early standout in the crypto market’s latest quantum security debate after a recent Google Quantum AI paper highlighted the blockchain as a live example of post-quantum cryptography being deployed on a network. The attention came as the paper sharpened concerns around Bitc",
+    "pubDate": "Sun, 05 Apr 2026 16:15:58 +0000",
+    "author": "Oluwapelumi Adejumo",
+    "category": "Featured",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/04/quantum-test-algorand-bitcoin-ethereum.jpg",
+    "id": "aHR0cHM6Ly9jcnlw",
+    "source": "CryptoSlate",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T21:59:54.299Z"
   },
   {
     "title": "TechCrunch Mobility: ‘A stunning lack of transparency’",
@@ -193,7 +235,7 @@
     "source": "TechCrunch",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:35.692Z"
+    "fetchedAt": "2026-04-05T21:59:27.364Z"
   },
   {
     "title": "Suno is a music copyright nightmare",
@@ -207,7 +249,7 @@
     "source": "The Verge",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:43.889Z"
+    "fetchedAt": "2026-04-05T21:59:35.479Z"
   },
   {
     "title": "Bitcoin is now front-running the Fed rather than reacting to it. ETFs are the cause",
@@ -221,12 +263,12 @@
     "source": "CoinDesk",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:56.233Z"
+    "fetchedAt": "2026-04-05T21:59:44.505Z"
   },
   {
     "title": "Codex pricing to align with API token usage, instead of per-message",
     "link": "https://help.openai.com/en/articles/20001106-codex-rate-card",
-    "description": "Article URL: https://help.openai.com/en/articles/20001106-codex-rate-card\nComments URL: https://news.ycombinator.com/item?id=47650726\nPoints: 182\n# Comments: 158",
+    "description": "Article URL: https://help.openai.com/en/articles/20001106-codex-rate-card\nComments URL: https://news.ycombinator.com/item?id=47650726\nPoints: 188\n# Comments: 164",
     "pubDate": "Sun, 05 Apr 2026 15:58:08 +0000",
     "author": "ccmcarey",
     "category": "",
@@ -235,7 +277,7 @@
     "source": "Hacker News Best",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:52.082Z"
+    "fetchedAt": "2026-04-05T21:59:40.356Z"
   },
   {
     "title": "I never cared about Easter. Now that my kids are all grown up, it&#39;s the easier holiday for them to come home.",
@@ -249,7 +291,7 @@
     "source": "Business Insider",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:05.586Z"
+    "fetchedAt": "2026-04-05T21:59:58.915Z"
   },
   {
     "title": "Can orbital data centers help justify a massive valuation for SpaceX?",
@@ -263,7 +305,7 @@
     "source": "TechCrunch",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:35.692Z"
+    "fetchedAt": "2026-04-05T21:59:27.364Z"
   },
   {
     "title": "I tried Italian sandwiches from Subway, Jimmy John&#39;s, and Jersey Mike&#39;s. One stood out from the rest.",
@@ -277,12 +319,12 @@
     "source": "Business Insider",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:05.586Z"
+    "fetchedAt": "2026-04-05T21:59:58.915Z"
   },
   {
     "title": "Artemis II crew see first glimpse of far side of Moon [video]",
     "link": "https://www.bbc.com/news/videos/ce3d5gkd2geo",
-    "description": "Article URL: https://www.bbc.com/news/videos/ce3d5gkd2geo\nComments URL: https://news.ycombinator.com/item?id=47649721\nPoints: 316\n# Comments: 237",
+    "description": "Article URL: https://www.bbc.com/news/videos/ce3d5gkd2geo\nComments URL: https://news.ycombinator.com/item?id=47649721\nPoints: 344\n# Comments: 268",
     "pubDate": "Sun, 05 Apr 2026 14:18:12 +0000",
     "author": "mooreds",
     "category": "",
@@ -291,7 +333,21 @@
     "source": "Hacker News Best",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:52.082Z"
+    "fetchedAt": "2026-04-05T21:59:40.356Z"
+  },
+  {
+    "title": "US jobs crush forecasts, yet hidden labor weakness could keep Bitcoin under pressure",
+    "link": "https://cryptoslate.com/us-jobs-bitcoin-hidden-labor-weakness/",
+    "description": "The US economy added 178,000 jobs in March, nearly three times the consensus estimate of 60,000, and unemployment dipped to 4.3%. That is the kind of print that resets macro narratives and hits risk assets before traders finish their first read. Bitcoin traded around $67,000, unfazed by the data. Th",
+    "pubDate": "Sun, 05 Apr 2026 14:10:57 +0000",
+    "author": "Gino Matos",
+    "category": "Analysis",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/04/jobs-data-bitcoin.jpg",
+    "id": "aHR0cHM6Ly9jcnlw",
+    "source": "CryptoSlate",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T21:59:54.299Z"
   },
   {
     "title": "My kids don&#39;t remember living in New York, so I retraced their earliest days with them",
@@ -305,7 +361,7 @@
     "source": "Business Insider",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:05.586Z"
+    "fetchedAt": "2026-04-05T21:59:58.915Z"
   },
   {
     "title": "In Japan, the robot isn&#8217;t coming for your job; it&#8217;s filling the one nobody wants",
@@ -319,7 +375,7 @@
     "source": "TechCrunch",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:35.692Z"
+    "fetchedAt": "2026-04-05T21:59:27.364Z"
   },
   {
     "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
@@ -333,7 +389,7 @@
     "source": "The Verge",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:43.889Z"
+    "fetchedAt": "2026-04-05T21:59:35.479Z"
   },
   {
     "title": "AI is making crypto's security problem even worse, Ledger CTO warns",
@@ -347,7 +403,7 @@
     "source": "CoinDesk",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:56.233Z"
+    "fetchedAt": "2026-04-05T21:59:44.505Z"
   },
   {
     "title": "I compared Martha Stewart&#39;s and Ina Garten&#39;s BLT sandwiches, and I preferred the recipe with store-bought mayo",
@@ -361,12 +417,12 @@
     "source": "Business Insider",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:05.586Z"
+    "fetchedAt": "2026-04-05T21:59:58.915Z"
   },
   {
     "title": "Someone at BrowserStack is leaking users' email addresses",
     "link": "https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/",
-    "description": "Article URL: https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/\nComments URL: https://news.ycombinator.com/item?id=47649117\nPoints: 344\n# Comments: 93",
+    "description": "Article URL: https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/\nComments URL: https://news.ycombinator.com/item?id=47649117\nPoints: 348\n# Comments: 96",
     "pubDate": "Sun, 05 Apr 2026 13:14:38 +0000",
     "author": "m_km",
     "category": "",
@@ -375,12 +431,12 @@
     "source": "Hacker News Best",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:52.082Z"
+    "fetchedAt": "2026-04-05T21:59:40.356Z"
   },
   {
     "title": "Finnish sauna heat exposure induces stronger immune cell than cytokine responses",
     "link": "https://www.tandfonline.com/doi/full/10.1080/23328940.2026.2645467#abstract",
-    "description": "Article URL: https://www.tandfonline.com/doi/full/10.1080/23328940.2026.2645467#abstract\nComments URL: https://news.ycombinator.com/item?id=47649113\nPoints: 267\n# Comments: 183",
+    "description": "Article URL: https://www.tandfonline.com/doi/full/10.1080/23328940.2026.2645467#abstract\nComments URL: https://news.ycombinator.com/item?id=47649113\nPoints: 286\n# Comments: 192",
     "pubDate": "Sun, 05 Apr 2026 13:14:36 +0000",
     "author": "Growtika",
     "category": "",
@@ -389,7 +445,7 @@
     "source": "Hacker News Best",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:52.082Z"
+    "fetchedAt": "2026-04-05T21:59:40.356Z"
   },
   {
     "title": "I made Gordon Ramsay&#39;s famous soft scrambled eggs. His recipe&#39;s good, but I found an easy way to make it even better.",
@@ -403,7 +459,7 @@
     "source": "Business Insider",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:05.586Z"
+    "fetchedAt": "2026-04-05T21:59:58.915Z"
   },
   {
     "title": "Is the Slate Truck too minimal for its own good?",
@@ -417,12 +473,26 @@
     "source": "The Verge",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:43.889Z"
+    "fetchedAt": "2026-04-05T21:59:35.479Z"
+  },
+  {
+    "title": "Circle’s USDC freeze power faces fresh scrutiny after wallets were blocked while stolen funds moved",
+    "link": "https://cryptoslate.com/circle-usdc-freeze-power-scrutiny-wallets-stolen-funds/",
+    "description": "Circle's biggest selling point may be becoming its biggest liability. On-chain investigator ZachXBT's &#8220;Circle Files&#8221; allege that the USDC issuer has inconsistently applied its freeze powers. Circle was too slow in 15 cases involving more than $420 million in allegedly illicit funds since",
+    "pubDate": "Sun, 05 Apr 2026 12:45:56 +0000",
+    "author": "Gino Matos",
+    "category": "Featured",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/04/circle-usdc-freeze.jpg",
+    "id": "aHR0cHM6Ly9jcnlw",
+    "source": "CryptoSlate",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T21:59:54.299Z"
   },
   {
     "title": "Eight years of wanting, three months of building with AI",
     "link": "https://lalitm.com/post/building-syntaqlite-ai/",
-    "description": "Article URL: https://lalitm.com/post/building-syntaqlite-ai/\nComments URL: https://news.ycombinator.com/item?id=47648828\nPoints: 443\n# Comments: 134",
+    "description": "Article URL: https://lalitm.com/post/building-syntaqlite-ai/\nComments URL: https://news.ycombinator.com/item?id=47648828\nPoints: 486\n# Comments: 146",
     "pubDate": "Sun, 05 Apr 2026 12:43:47 +0000",
     "author": "brilee",
     "category": "",
@@ -431,7 +501,7 @@
     "source": "Hacker News Best",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:52.082Z"
+    "fetchedAt": "2026-04-05T21:59:40.356Z"
   },
   {
     "title": "Here’s what happened in crypto today",
@@ -445,7 +515,7 @@
     "source": "CoinTelegraph",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:54.129Z"
+    "fetchedAt": "2026-04-05T21:59:42.407Z"
   },
   {
     "title": "How the Amazon Echo learned to talk — and listen",
@@ -459,7 +529,7 @@
     "source": "The Verge",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:43.889Z"
+    "fetchedAt": "2026-04-05T21:59:35.479Z"
   },
   {
     "title": "Drift says $270 million exploit was a six-month North Korean intelligence operation",
@@ -473,7 +543,7 @@
     "source": "CoinDesk",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:56.233Z"
+    "fetchedAt": "2026-04-05T21:59:44.505Z"
   },
   {
     "title": "Robert Kiyosaki recommends Bitcoin, gold as 1974 shift comes full circle",
@@ -487,7 +557,7 @@
     "source": "CoinTelegraph",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:54.129Z"
+    "fetchedAt": "2026-04-05T21:59:42.407Z"
   },
   {
     "title": "My fiancée and I live with my parents in a New York City apartment. It&#39;s helped us save money and open a business.",
@@ -501,7 +571,7 @@
     "source": "Business Insider",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:05.586Z"
+    "fetchedAt": "2026-04-05T21:59:58.915Z"
   },
   {
     "title": "Best Apple Watch Bands of 2026: Nike, Hermés, and More",
@@ -515,7 +585,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "Grammarly’s sloppelganger saga",
@@ -529,7 +599,7 @@
     "source": "The Verge",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:43.889Z"
+    "fetchedAt": "2026-04-05T21:59:35.479Z"
   },
   {
     "title": "Ant Group’s blockchain arm unveils platform for AI agents to transact on crypto rails",
@@ -543,7 +613,7 @@
     "source": "CoinDesk",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:56.233Z"
+    "fetchedAt": "2026-04-05T21:59:44.505Z"
   },
   {
     "title": "OpenAI Is Making Microsoft and Ashton Kutcher Incredibly Rich",
@@ -557,7 +627,7 @@
     "source": "Inc",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:02.943Z"
+    "fetchedAt": "2026-04-05T21:59:56.350Z"
   },
   {
     "title": "Bitcoin holds steady as sentiment hits worst levels since Iran war began",
@@ -571,7 +641,7 @@
     "source": "CoinDesk",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:56.233Z"
+    "fetchedAt": "2026-04-05T21:59:44.505Z"
   },
   {
     "title": "Trump says US forces pulled off a high-risk rescue of a downed airman being hunted &#39;deep inside&#39; Iran",
@@ -585,7 +655,7 @@
     "source": "Business Insider",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:05.586Z"
+    "fetchedAt": "2026-04-05T21:59:58.915Z"
   },
   {
     "title": "New Bitcoin price lows 'matter of time' says trader with BTC stuck at $67K",
@@ -599,12 +669,12 @@
     "source": "CoinTelegraph",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:54.129Z"
+    "fetchedAt": "2026-04-05T21:59:42.407Z"
   },
   {
     "title": "My Google Workspace account suspension",
     "link": "https://zencapital.substack.com/p/sad-story-of-my-google-workspace",
-    "description": "Article URL: https://zencapital.substack.com/p/sad-story-of-my-google-workspace\nComments URL: https://news.ycombinator.com/item?id=47648404\nPoints: 307\n# Comments: 160",
+    "description": "Article URL: https://zencapital.substack.com/p/sad-story-of-my-google-workspace\nComments URL: https://news.ycombinator.com/item?id=47648404\nPoints: 316\n# Comments: 177",
     "pubDate": "Sun, 05 Apr 2026 11:48:13 +0000",
     "author": "zenincognito",
     "category": "",
@@ -613,7 +683,7 @@
     "source": "Hacker News Best",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:52.082Z"
+    "fetchedAt": "2026-04-05T21:59:40.357Z"
   },
   {
     "title": "I&#39;m a 76-year-old retiree who travels often with my grandma friends. We&#39;re learning that the secret to healthy aging is adventure.",
@@ -627,7 +697,7 @@
     "source": "Business Insider",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:05.586Z"
+    "fetchedAt": "2026-04-05T21:59:58.915Z"
   },
   {
     "title": "A family of 4 lives in a 560-square-foot tiny home. Here&#39;s what they love about its design — and what they&#39;d change.",
@@ -641,7 +711,7 @@
     "source": "Business Insider",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:05.586Z"
+    "fetchedAt": "2026-04-05T21:59:58.915Z"
   },
   {
     "title": "CBP facility codes sure seem to have leaked via online flashcards",
@@ -655,7 +725,7 @@
     "source": "Ars Technica",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:37.718Z"
+    "fetchedAt": "2026-04-05T21:59:29.392Z"
   },
   {
     "title": "Heatbit Maxi Pro Review: a Space Heater That Also Mines Bitcoin",
@@ -669,7 +739,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "Panic and confusion: Student-loan borrowers scramble after getting kicked off Biden&#39;s key affordable repayment plan",
@@ -683,7 +753,7 @@
     "source": "Business Insider",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:05.586Z"
+    "fetchedAt": "2026-04-05T21:59:58.915Z"
   },
   {
     "title": "For crypto miners turned AI stars, the real test is about to come",
@@ -697,7 +767,21 @@
     "source": "Business Insider",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:05.586Z"
+    "fetchedAt": "2026-04-05T21:59:58.915Z"
+  },
+  {
+    "title": "Charles Schwab’s Bitcoin and Ethereum rollout shows crypto is moving deeper into mainstream brokerage accounts",
+    "link": "https://cryptoslate.com/charles-schwab-bitcoin-ethereum-mainstream-brokerage/",
+    "description": "Charles Schwab operates 38.9 million active brokerage accounts and holds $12.22 trillion in client assets. For years, investors in those accounts could reach Bitcoin and Ethereum through ETFs, crypto-related equities, and futures. A phased launch beginning in the second quarter closes the gap with d",
+    "pubDate": "Sun, 05 Apr 2026 10:15:53 +0000",
+    "author": "Gino Matos",
+    "category": "Analysis",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/04/Charles-Schwab-bitcoin-ethereum.jpg?ver=1775292006",
+    "id": "aHR0cHM6Ly9jcnlw",
+    "source": "CryptoSlate",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T21:59:54.299Z"
   },
   {
     "title": "3 Best Robot Lawn Mowers (2026), Tested and Reviewed",
@@ -711,7 +795,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "How AI Is Transforming B2B Sales Without Replacing Human Sellers",
@@ -725,12 +809,12 @@
     "source": "Inc",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:02.943Z"
+    "fetchedAt": "2026-04-05T21:59:56.350Z"
   },
   {
     "title": "The threat is comfortable drift toward not understanding what you're doing",
     "link": "https://ergosphere.blog/posts/the-machines-are-fine/",
-    "description": "Article URL: https://ergosphere.blog/posts/the-machines-are-fine/\nComments URL: https://news.ycombinator.com/item?id=47647788\nPoints: 734\n# Comments: 484",
+    "description": "Article URL: https://ergosphere.blog/posts/the-machines-are-fine/\nComments URL: https://news.ycombinator.com/item?id=47647788\nPoints: 759\n# Comments: 495",
     "pubDate": "Sun, 05 Apr 2026 09:57:25 +0000",
     "author": "zaikunzhang",
     "category": "",
@@ -739,7 +823,7 @@
     "source": "Hacker News Best",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:52.082Z"
+    "fetchedAt": "2026-04-05T21:59:40.357Z"
   },
   {
     "title": "Workers are feeling AI anxiety — and that they might be training their replacements",
@@ -753,7 +837,7 @@
     "source": "Business Insider",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:05.586Z"
+    "fetchedAt": "2026-04-05T21:59:58.915Z"
   },
   {
     "title": "I founded Culture Pop in my 50s, but my youngest hires keep it relevant and fresh",
@@ -767,7 +851,7 @@
     "source": "Business Insider",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:05.586Z"
+    "fetchedAt": "2026-04-05T21:59:58.915Z"
   },
   {
     "title": "‘Existential’ token problem seen as supply outpaces value creation: Blockworks exec",
@@ -781,7 +865,7 @@
     "source": "CoinTelegraph",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:54.129Z"
+    "fetchedAt": "2026-04-05T21:59:42.407Z"
   },
   {
     "title": "Sony’s PS5 Price Hikes Prove This Console Generation Is Far From Over. Good.",
@@ -795,7 +879,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "With One Million Displaced, Lebanon Turns to Digital Wallets for Aid",
@@ -809,7 +893,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "A $185 cookware set I bought from Costco in late 2024 has become my personal tariff impact tracker",
@@ -823,7 +907,7 @@
     "source": "Business Insider",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:05.586Z"
+    "fetchedAt": "2026-04-05T21:59:58.915Z"
   },
   {
     "title": "The quiet career cost of losing a parent young",
@@ -837,7 +921,7 @@
     "source": "Business Insider",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:05.586Z"
+    "fetchedAt": "2026-04-05T21:59:58.915Z"
   },
   {
     "title": "I vibe coded an AI tool to help my mom fight stage 4 cancer. It helped us catch errors in her treatment and let her die with dignity.",
@@ -851,7 +935,7 @@
     "source": "Business Insider",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:05.586Z"
+    "fetchedAt": "2026-04-05T21:59:58.915Z"
   },
   {
     "title": "I quit tech, bought 22 acres, and didn&#39;t look at my computer for years — until AI brought me back",
@@ -865,7 +949,7 @@
     "source": "Business Insider",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:05.586Z"
+    "fetchedAt": "2026-04-05T21:59:58.915Z"
   },
   {
     "title": "The Hack That Exposed Syria’s Sweeping Security Failures",
@@ -879,7 +963,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "Busy Doesn’t Mean Productive. How Quiet Time Makes You a Better Leader",
@@ -893,12 +977,12 @@
     "source": "Inc",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:02.943Z"
+    "fetchedAt": "2026-04-05T21:59:56.350Z"
   },
   {
     "title": "Caveman: Why use many token when few token do trick",
     "link": "https://github.com/JuliusBrussee/caveman",
-    "description": "Article URL: https://github.com/JuliusBrussee/caveman\nComments URL: https://news.ycombinator.com/item?id=47647455\nPoints: 585\n# Comments: 280",
+    "description": "Article URL: https://github.com/JuliusBrussee/caveman\nComments URL: https://news.ycombinator.com/item?id=47647455\nPoints: 614\n# Comments: 291",
     "pubDate": "Sun, 05 Apr 2026 08:56:18 +0000",
     "author": "tosh",
     "category": "",
@@ -907,7 +991,7 @@
     "source": "Hacker News Best",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:52.082Z"
+    "fetchedAt": "2026-04-05T21:59:40.357Z"
   },
   {
     "title": "Economists Calculated Exactly How Much Trump Tariffs Will Cost You in 2026—and Who Is Paying the Most",
@@ -921,7 +1005,7 @@
     "source": "Inc",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:02.943Z"
+    "fetchedAt": "2026-04-05T21:59:56.350Z"
   },
   {
     "title": "Anthropic launches PAC amid tensions with Trump administration over AI policy",
@@ -935,7 +1019,21 @@
     "source": "CoinTelegraph",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:54.129Z"
+    "fetchedAt": "2026-04-05T21:59:42.407Z"
+  },
+  {
+    "title": "Why $60,000 decides whether Bitcoin&#8217;s recent strength cracks as nearly half the market slips into loss",
+    "link": "https://cryptoslate.com/bitcoin-60000-pressure-point-underwater-supply/",
+    "description": "Bitcoin's price is still trading far above the depths of past bear markets, and that distance is now making the current moment feel pretty disorienting. Under the surface, a huge share of the market is already back in pain. On-chain data show that by early April, roughly 46% of Bitcoin's supply was ",
+    "pubDate": "Sun, 05 Apr 2026 08:00:39 +0000",
+    "author": "Andjela Radmilac",
+    "category": "Analysis",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/04/bitcoin-crack-hold.jpg",
+    "id": "aHR0cHM6Ly9jcnlw",
+    "source": "CryptoSlate",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T21:59:54.299Z"
   },
   {
     "title": "AI Is Causing Employee Burnout. Here’s What Leaders Can Do About It",
@@ -949,7 +1047,7 @@
     "source": "Inc",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:02.943Z"
+    "fetchedAt": "2026-04-05T21:59:56.350Z"
   },
   {
     "title": "Cheaper Seats, Fewer Perks: United Takes a Basic Economy Approach to Premium Cabins",
@@ -963,7 +1061,7 @@
     "source": "Inc",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:02.943Z"
+    "fetchedAt": "2026-04-05T21:59:56.350Z"
   },
   {
     "title": "Drift Protocol $280M exploit took 'months of deliberate preparation'",
@@ -977,7 +1075,7 @@
     "source": "CoinTelegraph",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:54.129Z"
+    "fetchedAt": "2026-04-05T21:59:42.407Z"
   },
   {
     "title": "Why Promoting Your Best Frontline Workers Can Backfire",
@@ -991,12 +1089,12 @@
     "source": "Inc",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:02.943Z"
+    "fetchedAt": "2026-04-05T21:59:56.350Z"
   },
   {
     "title": "Lisette a little language inspired by Rust that compiles to Go",
     "link": "https://lisette.run/",
-    "description": "Article URL: https://lisette.run/\nComments URL: https://news.ycombinator.com/item?id=47646843\nPoints: 235\n# Comments: 123",
+    "description": "Article URL: https://lisette.run/\nComments URL: https://news.ycombinator.com/item?id=47646843\nPoints: 237\n# Comments: 127",
     "pubDate": "Sun, 05 Apr 2026 06:57:19 +0000",
     "author": "jspdown",
     "category": "",
@@ -1005,7 +1103,7 @@
     "source": "Hacker News Best",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:52.082Z"
+    "fetchedAt": "2026-04-05T21:59:40.357Z"
   },
   {
     "title": "How to Improve Your Prioritization Skills and Stop Procrastinating",
@@ -1019,7 +1117,7 @@
     "source": "Inc",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:02.943Z"
+    "fetchedAt": "2026-04-05T21:59:56.350Z"
   },
   {
     "title": "Americans Say They Need $1.46 Million to Retire—Few Are Anywhere Near It",
@@ -1033,7 +1131,7 @@
     "source": "Inc",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:02.943Z"
+    "fetchedAt": "2026-04-05T21:59:56.350Z"
   },
   {
     "title": "How Entrepreneurs Can Stay Relevant in the Age of AI and Disruption",
@@ -1047,7 +1145,7 @@
     "source": "Inc",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:02.943Z"
+    "fetchedAt": "2026-04-05T21:59:56.350Z"
   },
   {
     "title": "Bitcoin bearish social chatter reaches 5-week high: Santiment",
@@ -1061,7 +1159,7 @@
     "source": "CoinTelegraph",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:54.129Z"
+    "fetchedAt": "2026-04-05T21:59:42.407Z"
   },
   {
     "title": "You’re Chasing the Wrong Definition of Success. Here’s How to Fix It",
@@ -1075,7 +1173,7 @@
     "source": "Inc",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:02.943Z"
+    "fetchedAt": "2026-04-05T21:59:56.350Z"
   },
   {
     "title": "Bitcoin's $1.3 trillion security race: Key initiatives aimed at quantum-proofing the world's largest blockchain",
@@ -1089,7 +1187,7 @@
     "source": "CoinDesk",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:56.233Z"
+    "fetchedAt": "2026-04-05T21:59:44.505Z"
   },
   {
     "title": "Are stores open on Easter Sunday 2026? Holiday hours for Walmart, Whole Foods, Costco, and more",
@@ -1103,7 +1201,7 @@
     "source": "Fast Company",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:07.653Z"
+    "fetchedAt": "2026-04-05T22:00:00.969Z"
   },
   {
     "title": "How Disney Imagineering Has Increased Its Pace of Innovation by Thinking Like a Startup",
@@ -1117,7 +1215,7 @@
     "source": "Inc",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:02.943Z"
+    "fetchedAt": "2026-04-05T21:59:56.350Z"
   },
   {
     "title": "Rana el Kaliouby on why AI needs a more human future",
@@ -1131,7 +1229,7 @@
     "source": "Fast Company",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:07.653Z"
+    "fetchedAt": "2026-04-05T22:00:00.969Z"
   },
   {
     "title": "Introduction to Computer Music (2009) [pdf]",
@@ -1145,7 +1243,7 @@
     "source": "Hacker News Best",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:52.082Z"
+    "fetchedAt": "2026-04-05T21:59:40.357Z"
   },
   {
     "title": "This 1 Weird Mental Shift Is Scientifically Proven to Make You Happier",
@@ -1159,7 +1257,7 @@
     "source": "Inc",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:02.943Z"
+    "fetchedAt": "2026-04-05T21:59:56.350Z"
   },
   {
     "title": "The Marketing Playbook That Propelled This Cat Food Brand to $100 Million in Less Than a Decade",
@@ -1173,7 +1271,7 @@
     "source": "Inc",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:02.943Z"
+    "fetchedAt": "2026-04-05T21:59:56.350Z"
   },
   {
     "title": "United Airlines Just Made a Game-Changing Announcement, and Certain Kinds of Passengers Will Love It",
@@ -1187,7 +1285,7 @@
     "source": "Inc",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:02.943Z"
+    "fetchedAt": "2026-04-05T21:59:56.350Z"
   },
   {
     "title": "Using nuclear explosives to bypass the Strait of Hormuz isn’t a novel idea for the U.S.",
@@ -1201,12 +1299,12 @@
     "source": "Fast Company",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:07.653Z"
+    "fetchedAt": "2026-04-05T22:00:00.969Z"
   },
   {
     "title": "AWS engineer reports PostgreSQL perf halved by Linux 7.0, fix may not be easy",
     "link": "https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop",
-    "description": "https://lore.kernel.org/lkml/yr3inlzesdb45n6i6lpbimwr7b25kqk...\n\nComments URL: https://news.ycombinator.com/item?id=47644864\nPoints: 385\n# Comments: 134",
+    "description": "https://lore.kernel.org/lkml/yr3inlzesdb45n6i6lpbimwr7b25kqk...\n\nComments URL: https://news.ycombinator.com/item?id=47644864\nPoints: 386\n# Comments: 135",
     "pubDate": "Sun, 05 Apr 2026 00:13:55 +0000",
     "author": "crcastle",
     "category": "",
@@ -1215,7 +1313,7 @@
     "source": "Hacker News Best",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:52.082Z"
+    "fetchedAt": "2026-04-05T21:59:40.357Z"
   },
   {
     "title": "Artemis II is going so well that we're left to talk about frozen urine",
@@ -1229,7 +1327,7 @@
     "source": "Ars Technica",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:37.718Z"
+    "fetchedAt": "2026-04-05T21:59:29.392Z"
   },
   {
     "title": "Why AI-powered city cameras are sounding new privacy alarms",
@@ -1243,7 +1341,7 @@
     "source": "Fast Company",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:07.653Z"
+    "fetchedAt": "2026-04-05T22:00:00.969Z"
   },
   {
     "title": "Why tech bros are so worried about AI having bad taste",
@@ -1257,12 +1355,12 @@
     "source": "Fast Company",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:07.653Z"
+    "fetchedAt": "2026-04-05T22:00:00.969Z"
   },
   {
     "title": "German implementation of eIDAS will require an Apple/Google account to function",
     "link": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
-    "description": "Article URL: https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/\nComments URL: https://news.ycombinator.com/item?id=47644406\nPoints: 524\n# Comments: 526",
+    "description": "Article URL: https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/\nComments URL: https://news.ycombinator.com/item?id=47644406\nPoints: 530\n# Comments: 538",
     "pubDate": "Sat, 04 Apr 2026 22:57:44 +0000",
     "author": "DyslexicAtheist",
     "category": "",
@@ -1271,7 +1369,7 @@
     "source": "Hacker News Best",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:52.082Z"
+    "fetchedAt": "2026-04-05T21:59:40.357Z"
   },
   {
     "title": "Peter Thiel&#8217;s big bet on solar-powered cow collars",
@@ -1285,7 +1383,7 @@
     "source": "TechCrunch",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:35.692Z"
+    "fetchedAt": "2026-04-05T21:59:27.364Z"
   },
   {
     "title": "Embattled startup Delve has ‘parted ways’ with Y Combinator",
@@ -1299,7 +1397,7 @@
     "source": "TechCrunch",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:35.692Z"
+    "fetchedAt": "2026-04-05T21:59:27.364Z"
   },
   {
     "title": "Tech companies are trying to neuter Colorado’s landmark right-to-repair law",
@@ -1313,12 +1411,12 @@
     "source": "Ars Technica",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:37.718Z"
+    "fetchedAt": "2026-04-05T21:59:29.392Z"
   },
   {
     "title": "How many products does Microsoft have named 'Copilot'?",
     "link": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
-    "description": "Article URL: https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html\nComments URL: https://news.ycombinator.com/item?id=47642569\nPoints: 781\n# Comments: 365",
+    "description": "Article URL: https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html\nComments URL: https://news.ycombinator.com/item?id=47642569\nPoints: 782\n# Comments: 367",
     "pubDate": "Sat, 04 Apr 2026 19:39:43 +0000",
     "author": "gpi",
     "category": "",
@@ -1327,7 +1425,7 @@
     "source": "Hacker News Best",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:52.082Z"
+    "fetchedAt": "2026-04-05T21:59:40.357Z"
   },
   {
     "title": "Telegram founder Pavel Durov says Iranian government's ban backfired",
@@ -1341,7 +1439,21 @@
     "source": "CoinTelegraph",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:54.129Z"
+    "fetchedAt": "2026-04-05T21:59:42.407Z"
+  },
+  {
+    "title": "GPT-5.4 Pro jumps to 150 IQ on MESNA Norway test as OpenAI breaks its own record",
+    "link": "https://cryptoslate.com/gpt-5-4-iq-150-ai-capability-economic-impact/",
+    "description": "OpenAI’s latest GPT-5.4 Pro model has now achieved an IQ score higher than 99.96% of all human beings, giving markets a fresh signal that AI capability gains are starting to outpace the usual product-cycle noise. OpenAI’s GPT-5.4 Pro touches 150 on public IQ benchmark as markets enter another macro-",
+    "pubDate": "Sat, 04 Apr 2026 19:15:05 +0000",
+    "author": "Liam 'Akiba' Wright",
+    "category": "AI",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/04/opani-mensa.jpg",
+    "id": "aHR0cHM6Ly9jcnlw",
+    "source": "CryptoSlate",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T21:59:54.299Z"
   },
   {
     "title": "Bitcoin tends to outperform gold and stocks after global shocks, Mercado Bitcoin finds",
@@ -1355,7 +1467,7 @@
     "source": "CoinDesk",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:56.233Z"
+    "fetchedAt": "2026-04-05T21:59:44.505Z"
   },
   {
     "title": "Jimmy Song explains why Bitcoin needs a 'conservative' node client",
@@ -1369,7 +1481,7 @@
     "source": "CoinTelegraph",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:54.129Z"
+    "fetchedAt": "2026-04-05T21:59:42.407Z"
   },
   {
     "title": "A folk musician became a target for AI fakes and a copyright troll",
@@ -1383,7 +1495,7 @@
     "source": "The Verge",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:43.889Z"
+    "fetchedAt": "2026-04-05T21:59:35.479Z"
   },
   {
     "title": "Ex-UK Chancellor backs bitcoin as alternative to failing systems",
@@ -1397,12 +1509,12 @@
     "source": "CoinDesk",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:56.233Z"
+    "fetchedAt": "2026-04-05T21:59:44.505Z"
   },
   {
     "title": "LLM Wiki – example of an \"idea file\"",
     "link": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
-    "description": "https://x.com/karpathy/status/2040470801506541998https://xcancel.com/karpathy/status/2040470801506541998\n\nComments URL: https://news.ycombinator.com/item?id=47640875\nPoints: 269\n# Comments: 84",
+    "description": "https://x.com/karpathy/status/2040470801506541998https://xcancel.com/karpathy/status/2040470801506541998\n\nComments URL: https://news.ycombinator.com/item?id=47640875\nPoints: 272\n# Comments: 86",
     "pubDate": "Sat, 04 Apr 2026 16:57:45 +0000",
     "author": "tamnd",
     "category": "",
@@ -1411,12 +1523,12 @@
     "source": "Hacker News Best",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:52.082Z"
+    "fetchedAt": "2026-04-05T21:59:40.357Z"
   },
   {
     "title": "Show HN: A game where you build a GPU",
     "link": "https://jaso1024.com/mvidia/",
-    "description": "Thought the resources for GPU arch were lacking, so here we are\n\nComments URL: https://news.ycombinator.com/item?id=47640728\nPoints: 886\n# Comments: 175",
+    "description": "Thought the resources for GPU arch were lacking, so here we are\n\nComments URL: https://news.ycombinator.com/item?id=47640728\nPoints: 889\n# Comments: 177",
     "pubDate": "Sat, 04 Apr 2026 16:45:54 +0000",
     "author": "Jaso1024",
     "category": "",
@@ -1425,7 +1537,7 @@
     "source": "Hacker News Best",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:52.082Z"
+    "fetchedAt": "2026-04-05T21:59:40.357Z"
   },
   {
     "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
@@ -1439,7 +1551,7 @@
     "source": "TechCrunch",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:35.692Z"
+    "fetchedAt": "2026-04-05T21:59:27.364Z"
   },
   {
     "title": "Digital asset treasuries must now earn their keep",
@@ -1453,12 +1565,12 @@
     "source": "CoinDesk",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:56.233Z"
+    "fetchedAt": "2026-04-05T21:59:44.505Z"
   },
   {
     "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
     "link": "https://twitter.com/__tinygrad__/status/2039213719155310736",
-    "description": "https://xcancel.com/__tinygrad__/status/2039213719155310736\n\nComments URL: https://news.ycombinator.com/item?id=47640380\nPoints: 482\n# Comments: 223",
+    "description": "https://xcancel.com/__tinygrad__/status/2039213719155310736\n\nComments URL: https://news.ycombinator.com/item?id=47640380\nPoints: 484\n# Comments: 224",
     "pubDate": "Sat, 04 Apr 2026 16:16:10 +0000",
     "author": "naves",
     "category": "",
@@ -1467,7 +1579,7 @@
     "source": "Hacker News Best",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:52.082Z"
+    "fetchedAt": "2026-04-05T21:59:40.357Z"
   },
   {
     "title": "AI Giant Anthropic Files to Launch &#39;AnthroPAC&#39; Amid Clash With Trump Administration",
@@ -1481,12 +1593,26 @@
     "source": "Decrypt",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:58.252Z"
+    "fetchedAt": "2026-04-05T21:59:46.524Z"
+  },
+  {
+    "title": "Bitcoin’s &#8220;permanent buyers&#8221; are starting to sell as debt and cash pressures mount",
+    "link": "https://cryptoslate.com/bitcoin-treasury-trade-cracks-corporate-selling-debt-pressure/",
+    "description": "In July 2025, Genius Group announced it was targeting a Bitcoin treasury of 10,000 BTC, framing it as a statement of deep strategic conviction. This week, however, the company sold its last 84 BTC to pay off $8.5 million in debt and declared its treasury empty. The 18-month gap between those two mom",
+    "pubDate": "Sat, 04 Apr 2026 16:00:21 +0000",
+    "author": "Andjela Radmilac",
+    "category": "Adoption",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/04/bitcoin-holders-selling-.jpg",
+    "id": "aHR0cHM6Ly9jcnlw",
+    "source": "CryptoSlate",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T21:59:54.299Z"
   },
   {
     "title": "German men 18-45 need military permit for extended stays abroad",
     "link": "https://www.dw.com/en/german-men-need-military-permit-for-extended-stays-abroad/a-76662677",
-    "description": "Article URL: https://www.dw.com/en/german-men-need-military-permit-for-extended-stays-abroad/a-76662677\nComments URL: https://news.ycombinator.com/item?id=47639976\nPoints: 390\n# Comments: 698",
+    "description": "Article URL: https://www.dw.com/en/german-men-need-military-permit-for-extended-stays-abroad/a-76662677\nComments URL: https://news.ycombinator.com/item?id=47639976\nPoints: 390\n# Comments: 700",
     "pubDate": "Sat, 04 Apr 2026 15:39:10 +0000",
     "author": "L_226",
     "category": "",
@@ -1495,7 +1621,7 @@
     "source": "Hacker News Best",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:52.082Z"
+    "fetchedAt": "2026-04-05T21:59:40.357Z"
   },
   {
     "title": "When legal sports betting surges, so do Americans' financial problems",
@@ -1509,7 +1635,7 @@
     "source": "Hacker News Best",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:52.082Z"
+    "fetchedAt": "2026-04-05T21:59:40.357Z"
   },
   {
     "title": "Buy two Nintendo Switch games, get $30 off at Target",
@@ -1523,12 +1649,12 @@
     "source": "The Verge",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:43.889Z"
+    "fetchedAt": "2026-04-05T21:59:35.479Z"
   },
   {
     "title": "Author of \"Careless People\" banned from saying anything negative about Meta",
     "link": "https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf",
-    "description": "Article URL: https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf\nComments URL: https://news.ycombinator.com/item?id=47639524\nPoints: 831\n# Comments: 538",
+    "description": "Article URL: https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf\nComments URL: https://news.ycombinator.com/item?id=47639524\nPoints: 831\n# Comments: 539",
     "pubDate": "Sat, 04 Apr 2026 14:48:26 +0000",
     "author": "macleginn",
     "category": "",
@@ -1537,7 +1663,7 @@
     "source": "Hacker News Best",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:52.082Z"
+    "fetchedAt": "2026-04-05T21:59:40.357Z"
   },
   {
     "title": "My dream pair of AR gaming glasses needs to have these nine features",
@@ -1551,7 +1677,7 @@
     "source": "The Verge",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:43.889Z"
+    "fetchedAt": "2026-04-05T21:59:35.479Z"
   },
   {
     "title": "Traders are the big winners as 24/7 stocks will finally end the after-hours price 'manipulation'",
@@ -1565,7 +1691,7 @@
     "source": "CoinDesk",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:56.233Z"
+    "fetchedAt": "2026-04-05T21:59:44.505Z"
   },
   {
     "title": "Defiant Delve Lashes Out Against Fraud Allegations",
@@ -1579,7 +1705,7 @@
     "source": "Inc",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:02.943Z"
+    "fetchedAt": "2026-04-05T21:59:56.350Z"
   },
   {
     "title": "Nevada judge extends ban on Kalshi, rejects event contract defense",
@@ -1593,12 +1719,12 @@
     "source": "CoinTelegraph",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:54.129Z"
+    "fetchedAt": "2026-04-05T21:59:42.407Z"
   },
   {
     "title": "Components of a Coding Agent",
     "link": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
-    "description": "Article URL: https://magazine.sebastianraschka.com/p/components-of-a-coding-agent\nComments URL: https://news.ycombinator.com/item?id=47638810\nPoints: 280\n# Comments: 85",
+    "description": "Article URL: https://magazine.sebastianraschka.com/p/components-of-a-coding-agent\nComments URL: https://news.ycombinator.com/item?id=47638810\nPoints: 281\n# Comments: 85",
     "pubDate": "Sat, 04 Apr 2026 13:16:33 +0000",
     "author": "MindGods",
     "category": "",
@@ -1607,7 +1733,7 @@
     "source": "Hacker News Best",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:52.082Z"
+    "fetchedAt": "2026-04-05T21:59:40.357Z"
   },
   {
     "title": "Anthropic Spots &#39;Emotion Vectors&#39; Inside Claude That Influence AI Behavior",
@@ -1621,7 +1747,7 @@
     "source": "Decrypt",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:58.252Z"
+    "fetchedAt": "2026-04-05T21:59:46.524Z"
   },
   {
     "title": "After fighting malware for decades, this cybersecurity veteran is now hacking drones",
@@ -1635,7 +1761,7 @@
     "source": "TechCrunch",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:35.692Z"
+    "fetchedAt": "2026-04-05T21:59:27.364Z"
   },
   {
     "title": "Sonos Play Review: Performance Meets Convenience",
@@ -1649,7 +1775,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "Really, you made this without AI? Prove it",
@@ -1663,7 +1789,7 @@
     "source": "The Verge",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:43.889Z"
+    "fetchedAt": "2026-04-05T21:59:35.479Z"
   },
   {
     "title": "Best Ski Clothes (2026): Patagonia, Arc’teryx, Burton, and More",
@@ -1677,7 +1803,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "Prediction markets are testing legal limits in strict Asian markets",
@@ -1691,7 +1817,7 @@
     "source": "CoinTelegraph",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:54.129Z"
+    "fetchedAt": "2026-04-05T21:59:42.407Z"
   },
   {
     "title": "Solana's quantum-threat readiness reveals harsh tradeoff: security vs speed",
@@ -1705,7 +1831,7 @@
     "source": "CoinDesk",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:56.233Z"
+    "fetchedAt": "2026-04-05T21:59:44.505Z"
   },
   {
     "title": "Bitcoin shorts risk $2.5 billion liquidation at $72K: Are bears in danger?",
@@ -1719,7 +1845,7 @@
     "source": "CoinTelegraph",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:54.129Z"
+    "fetchedAt": "2026-04-05T21:59:42.407Z"
   },
   {
     "title": "Five data sources say the same thing about bitcoin market. It's thinning from the inside",
@@ -1733,7 +1859,21 @@
     "source": "CoinDesk",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:56.233Z"
+    "fetchedAt": "2026-04-05T21:59:44.505Z"
+  },
+  {
+    "title": "Bitcoin derivatives flash warning as $46B market pulls back from Iran ceasefire rally",
+    "link": "https://cryptoslate.com/bitcoin-derivatives-warning-ceasefire-rally-risk/",
+    "description": "On March 31, 2026, Wall Street saw its best trading day in nearly a year. The Dow Jones Industrial Average gained over 1,100 points, the S&#038;P 500 rose 2.9% for its best single-day performance since last May, and the Nasdaq jumped 3.8%. The mood, as one market recap cheerfully dubbed it, was &#82",
+    "pubDate": "Sat, 04 Apr 2026 11:05:20 +0000",
+    "author": "Andjela Radmilac",
+    "category": "Analysis",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/04/wallstreet-bitcoin-iran-ceasefire.jpg",
+    "id": "aHR0cHM6Ly9jcnlw",
+    "source": "CryptoSlate",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T21:59:54.299Z"
   },
   {
     "title": "Aiper IrriSense 2 Smart Irrigation System Review: Clever Yet Uneven",
@@ -1747,7 +1887,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "Your Tax Refund Could Be Delayed—and the IRS Says You Need to Act Fast",
@@ -1761,7 +1901,7 @@
     "source": "Inc",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:02.943Z"
+    "fetchedAt": "2026-04-05T21:59:56.350Z"
   },
   {
     "title": "Hackers Are Posting the Claude Code Leak With Bonus Malware",
@@ -1775,12 +1915,12 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "Embarrassingly simple self-distillation improves code generation",
     "link": "https://arxiv.org/abs/2604.01193",
-    "description": "Article URL: https://arxiv.org/abs/2604.01193\nComments URL: https://news.ycombinator.com/item?id=47637757\nPoints: 632\n# Comments: 188",
+    "description": "Article URL: https://arxiv.org/abs/2604.01193\nComments URL: https://news.ycombinator.com/item?id=47637757\nPoints: 633\n# Comments: 188",
     "pubDate": "Sat, 04 Apr 2026 10:26:21 +0000",
     "author": "Anon84",
     "category": "",
@@ -1789,7 +1929,7 @@
     "source": "Hacker News Best",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:52.082Z"
+    "fetchedAt": "2026-04-05T21:59:40.357Z"
   },
   {
     "title": "The Unprecedented Catch in Elon Musk’s SpaceX IPO",
@@ -1803,7 +1943,7 @@
     "source": "Inc",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:02.943Z"
+    "fetchedAt": "2026-04-05T21:59:56.350Z"
   },
   {
     "title": "How to Get Reliable Wi-Fi in Your Backyard",
@@ -1817,7 +1957,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "Forget ‘Self-Made.’ The Key to Business Success Is Support",
@@ -1831,7 +1971,7 @@
     "source": "Inc",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:02.943Z"
+    "fetchedAt": "2026-04-05T21:59:56.350Z"
   },
   {
     "title": "Polymarket takes down market on missing US pilot after backlash",
@@ -1845,7 +1985,7 @@
     "source": "CoinTelegraph",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:54.129Z"
+    "fetchedAt": "2026-04-05T21:59:42.407Z"
   },
   {
     "title": "The Trajectory of the Artemis II Moon Mission Is a Feat of Engineering",
@@ -1859,7 +1999,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "Some Unusual Trees",
@@ -1873,7 +2013,7 @@
     "source": "Hacker News Best",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:52.082Z"
+    "fetchedAt": "2026-04-05T21:59:40.357Z"
   },
   {
     "title": "How to Answer ‘What Do You Do?’ Without Using Your Job Title",
@@ -1887,7 +2027,7 @@
     "source": "Inc",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:02.943Z"
+    "fetchedAt": "2026-04-05T21:59:56.350Z"
   },
   {
     "title": "Rich Bitcoin traders lost $337M daily in first quarter of 2026",
@@ -1901,7 +2041,21 @@
     "source": "CoinTelegraph",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:54.129Z"
+    "fetchedAt": "2026-04-05T21:59:42.407Z"
+  },
+  {
+    "title": "US frees up billions for banks while quietly admitting SVB’s core failure never went away",
+    "link": "https://cryptoslate.com/us-bank-rules-unrealized-losses-warning/",
+    "description": "Washington is in a generous mood with its banks. In March, federal regulators unveiled a sweeping overhaul of capital requirements (the financial cushions that banks must hold to absorb losses in hard times), and the headlines wrote themselves: deregulation, relief, billions freed up for lending and",
+    "pubDate": "Sat, 04 Apr 2026 08:00:54 +0000",
+    "author": "Andjela Radmilac",
+    "category": "Analysis",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/04/bank-washington.jpg",
+    "id": "aHR0cHM6Ly9jcnlw",
+    "source": "CryptoSlate",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T21:59:54.299Z"
   },
   {
     "title": "Tether may delay fundraising if demand falls short at $500B valuation: Report",
@@ -1915,7 +2069,7 @@
     "source": "CoinTelegraph",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:54.129Z"
+    "fetchedAt": "2026-04-05T21:59:42.407Z"
   },
   {
     "title": "Judge continues Nevada ban on Kalshi sports markets",
@@ -1929,7 +2083,7 @@
     "source": "CoinDesk",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:56.233Z"
+    "fetchedAt": "2026-04-05T21:59:44.505Z"
   },
   {
     "title": "Bitcoin’s ‘no direction’ action may lead to heavier breakout: Analyst",
@@ -1943,7 +2097,7 @@
     "source": "CoinTelegraph",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:54.129Z"
+    "fetchedAt": "2026-04-05T21:59:42.407Z"
   },
   {
     "title": "Maytag Promo Codes and Deals: Appliances Under $300",
@@ -1957,7 +2111,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "Anthropic cuts off the ability to use Claude subscriptions with OpenClaw and third-party AI agents",
@@ -1971,7 +2125,7 @@
     "source": "VentureBeat",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:45.945Z"
+    "fetchedAt": "2026-04-05T21:59:37.530Z"
   },
   {
     "title": "Bitcoin ETFs 'will be larger' than gold ETFs: Analyst",
@@ -1985,7 +2139,7 @@
     "source": "CoinTelegraph",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:54.129Z"
+    "fetchedAt": "2026-04-05T21:59:42.407Z"
   },
   {
     "title": "Gold overtakes U.S. Treasuries as the largest foreign reserve asset",
@@ -1999,7 +2153,7 @@
     "source": "Hacker News Best",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:52.082Z"
+    "fetchedAt": "2026-04-05T21:59:40.357Z"
   },
   {
     "title": "Here's what 'cracking' bitcoin in 9 minutes by quantum computers actually means",
@@ -2013,7 +2167,7 @@
     "source": "CoinDesk",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:56.233Z"
+    "fetchedAt": "2026-04-05T21:59:44.505Z"
   },
   {
     "title": "This turbulence-tracking travel app will make your next trip more tolerable",
@@ -2027,7 +2181,7 @@
     "source": "Fast Company",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:07.653Z"
+    "fetchedAt": "2026-04-05T22:00:00.969Z"
   },
   {
     "title": "Managing AI has become its own job",
@@ -2041,7 +2195,7 @@
     "source": "Fast Company",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:07.653Z"
+    "fetchedAt": "2026-04-05T22:00:00.969Z"
   },
   {
     "title": "Why Gen Z is fangirling over Apple’s ‘Finder Guy’ mascot",
@@ -2055,12 +2209,12 @@
     "source": "Fast Company",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:07.653Z"
+    "fetchedAt": "2026-04-05T22:00:00.969Z"
   },
   {
     "title": "Delve removed from Y Combinator",
     "link": "https://www.ycombinator.com/companies/delve",
-    "description": "Article URL: https://www.ycombinator.com/companies/delve\nComments URL: https://news.ycombinator.com/item?id=47634690\nPoints: 490\n# Comments: 295",
+    "description": "Article URL: https://www.ycombinator.com/companies/delve\nComments URL: https://news.ycombinator.com/item?id=47634690\nPoints: 493\n# Comments: 297",
     "pubDate": "Sat, 04 Apr 2026 01:37:02 +0000",
     "author": "carabiner",
     "category": "",
@@ -2069,7 +2223,7 @@
     "source": "Hacker News Best",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:52.082Z"
+    "fetchedAt": "2026-04-05T21:59:40.357Z"
   },
   {
     "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
@@ -2083,7 +2237,7 @@
     "source": "TechCrunch",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:35.692Z"
+    "fetchedAt": "2026-04-05T21:59:27.364Z"
   },
   {
     "title": "Lucid blames dip in Q1 sales on seat supplier issue",
@@ -2097,7 +2251,7 @@
     "source": "TechCrunch",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:35.692Z"
+    "fetchedAt": "2026-04-05T21:59:27.364Z"
   },
   {
     "title": "3 surprising (but simple) ways to save gas as fuel costs skyrocket",
@@ -2111,7 +2265,7 @@
     "source": "Fast Company",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:07.653Z"
+    "fetchedAt": "2026-04-05T22:00:00.969Z"
   },
   {
     "title": "A New York Times critic used AI to write a review, but good criticism can’t be outsourced",
@@ -2125,7 +2279,7 @@
     "source": "Fast Company",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:07.653Z"
+    "fetchedAt": "2026-04-05T22:00:00.969Z"
   },
   {
     "title": "The Nail Test: Why this $54 billion innovation is terrifying Western auto executives",
@@ -2139,7 +2293,7 @@
     "source": "Fast Company",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:07.653Z"
+    "fetchedAt": "2026-04-05T22:00:00.969Z"
   },
   {
     "title": "The FAA’s flight restriction for drones is an attempt to criminalize filming ICE",
@@ -2153,12 +2307,12 @@
     "source": "Hacker News Best",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:52.082Z"
+    "fetchedAt": "2026-04-05T21:59:40.357Z"
   },
   {
     "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
     "link": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
-    "description": "Article URL: https://mtlynch.io/claude-code-found-linux-vulnerability/\nComments URL: https://news.ycombinator.com/item?id=47633855\nPoints: 411\n# Comments: 258",
+    "description": "Article URL: https://mtlynch.io/claude-code-found-linux-vulnerability/\nComments URL: https://news.ycombinator.com/item?id=47633855\nPoints: 412\n# Comments: 258",
     "pubDate": "Fri, 03 Apr 2026 23:46:51 +0000",
     "author": "eichin",
     "category": "",
@@ -2167,7 +2321,7 @@
     "source": "Hacker News Best",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:52.082Z"
+    "fetchedAt": "2026-04-05T21:59:40.357Z"
   },
   {
     "title": "Karpathy shares 'LLM Knowledge Base' architecture that bypasses RAG with an evolving markdown library maintained by AI",
@@ -2181,7 +2335,7 @@
     "source": "VentureBeat",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:45.945Z"
+    "fetchedAt": "2026-04-05T21:59:37.530Z"
   },
   {
     "title": "Nvidia launches enterprise AI agent platform with Adobe, Salesforce, SAP among 17 adopters at GTC 2026",
@@ -2195,7 +2349,7 @@
     "source": "VentureBeat",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:45.945Z"
+    "fetchedAt": "2026-04-05T21:59:37.530Z"
   },
   {
     "title": "Trump proposes steep cut to NASA budget as astronauts head for the Moon",
@@ -2209,7 +2363,7 @@
     "source": "Ars Technica",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:37.718Z"
+    "fetchedAt": "2026-04-05T21:59:29.392Z"
   },
   {
     "title": "Ice Age dice show early Native Americans may have understood probability",
@@ -2223,7 +2377,7 @@
     "source": "Ars Technica",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:37.718Z"
+    "fetchedAt": "2026-04-05T21:59:29.392Z"
   },
   {
     "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
@@ -2237,7 +2391,7 @@
     "source": "Hacker News Best",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:52.082Z"
+    "fetchedAt": "2026-04-05T21:59:40.357Z"
   },
   {
     "title": "The anonymous social app that thinks it can work in Saudi Arabia",
@@ -2251,7 +2405,7 @@
     "source": "TechCrunch",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:35.692Z"
+    "fetchedAt": "2026-04-05T21:59:27.364Z"
   },
   {
     "title": "Run Linux containers on Android, no root required",
@@ -2265,7 +2419,7 @@
     "source": "Hacker News Best",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:52.082Z"
+    "fetchedAt": "2026-04-05T21:59:40.357Z"
   },
   {
     "title": "As Artemis II zooms to the Moon, everything seems to be going swimmingly",
@@ -2279,7 +2433,7 @@
     "source": "Ars Technica",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:37.718Z"
+    "fetchedAt": "2026-04-05T21:59:29.392Z"
   },
   {
     "title": "Ethereum Foundation nearly reaches 70,000 staked ETH goal",
@@ -2293,7 +2447,7 @@
     "source": "CoinTelegraph",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:54.129Z"
+    "fetchedAt": "2026-04-05T21:59:42.407Z"
   },
   {
     "title": "Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk",
@@ -2307,7 +2461,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "Iran strikes leave Amazon availability zones \"hard down\" in Bahrain and Dubai",
@@ -2321,7 +2475,7 @@
     "source": "Hacker News Best",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:52.082Z"
+    "fetchedAt": "2026-04-05T21:59:40.357Z"
   },
   {
     "title": "Scientists Have Made a French Fry Breakthrough",
@@ -2335,7 +2489,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "Elon Musk insists banks working on SpaceX IPO must buy Grok subscriptions",
@@ -2349,7 +2503,7 @@
     "source": "Ars Technica",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:37.718Z"
+    "fetchedAt": "2026-04-05T21:59:29.392Z"
   },
   {
     "title": "Charles Schwab Is Gearing Up to Offer Bitcoin, Ethereum Spot Trading",
@@ -2363,7 +2517,7 @@
     "source": "Decrypt",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:58.252Z"
+    "fetchedAt": "2026-04-05T21:59:46.524Z"
   },
   {
     "title": "\"Cognitive surrender\" leads AI users to abandon logical thinking, research finds",
@@ -2377,7 +2531,7 @@
     "source": "Ars Technica",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:37.718Z"
+    "fetchedAt": "2026-04-05T21:59:29.392Z"
   },
   {
     "title": "FIFA Inks World Cup Prediction Market Deal With ADI Predictstreet",
@@ -2391,7 +2545,7 @@
     "source": "Decrypt",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:58.252Z"
+    "fetchedAt": "2026-04-05T21:59:46.524Z"
   },
   {
     "title": "3 tips from a cognitive scientist on how to beat decision fatigue",
@@ -2405,7 +2559,7 @@
     "source": "Fast Company",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:07.653Z"
+    "fetchedAt": "2026-04-05T22:00:00.969Z"
   },
   {
     "title": "Raising Cane’s CEO reveals he excludes this menu item from his order",
@@ -2419,7 +2573,7 @@
     "source": "Fast Company",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:07.653Z"
+    "fetchedAt": "2026-04-05T22:00:00.969Z"
   },
   {
     "title": "Cambodian lawmakers propose severe prison time for crypto scammers",
@@ -2433,7 +2587,7 @@
     "source": "CoinTelegraph",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:54.129Z"
+    "fetchedAt": "2026-04-05T21:59:42.407Z"
   },
   {
     "title": "Tesla&#8217;s Texas factory workforce reportedly shrunk 22% in 2025",
@@ -2447,7 +2601,7 @@
     "source": "TechCrunch",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:35.692Z"
+    "fetchedAt": "2026-04-05T21:59:27.364Z"
   },
   {
     "title": "Trump ignores biggest reasons his AI data center buildout is failing",
@@ -2461,7 +2615,7 @@
     "source": "Ars Technica",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:37.718Z"
+    "fetchedAt": "2026-04-05T21:59:29.392Z"
   },
   {
     "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead &#8216;special projects&#8217;",
@@ -2475,7 +2629,7 @@
     "source": "TechCrunch",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:35.692Z"
+    "fetchedAt": "2026-04-05T21:59:27.364Z"
   },
   {
     "title": "OpenClaw gives users yet another reason to be freaked out about security",
@@ -2489,7 +2643,7 @@
     "source": "Ars Technica",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:37.718Z"
+    "fetchedAt": "2026-04-05T21:59:29.392Z"
   },
   {
     "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
@@ -2503,7 +2657,7 @@
     "source": "TechCrunch",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:35.692Z"
+    "fetchedAt": "2026-04-05T21:59:27.364Z"
   },
   {
     "title": "Anthropic ramps up its political activities with a new PAC",
@@ -2517,21 +2671,7 @@
     "source": "TechCrunch",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:35.692Z"
-  },
-  {
-    "title": "Oracle files H-1B visa petitions amid mass layoffs",
-    "link": "https://nationaltoday.com/us/tx/austin/news/2026/04/03/oracle-files-thousands-of-h-1b-visa-petitions-amid-mass-layoffs/",
-    "description": "Article URL: https://nationaltoday.com/us/tx/austin/news/2026/04/03/oracle-files-thousands-of-h-1b-visa-petitions-amid-mass-layoffs/\nComments URL: https://news.ycombinator.com/item?id=47631732\nPoints: 512\n# Comments: 310",
-    "pubDate": "Fri, 03 Apr 2026 20:21:23 +0000",
-    "author": "kklisura",
-    "category": "",
-    "image": "",
-    "id": "aHR0cHM6Ly9uYXRp",
-    "source": "Hacker News Best",
-    "sourceCategory": "technology",
-    "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:52.082Z"
+    "fetchedAt": "2026-04-05T21:59:27.364Z"
   },
   {
     "title": "Our Favorite iPad Is $50 Off",
@@ -2545,7 +2685,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "Best iPad apps to boost productivity and make your life easier",
@@ -2559,7 +2699,7 @@
     "source": "TechCrunch",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:35.692Z"
+    "fetchedAt": "2026-04-05T21:59:27.364Z"
   },
   {
     "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
@@ -2573,7 +2713,7 @@
     "source": "TechCrunch",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:35.692Z"
+    "fetchedAt": "2026-04-05T21:59:27.364Z"
   },
   {
     "title": "Charles Schwab Teases Direct Bitcoin Trading With New ‘Schwab Crypto’ Account",
@@ -2587,7 +2727,7 @@
     "source": "Bitcoin Magazine",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:00.884Z"
+    "fetchedAt": "2026-04-05T21:59:49.126Z"
   },
   {
     "title": "OpenAI’s Fidji Simo Is Taking Medical Leave Amid an Executive Shake-Up",
@@ -2601,7 +2741,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "Edward ‘Big Balls’ Coristine Is Helping Out on Viral Fraud Videos Now",
@@ -2615,7 +2755,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "People would rather have an Amazon warehouse in their backyard than a data center",
@@ -2629,7 +2769,7 @@
     "source": "TechCrunch",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:35.692Z"
+    "fetchedAt": "2026-04-05T21:59:27.364Z"
   },
   {
     "title": "Schwab plans spot bitcoin, ether trading launch in first half of 2026",
@@ -2643,7 +2783,7 @@
     "source": "CoinDesk",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:56.233Z"
+    "fetchedAt": "2026-04-05T21:59:44.505Z"
   },
   {
     "title": "Jack Dorsey Reveals Bitcoin Faucet Revival with “Bitcoin Day” Announcement",
@@ -2657,7 +2797,7 @@
     "source": "Bitcoin Magazine",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:00.884Z"
+    "fetchedAt": "2026-04-05T21:59:49.126Z"
   },
   {
     "title": "Is Bitcoin mispricing a prolonged Iran war? Ex-hedge fund manager weighs in",
@@ -2671,7 +2811,7 @@
     "source": "CoinTelegraph",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:54.129Z"
+    "fetchedAt": "2026-04-05T21:59:42.407Z"
   },
   {
     "title": "Circle under fire after $285 million Drift hack over inaction to freeze stolen USDC",
@@ -2685,7 +2825,7 @@
     "source": "CoinDesk",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:56.233Z"
+    "fetchedAt": "2026-04-05T21:59:44.505Z"
   },
   {
     "title": "Bitcoin Miner MARA Slashes 15% of Workforce After Selling $1.1 Billion in BTC",
@@ -2699,7 +2839,7 @@
     "source": "Decrypt",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:58.252Z"
+    "fetchedAt": "2026-04-05T21:59:46.524Z"
   },
   {
     "title": "Myriad Traders Predict US Boots in Iran After Downed Fighter Jet Prompts Rescue Mission",
@@ -2713,7 +2853,7 @@
     "source": "Decrypt",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:58.252Z"
+    "fetchedAt": "2026-04-05T21:59:46.524Z"
   },
   {
     "title": "US community banks oppose OCC's approval of Coinbase trust charter",
@@ -2727,7 +2867,7 @@
     "source": "CoinTelegraph",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:54.129Z"
+    "fetchedAt": "2026-04-05T21:59:42.407Z"
   },
   {
     "title": "Netflix must refund customers for years of price hikes, Italian court rules",
@@ -2741,7 +2881,7 @@
     "source": "Ars Technica",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:37.718Z"
+    "fetchedAt": "2026-04-05T21:59:29.392Z"
   },
   {
     "title": "Decentralized Email Service Dmail to Shut Down, Token Hits New Low",
@@ -2755,7 +2895,7 @@
     "source": "Decrypt",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:58.252Z"
+    "fetchedAt": "2026-04-05T21:59:46.524Z"
   },
   {
     "title": "Kalshi onboards ex-Democratic strategist amid legal troubles",
@@ -2769,7 +2909,7 @@
     "source": "CoinTelegraph",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:54.129Z"
+    "fetchedAt": "2026-04-05T21:59:42.407Z"
   },
   {
     "title": "ZachXBT accuses Circle of $420M in 'compliance failures' since 2022",
@@ -2783,7 +2923,7 @@
     "source": "CoinTelegraph",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:54.129Z"
+    "fetchedAt": "2026-04-05T21:59:42.407Z"
   },
   {
     "title": "Trump’s New Attorney General Held Bitcoin—But Has a Mixed Crypto Track Record",
@@ -2797,7 +2937,7 @@
     "source": "Decrypt",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:58.252Z"
+    "fetchedAt": "2026-04-05T21:59:46.524Z"
   },
   {
     "title": "Four things we’d need to put data centers in space",
@@ -2811,7 +2951,7 @@
     "source": "MIT Tech Review",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:39.734Z"
+    "fetchedAt": "2026-04-05T21:59:31.416Z"
   },
   {
     "title": "&#39;We Are Ready to Speak&#39;: Drift Beckons North Korea-Linked Hackers Following $285M Exploit",
@@ -2825,7 +2965,7 @@
     "source": "Decrypt",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:58.252Z"
+    "fetchedAt": "2026-04-05T21:59:46.524Z"
   },
   {
     "title": "What Is Q-Day? The Quantum Threat to Bitcoin Explained",
@@ -2839,7 +2979,7 @@
     "source": "Decrypt",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:58.252Z"
+    "fetchedAt": "2026-04-05T21:59:46.524Z"
   },
   {
     "title": "What next as XRP rises to $1.33 but fails to break out",
@@ -2853,7 +2993,7 @@
     "source": "CoinDesk",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:56.233Z"
+    "fetchedAt": "2026-04-05T21:59:44.505Z"
   },
   {
     "title": "Cathie Wood Calls Bitcoin’s 50% Crash a “Victory” as Market Tests New Floor",
@@ -2867,7 +3007,7 @@
     "source": "Bitcoin Magazine",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:00.884Z"
+    "fetchedAt": "2026-04-05T21:59:49.126Z"
   },
   {
     "title": "Where Next for Bitcoin After Worst Quarter Since 2018?",
@@ -2881,7 +3021,7 @@
     "source": "Decrypt",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:58.252Z"
+    "fetchedAt": "2026-04-05T21:59:46.524Z"
   },
   {
     "title": "Crypto Biz: Bitcoin treasuries break ranks as BTC dips below $70K",
@@ -2895,7 +3035,7 @@
     "source": "CoinTelegraph",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:54.129Z"
+    "fetchedAt": "2026-04-05T21:59:42.407Z"
   },
   {
     "title": "Microsoft launches 3 new AI models in direct shot at OpenAI and Google",
@@ -2909,7 +3049,7 @@
     "source": "VentureBeat",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:45.945Z"
+    "fetchedAt": "2026-04-05T21:59:37.530Z"
   },
   {
     "title": "Arcee's new, open source Trinity-Large-Thinking is the rare, powerful U.S.-made AI model that enterprises can download and customize",
@@ -2923,7 +3063,7 @@
     "source": "VentureBeat",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:45.945Z"
+    "fetchedAt": "2026-04-05T21:59:37.530Z"
   },
   {
     "title": "EV adoption in America: Who's winning, who's losing?",
@@ -2937,7 +3077,7 @@
     "source": "Ars Technica",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:37.718Z"
+    "fetchedAt": "2026-04-05T21:59:29.392Z"
   },
   {
     "title": "John Perry Barlow, JFK Jr., and a Night of Grief I Can’t Forget",
@@ -2951,7 +3091,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "Execution risk in crypto is the new custody risk",
@@ -2965,7 +3105,7 @@
     "source": "CoinTelegraph",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:54.129Z"
+    "fetchedAt": "2026-04-05T21:59:42.407Z"
   },
   {
     "title": "Bitcoin Miner Riot Platforms Sells Over $250 Million Worth of BTC",
@@ -2979,7 +3119,7 @@
     "source": "Decrypt",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:58.252Z"
+    "fetchedAt": "2026-04-05T21:59:46.524Z"
   },
   {
     "title": "Price predictions 4/3: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, BCH, LINK",
@@ -2993,7 +3133,7 @@
     "source": "CoinTelegraph",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:54.129Z"
+    "fetchedAt": "2026-04-05T21:59:42.407Z"
   },
   {
     "title": "Ethereum Foundation Stakes $93M Worth of ETH, Nears Strategic Target",
@@ -3007,7 +3147,7 @@
     "source": "Decrypt",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:58.252Z"
+    "fetchedAt": "2026-04-05T21:59:46.524Z"
   },
   {
     "title": "Binance led Q1 crypto derivatives as Hyperliquid cracked top 10: CoinGlass",
@@ -3021,7 +3161,7 @@
     "source": "CoinTelegraph",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:54.129Z"
+    "fetchedAt": "2026-04-05T21:59:42.407Z"
   },
   {
     "title": "Ethereum L2s need responsive pricing to scale, says Offchain Labs",
@@ -3035,7 +3175,7 @@
     "source": "CoinTelegraph",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:54.129Z"
+    "fetchedAt": "2026-04-05T21:59:42.407Z"
   },
   {
     "title": "Riot Platforms Sells 3,778 Bitcoin in Q1 as Miner Strategy Shifts Toward AI Infrastructure",
@@ -3049,7 +3189,7 @@
     "source": "Bitcoin Magazine",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:00.884Z"
+    "fetchedAt": "2026-04-05T21:59:49.126Z"
   },
   {
     "title": "OpenAI takes on another \"side quest,\" buys tech-focused talk show TBPN",
@@ -3063,7 +3203,7 @@
     "source": "Ars Technica",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:37.718Z"
+    "fetchedAt": "2026-04-05T21:59:29.392Z"
   },
   {
     "title": "CoinDesk 20 performance update: Bitcoin (BTC) trades flat while altcoins rise",
@@ -3077,7 +3217,7 @@
     "source": "CoinDesk",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:56.233Z"
+    "fetchedAt": "2026-04-05T21:59:44.505Z"
   },
   {
     "title": "Why people are suddenly hesitant to watch Zendaya’s new movie, ‘The Drama’",
@@ -3091,7 +3231,7 @@
     "source": "Fast Company",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:07.653Z"
+    "fetchedAt": "2026-04-05T22:00:00.969Z"
   },
   {
     "title": "U.S. March jobs smash expectations, with 178,000 added",
@@ -3105,7 +3245,7 @@
     "source": "CoinDesk",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:56.233Z"
+    "fetchedAt": "2026-04-05T21:59:44.505Z"
   },
   {
     "title": "The Bitcoin Treasury Model With a Built-In Valuation Floor",
@@ -3119,7 +3259,7 @@
     "source": "Bitcoin Magazine",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:00.884Z"
+    "fetchedAt": "2026-04-05T21:59:49.126Z"
   },
   {
     "title": "Cambodia Advances Law Targeting Crypto Scam Compound Kingpins with Life in Jail",
@@ -3133,7 +3273,7 @@
     "source": "Decrypt",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:58.252Z"
+    "fetchedAt": "2026-04-05T21:59:46.524Z"
   },
   {
     "title": "The Best Samsung Galaxy S26 Cases (2026): S26, S26+, and S26 Ultra",
@@ -3147,7 +3287,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "Ethereum Foundation stakes another $93 million ether, reaching its 70,000 ETH target",
@@ -3161,7 +3301,7 @@
     "source": "CoinDesk",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:56.233Z"
+    "fetchedAt": "2026-04-05T21:59:44.505Z"
   },
   {
     "title": "Algorand Soars Double-Digits On Google ‘Post-Quantum Protocols’ Citation",
@@ -3175,7 +3315,7 @@
     "source": "Decrypt",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:58.252Z"
+    "fetchedAt": "2026-04-05T21:59:46.524Z"
   },
   {
     "title": "The Best iPad to Buy (and Some to Avoid) in 2026: Compare the Air, Pro, Mini",
@@ -3189,7 +3329,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "Crypto snoozes into Good Friday as oil and macro stir: Crypto Daybook Americas",
@@ -3203,7 +3343,7 @@
     "source": "CoinDesk",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:56.233Z"
+    "fetchedAt": "2026-04-05T21:59:44.505Z"
   },
   {
     "title": "HarperCollins forges ahead with AI-assisted YouTube series based on books. Some authors have concerns",
@@ -3217,7 +3357,7 @@
     "source": "Fast Company",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:07.653Z"
+    "fetchedAt": "2026-04-05T22:00:00.969Z"
   },
   {
     "title": "A Year After DOGE Cuts, GSA Now Plans to Hire Hundreds of Employees",
@@ -3231,7 +3371,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "New Garmin Training Features (2026): Nutrition Tracking, Lifestyle Logging, and More",
@@ -3245,7 +3385,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "Best Game Controllers for PC, Switch, PS5, and Xbox",
@@ -3259,7 +3399,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "One of the most infamous seafood promotions in history could be making a comeback. But there’s a catch",
@@ -3273,7 +3413,7 @@
     "source": "Fast Company",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:07.653Z"
+    "fetchedAt": "2026-04-05T22:00:00.969Z"
   },
   {
     "title": "United just made your suitcase more expensive. Here’s how much",
@@ -3287,7 +3427,7 @@
     "source": "Fast Company",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:07.653Z"
+    "fetchedAt": "2026-04-05T22:00:00.969Z"
   },
   {
     "title": "Olivia Rodrigo’s new album ditches her iconic brand. Is it a marketing master class or a misstep?",
@@ -3301,7 +3441,7 @@
     "source": "Fast Company",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:07.653Z"
+    "fetchedAt": "2026-04-05T22:00:00.969Z"
   },
   {
     "title": "The 3 Best Portable Jump Starters in 2026: Get Charged Up",
@@ -3315,7 +3455,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "Leaders share 18 common innovation mistakes",
@@ -3329,7 +3469,7 @@
     "source": "Fast Company",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:07.653Z"
+    "fetchedAt": "2026-04-05T22:00:00.969Z"
   },
   {
     "title": "Crypto consolidates as volatility cools and futures markets tilt bearish",
@@ -3343,7 +3483,7 @@
     "source": "CoinDesk",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:56.233Z"
+    "fetchedAt": "2026-04-05T21:59:44.505Z"
   },
   {
     "title": "Trump’s Economy Has Come for Sugar Babies",
@@ -3357,7 +3497,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "Polymarket Inks US, Canada Deal with European Soccer League LaLiga",
@@ -3371,7 +3511,7 @@
     "source": "Decrypt",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:58.252Z"
+    "fetchedAt": "2026-04-05T21:59:46.524Z"
   },
   {
     "title": "Samsung Frame Pro and OLED TV News: What You Need To Know in 2026",
@@ -3385,7 +3525,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "New research suggests the microplastics health risk may not be as bad as we thought",
@@ -3399,7 +3539,7 @@
     "source": "Fast Company",
     "sourceCategory": "business",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:07.653Z"
+    "fetchedAt": "2026-04-05T22:00:00.969Z"
   },
   {
     "title": "Naoris Protocol's quantum-resistant blockchain goes live as Bitcoin and Ethereum face 'Q-Day' threats",
@@ -3413,7 +3553,7 @@
     "source": "CoinDesk",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:56.233Z"
+    "fetchedAt": "2026-04-05T21:59:44.505Z"
   },
   {
     "title": "CBP Facility Codes Sure Seem to Have Leaked Via Online Flashcards",
@@ -3427,7 +3567,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "$20 Chewy Promo Code | April 2026",
@@ -3441,7 +3581,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "50% Off Home Depot Promo Codes | April 2026",
@@ -3455,7 +3595,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "50% Off DoorDash Promo Code | April 2026",
@@ -3469,7 +3609,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "HelloFresh Coupon Codes: 55% Off + Free Meals",
@@ -3483,7 +3623,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "Booking.com Promo Codes and Deals: Up to 20% Off",
@@ -3497,7 +3637,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "Castlery Promo Code: Save Up to 15% in April 2026",
@@ -3511,7 +3651,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "30% Off Skullcandy Coupon Codes | April 2026",
@@ -3525,7 +3665,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "30% Off Samsung Promo Code | April 2026",
@@ -3539,7 +3679,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "25% Off Dyson Promo Code | April 2026",
@@ -3553,7 +3693,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "Four astronauts are now inexorably bound for the Moon",
@@ -3567,7 +3707,7 @@
     "source": "Ars Technica",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:37.718Z"
+    "fetchedAt": "2026-04-05T21:59:29.392Z"
   },
   {
     "title": "Naoris Launches Post-Quantum Blockchain as Bitcoin, Ethereum Devs Scramble to Face Threat",
@@ -3581,7 +3721,7 @@
     "source": "Decrypt",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:58.252Z"
+    "fetchedAt": "2026-04-05T21:59:46.524Z"
   },
   {
     "title": "How Real Is The Quantum Threat?",
@@ -3595,7 +3735,7 @@
     "source": "Bitcoin Magazine",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:00.884Z"
+    "fetchedAt": "2026-04-05T21:59:49.126Z"
   },
   {
     "title": "MARA Conducts Ongoing Layoffs Following $1.1B Bitcoin Sale and Debt Reduction Push",
@@ -3609,7 +3749,7 @@
     "source": "Bitcoin Magazine",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:00.884Z"
+    "fetchedAt": "2026-04-05T21:59:49.126Z"
   },
   {
     "title": "USDC Stablecoin Issuer Circle Unveils New Token to Give Bitcoin More Utility",
@@ -3623,7 +3763,7 @@
     "source": "Decrypt",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:58.252Z"
+    "fetchedAt": "2026-04-05T21:59:46.524Z"
   },
   {
     "title": "‘Uncanny Valley’: Iran’s Threats on US Tech, Trump’s Plans for Midterms, and Polymarket’s Pop-up Flop",
@@ -3637,7 +3777,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "Google Researchers Reveal Every Way Hackers Can Trap, Hijack AI Agents",
@@ -3651,7 +3791,7 @@
     "source": "Decrypt",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:58.252Z"
+    "fetchedAt": "2026-04-05T21:59:46.524Z"
   },
   {
     "title": "Perplexity's \"Incognito Mode\" is a \"sham,\" lawsuit says",
@@ -3665,7 +3805,7 @@
     "source": "Ars Technica",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:37.718Z"
+    "fetchedAt": "2026-04-05T21:59:29.392Z"
   },
   {
     "title": "The Google Pixel 10 Is $150 Off",
@@ -3679,7 +3819,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "Tech Companies Are Trying to Neuter Colorado’s Landmark Right-to-Repair Law",
@@ -3693,7 +3833,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "SpaceX tries to convince FCC that Amazon put satellites into wrong altitude",
@@ -3707,7 +3847,7 @@
     "source": "Ars Technica",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:37.718Z"
+    "fetchedAt": "2026-04-05T21:59:29.392Z"
   },
   {
     "title": "Google Vids gets AI upgrade with Veo and Lyria models, directable AI avatars",
@@ -3721,7 +3861,7 @@
     "source": "Ars Technica",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:37.718Z"
+    "fetchedAt": "2026-04-05T21:59:29.392Z"
   },
   {
     "title": "Male octopuses guided through mating by female hormones",
@@ -3735,7 +3875,7 @@
     "source": "Ars Technica",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:37.718Z"
+    "fetchedAt": "2026-04-05T21:59:29.392Z"
   },
   {
     "title": "OpenAI Acquires Tech Talk Show ‘TBPN’—and Buys Itself Some Positive News",
@@ -3749,7 +3889,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "Elon Musk&#39;s X Is Making Big Changes to Combat Crypto Scams",
@@ -3763,7 +3903,7 @@
     "source": "Decrypt",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:58.252Z"
+    "fetchedAt": "2026-04-05T21:59:46.524Z"
   },
   {
     "title": "Drift Protocol&#39;s $285 Million Exploit on Solana Raises Questions Over DeFi Security",
@@ -3777,7 +3917,7 @@
     "source": "Decrypt",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:58.252Z"
+    "fetchedAt": "2026-04-05T21:59:46.524Z"
   },
   {
     "title": "Your Art Can Go in This San Francisco Alley",
@@ -3791,7 +3931,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "A New Google-Funded Data Center Will Be Powered by a Massive Gas Plant",
@@ -3805,7 +3945,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "Google Jumps Back Into the Open Source AI Race With Gemma 4",
@@ -3819,7 +3959,7 @@
     "source": "Decrypt",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:58.252Z"
+    "fetchedAt": "2026-04-05T21:59:46.524Z"
   },
   {
     "title": "What Happens When a Nuclear Site Is Hit?",
@@ -3833,7 +3973,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "New fossil deposits show complex animal groups predating the Cambrian",
@@ -3847,7 +3987,7 @@
     "source": "Ars Technica",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:37.718Z"
+    "fetchedAt": "2026-04-05T21:59:29.392Z"
   },
   {
     "title": "Coinbase Links Up With Linux Foundation to Launch x402 Foundation",
@@ -3861,7 +4001,7 @@
     "source": "Decrypt",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:58.252Z"
+    "fetchedAt": "2026-04-05T21:59:46.524Z"
   },
   {
     "title": "Trump Admin Backs Prediction Markets With Lawsuits Against Illinois, Arizona and Connecticut",
@@ -3875,7 +4015,7 @@
     "source": "Decrypt",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:58.252Z"
+    "fetchedAt": "2026-04-05T21:59:46.524Z"
   },
   {
     "title": "AI Could Become 2,000 Times More Efficient by Copying the Brain: Study",
@@ -3889,7 +4029,7 @@
     "source": "Decrypt",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:58.252Z"
+    "fetchedAt": "2026-04-05T21:59:46.524Z"
   },
   {
     "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
@@ -3903,7 +4043,7 @@
     "source": "Ars Technica",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:37.718Z"
+    "fetchedAt": "2026-04-05T21:59:29.392Z"
   },
   {
     "title": "Cursor Launches a New AI Agent Experience to Take On Claude Code and Codex",
@@ -3917,7 +4057,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "Quantum-Powered Crypto Mining Is Here—But It Won&#39;t Help You Mine Bitcoin",
@@ -3931,7 +4071,7 @@
     "source": "Decrypt",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:58.252Z"
+    "fetchedAt": "2026-04-05T21:59:46.524Z"
   },
   {
     "title": "Coinbase Gets Conditional Approval From Banking Regulator—But Isn&#39;t Launching a Bank",
@@ -3945,7 +4085,7 @@
     "source": "Decrypt",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:58.252Z"
+    "fetchedAt": "2026-04-05T21:59:46.524Z"
   },
   {
     "title": "Coinbase Receives Conditional OCC Approval to Form National Trust Company",
@@ -3959,7 +4099,7 @@
     "source": "Bitcoin Magazine",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:00.884Z"
+    "fetchedAt": "2026-04-05T21:59:49.126Z"
   },
   {
     "title": "Ethereum Founder Vitalik Buterin Details His &#39;Private&#39; and &#39;Secure&#39; AI Setup",
@@ -3973,7 +4113,7 @@
     "source": "Decrypt",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:58.252Z"
+    "fetchedAt": "2026-04-05T21:59:46.524Z"
   },
   {
     "title": "Wall Street Firms and Crypto Companies to Review New Market Structure Proposal in Private Sessions",
@@ -3987,7 +4127,7 @@
     "source": "Bitcoin Magazine",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:00.884Z"
+    "fetchedAt": "2026-04-05T21:59:49.126Z"
   },
   {
     "title": "Anthropic Says That Claude Contains Its Own Kind of Emotions",
@@ -4001,7 +4141,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "Even Artemis II Astronauts Have Microsoft Outlook Problems",
@@ -4015,7 +4155,7 @@
     "source": "Wired",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
+    "fetchedAt": "2026-04-05T21:59:33.454Z"
   },
   {
     "title": "Solana Meme Coin Linked to Death Hoax for 194-Year-Old Tortoise—Who Is Very Much Alive",
@@ -4029,7 +4169,7 @@
     "source": "Decrypt",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:58.252Z"
+    "fetchedAt": "2026-04-05T21:59:46.524Z"
   },
   {
     "title": "LNVPN Rebrands to Nadanada.me as Privacy Infrastructure Expands with Anonymous eSIMs and Lightning Payments",
@@ -4043,7 +4183,7 @@
     "source": "Bitcoin Magazine",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:50:00.884Z"
+    "fetchedAt": "2026-04-05T21:59:49.126Z"
   },
   {
     "title": "CFTC Settles With Former FTX Engineer for $3.7M, Closing First Individual Case",
@@ -4057,146 +4197,6 @@
     "source": "Decrypt",
     "sourceCategory": "web3",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:58.252Z"
-  },
-  {
-    "title": "US Attorney&#39;s Office Recovers $600K in Crypto Fraud Scheme Targeting Ledger Wallet Owners",
-    "link": "https://decrypt.co/363126/us-attorneys-office-recovers-600k-crypto-fraud-scheme-ledger-wallets",
-    "description": "Federal prosecutors in Connecticut seized over $600,000 in crypto linked to a fraud case that hit at least one Ledger hardware wallet user.",
-    "pubDate": "Thu, 02 Apr 2026 14:39:31 +0000",
-    "author": "Stephen Graves",
-    "category": "",
-    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/01/ledger-flex-decrypt-style-01-gID_7.jpg",
-    "id": "aHR0cHM6Ly9kZWNy",
-    "source": "Decrypt",
-    "sourceCategory": "web3",
-    "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:58.252Z"
-  },
-  {
-    "title": "Metaplanet Adds 5,075 BTC in Q1, Becomes Third Largest Bitcoin Treasury",
-    "link": "https://decrypt.co/363114/metaplanet-adds-5075-btc-in-q1-becomes-third-largest-bitcoin-treasury",
-    "description": "The Tokyo-listed firm is now the third-largest Bitcoin treasury company—though that&#39;s partly down to MARA Holdings&#39; recent sale of 15,000 BTC.",
-    "pubDate": "Thu, 02 Apr 2026 12:24:18 +0000",
-    "author": "Stacy Elliott",
-    "category": "",
-    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-24-gID_7.png",
-    "id": "aHR0cHM6Ly9kZWNy",
-    "source": "Decrypt",
-    "sourceCategory": "web3",
-    "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:58.252Z"
-  },
-  {
-    "title": "The Download: plastic&#8217;s problem with fuel prices, and SpaceX&#8217;s blockbuster IPO",
-    "link": "https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/",
-    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Fuel prices are soaring. Plastic could be next.&#160; As the war in Iran continues, one of the most visible global economic ripple effects has been fo",
-    "pubDate": "Thu, 02 Apr 2026 12:10:00 +0000",
-    "author": "Thomas Macaulay",
-    "category": "The Download",
-    "image": "",
-    "id": "aHR0cHM6Ly93d3cu",
-    "source": "MIT Tech Review",
-    "sourceCategory": "technology",
-    "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:39.734Z"
-  },
-  {
-    "title": "Best Lego Gifts for Brick Builders (2026): Smart Bricks, Video Games, and More",
-    "link": "https://www.wired.com/gallery/gifts-for-lego-lovers/",
-    "description": "Your kids are only kids for so long, but love and Lego sets last forever. Here are our top picks for the Lego fan in your life.",
-    "pubDate": "Thu, 02 Apr 2026 11:30:00 +0000",
-    "author": "Adrienne So",
-    "category": "Gear",
-    "image": "https://media.wired.com/photos/69cd7c367deee9ab4c68331c/master/pass/The-15-Best-Gifts-for-Lego-Lovers.jpg",
-    "id": "aHR0cHM6Ly93d3cu",
-    "source": "Wired",
-    "sourceCategory": "technology",
-    "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
-  },
-  {
-    "title": "A New Implant Aims to Rewire the Brain to Help Stroke Patients",
-    "link": "https://www.wired.com/story/a-new-implant-aims-to-rewire-the-brain-to-help-stroke-patients/",
-    "description": "Epia Neuro’s brain-computer interface will include a motorized glove to help stroke patients recover movement in their hand.",
-    "pubDate": "Thu, 02 Apr 2026 11:30:00 +0000",
-    "author": "Emily Mullin",
-    "category": "Science",
-    "image": "https://media.wired.com/photos/69cd4de4db42d7e554e1433d/master/pass/001.jpg",
-    "id": "aHR0cHM6Ly93d3cu",
-    "source": "Wired",
-    "sourceCategory": "technology",
-    "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
-  },
-  {
-    "title": "Coinbase CLO: Clarity Act Deal on Stablecoin Yield &#39;Very Close&#39;",
-    "link": "https://decrypt.co/363115/coinbase-clo-clarity-act-deal-on-stablecoin-yield-very-close",
-    "description": "The crypto exchange&#39;s top lawyer dismissed banking industry concerns about deposit flight as lawmakers work to finalize stablecoin provisions.",
-    "pubDate": "Thu, 02 Apr 2026 11:26:57 +0000",
-    "author": "Decrypt Agent",
-    "category": "Business",
-    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-02-gID_7.jpg",
-    "id": "aHR0cHM6Ly9kZWNy",
-    "source": "Decrypt",
-    "sourceCategory": "web3",
-    "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:58.252Z"
-  },
-  {
-    "title": "Our 7 Favorite Humidifiers for Home, Travel &amp; More (2026)",
-    "link": "https://www.wired.com/gallery/the-best-humidifier/",
-    "description": "From models for traveling to humidifiers that double as planters or air purifiers, we've tested a dozen of them.",
-    "pubDate": "Thu, 02 Apr 2026 11:09:00 +0000",
-    "author": "Lisa Wood Shapiro, Matthew Korfhage",
-    "category": "Gear",
-    "image": "https://media.wired.com/photos/68e200dd08818d0cf4055ec7/master/pass/The%20Best%20Humidifiers%20for%20Every%20Kind%20of%20Room.png",
-    "id": "aHR0cHM6Ly93d3cu",
-    "source": "Wired",
-    "sourceCategory": "technology",
-    "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:41.763Z"
-  },
-  {
-    "title": "Fuel prices are soaring. Plastic could be next.",
-    "link": "https://www.technologyreview.com/2026/04/02/1135045/plastic-economic-effects/",
-    "description": "As the war in Iran continues to engulf the Middle East and the Strait of Hormuz stays closed, one of the most visible global economic ripple effects has been fossil-fuel prices. In particular, you can’t get away from news about the price of gasoline, which just topped an average of $4 a gallon in th",
-    "pubDate": "Thu, 02 Apr 2026 10:00:00 +0000",
-    "author": "Casey Crownhart",
-    "category": "Climate change and energy",
-    "image": "",
-    "id": "aHR0cHM6Ly93d3cu",
-    "source": "MIT Tech Review",
-    "sourceCategory": "technology",
-    "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:39.734Z"
-  },
-  {
-    "title": "Bitcoin, Gold, and U.S. Stocks Dive as Trump Pledges to Hit Iran ‘Extremely Hard’",
-    "link": "https://decrypt.co/363111/bitcoin-gold-and-u-s-stocks-dive-as-trump-pledges-to-hit-iran-extremely-hard",
-    "description": "Markets slumped as Trump claimed the Iran war was “nearing completion” while offering no clear plan to reopen the Strait of Hormuz.",
-    "pubDate": "Thu, 02 Apr 2026 09:53:19 +0000",
-    "author": "Akash Girimath",
-    "category": "",
-    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-neon-gID_7.png",
-    "id": "aHR0cHM6Ly9kZWNy",
-    "source": "Decrypt",
-    "sourceCategory": "web3",
-    "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:58.252Z"
-  },
-  {
-    "title": "These Three Altcoins Just Got Leveraged Crypto ETFs",
-    "link": "https://decrypt.co/363089/volatility-shares-everaged-crypto-etfs-three-altcoins",
-    "description": "Volatility Shares, the company that launched the first leveraged crypto fund in the U.S., is expanding its roster to smaller digital assets",
-    "pubDate": "Wed, 01 Apr 2026 21:08:22 +0000",
-    "author": "André Beganski",
-    "category": "",
-    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_green-gID_7.png",
-    "id": "aHR0cHM6Ly9kZWNy",
-    "source": "Decrypt",
-    "sourceCategory": "web3",
-    "sourceLang": "en",
-    "fetchedAt": "2026-04-05T21:49:58.252Z"
+    "fetchedAt": "2026-04-05T21:59:46.524Z"
   }
 ]
