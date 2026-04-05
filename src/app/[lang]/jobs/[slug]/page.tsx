@@ -142,15 +142,8 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
   const { lang, slug } = await params;
 
   let job: JobWithCompany | null = null
-
-  // 优先从数据库查找真实职位（构建时可能无数据库连接）
   // Skip DB - use static data only (prevents Vercel serverless timeout)
-  // try {
-  //   job = await prisma.job.findUnique({...})
-  // } catch {}
-    // 构建时数据库不可用，使用fallback数据
-    job = null
-  }
+  // Database queries will fail on Vercel serverless, so we use fallback data only
 
   // 如果数据库找不到，尝试其他数据源（用于SEO预渲染）
   if (!job) {
