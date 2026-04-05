@@ -1,6 +1,7 @@
 'use client'
 
 import { ExternalLink, Clock, User } from 'lucide-react'
+import { LocalizedLink } from '@/components/i18n/localized-link'
 
 interface BlogPostCardProps {
   post: {
@@ -45,7 +46,7 @@ export function BlogPostCard({ post, locale = 'en' }: BlogPostCardProps) {
   )
 
   return (
-    <article className="group glass-card rounded-2xl overflow-hidden hover:border-neon-cyan/30 transition-all duration-300">
+    <LocalizedLink href={`/blog/${post.id}`} className="block group glass-card rounded-2xl overflow-hidden hover:border-neon-cyan/30 transition-all duration-300">
       {/* Image */}
       {post.image ? (
         <div className="relative h-48 overflow-hidden bg-dark-200">
@@ -110,6 +111,6 @@ export function BlogPostCard({ post, locale = 'en' }: BlogPostCardProps) {
           </a>
         </div>
       </div>
-    </article>
+    </LocalizedLink>
   )
 }

@@ -13,6 +13,7 @@ import { Footer } from '@/components/layout/Footer'
 import { BlogPostCard } from '@/components/blog/BlogPostCard'
 import { Filter, Rss } from 'lucide-react'
 
+export const revalidate = 21600 // Revalidate every 6 hours
 export function generateStaticParams() {
   return locales.map((lang) => ({ lang }))
 }
