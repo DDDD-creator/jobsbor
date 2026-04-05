@@ -49,6 +49,7 @@ export function Footer({ locale: propLocale, translations: propTranslations }: F
     jobs: locale === 'zh' ? '职位' : 'Jobs',
     companies: locale === 'zh' ? '公司' : 'Companies',
     guide: locale === 'zh' ? '指南' : 'Guide',
+    blog: locale === 'zh' ? '博客' : 'Blog',
   }
 
   const footerLinks = [
@@ -66,6 +67,7 @@ export function Footer({ locale: propLocale, translations: propTranslations }: F
         { label: nav.jobs, href: '/jobs' },
         { label: nav.companies, href: '/companies' },
         { label: nav.guide, href: '/guide' },
+        { label: nav.blog, href: '/blog' },
       ],
     },
   ]

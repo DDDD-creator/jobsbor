@@ -1,105 +1,132 @@
+/**
+ * Blog Listing Page
+ * Aggregated articles from global tech/Web3/career RSS feeds
+ */
+
+import { notFound } from 'next/navigation'
+import { Metadata } from 'next'
+import { isValidLocale, Locale, defaultLocale, locales } from '@/i18n/config'
+import { loadTranslations } from '@/i18n/loader'
+import blogPosts from '@/data/blog-posts.json'
 import { Header } from '@/components/layout/Header'
 import { Footer } from '@/components/layout/Footer'
-import { PostCard } from '@/components/blog/PostCard'
-import { Breadcrumb } from '@/components/seo/Breadcrumb'
-import { Badge } from '@/components/ui/badge'
-import { ScrollReveal } from '@/lib/animations'
-import { posts } from '@/data/posts'
-import { BookOpen, TrendingUp, Sparkles } from 'lucide-react'
+import { BlogPostCard } from '@/components/blog/BlogPostCard'
+import { Filter, Rss } from 'lucide-react'
 
-// 获取文章数据
-const allPosts = posts.map(post => ({
-  id: post.id,
-  title: post.title,
-  slug: post.slug,
-  excerpt: post.excerpt,
-  content: post.content,
-  coverImage: post.coverImage || '',
-  published: true,
-  publishedAt: new Date(post.publishedAt),
-  createdAt: new Date(post.createdAt),
-  updatedAt: new Date(post.publishedAt),
-  author: post.author,
-  tags: post.tags,
-}))
+export function generateStaticParams() {
+  return locales.map((lang) => ({ lang }))
+}
 
-/**
- * 博客列表页
- * - 博客文章卡片网格展示
- * - 封面图 + 标题 + 摘要 + 发布日期
- */
-export default function BlogPage() {
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ lang: string }>
+}): Promise<Metadata> {
+  const { lang } = await params
+  const locale = isValidLocale(lang) ? lang : defaultLocale
+  const title = locale === 'zh'
+    ? '博客 - 全球科技与职业洞察 | Jobsbor'
+    : 'Blog - Global Tech & Career Insights | Jobsbor'
+  const description = locale === 'zh'
+    ? '聚合全球顶级科技博客、Web3资讯和远程工作趋势'
+    : 'Aggregating top global tech blogs, Web3 news, and remote work trends'
+
+  return {
+    title,
+    description,
+    alternates: {
+      canonical: `https://jobsbor.vercel.app/${locale}/blog`,
+    },
+  }
+}
+
+const CATEGORY_FILTERS = ['all', 'technology', 'web3', 'remote-work']
+
+export default async function BlogPage({
+  params,
+}: {
+  params: Promise<{ lang: string }>
+}) {
+  const { lang } = await params
+  if (!isValidLocale(lang)) notFound()
+
+  const locale = lang as Locale
+  const translations = await loadTranslations(locale)
+
+  const labels: Record<string, string> = locale === 'zh'
+    ? { all: '全部', technology: '科技', web3: 'Web3', 'remote-work': '远程工作', title: '博客', subtitle: '全球科技与职业资讯实时聚合', noPosts: '暂无文章', source: '来源' }
+    : { all: 'All', technology: 'Technology', web3: 'Web3', 'remote-work': 'Remote Work', title: 'Blog', subtitle: 'Real-time global tech & career news aggregation', noPosts: 'No posts yet', source: 'Source' }
+
+  // For SSG, we show all posts (filtering can be done client-side)
+  const posts = blogPosts || []
+
   return (
-    <div className="min-h-screen flex flex-col bg-[#0a0f1c]">
-      <Header />
+    <>
+      <Header locale={locale} translations={translations} />
 
-      <main className="flex-1 pt-16">
-        {/* Hero Section */}
-        <section className="relative py-20 overflow-hidden">
-          <div className="absolute inset-0">
-            <div className="absolute inset-0 bg-grid opacity-30" />
-            <div className="absolute top-0 right-1/4 w-96 h-96 bg-purple-500/10 rounded-full blur-[150px]" />
-            <div className="absolute bottom-0 left-1/4 w-96 h-96 bg-cyan-500/10 rounded-full blur-[150px]" />
-          </div>
-
+      <main className="min-h-screen bg-dark-500">
+        {/* Hero */}
+        <section className="relative py-16 border-b border-white/5">
+          <div className="absolute inset-0 bg-gradient-to-b from-neon-cyan/5 to-transparent" />
           <div className="container mx-auto px-4 sm:px-6 lg:px-8 relative">
-            <div className="max-w-3xl mx-auto text-center">
-              <ScrollReveal>
-                <Badge variant="neon" color="purple" size="sm" className="mb-6">
-                  <BookOpen className="w-3 h-3 mr-1" />
-                  职场资讯
-                </Badge>
-                
-                <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white mb-6">
-                  求职<span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 via-purple-400 to-pink-400">博客</span>
-                </h1>
-                
-                <p className="text-lg text-gray-400 max-w-2xl mx-auto leading-relaxed">
-                  行业洞察、求职技巧、职业发展，助你职场进阶
-                </p>
-
-                {/* 统计 */}
-                <div className="flex flex-wrap justify-center gap-4 mt-8">
-                  <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-cyan-500/10 text-cyan-400 text-sm">
-                    <BookOpen className="w-4 h-4" />
-                    {allPosts.length} 篇精选文章
-                  </div>
-                  <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-purple-500/10 text-purple-400 text-sm">
-                    <TrendingUp className="w-4 h-4" />
-                    每周更新
-                  </div>
-                </div>
-              </ScrollReveal>
+            <div className="max-w-2xl">
+              <div className="flex items-center gap-2 mb-4">
+                <Rss className="h-5 w-5 text-neon-cyan" />
+                <span className="text-sm font-medium text-neon-cyan">
+                  {locale === 'zh' ? 'RSS 实时聚合' : 'Live RSS Aggregation'}
+                </span>
+              </div>
+              <h1 className="text-4xl font-bold text-white mb-4">{labels.title}</h1>
+              <p className="text-lg text-gray-400">{labels.subtitle}</p>
             </div>
           </div>
         </section>
 
-        {/* 文章列表 */}
-        <section className="py-16 relative">
+        {/* Category Filters */}
+        <section className="py-6 border-b border-white/5">
           <div className="container mx-auto px-4 sm:px-6 lg:px-8">
-            {/* 文章网格 */}
-            <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-              {allPosts.map((post, index) => (
-                <ScrollReveal key={post.id} delay={index * 100}>
-                  <PostCard post={post} />
-                </ScrollReveal>
-              ))}
-            </div>
-
-            {/* 加载更多 - 当文章数量超过9篇时显示 */}
-            {allPosts.length > 9 && (
-              <div className="mt-12 text-center">
-                <button className="inline-flex items-center justify-center gap-2 rounded-xl border border-white/20 bg-white/5 px-6 py-3 text-sm font-medium text-gray-300 transition-all hover:bg-white/10 hover:text-white">
-                  <Sparkles className="w-4 h-4" />
-                  加载更多文章
+            <div className="flex items-center gap-3 overflow-x-auto pb-2">
+              <Filter className="h-4 w-4 text-gray-500 flex-shrink-0" />
+              {CATEGORY_FILTERS.map((cat) => (
+                <button
+                  key={cat}
+                  className="px-4 py-1.5 rounded-full text-sm font-medium glass-card text-gray-400 hover:text-white hover:border-neon-cyan/30 transition-all whitespace-nowrap"
+                >
+                  {labels[cat] || cat}
                 </button>
+              ))}
+              <span className="text-xs text-gray-600 ml-auto flex-shrink-0">
+                {posts.length} {locale === 'zh' ? '篇文章' : 'articles'}
+              </span>
+            </div>
+          </div>
+        </section>
+
+        {/* Posts Grid */}
+        <section className="py-12">
+          <div className="container mx-auto px-4 sm:px-6 lg:px-8">
+            {posts.length > 0 ? (
+              <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+                {posts.map((post) => (
+                  <BlogPostCard key={post.id} post={post} locale={locale} />
+                ))}
+              </div>
+            ) : (
+              <div className="text-center py-24">
+                <Rss className="h-16 w-16 text-gray-600 mx-auto mb-4" />
+                <h3 className="text-xl font-semibold text-gray-400 mb-2">
+                  {labels.noPosts}
+                </h3>
+                <p className="text-gray-500">
+                  {locale === 'zh' ? '文章正在更新中...' : 'Posts are being updated...'}
+                </p>
               </div>
             )}
           </div>
         </section>
       </main>
 
-      <Footer />
-    </div>
+      <Footer locale={locale} translations={translations} />
+    </>
   )
 }

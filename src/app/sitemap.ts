@@ -7,6 +7,7 @@ import { MetadataRoute } from 'next';
 import { locales, defaultLocale } from '@/i18n/config';
 import { jobs } from '@/data/jobs';
 import { companies } from '@/data/companies';
+import blogPosts from '@/data/blog-posts.json';
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://jobsbor.com';
 
@@ -95,11 +96,23 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     }));
   });
 
+  // Generate blog post pages (from RSS feeds)
+  const blogSitemapEntries: MetadataRoute.Sitemap = blogPosts.map(post => {
+    const slug = post.id;
+    return {
+      url: `${SITE_URL}/${defaultLocale}/blog/${slug}`,
+      lastModified: new Date(post.pubDate || post.fetchedAt),
+      changeFrequency: "weekly" as const,
+      priority: 0.7,
+    };
+  });
+
   // Combine all entries
   const allEntries = [
     ...coreSitemapEntries,
     ...jobSitemapEntries,
     ...companySitemapEntries,
+    ...blogSitemapEntries,
   ];
 
   // Sort by priority (descending)

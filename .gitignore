@@ -40,3 +40,6 @@ next-env.d.ts
 # OS
 Thumbs.dbnode_modules/
 .next/
+
+# Deprecated project
+global-recruitment-project/

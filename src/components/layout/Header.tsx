@@ -69,6 +69,7 @@ export function Header({ locale: propLocale, translations: propTranslations }: H
     companies: locale === 'zh' ? '公司' : 'Companies',
     guide: locale === 'zh' ? '指南' : 'Guide',
     about: locale === 'zh' ? '关于我们' : 'About',
+    blog: locale === 'zh' ? '博客' : 'Blog',
     search: locale === 'zh' ? '搜索' : 'Search',
   }
 
@@ -77,6 +78,7 @@ export function Header({ locale: propLocale, translations: propTranslations }: H
     { href: '/jobs', label: t.jobs },
     { href: '/companies', label: t.companies },
     { href: '/guide', label: t.guide },
+    { href: '/blog', label: t.blog },
     { href: '/about', label: t.about },
   ]
 
