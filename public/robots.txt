@@ -1,26 +1,40 @@
-# robots.txt for Jobsbor
+# Jobsbor robots.txt
 # https://jobsbor.vercel.app
 
 User-agent: *
 Allow: /
+Allow: /zh/
+Allow: /en/
+Allow: /zh/blog
+Allow: /en/blog
+Allow: /zh/jobs
+Allow: /en/jobs
+Allow: /zh/industry/
+Allow: /en/industry/
 
-# 禁止爬虫访问的目录
+# Protect private areas
 Disallow: /api/
 Disallow: /admin/
 Disallow: /_next/
+Disallow: /*?*
 
-# 禁止爬虫访问的文件类型
-Disallow: /*.json$
-Disallow: /*.js$
-Disallow: /*.css$
+# Allow important bots
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
 
-# 网站地图
-Sitemap: https://jobsbor.vercel.app/sitemap.xml
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 0
 
-# 抓取延迟（秒）
-Crawl-delay: 1
+User-agent: Slurp
+Allow: /
 
-# 特定爬虫规则
+User-agent: Baiduspider
+Allow: /
+Allow: /zh/
+
+# Block AI crawlers (optional)
 User-agent: GPTBot
 Disallow: /
 
@@ -29,3 +43,7 @@ Disallow: /
 
 User-agent: CCBot
 Disallow: /
+
+# Sitemaps
+Sitemap: https://jobsbor.vercel.app/sitemap.xml
+Sitemap: https://jobsbor.com/sitemap.xml
