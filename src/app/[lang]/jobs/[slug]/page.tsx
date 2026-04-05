@@ -1,6 +1,5 @@
 import { Metadata } from 'next'
 import { notFound } from 'next/navigation'
-import { prisma } from '@/lib/prisma'
 import { Header } from '@/components/layout/Header'
 import { Footer } from '@/components/layout/Footer'
 import { JobCard } from '@/components/jobs/JobCard'
@@ -320,7 +319,6 @@ export default async function JobDetailPage({ params }: { params: Promise<{ lang
   let job: JobWithCompany | null = null
   // Skip DB - use static data only (prevents Vercel serverless timeout)
   // try {
-  //   job = await prisma.job.findUnique({...})
   // } catch {}
 
   // 如果数据库找不到，尝试从seedJobs查找
