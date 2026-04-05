@@ -1,0 +1,27 @@
+{
+  "timestamp": "2026-04-02T08:38:02.793Z",
+  "totalJobs": 29,
+  "companies": {
+    "OpenAI": 0,
+    "Stripe": 10,
+    "Airbnb": 0,
+    "Coinbase": 0,
+    "Netflix": 0,
+    "Spotify": 2,
+    "GitLab": 0,
+    "Shopify": 0,
+    "Figma": 0,
+    "Notion": 0,
+    "Linear": 10,
+    "Vercel": 10,
+    "Supabase": 0,
+    "Prisma": 0,
+    "HashiCorp": 0,
+    "Cloudflare": 0,
+    "Plaid": 0,
+    "Scale AI": 0,
+    "Anthropic": 0,
+    "Cohere": 0
+  },
+  "duration": "42.88s"
+}

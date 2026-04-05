@@ -1,0 +1,535 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// 用户基础表
+model User {
+  id            String    @id @default(cuid())
+  email         String    @unique
+  phone         String?   @unique
+  password      String
+  name          String
+  avatar        String?
+  role          UserRole  @default(JOBSEEKER)
+  status        UserStatus @default(ACTIVE)
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+  
+  // 支付相关
+  stripeCustomerId       String?   @unique
+  currentSubscriptionId  String?
+  
+  // 关联
+  jobSeekerProfile JobSeekerProfile?
+  recruiterProfile RecruiterProfile?
+  applications     Application[]
+  jobs             Job[]
+  notifications    Notification[]
+  favoriteJobs     FavoriteJob[]
+  subscriptions    Subscription[]
+  payments         Payment[]
+  jobPromotions    JobPromotion[]
+}
+
+// 求职者档案
+model JobSeekerProfile {
+  id              String   @id @default(cuid())
+  userId          String   @unique
+  user            User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  
+  // 基本信息
+  phone           String?
+  location        String?
+  headline        String?  // 一句话介绍
+  summary         String?  @db.Text // 个人简介
+  skills          String[] // 技能标签
+  
+  // 简历信息
+  resumeUrl       String?
+  resumeName      String?  // 简历文件名
+  resumeText      String?  @db.Text // 简历解析文本
+  
+  // 求职意向
+  expectedSalaryMin   Int?
+  expectedSalaryMax   Int?
+  expectedSalaryCurrency String @default("CNY")
+  jobType         String?  // FULL_TIME, PART_TIME, CONTRACT, INTERNSHIP, REMOTE
+  jobLocation     String?  // ONSITE, REMOTE, HYBRID
+  
+  // 工作经历/教育背景（JSON存储）
+  experience      Json?    // [{company, title, startDate, endDate, description}]
+  education       Json?    // [{school, degree, major, startDate, endDate}]
+  
+  // 状态
+  isOpenToWork    Boolean  @default(true)
+  
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+}
+
+// 招聘方档案
+model RecruiterProfile {
+  id              String   @id @default(cuid())
+  userId          String   @unique
+  user            User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  
+  companyId       String
+  company         Company  @relation(fields: [companyId], references: [id])
+  
+  position        String?  // 职位（如"技术总监"）
+  isVerified      Boolean  @default(false)
+}
+
+// 企业表
+model Company {
+  id              String    @id @default(cuid())
+  name            String
+  slug            String    @unique
+  logo            String?
+  coverImage      String?
+  description     String?   @db.Text
+  website         String?
+  size            String?   // STARTUP, SMALL, MEDIUM, LARGE, ENTERPRISE
+  industry        String
+  location        String?
+  
+  // 认证
+  verifyStatus    VerifyStatus @default(PENDING)
+  businessLicense String?
+  
+  // 联系信息
+  contactName     String?
+  contactEmail    String?
+  contactPhone    String?
+  
+  // 统计
+  jobCount        Int       @default(0)
+  activeJobCount  Int       @default(0)
+  
+  createdAt       DateTime  @default(now())
+  updatedAt       DateTime  @updatedAt
+  
+  // 关联
+  recruiters      RecruiterProfile[]
+  jobs            Job[]
+}
+
+// 职位表
+model Job {
+  id              String    @id @default(cuid())
+  title           String
+  slug            String    @unique
+  
+  // 关联
+  companyId       String
+  company         Company   @relation(fields: [companyId], references: [id])
+  postedBy        String
+  poster          User      @relation(fields: [postedBy], references: [id])
+  
+  // 职位详情
+  description     String    @db.Text
+  requirements    String    @db.Text
+  responsibilities String?   @db.Text
+  benefits        String?   @db.Text
+  
+  // 薪酬
+  salaryMin       Int?
+  salaryMax       Int?
+  salaryCurrency  String    @default("CNY")
+  salaryNegotiable Boolean  @default(false)
+  
+  // 工作信息
+  location        String
+  remote          RemoteType @default(ONSITE)
+  type            JobType    @default(FULLTIME)
+  level           JobLevel   @default(MID)
+  
+  // 分类
+  industry        String
+  category        String    // 技术/产品/设计/运营/销售/市场/职能等
+  tags            String[]
+  skills          String[]
+  
+  // 状态
+  status          JobStatus  @default(DRAFT)
+  isUrgent        Boolean    @default(false)
+  isFeatured      Boolean    @default(false)
+  
+  // 时间
+  publishedAt     DateTime?
+  expiresAt       DateTime?
+  createdAt       DateTime   @default(now())
+  updatedAt       DateTime   @updatedAt
+  
+  // 统计
+  viewCount       Int        @default(0)
+  applyCount      Int        @default(0)
+  
+  // 关联
+  applications    Application[]
+  favorites       FavoriteJob[]
+  promotions      JobPromotion[]
+}
+
+// 申请表
+model Application {
+  id              String    @id @default(cuid())
+  
+  // 关联
+  jobId           String
+  job             Job       @relation(fields: [jobId], references: [id], onDelete: Cascade)
+  applicantId     String
+  applicant       User      @relation(fields: [applicantId], references: [id], onDelete: Cascade)
+  
+  // 简历快照
+  resumeSnapshot  Json
+  
+  // 申请内容
+  coverLetter     String?   @db.Text
+  
+  // 状态机
+  status          ApplicationStatus @default(PENDING)
+  
+  // 时间线
+  appliedAt       DateTime  @default(now())
+  viewedAt        DateTime?
+  respondedAt     DateTime?
+  
+  // HR反馈
+  feedback        String?   @db.Text
+  nextStep        String?
+  
+  isDeletedByUser Boolean   @default(false)
+  
+  @@unique([jobId, applicantId])
+}
+
+// 收藏职位
+model FavoriteJob {
+  id        String   @id @default(cuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  jobId     String
+  job       Job      @relation(fields: [jobId], references: [id], onDelete: Cascade)
+  createdAt DateTime @default(now())
+  
+  @@unique([userId, jobId])
+}
+
+// 消息通知表
+model Notification {
+  id              String    @id @default(cuid())
+  userId          String
+  user            User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  type            NotificationType
+  title           String
+  content         String
+  data            Json?     // 关联数据
+  
+  isRead          Boolean   @default(false)
+  readAt          DateTime?
+  
+  createdAt       DateTime  @default(now())
+}
+
+// 订阅计划表
+model SubscriptionPlan {
+  id            String    @id @default(cuid())
+  name          String    // FREE, PRO, ENTERPRISE
+  nameKey       String    @unique // 多语言key: plan_free, plan_pro, plan_enterprise
+  description   String?   @db.Text
+  price         Decimal   @default(0)
+  currency      String    @default("USD")
+  interval      String    @default("month") // month, year
+  features      Json      // [{key: "feature_name", value: "value", unlimited: boolean}]
+  
+  // 职位发布限制
+  jobPostingLimit     Int       @default(3)
+  jobPromotionsCount  Int       @default(0) // 免费推广次数
+  featuredJobsCount   Int       @default(0) // 可发布的置顶职位数
+  
+  // 权益
+  prioritySupport     Boolean   @default(false)
+  analyticsAccess     Boolean   @default(false)
+  resumeAccess        Boolean   @default(false)
+  customBranding      Boolean   @default(false)
+  apiAccess           Boolean   @default(false)
+  
+  isActive      Boolean   @default(true)
+  displayOrder  Int       @default(0)
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+  
+  // 关联
+  subscriptions Subscription[]
+}
+
+// 用户订阅表
+model Subscription {
+  id            String    @id @default(cuid())
+  
+  // 关联
+  userId        String
+  user          User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  planId        String
+  plan          SubscriptionPlan @relation(fields: [planId], references: [id])
+  
+  // Stripe订阅信息
+  stripeSubscriptionId   String?   @unique
+  stripeCustomerId       String?
+  stripePriceId          String?
+  
+  // 订阅状态
+  status        SubscriptionStatus @default(INCOMPLETE)
+  currentPeriodStart DateTime?
+  currentPeriodEnd   DateTime?
+  cancelAtPeriodEnd  Boolean   @default(false)
+  canceledAt         DateTime?
+  
+  // 支付方式
+  paymentMethodId    String?
+  
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+  
+  // 关联
+  payments      Payment[]
+  
+  @@index([userId])
+  @@index([status])
+}
+
+// 支付记录表
+model Payment {
+  id            String    @id @default(cuid())
+  
+  // 关联
+  userId        String
+  user          User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  subscriptionId String?
+  subscription   Subscription? @relation(fields: [subscriptionId], references: [id])
+  
+  // Stripe支付信息
+  stripePaymentIntentId  String?   @unique
+  stripeChargeId         String?
+  stripeInvoiceId        String?
+  
+  // 支付详情
+  amount        Decimal
+  currency      String    @default("USD")
+  status        PaymentStatus @default(PENDING)
+  
+  // 支付类型
+  type          PaymentType @default(SUBSCRIPTION)
+  description   String?
+  
+  // 支付方式
+  paymentMethod String?   // card, alipay, wechat_pay
+  cardLast4     String?
+  cardBrand     String?
+  
+  // 时间
+  paidAt        DateTime?
+  failedAt      DateTime?
+  refundedAt    DateTime?
+  refundAmount  Decimal?
+  
+  // 元数据
+  metadata      Json?
+  
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+  
+  @@index([userId])
+  @@index([status])
+  @@index([createdAt])
+}
+
+// 职位推广表
+model JobPromotion {
+  id            String    @id @default(cuid())
+  
+  // 关联
+  jobId         String
+  job           Job       @relation(fields: [jobId], references: [id], onDelete: Cascade)
+  userId        String
+  user          User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  
+  // 推广类型
+  type          PromotionType
+  durationDays  Int       @default(7)
+  
+  // 状态
+  status        PromotionStatus @default(ACTIVE)
+  
+  // 时间
+  startAt       DateTime
+  endAt         DateTime
+  
+  // 支付信息
+  paymentId     String?
+  amount        Decimal?
+  currency      String    @default("USD")
+  
+  // 效果统计
+  viewBoost     Int       @default(0)    // 额外浏览量
+  applyBoost    Int       @default(0)    // 额外申请量
+  
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+  
+  @@index([jobId])
+  @@index([userId])
+  @@index([status])
+  @@index([endAt])
+}
+
+// 枚举定义
+enum UserRole {
+  JOBSEEKER
+  RECRUITER
+  ADMIN
+}
+
+enum UserStatus {
+  ACTIVE
+  SUSPENDED
+  DELETED
+}
+
+enum VerifyStatus {
+  PENDING
+  VERIFIED
+  REJECTED
+}
+
+enum JobStatus {
+  DRAFT
+  PENDING
+  ACTIVE
+  PAUSED
+  CLOSED
+  REJECTED
+}
+
+enum RemoteType {
+  ONSITE
+  REMOTE
+  HYBRID
+}
+
+enum JobType {
+  FULLTIME
+  PARTTIME
+  CONTRACT
+  INTERNSHIP
+}
+
+enum JobLevel {
+  JUNIOR
+  MID
+  SENIOR
+  LEAD
+  EXECUTIVE
+}
+
+enum ApplicationStatus {
+  PENDING
+  VIEWED
+  INTERVIEWING
+  OFFERED
+  REJECTED
+  HIRED
+  WITHDRAWN
+}
+
+enum NotificationType {
+  APPLICATION_STATUS
+  NEW_APPLICATION
+  INTERVIEW_INVITE
+  JOB_RECOMMENDATION
+  SYSTEM
+  PAYMENT_SUCCESS
+  PAYMENT_FAILED
+  SUBSCRIPTION_EXPIRED
+  SUBSCRIPTION_RENEWAL
+}
+
+enum SubscriptionStatus {
+  INCOMPLETE
+  INCOMPLETE_EXPIRED
+  TRIALING
+  ACTIVE
+  PAST_DUE
+  CANCELED
+  UNPAID
+  PAUSED
+}
+
+enum PaymentStatus {
+  PENDING
+  PROCESSING
+  SUCCEEDED
+  FAILED
+  CANCELED
+  REFUNDED
+  PARTIALLY_REFUNDED
+}
+
+enum PaymentType {
+  SUBSCRIPTION
+  JOB_PROMOTION
+  TOP_UP
+  REFUND
+}
+
+enum PromotionType {
+  FEATURED       // 首页/列表页置顶
+  HIGHLIGHT      // 高亮显示
+  URGENT         // 急聘标记
+  HOMEPAGE       // 首页横幅
+}
+
+enum PromotionStatus {
+  PENDING        // 待支付
+  ACTIVE         // 推广中
+  EXPIRED        // 已过期
+  CANCELED       // 已取消
+}
+
+// 系统设置表
+model SystemSettings {
+  id        String   @id @default("default")
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  
+  // 基础设置
+  siteName        String  @default("Jobsbor")
+  siteUrl         String  @default("https://jobsbor.com")
+  siteDescription String?
+  logoUrl         String?
+  faviconUrl      String?
+  
+  // SEO 设置
+  seoTitle            String?
+  seoDescription      String?
+  seoKeywords         String?
+  googleAnalyticsId   String?
+  baiduAnalyticsId    String?
+  
+  // 联系方式
+  contactEmail   String?
+  contactPhone   String?
+  telegram       String?
+  wechat         String?
+  address        String?
+  
+  // 安全设置
+  loginRetryLimit    Int @default(5)
+  sessionExpiryHours Int @default(168)
+}

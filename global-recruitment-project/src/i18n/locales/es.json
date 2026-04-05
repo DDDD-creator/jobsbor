@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "title": "Jobsbor - Mejores Empleos Finanzas & Web3",
+    "description": "Conecta con las mejores instituciones financieras, proyectos Web3 y empresas tech. Encuentra tu empleo soñado en trading cuantitativo, blockchain, DeFi y más.",
+    "keywords": "empleos, empleos finanzas, empleos web3, empleos blockchain, trading cuantitativo, DeFi, carrera crypto"
+  },
+  "nav": {
+    "home": "Inicio",
+    "jobs": "Empleos",
+    "companies": "Empresas",
+    "industries": "Industrias",
+    "blog": "Blog",
+    "guide": "Guía",
+    "about": "Nosotros",
+    "search": "Buscar",
+    "postJob": "Publicar empleo"
+  },
+  "hero": {
+    "tagline": "Conectando talento de primer nivel con empresas del futuro",
+    "title": "Empleos Finanzas & Web3",
+    "subtitle": "Descubre posiciones premium en las mejores instituciones financieras y empresas tech. Matching preciso de talento para tu crecimiento profesional.",
+    "searchPlaceholder": "Buscar empleos, empresas o palabras clave...",
+    "searchButton": "Buscar empleos",
+    "hotSearches": "Búsquedas populares",
+    "stats": {
+      "activeJobs": "Empleos activos",
+      "companies": "Empresas",
+      "monthlyUsers": "Usuarios mensuales",
+      "successRate": "Tasa de éxito"
+    }
+  },
+  "industries": {
+    "title": "Explorar Industrias",
+    "subtitle": "Elige tu camino profesional y comienza un nuevo capítulo",
+    "finance": {
+      "title": "Finanzas",
+      "description": "Mejores instituciones financieras: valores, fondos, bancos de inversión"
+    },
+    "web3": {
+      "title": "Web3",
+      "description": "Blockchain, DeFi, NFT y otros campos de vanguardia"
+    },
+    "internet": {
+      "title": "Internet",
+      "description": "Grandes empresas tech y unicornios"
+    }
+  },
+  "jobs": {
+    "latest": "Empleos Recientes",
+    "viewAll": "Ver todos los empleos",
+    "remote": "Remoto",
+    "fullTime": "Tiempo completo",
+    "partTime": "Medio tiempo",
+    "contract": "Contrato",
+    "internship": "Pasantía",
+    "salary": "Salario",
+    "location": "Ubicación",
+    "type": "Tipo",
+    "apply": "Aplicar ahora",
+    "save": "Guardar",
+    "share": "Compartir",
+    "posted": "Publicado",
+    "expires": "Expira"
+  },
+  "companies": {
+    "title": "Top Empresas",
+    "subtitle": "Únete a empresas líderes y alcanza la excelencia",
+    "viewAll": "Ver todas las empresas",
+    "jobs": "empleos",
+    "follow": "Seguir",
+    "website": "Sitio web"
+  },
+  "telegram": {
+    "join": "Unirse al canal de Telegram",
+    "description": "Recibe las últimas alertas de empleo, noticias de la industria y consejos de carrera",
+    "benefits": ["Empleos seleccionados diariamente", "Noticias de la industria", "Consejos de carrera", "Referencias prioritarias"]
+  },
+  "testimonials": {
+    "title": "Historias de Éxito",
+    "subtitle": "Escucha a quienes encontraron empleo con éxito"
+  },
+  "cta": {
+    "title": "¿Listo para comenzar tu viaje profesional?",
+    "subtitle": "Regístrate ahora para descubrir más oportunidades de empleo premium",
+    "primaryButton": "Unirse a Telegram",
+    "secondaryButton": "Explorar empleos"
+  },
+  "footer": {
+    "about": "Nosotros",
+    "careers": "Carreras",
+    "contact": "Contacto",
+    "privacy": "Política de privacidad",
+    "terms": "Términos de servicio",
+    "copyright": "© 2024 Jobsbor. Todos los derechos reservados."
+  },
+  "language": {
+    "title": "Idioma",
+    "en": "English",
+    "ja": "日本語",
+    "de": "Deutsch",
+    "fr": "Français",
+    "es": "Español",
+    "ko": "한국어",
+    "th": "ไทย",
+    "vi": "Tiếng Việt",
+    "hi": "हिन्दी",
+    "zh": "简体中文"
+  }
+}

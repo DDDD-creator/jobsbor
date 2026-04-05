@@ -1,0 +1,27 @@
+{
+  "id": "web3-017",
+  "source": "remote3",
+  "title": "Blockchain Engineer",
+  "companyId": "company-blockpact",
+  "companyName": "Blockpact Capital",
+  "description": "Blockpact Capital is looking for a Blockchain Engineer to develop and maintain blockchain infrastructure for our crypto investment firm. You will build smart contracts, integrate with various blockchain networks, and support our portfolio companies with technical expertise.",
+  "url": "https://remote3.co/remote-jobs/blockchain-engineer-blockpact-capital",
+  "location": {
+    "remote": true,
+    "city": null,
+    "country": null
+  },
+  "employmentType": "full-time",
+  "experienceLevel": "mid",
+  "category": "engineering",
+  "tags": ["Blockchain", "Solidity", "Smart Contracts", "DeFi", "Token"],
+  "salary": {
+    "min": 100000,
+    "max": 160000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "postedAt": "2026-03-24T11:00:00Z",
+  "expiresAt": "2026-04-24T23:59:59Z",
+  "status": "active"
+}

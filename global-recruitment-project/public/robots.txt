@@ -1,0 +1,31 @@
+# robots.txt for Jobsbor
+# https://jobsbor.vercel.app
+
+User-agent: *
+Allow: /
+
+# 禁止爬虫访问的目录
+Disallow: /api/
+Disallow: /admin/
+Disallow: /_next/
+
+# 禁止爬虫访问的文件类型
+Disallow: /*.json$
+Disallow: /*.js$
+Disallow: /*.css$
+
+# 网站地图
+Sitemap: https://jobsbor.vercel.app/sitemap.xml
+
+# 抓取延迟（秒）
+Crawl-delay: 1
+
+# 特定爬虫规则
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: CCBot
+Disallow: /

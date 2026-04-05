@@ -1,0 +1,20 @@
+{
+  "timestamp": "2026-04-04T07:30:10.853Z",
+  "sources": {
+    "remotive": 19,
+    "remoteok": 97,
+    "workingnomads": 0,
+    "wwr": 0,
+    "cryptojobs": 0,
+    "web3career": 0,
+    "devit": 0,
+    "bigtech": 232,
+    "chinatech": 173,
+    "web3": 336
+  },
+  "newJobs": 857,
+  "duplicates": 0,
+  "totalJobs": 1370,
+  "target": 800,
+  "progress": 171
+}

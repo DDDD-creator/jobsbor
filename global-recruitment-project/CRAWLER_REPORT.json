@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-04-02T16:15:28.106Z",
+  "totalJobs": 87,
+  "sources": {
+    "remoteok": 87,
+    "hackernews": 0,
+    "cryptojobslist": 0
+  },
+  "syncedToPage": 87,
+  "duration": "7.59s"
+}

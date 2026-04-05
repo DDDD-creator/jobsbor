@@ -1,0 +1,25 @@
+{
+  "id": "company-aave",
+  "name": "Aave Labs",
+  "description": "Aave is a decentralized non-custodial liquidity protocol where users can participate as depositors or borrowers. Depositors provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralized or undercollateralized fashion.",
+  "logoUrl": "https://cryptocurrencyjobs.co/startups/aave/logo",
+  "websiteUrl": "https://aave.com",
+  "careersUrl": "https://aave.com/careers",
+  "location": {
+    "city": null,
+    "country": null,
+    "remote": true
+  },
+  "industry": "DeFi",
+  "size": "51-200",
+  "founded": 2017,
+  "socialLinks": {
+    "linkedin": "https://linkedin.com/company/aave",
+    "twitter": "https://twitter.com/AaveAave",
+    "github": "https://github.com/aave"
+  },
+  "meta": {
+    "source": "web3-career",
+    "lastUpdated": "2026-04-02T03:00:00Z"
+  }
+}

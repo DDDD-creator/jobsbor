@@ -1,0 +1,27 @@
+{
+  "id": "web3-011",
+  "source": "cryptocurrency-jobs",
+  "title": "Staff Backend Engineer - DeFi",
+  "companyId": "company-uniswap",
+  "companyName": "Uniswap Labs",
+  "description": "Uniswap Labs is looking for a Staff Backend Engineer to build the infrastructure powering the largest decentralized exchange. You will design scalable systems for on-chain data indexing, build APIs for our products, and optimize performance for millions of users.",
+  "url": "https://cryptocurrencyjobs.co/engineering/uniswap-labs-staff-backend-engineer/",
+  "location": {
+    "remote": false,
+    "city": "New York",
+    "country": "USA"
+  },
+  "employmentType": "full-time",
+  "experienceLevel": "senior",
+  "category": "engineering",
+  "tags": ["DeFi", "Backend", "Ethereum", "Solidity", "Smart Contracts", "Token"],
+  "salary": {
+    "min": 240000,
+    "max": 270000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "postedAt": "2026-02-25T09:00:00Z",
+  "expiresAt": "2026-04-25T23:59:59Z",
+  "status": "active"
+}

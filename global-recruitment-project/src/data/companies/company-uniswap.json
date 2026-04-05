@@ -1,0 +1,25 @@
+{
+  "id": "company-uniswap",
+  "name": "Uniswap Labs",
+  "description": "Uniswap Labs builds products and protocols that power the largest decentralized trading ecosystem on Ethereum. The Uniswap Protocol is an open-source protocol for providing liquidity and trading ERC20 tokens on Ethereum.",
+  "logoUrl": "https://cryptocurrencyjobs.co/startups/uniswap/logo",
+  "websiteUrl": "https://uniswap.org",
+  "careersUrl": "https://boards.greenhouse.io/uniswaplabs",
+  "location": {
+    "city": "New York",
+    "country": "USA",
+    "remote": true
+  },
+  "industry": "DeFi",
+  "size": "51-200",
+  "founded": 2018,
+  "socialLinks": {
+    "linkedin": "https://linkedin.com/company/uniswap-labs",
+    "twitter": "https://twitter.com/Uniswap",
+    "github": "https://github.com/Uniswap"
+  },
+  "meta": {
+    "source": "cryptocurrency-jobs",
+    "lastUpdated": "2026-04-02T03:00:00Z"
+  }
+}

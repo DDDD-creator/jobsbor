@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 500">
+  <!-- 背景 -->
+  <defs>
+    <linearGradient id="coverBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1E40AF"/>
+      <stop offset="50%" style="stop-color:#3B82F6"/>
+      <stop offset="100%" style="stop-color:#60A5FA"/>
+    </linearGradient>
+  </defs>
+  
+  <rect width="1500" height="500" fill="url(#coverBg)"/>
+  
+  <!-- 装饰元素 - 网格 -->
+  <pattern id="grid" width="50" height="50" patternUnits="userSpaceOnUse">
+    <path d="M 50 0 L 0 0 0 50" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+  </pattern>
+  <rect width="1500" height="500" fill="url(#grid)"/>
+  
+  <!-- 主标题 -->
+  <text x="100" y="180" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="white">🇨🇳 中文求职招聘</text>
+  
+  <!-- 副标题 -->
+  <text x="100" y="260" font-family="Arial, sans-serif" font-size="36" fill="rgba(255,255,255,0.9)">💼 960+ 真实职位 | 每日更新</text>
+  
+  <!-- 公司标签 -->
+  <g transform="translate(100, 310)">
+    <rect x="0" y="0" width="100" height="40" rx="20" fill="rgba(255,255,255,0.2)"/>
+    <text x="50" y="28" font-family="Arial, sans-serif" font-size="18" fill="white" text-anchor="middle">腾讯</text>
+    
+    <rect x="115" y="0" width="100" height="40" rx="20" fill="rgba(255,255,255,0.2)"/>
+    <text x="165" y="28" font-family="Arial, sans-serif" font-size="18" fill="white" text-anchor="middle">字节</text>
+    
+    <rect x="230" y="0" width="100" height="40" rx="20" fill="rgba(255,255,255,0.2)"/>
+    <text x="280" y="28" font-family="Arial, sans-serif" font-size="18" fill="white" text-anchor="middle">阿里</text>
+    
+    <rect x="345" y="0" width="120" height="40" rx="20" fill="rgba(255,255,255,0.2)"/>
+    <text x="405" y="28" font-family="Arial, sans-serif" font-size="18" fill="white" text-anchor="middle">Google</text>
+    
+    <rect x="480" y="0" width="100" height="40" rx="20" fill="rgba(255,255,255,0.2)"/>
+    <text x="530" y="28" font-family="Arial, sans-serif" font-size="18" fill="white" text-anchor="middle">Meta</text>
+  </g>
+  
+  <!-- CTA按钮 -->
+  <g transform="translate(100, 380)">
+    <rect x="0" y="0" width="280" height="50" rx="25" fill="#F59E0B"/>
+    <text x="140" y="35" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="white" text-anchor="middle">👉 jobsbor.vercel.app</text>
+  </g>
+  
+  <!-- 右侧装饰 - 职位卡片 -->
+  <g transform="translate(950, 80)">
+    <rect x="0" y="0" width="400" height="100" rx="12" fill="white" opacity="0.95"/>
+    <rect x="20" y="20" width="60" height="60" rx="8" fill="#3B82F6"/>
+    <text x="50" y="58" font-family="Arial, sans-serif" font-size="28" fill="white" text-anchor="middle">💼</text>
+    <text x="100" y="40" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1F2937">前端开发工程师</text>
+    <text x="100" y="65" font-family="Arial, sans-serif" font-size="16" fill="#6B7280">腾讯 · 北京 · ¥30k-60k</text>
+    <rect x="320" y="30" width="60" height="40" rx="20" fill="#10B981"/>
+    <text x="350" y="56" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle">申请</text>
+  </g>
+  
+  <g transform="translate(1000, 200)">
+    <rect x="0" y="0" width="400" height="100" rx="12" fill="white" opacity="0.9"/>
+    <rect x="20" y="20" width="60" height="60" rx="8" fill="#8B5CF6"/>
+    <text x="50" y="58" font-family="Arial, sans-serif" font-size="28" fill="white" text-anchor="middle">🚀</text>
+    <text x="100" y="40" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1F2937">产品经理</text>
+    <text x="100" y="65" font-family="Arial, sans-serif" font-size="16" fill="#6B7280">字节跳动 · 上海 · ¥40k-80k</text>
+    <rect x="320" y="30" width="60" height="40" rx="20" fill="#10B981"/>
+    <text x="350" y="56" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle">申请</text>
+  </g>
+  
+  <g transform="translate(1050, 320)">
+    <rect x="0" y="0" width="400" height="100" rx="12" fill="white" opacity="0.85"/>
+    <rect x="20" y="20" width="60" height="60" rx="8" fill="#F59E0B"/>
+    <text x="50" y="58" font-family="Arial, sans-serif" font-size="28" fill="white" text-anchor="middle">🤖</text>
+    <text x="100" y="40" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1F2937">AI工程师</text>
+    <text x="100" y="65" font-family="Arial, sans-serif" font-size="16" fill="#6B7280">Google · Remote · $150k-250k</text>
+    <rect x="320" y="30" width="60" height="40" rx="20" fill="#10B981"/>
+    <text x="350" y="56" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle">申请</text>
+  </g>
+</svg>

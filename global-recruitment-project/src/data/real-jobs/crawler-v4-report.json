@@ -1,0 +1,17 @@
+{
+  "timestamp": "2026-04-02T08:21:56.686Z",
+  "totalJobs": 108,
+  "sources": {
+    "RemoteOK": 98,
+    "HackerNews": 0,
+    "WeWorkRemotely": 0,
+    "WorkingNomads": 0,
+    "CryptoJobsList": 0,
+    "Web3Career": 0,
+    "AngelList": 3,
+    "StackOverflow": 2,
+    "LinkedIn": 3,
+    "Indeed": 2
+  },
+  "duration": "10.28s"
+}

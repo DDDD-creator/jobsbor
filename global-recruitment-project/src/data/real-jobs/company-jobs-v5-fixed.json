@@ -1,0 +1,5724 @@
+[
+  {
+    "id": "openai-research-engineer--robotics-0-1775152800206",
+    "title": "Research Engineer, Robotics",
+    "company": "OpenAI",
+    "location": "San Francisco, CA",
+    "department": "Research",
+    "description": "Research Engineer, Robotics at OpenAI. Join the Research team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://openai.com/careers",
+    "postedAt": "2026-04-02T18:00:00.206Z",
+    "source": "OpenAI",
+    "isStatic": true
+  },
+  {
+    "id": "openai-research-scientist--multimodal-1-1775152800206",
+    "title": "Research Scientist, Multimodal",
+    "company": "OpenAI",
+    "location": "San Francisco, CA",
+    "department": "Research",
+    "description": "Research Scientist, Multimodal at OpenAI. Join the Research team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://openai.com/careers",
+    "postedAt": "2026-04-02T18:00:00.206Z",
+    "source": "OpenAI",
+    "isStatic": true
+  },
+  {
+    "id": "openai-software-engineer--inference-2-1775152800206",
+    "title": "Software Engineer, Inference",
+    "company": "OpenAI",
+    "location": "San Francisco, CA",
+    "department": "Engineering",
+    "description": "Software Engineer, Inference at OpenAI. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://openai.com/careers",
+    "postedAt": "2026-04-02T18:00:00.206Z",
+    "source": "OpenAI",
+    "isStatic": true
+  },
+  {
+    "id": "openai-software-engineer--training-3-1775152800206",
+    "title": "Software Engineer, Training",
+    "company": "OpenAI",
+    "location": "San Francisco, CA",
+    "department": "Engineering",
+    "description": "Software Engineer, Training at OpenAI. Join the Engineering team.",
+    "requirements": [
+      "AI"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://openai.com/careers",
+    "postedAt": "2026-04-02T18:00:00.206Z",
+    "source": "OpenAI",
+    "isStatic": true
+  },
+  {
+    "id": "openai-machine-learning-engineer--safety-4-1775152800206",
+    "title": "Machine Learning Engineer, Safety",
+    "company": "OpenAI",
+    "location": "San Francisco, CA",
+    "department": "Safety",
+    "description": "Machine Learning Engineer, Safety at OpenAI. Join the Safety team.",
+    "requirements": [
+      "Machine Learning"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://openai.com/careers",
+    "postedAt": "2026-04-02T18:00:00.206Z",
+    "source": "OpenAI",
+    "isStatic": true
+  },
+  {
+    "id": "openai-product-manager--api-platform-5-1775152800206",
+    "title": "Product Manager, API Platform",
+    "company": "OpenAI",
+    "location": "San Francisco, CA",
+    "department": "Product",
+    "description": "Product Manager, API Platform at OpenAI. Join the Product team.",
+    "requirements": [
+      "Product Manager"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://openai.com/careers",
+    "postedAt": "2026-04-02T18:00:00.206Z",
+    "source": "OpenAI",
+    "isStatic": true
+  },
+  {
+    "id": "openai-security-engineer--infrastructure-6-1775152800206",
+    "title": "Security Engineer, Infrastructure",
+    "company": "OpenAI",
+    "location": "San Francisco, CA",
+    "department": "Security",
+    "description": "Security Engineer, Infrastructure at OpenAI. Join the Security team.",
+    "requirements": [
+      "Security",
+      "Infrastructure"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://openai.com/careers",
+    "postedAt": "2026-04-02T18:00:00.206Z",
+    "source": "OpenAI",
+    "isStatic": true
+  },
+  {
+    "id": "openai-data-engineer--analytics-7-1775152800206",
+    "title": "Data Engineer, Analytics",
+    "company": "OpenAI",
+    "location": "San Francisco, CA",
+    "department": "Data",
+    "description": "Data Engineer, Analytics at OpenAI. Join the Data team.",
+    "requirements": [
+      "Data",
+      "Analytics"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://openai.com/careers",
+    "postedAt": "2026-04-02T18:00:00.206Z",
+    "source": "OpenAI",
+    "isStatic": true
+  },
+  {
+    "id": "openai-policy-researcher-8-1775152800206",
+    "title": "Policy Researcher",
+    "company": "OpenAI",
+    "location": "San Francisco, CA",
+    "department": "Policy",
+    "description": "Policy Researcher at OpenAI. Join the Policy team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://openai.com/careers",
+    "postedAt": "2026-04-02T18:00:00.206Z",
+    "source": "OpenAI",
+    "isStatic": true
+  },
+  {
+    "id": "openai-technical-program-manager-9-1775152800206",
+    "title": "Technical Program Manager",
+    "company": "OpenAI",
+    "location": "San Francisco, CA",
+    "department": "Engineering",
+    "description": "Technical Program Manager at OpenAI. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://openai.com/careers",
+    "postedAt": "2026-04-02T18:00:00.206Z",
+    "source": "OpenAI",
+    "isStatic": true
+  },
+  {
+    "id": "stripe-backend-engineer--payments-0-1775152800257",
+    "title": "Backend Engineer, Payments",
+    "company": "Stripe",
+    "location": "Remote",
+    "department": "Engineering",
+    "description": "Backend Engineer, Payments at Stripe. Join the Engineering team.",
+    "requirements": [
+      "Backend"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://stripe.com/careers",
+    "postedAt": "2026-04-02T18:00:00.257Z",
+    "source": "Stripe",
+    "isStatic": true
+  },
+  {
+    "id": "stripe-frontend-engineer--dashboard-1-1775152800257",
+    "title": "Frontend Engineer, Dashboard",
+    "company": "Stripe",
+    "location": "Remote",
+    "department": "Engineering",
+    "description": "Frontend Engineer, Dashboard at Stripe. Join the Engineering team.",
+    "requirements": [
+      "Frontend"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://stripe.com/careers",
+    "postedAt": "2026-04-02T18:00:00.257Z",
+    "source": "Stripe",
+    "isStatic": true
+  },
+  {
+    "id": "stripe-data-scientist--risk-2-1775152800257",
+    "title": "Data Scientist, Risk",
+    "company": "Stripe",
+    "location": "Remote",
+    "department": "Data",
+    "description": "Data Scientist, Risk at Stripe. Join the Data team.",
+    "requirements": [
+      "Data"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://stripe.com/careers",
+    "postedAt": "2026-04-02T18:00:00.257Z",
+    "source": "Stripe",
+    "isStatic": true
+  },
+  {
+    "id": "stripe-machine-learning-engineer--fraud-3-1775152800257",
+    "title": "Machine Learning Engineer, Fraud",
+    "company": "Stripe",
+    "location": "Remote",
+    "department": "ML",
+    "description": "Machine Learning Engineer, Fraud at Stripe. Join the ML team.",
+    "requirements": [
+      "Machine Learning"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://stripe.com/careers",
+    "postedAt": "2026-04-02T18:00:00.257Z",
+    "source": "Stripe",
+    "isStatic": true
+  },
+  {
+    "id": "stripe-product-manager--developer-platform-4-1775152800257",
+    "title": "Product Manager, Developer Platform",
+    "company": "Stripe",
+    "location": "Remote",
+    "department": "Product",
+    "description": "Product Manager, Developer Platform at Stripe. Join the Product team.",
+    "requirements": [
+      "Product Manager"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://stripe.com/careers",
+    "postedAt": "2026-04-02T18:00:00.258Z",
+    "source": "Stripe",
+    "isStatic": true
+  },
+  {
+    "id": "stripe-security-engineer--infrastructure-5-1775152800258",
+    "title": "Security Engineer, Infrastructure",
+    "company": "Stripe",
+    "location": "Remote",
+    "department": "Security",
+    "description": "Security Engineer, Infrastructure at Stripe. Join the Security team.",
+    "requirements": [
+      "Security",
+      "Infrastructure"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://stripe.com/careers",
+    "postedAt": "2026-04-02T18:00:00.258Z",
+    "source": "Stripe",
+    "isStatic": true
+  },
+  {
+    "id": "stripe-site-reliability-engineer-6-1775152800258",
+    "title": "Site Reliability Engineer",
+    "company": "Stripe",
+    "location": "Remote",
+    "department": "Infrastructure",
+    "description": "Site Reliability Engineer at Stripe. Join the Infrastructure team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://stripe.com/careers",
+    "postedAt": "2026-04-02T18:00:00.258Z",
+    "source": "Stripe",
+    "isStatic": true
+  },
+  {
+    "id": "stripe-staff-engineer--platform-7-1775152800258",
+    "title": "Staff Engineer, Platform",
+    "company": "Stripe",
+    "location": "Remote",
+    "department": "Engineering",
+    "description": "Staff Engineer, Platform at Stripe. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://stripe.com/careers",
+    "postedAt": "2026-04-02T18:00:00.258Z",
+    "source": "Stripe",
+    "isStatic": true
+  },
+  {
+    "id": "stripe-engineering-manager--terminal-8-1775152800258",
+    "title": "Engineering Manager, Terminal",
+    "company": "Stripe",
+    "location": "Remote",
+    "department": "Engineering",
+    "description": "Engineering Manager, Terminal at Stripe. Join the Engineering team.",
+    "requirements": [
+      "Engineering"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://stripe.com/careers",
+    "postedAt": "2026-04-02T18:00:00.258Z",
+    "source": "Stripe",
+    "isStatic": true
+  },
+  {
+    "id": "stripe-data-engineer--analytics-9-1775152800258",
+    "title": "Data Engineer, Analytics",
+    "company": "Stripe",
+    "location": "Remote",
+    "department": "Data",
+    "description": "Data Engineer, Analytics at Stripe. Join the Data team.",
+    "requirements": [
+      "Data",
+      "Analytics"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://stripe.com/careers",
+    "postedAt": "2026-04-02T18:00:00.258Z",
+    "source": "Stripe",
+    "isStatic": true
+  },
+  {
+    "id": "stripe-solutions-architect-10-1775152800258",
+    "title": "Solutions Architect",
+    "company": "Stripe",
+    "location": "Remote",
+    "department": "Sales Engineering",
+    "description": "Solutions Architect at Stripe. Join the Sales Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://stripe.com/careers",
+    "postedAt": "2026-04-02T18:00:00.258Z",
+    "source": "Stripe",
+    "isStatic": true
+  },
+  {
+    "id": "stripe-technical-writer-11-1775152800258",
+    "title": "Technical Writer",
+    "company": "Stripe",
+    "location": "Remote",
+    "department": "Documentation",
+    "description": "Technical Writer at Stripe. Join the Documentation team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://stripe.com/careers",
+    "postedAt": "2026-04-02T18:00:00.258Z",
+    "source": "Stripe",
+    "isStatic": true
+  },
+  {
+    "id": "airbnb-senior-software-engineer--backend-0-1775152800308",
+    "title": "Senior Software Engineer, Backend",
+    "company": "Airbnb",
+    "location": "San Francisco, CA / Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer, Backend at Airbnb. Join the Engineering team.",
+    "requirements": [
+      "Backend"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://airbnb.com/careers",
+    "postedAt": "2026-04-02T18:00:00.308Z",
+    "source": "Airbnb",
+    "isStatic": true
+  },
+  {
+    "id": "airbnb-senior-software-engineer--frontend-1-1775152800308",
+    "title": "Senior Software Engineer, Frontend",
+    "company": "Airbnb",
+    "location": "San Francisco, CA / Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer, Frontend at Airbnb. Join the Engineering team.",
+    "requirements": [
+      "Frontend"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://airbnb.com/careers",
+    "postedAt": "2026-04-02T18:00:00.308Z",
+    "source": "Airbnb",
+    "isStatic": true
+  },
+  {
+    "id": "airbnb-staff-machine-learning-engineer-2-1775152800308",
+    "title": "Staff Machine Learning Engineer",
+    "company": "Airbnb",
+    "location": "San Francisco, CA / Remote",
+    "department": "ML",
+    "description": "Staff Machine Learning Engineer at Airbnb. Join the ML team.",
+    "requirements": [
+      "Machine Learning"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://airbnb.com/careers",
+    "postedAt": "2026-04-02T18:00:00.308Z",
+    "source": "Airbnb",
+    "isStatic": true
+  },
+  {
+    "id": "airbnb-data-scientist--search-3-1775152800308",
+    "title": "Data Scientist, Search",
+    "company": "Airbnb",
+    "location": "San Francisco, CA / Remote",
+    "department": "Data",
+    "description": "Data Scientist, Search at Airbnb. Join the Data team.",
+    "requirements": [
+      "Data"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://airbnb.com/careers",
+    "postedAt": "2026-04-02T18:00:00.308Z",
+    "source": "Airbnb",
+    "isStatic": true
+  },
+  {
+    "id": "airbnb-product-manager--guest-experience-4-1775152800308",
+    "title": "Product Manager, Guest Experience",
+    "company": "Airbnb",
+    "location": "San Francisco, CA / Remote",
+    "department": "Product",
+    "description": "Product Manager, Guest Experience at Airbnb. Join the Product team.",
+    "requirements": [
+      "Product Manager"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://airbnb.com/careers",
+    "postedAt": "2026-04-02T18:00:00.308Z",
+    "source": "Airbnb",
+    "isStatic": true
+  },
+  {
+    "id": "airbnb-security-engineer--infrastructure-5-1775152800308",
+    "title": "Security Engineer, Infrastructure",
+    "company": "Airbnb",
+    "location": "San Francisco, CA / Remote",
+    "department": "Security",
+    "description": "Security Engineer, Infrastructure at Airbnb. Join the Security team.",
+    "requirements": [
+      "Security",
+      "Infrastructure"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://airbnb.com/careers",
+    "postedAt": "2026-04-02T18:00:00.308Z",
+    "source": "Airbnb",
+    "isStatic": true
+  },
+  {
+    "id": "airbnb-ios-engineer-6-1775152800308",
+    "title": "iOS Engineer",
+    "company": "Airbnb",
+    "location": "San Francisco, CA / Remote",
+    "department": "Engineering",
+    "description": "iOS Engineer at Airbnb. Join the Engineering team.",
+    "requirements": [
+      "iOS"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://airbnb.com/careers",
+    "postedAt": "2026-04-02T18:00:00.308Z",
+    "source": "Airbnb",
+    "isStatic": true
+  },
+  {
+    "id": "airbnb-android-engineer-7-1775152800308",
+    "title": "Android Engineer",
+    "company": "Airbnb",
+    "location": "San Francisco, CA / Remote",
+    "department": "Engineering",
+    "description": "Android Engineer at Airbnb. Join the Engineering team.",
+    "requirements": [
+      "Android"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://airbnb.com/careers",
+    "postedAt": "2026-04-02T18:00:00.308Z",
+    "source": "Airbnb",
+    "isStatic": true
+  },
+  {
+    "id": "airbnb-site-reliability-engineer-8-1775152800308",
+    "title": "Site Reliability Engineer",
+    "company": "Airbnb",
+    "location": "San Francisco, CA / Remote",
+    "department": "Infrastructure",
+    "description": "Site Reliability Engineer at Airbnb. Join the Infrastructure team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://airbnb.com/careers",
+    "postedAt": "2026-04-02T18:00:00.308Z",
+    "source": "Airbnb",
+    "isStatic": true
+  },
+  {
+    "id": "coinbase-senior-software-engineer--backend-0-1775152800359",
+    "title": "Senior Software Engineer, Backend",
+    "company": "Coinbase",
+    "location": "Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer, Backend at Coinbase. Join the Engineering team.",
+    "requirements": [
+      "Backend"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://coinbase.com/careers",
+    "postedAt": "2026-04-02T18:00:00.359Z",
+    "source": "Coinbase",
+    "isStatic": true
+  },
+  {
+    "id": "coinbase-staff-software-engineer--blockchain-1-1775152800359",
+    "title": "Staff Software Engineer, Blockchain",
+    "company": "Coinbase",
+    "location": "Remote",
+    "department": "Engineering",
+    "description": "Staff Software Engineer, Blockchain at Coinbase. Join the Engineering team.",
+    "requirements": [
+      "Blockchain",
+      "AI"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://coinbase.com/careers",
+    "postedAt": "2026-04-02T18:00:00.359Z",
+    "source": "Coinbase",
+    "isStatic": true
+  },
+  {
+    "id": "coinbase-senior-security-engineer-2-1775152800359",
+    "title": "Senior Security Engineer",
+    "company": "Coinbase",
+    "location": "Remote",
+    "department": "Security",
+    "description": "Senior Security Engineer at Coinbase. Join the Security team.",
+    "requirements": [
+      "Security"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://coinbase.com/careers",
+    "postedAt": "2026-04-02T18:00:00.359Z",
+    "source": "Coinbase",
+    "isStatic": true
+  },
+  {
+    "id": "coinbase-product-manager--consumer-3-1775152800359",
+    "title": "Product Manager, Consumer",
+    "company": "Coinbase",
+    "location": "Remote",
+    "department": "Product",
+    "description": "Product Manager, Consumer at Coinbase. Join the Product team.",
+    "requirements": [
+      "Product Manager"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://coinbase.com/careers",
+    "postedAt": "2026-04-02T18:00:00.359Z",
+    "source": "Coinbase",
+    "isStatic": true
+  },
+  {
+    "id": "coinbase-data-scientist--trading-4-1775152800359",
+    "title": "Data Scientist, Trading",
+    "company": "Coinbase",
+    "location": "Remote",
+    "department": "Data",
+    "description": "Data Scientist, Trading at Coinbase. Join the Data team.",
+    "requirements": [
+      "Data"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://coinbase.com/careers",
+    "postedAt": "2026-04-02T18:00:00.359Z",
+    "source": "Coinbase",
+    "isStatic": true
+  },
+  {
+    "id": "coinbase-machine-learning-engineer--fraud-5-1775152800359",
+    "title": "Machine Learning Engineer, Fraud",
+    "company": "Coinbase",
+    "location": "Remote",
+    "department": "ML",
+    "description": "Machine Learning Engineer, Fraud at Coinbase. Join the ML team.",
+    "requirements": [
+      "Machine Learning"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://coinbase.com/careers",
+    "postedAt": "2026-04-02T18:00:00.359Z",
+    "source": "Coinbase",
+    "isStatic": true
+  },
+  {
+    "id": "coinbase-site-reliability-engineer-6-1775152800359",
+    "title": "Site Reliability Engineer",
+    "company": "Coinbase",
+    "location": "Remote",
+    "department": "Infrastructure",
+    "description": "Site Reliability Engineer at Coinbase. Join the Infrastructure team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://coinbase.com/careers",
+    "postedAt": "2026-04-02T18:00:00.359Z",
+    "source": "Coinbase",
+    "isStatic": true
+  },
+  {
+    "id": "coinbase-compliance-analyst-7-1775152800359",
+    "title": "Compliance Analyst",
+    "company": "Coinbase",
+    "location": "Remote",
+    "department": "Compliance",
+    "description": "Compliance Analyst at Coinbase. Join the Compliance team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://coinbase.com/careers",
+    "postedAt": "2026-04-02T18:00:00.359Z",
+    "source": "Coinbase",
+    "isStatic": true
+  },
+  {
+    "id": "coinbase-blockchain-engineer-8-1775152800359",
+    "title": "Blockchain Engineer",
+    "company": "Coinbase",
+    "location": "Remote",
+    "department": "Engineering",
+    "description": "Blockchain Engineer at Coinbase. Join the Engineering team.",
+    "requirements": [
+      "Blockchain",
+      "AI"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://coinbase.com/careers",
+    "postedAt": "2026-04-02T18:00:00.359Z",
+    "source": "Coinbase",
+    "isStatic": true
+  },
+  {
+    "id": "coinbase-engineering-manager--wallet-9-1775152800359",
+    "title": "Engineering Manager, Wallet",
+    "company": "Coinbase",
+    "location": "Remote",
+    "department": "Engineering",
+    "description": "Engineering Manager, Wallet at Coinbase. Join the Engineering team.",
+    "requirements": [
+      "Engineering"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://coinbase.com/careers",
+    "postedAt": "2026-04-02T18:00:00.359Z",
+    "source": "Coinbase",
+    "isStatic": true
+  },
+  {
+    "id": "netflix-senior-software-engineer--streaming-0-1775152800409",
+    "title": "Senior Software Engineer, Streaming",
+    "company": "Netflix",
+    "location": "Los Gatos, CA / Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer, Streaming at Netflix. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://netflix.com/careers",
+    "postedAt": "2026-04-02T18:00:00.409Z",
+    "source": "Netflix",
+    "isStatic": true
+  },
+  {
+    "id": "netflix-senior-software-engineer--recommendation-1-1775152800409",
+    "title": "Senior Software Engineer, Recommendation",
+    "company": "Netflix",
+    "location": "Los Gatos, CA / Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer, Recommendation at Netflix. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://netflix.com/careers",
+    "postedAt": "2026-04-02T18:00:00.409Z",
+    "source": "Netflix",
+    "isStatic": true
+  },
+  {
+    "id": "netflix-machine-learning-engineer--content-2-1775152800409",
+    "title": "Machine Learning Engineer, Content",
+    "company": "Netflix",
+    "location": "Los Gatos, CA / Remote",
+    "department": "ML",
+    "description": "Machine Learning Engineer, Content at Netflix. Join the ML team.",
+    "requirements": [
+      "Machine Learning"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://netflix.com/careers",
+    "postedAt": "2026-04-02T18:00:00.409Z",
+    "source": "Netflix",
+    "isStatic": true
+  },
+  {
+    "id": "netflix-data-engineer--platform-3-1775152800409",
+    "title": "Data Engineer, Platform",
+    "company": "Netflix",
+    "location": "Los Gatos, CA / Remote",
+    "department": "Data",
+    "description": "Data Engineer, Platform at Netflix. Join the Data team.",
+    "requirements": [
+      "Data"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://netflix.com/careers",
+    "postedAt": "2026-04-02T18:00:00.409Z",
+    "source": "Netflix",
+    "isStatic": true
+  },
+  {
+    "id": "netflix-senior-ui-engineer-4-1775152800409",
+    "title": "Senior UI Engineer",
+    "company": "Netflix",
+    "location": "Los Gatos, CA / Remote",
+    "department": "Engineering",
+    "description": "Senior UI Engineer at Netflix. Join the Engineering team.",
+    "requirements": [
+      "UI"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://netflix.com/careers",
+    "postedAt": "2026-04-02T18:00:00.409Z",
+    "source": "Netflix",
+    "isStatic": true
+  },
+  {
+    "id": "netflix-product-manager--studio-5-1775152800409",
+    "title": "Product Manager, Studio",
+    "company": "Netflix",
+    "location": "Los Gatos, CA / Remote",
+    "department": "Product",
+    "description": "Product Manager, Studio at Netflix. Join the Product team.",
+    "requirements": [
+      "Product Manager"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://netflix.com/careers",
+    "postedAt": "2026-04-02T18:00:00.409Z",
+    "source": "Netflix",
+    "isStatic": true
+  },
+  {
+    "id": "netflix-security-engineer--infrastructure-6-1775152800409",
+    "title": "Security Engineer, Infrastructure",
+    "company": "Netflix",
+    "location": "Los Gatos, CA / Remote",
+    "department": "Security",
+    "description": "Security Engineer, Infrastructure at Netflix. Join the Security team.",
+    "requirements": [
+      "Security",
+      "Infrastructure"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://netflix.com/careers",
+    "postedAt": "2026-04-02T18:00:00.409Z",
+    "source": "Netflix",
+    "isStatic": true
+  },
+  {
+    "id": "netflix-ios-engineer-7-1775152800409",
+    "title": "iOS Engineer",
+    "company": "Netflix",
+    "location": "Los Gatos, CA / Remote",
+    "department": "Engineering",
+    "description": "iOS Engineer at Netflix. Join the Engineering team.",
+    "requirements": [
+      "iOS"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://netflix.com/careers",
+    "postedAt": "2026-04-02T18:00:00.409Z",
+    "source": "Netflix",
+    "isStatic": true
+  },
+  {
+    "id": "netflix-android-engineer-8-1775152800409",
+    "title": "Android Engineer",
+    "company": "Netflix",
+    "location": "Los Gatos, CA / Remote",
+    "department": "Engineering",
+    "description": "Android Engineer at Netflix. Join the Engineering team.",
+    "requirements": [
+      "Android"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://netflix.com/careers",
+    "postedAt": "2026-04-02T18:00:00.409Z",
+    "source": "Netflix",
+    "isStatic": true
+  },
+  {
+    "id": "netflix-engineering-manager--player-9-1775152800409",
+    "title": "Engineering Manager, Player",
+    "company": "Netflix",
+    "location": "Los Gatos, CA / Remote",
+    "department": "Engineering",
+    "description": "Engineering Manager, Player at Netflix. Join the Engineering team.",
+    "requirements": [
+      "Engineering"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://netflix.com/careers",
+    "postedAt": "2026-04-02T18:00:00.409Z",
+    "source": "Netflix",
+    "isStatic": true
+  },
+  {
+    "id": "spotify-backend-engineer--personalization-0-1775152800460",
+    "title": "Backend Engineer, Personalization",
+    "company": "Spotify",
+    "location": "Stockholm / Remote",
+    "department": "Engineering",
+    "description": "Backend Engineer, Personalization at Spotify. Join the Engineering team.",
+    "requirements": [
+      "Backend"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://spotify.com/careers",
+    "postedAt": "2026-04-02T18:00:00.460Z",
+    "source": "Spotify",
+    "isStatic": true
+  },
+  {
+    "id": "spotify-data-engineer--analytics-1-1775152800460",
+    "title": "Data Engineer, Analytics",
+    "company": "Spotify",
+    "location": "Stockholm / Remote",
+    "department": "Data",
+    "description": "Data Engineer, Analytics at Spotify. Join the Data team.",
+    "requirements": [
+      "Data",
+      "Analytics"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://spotify.com/careers",
+    "postedAt": "2026-04-02T18:00:00.460Z",
+    "source": "Spotify",
+    "isStatic": true
+  },
+  {
+    "id": "spotify-machine-learning-engineer--audio-2-1775152800460",
+    "title": "Machine Learning Engineer, Audio",
+    "company": "Spotify",
+    "location": "Stockholm / Remote",
+    "department": "ML",
+    "description": "Machine Learning Engineer, Audio at Spotify. Join the ML team.",
+    "requirements": [
+      "Machine Learning"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://spotify.com/careers",
+    "postedAt": "2026-04-02T18:00:00.460Z",
+    "source": "Spotify",
+    "isStatic": true
+  },
+  {
+    "id": "spotify-ios-engineer-3-1775152800460",
+    "title": "iOS Engineer",
+    "company": "Spotify",
+    "location": "Stockholm / Remote",
+    "department": "Engineering",
+    "description": "iOS Engineer at Spotify. Join the Engineering team.",
+    "requirements": [
+      "iOS"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://spotify.com/careers",
+    "postedAt": "2026-04-02T18:00:00.460Z",
+    "source": "Spotify",
+    "isStatic": true
+  },
+  {
+    "id": "spotify-android-engineer-4-1775152800460",
+    "title": "Android Engineer",
+    "company": "Spotify",
+    "location": "Stockholm / Remote",
+    "department": "Engineering",
+    "description": "Android Engineer at Spotify. Join the Engineering team.",
+    "requirements": [
+      "Android"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://spotify.com/careers",
+    "postedAt": "2026-04-02T18:00:00.460Z",
+    "source": "Spotify",
+    "isStatic": true
+  },
+  {
+    "id": "spotify-product-manager--creator-5-1775152800460",
+    "title": "Product Manager, Creator",
+    "company": "Spotify",
+    "location": "Stockholm / Remote",
+    "department": "Product",
+    "description": "Product Manager, Creator at Spotify. Join the Product team.",
+    "requirements": [
+      "Product Manager"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://spotify.com/careers",
+    "postedAt": "2026-04-02T18:00:00.460Z",
+    "source": "Spotify",
+    "isStatic": true
+  },
+  {
+    "id": "spotify-security-engineer-6-1775152800460",
+    "title": "Security Engineer",
+    "company": "Spotify",
+    "location": "Stockholm / Remote",
+    "department": "Security",
+    "description": "Security Engineer at Spotify. Join the Security team.",
+    "requirements": [
+      "Security"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://spotify.com/careers",
+    "postedAt": "2026-04-02T18:00:00.460Z",
+    "source": "Spotify",
+    "isStatic": true
+  },
+  {
+    "id": "spotify-web-engineer-7-1775152800460",
+    "title": "Web Engineer",
+    "company": "Spotify",
+    "location": "Stockholm / Remote",
+    "department": "Engineering",
+    "description": "Web Engineer at Spotify. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://spotify.com/careers",
+    "postedAt": "2026-04-02T18:00:00.460Z",
+    "source": "Spotify",
+    "isStatic": true
+  },
+  {
+    "id": "gitlab-senior-backend-engineer--verify-0-1775152800510",
+    "title": "Senior Backend Engineer, Verify",
+    "company": "GitLab",
+    "location": "Remote",
+    "department": "Engineering",
+    "description": "Senior Backend Engineer, Verify at GitLab. Join the Engineering team.",
+    "requirements": [
+      "Backend"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://gitlab.com/careers",
+    "postedAt": "2026-04-02T18:00:00.510Z",
+    "source": "GitLab",
+    "isStatic": true
+  },
+  {
+    "id": "gitlab-senior-frontend-engineer-1-1775152800510",
+    "title": "Senior Frontend Engineer",
+    "company": "GitLab",
+    "location": "Remote",
+    "department": "Engineering",
+    "description": "Senior Frontend Engineer at GitLab. Join the Engineering team.",
+    "requirements": [
+      "Frontend"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://gitlab.com/careers",
+    "postedAt": "2026-04-02T18:00:00.510Z",
+    "source": "GitLab",
+    "isStatic": true
+  },
+  {
+    "id": "gitlab-security-engineer-2-1775152800510",
+    "title": "Security Engineer",
+    "company": "GitLab",
+    "location": "Remote",
+    "department": "Security",
+    "description": "Security Engineer at GitLab. Join the Security team.",
+    "requirements": [
+      "Security"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://gitlab.com/careers",
+    "postedAt": "2026-04-02T18:00:00.510Z",
+    "source": "GitLab",
+    "isStatic": true
+  },
+  {
+    "id": "gitlab-product-manager--devops-3-1775152800510",
+    "title": "Product Manager, DevOps",
+    "company": "GitLab",
+    "location": "Remote",
+    "department": "Product",
+    "description": "Product Manager, DevOps at GitLab. Join the Product team.",
+    "requirements": [
+      "Product Manager",
+      "DevOps"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://gitlab.com/careers",
+    "postedAt": "2026-04-02T18:00:00.510Z",
+    "source": "GitLab",
+    "isStatic": true
+  },
+  {
+    "id": "gitlab-site-reliability-engineer-4-1775152800510",
+    "title": "Site Reliability Engineer",
+    "company": "GitLab",
+    "location": "Remote",
+    "department": "Infrastructure",
+    "description": "Site Reliability Engineer at GitLab. Join the Infrastructure team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://gitlab.com/careers",
+    "postedAt": "2026-04-02T18:00:00.510Z",
+    "source": "GitLab",
+    "isStatic": true
+  },
+  {
+    "id": "gitlab-data-engineer-5-1775152800510",
+    "title": "Data Engineer",
+    "company": "GitLab",
+    "location": "Remote",
+    "department": "Data",
+    "description": "Data Engineer at GitLab. Join the Data team.",
+    "requirements": [
+      "Data"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://gitlab.com/careers",
+    "postedAt": "2026-04-02T18:00:00.510Z",
+    "source": "GitLab",
+    "isStatic": true
+  },
+  {
+    "id": "gitlab-engineering-manager--platform-6-1775152800510",
+    "title": "Engineering Manager, Platform",
+    "company": "GitLab",
+    "location": "Remote",
+    "department": "Engineering",
+    "description": "Engineering Manager, Platform at GitLab. Join the Engineering team.",
+    "requirements": [
+      "Engineering"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://gitlab.com/careers",
+    "postedAt": "2026-04-02T18:00:00.510Z",
+    "source": "GitLab",
+    "isStatic": true
+  },
+  {
+    "id": "gitlab-ux-designer-7-1775152800510",
+    "title": "UX Designer",
+    "company": "GitLab",
+    "location": "Remote",
+    "department": "Design",
+    "description": "UX Designer at GitLab. Join the Design team.",
+    "requirements": [
+      "UX",
+      "Design"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://gitlab.com/careers",
+    "postedAt": "2026-04-02T18:00:00.510Z",
+    "source": "GitLab",
+    "isStatic": true
+  },
+  {
+    "id": "shopify-senior-software-engineer--commerce-0-1775152800561",
+    "title": "Senior Software Engineer, Commerce",
+    "company": "Shopify",
+    "location": "Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer, Commerce at Shopify. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://shopify.com/careers",
+    "postedAt": "2026-04-02T18:00:00.561Z",
+    "source": "Shopify",
+    "isStatic": true
+  },
+  {
+    "id": "shopify-staff-software-engineer--platform-1-1775152800561",
+    "title": "Staff Software Engineer, Platform",
+    "company": "Shopify",
+    "location": "Remote",
+    "department": "Engineering",
+    "description": "Staff Software Engineer, Platform at Shopify. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://shopify.com/careers",
+    "postedAt": "2026-04-02T18:00:00.561Z",
+    "source": "Shopify",
+    "isStatic": true
+  },
+  {
+    "id": "shopify-data-scientist--payments-2-1775152800561",
+    "title": "Data Scientist, Payments",
+    "company": "Shopify",
+    "location": "Remote",
+    "department": "Data",
+    "description": "Data Scientist, Payments at Shopify. Join the Data team.",
+    "requirements": [
+      "Data"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://shopify.com/careers",
+    "postedAt": "2026-04-02T18:00:00.561Z",
+    "source": "Shopify",
+    "isStatic": true
+  },
+  {
+    "id": "shopify-product-manager--merchant-3-1775152800561",
+    "title": "Product Manager, Merchant",
+    "company": "Shopify",
+    "location": "Remote",
+    "department": "Product",
+    "description": "Product Manager, Merchant at Shopify. Join the Product team.",
+    "requirements": [
+      "Product Manager"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://shopify.com/careers",
+    "postedAt": "2026-04-02T18:00:00.561Z",
+    "source": "Shopify",
+    "isStatic": true
+  },
+  {
+    "id": "shopify-security-engineer-4-1775152800561",
+    "title": "Security Engineer",
+    "company": "Shopify",
+    "location": "Remote",
+    "department": "Security",
+    "description": "Security Engineer at Shopify. Join the Security team.",
+    "requirements": [
+      "Security"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://shopify.com/careers",
+    "postedAt": "2026-04-02T18:00:00.561Z",
+    "source": "Shopify",
+    "isStatic": true
+  },
+  {
+    "id": "shopify-ios-engineer-5-1775152800561",
+    "title": "iOS Engineer",
+    "company": "Shopify",
+    "location": "Remote",
+    "department": "Engineering",
+    "description": "iOS Engineer at Shopify. Join the Engineering team.",
+    "requirements": [
+      "iOS"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://shopify.com/careers",
+    "postedAt": "2026-04-02T18:00:00.561Z",
+    "source": "Shopify",
+    "isStatic": true
+  },
+  {
+    "id": "shopify-machine-learning-engineer-6-1775152800561",
+    "title": "Machine Learning Engineer",
+    "company": "Shopify",
+    "location": "Remote",
+    "department": "ML",
+    "description": "Machine Learning Engineer at Shopify. Join the ML team.",
+    "requirements": [
+      "Machine Learning"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://shopify.com/careers",
+    "postedAt": "2026-04-02T18:00:00.561Z",
+    "source": "Shopify",
+    "isStatic": true
+  },
+  {
+    "id": "shopify-engineering-manager-7-1775152800561",
+    "title": "Engineering Manager",
+    "company": "Shopify",
+    "location": "Remote",
+    "department": "Engineering",
+    "description": "Engineering Manager at Shopify. Join the Engineering team.",
+    "requirements": [
+      "Engineering"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://shopify.com/careers",
+    "postedAt": "2026-04-02T18:00:00.561Z",
+    "source": "Shopify",
+    "isStatic": true
+  },
+  {
+    "id": "figma-senior-software-engineer--editor-0-1775152800611",
+    "title": "Senior Software Engineer, Editor",
+    "company": "Figma",
+    "location": "San Francisco / Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer, Editor at Figma. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://figma.com/careers",
+    "postedAt": "2026-04-02T18:00:00.611Z",
+    "source": "Figma",
+    "isStatic": true
+  },
+  {
+    "id": "figma-senior-software-engineer--infrastructure-1-1775152800611",
+    "title": "Senior Software Engineer, Infrastructure",
+    "company": "Figma",
+    "location": "San Francisco / Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer, Infrastructure at Figma. Join the Engineering team.",
+    "requirements": [
+      "Infrastructure"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://figma.com/careers",
+    "postedAt": "2026-04-02T18:00:00.611Z",
+    "source": "Figma",
+    "isStatic": true
+  },
+  {
+    "id": "figma-product-manager--design-systems-2-1775152800611",
+    "title": "Product Manager, Design Systems",
+    "company": "Figma",
+    "location": "San Francisco / Remote",
+    "department": "Product",
+    "description": "Product Manager, Design Systems at Figma. Join the Product team.",
+    "requirements": [
+      "Product Manager",
+      "Design"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://figma.com/careers",
+    "postedAt": "2026-04-02T18:00:00.611Z",
+    "source": "Figma",
+    "isStatic": true
+  },
+  {
+    "id": "figma-data-scientist--growth-3-1775152800611",
+    "title": "Data Scientist, Growth",
+    "company": "Figma",
+    "location": "San Francisco / Remote",
+    "department": "Data",
+    "description": "Data Scientist, Growth at Figma. Join the Data team.",
+    "requirements": [
+      "Data"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://figma.com/careers",
+    "postedAt": "2026-04-02T18:00:00.611Z",
+    "source": "Figma",
+    "isStatic": true
+  },
+  {
+    "id": "figma-security-engineer-4-1775152800611",
+    "title": "Security Engineer",
+    "company": "Figma",
+    "location": "San Francisco / Remote",
+    "department": "Security",
+    "description": "Security Engineer at Figma. Join the Security team.",
+    "requirements": [
+      "Security"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://figma.com/careers",
+    "postedAt": "2026-04-02T18:00:00.611Z",
+    "source": "Figma",
+    "isStatic": true
+  },
+  {
+    "id": "figma-ios-engineer-5-1775152800611",
+    "title": "iOS Engineer",
+    "company": "Figma",
+    "location": "San Francisco / Remote",
+    "department": "Engineering",
+    "description": "iOS Engineer at Figma. Join the Engineering team.",
+    "requirements": [
+      "iOS"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://figma.com/careers",
+    "postedAt": "2026-04-02T18:00:00.611Z",
+    "source": "Figma",
+    "isStatic": true
+  },
+  {
+    "id": "figma-product-designer-6-1775152800611",
+    "title": "Product Designer",
+    "company": "Figma",
+    "location": "San Francisco / Remote",
+    "department": "Design",
+    "description": "Product Designer at Figma. Join the Design team.",
+    "requirements": [
+      "Design"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://figma.com/careers",
+    "postedAt": "2026-04-02T18:00:00.611Z",
+    "source": "Figma",
+    "isStatic": true
+  },
+  {
+    "id": "figma-engineering-manager-7-1775152800611",
+    "title": "Engineering Manager",
+    "company": "Figma",
+    "location": "San Francisco / Remote",
+    "department": "Engineering",
+    "description": "Engineering Manager at Figma. Join the Engineering team.",
+    "requirements": [
+      "Engineering"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://figma.com/careers",
+    "postedAt": "2026-04-02T18:00:00.611Z",
+    "source": "Figma",
+    "isStatic": true
+  },
+  {
+    "id": "notion-senior-software-engineer--backend-0-1775152800662",
+    "title": "Senior Software Engineer, Backend",
+    "company": "Notion",
+    "location": "San Francisco / Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer, Backend at Notion. Join the Engineering team.",
+    "requirements": [
+      "Backend"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://notion.com/careers",
+    "postedAt": "2026-04-02T18:00:00.662Z",
+    "source": "Notion",
+    "isStatic": true
+  },
+  {
+    "id": "notion-senior-software-engineer--frontend-1-1775152800662",
+    "title": "Senior Software Engineer, Frontend",
+    "company": "Notion",
+    "location": "San Francisco / Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer, Frontend at Notion. Join the Engineering team.",
+    "requirements": [
+      "Frontend"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://notion.com/careers",
+    "postedAt": "2026-04-02T18:00:00.662Z",
+    "source": "Notion",
+    "isStatic": true
+  },
+  {
+    "id": "notion-mobile-engineer--ios-2-1775152800662",
+    "title": "Mobile Engineer, iOS",
+    "company": "Notion",
+    "location": "San Francisco / Remote",
+    "department": "Engineering",
+    "description": "Mobile Engineer, iOS at Notion. Join the Engineering team.",
+    "requirements": [
+      "iOS"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://notion.com/careers",
+    "postedAt": "2026-04-02T18:00:00.662Z",
+    "source": "Notion",
+    "isStatic": true
+  },
+  {
+    "id": "notion-mobile-engineer--android-3-1775152800662",
+    "title": "Mobile Engineer, Android",
+    "company": "Notion",
+    "location": "San Francisco / Remote",
+    "department": "Engineering",
+    "description": "Mobile Engineer, Android at Notion. Join the Engineering team.",
+    "requirements": [
+      "Android"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://notion.com/careers",
+    "postedAt": "2026-04-02T18:00:00.662Z",
+    "source": "Notion",
+    "isStatic": true
+  },
+  {
+    "id": "notion-product-manager-4-1775152800662",
+    "title": "Product Manager",
+    "company": "Notion",
+    "location": "San Francisco / Remote",
+    "department": "Product",
+    "description": "Product Manager at Notion. Join the Product team.",
+    "requirements": [
+      "Product Manager"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://notion.com/careers",
+    "postedAt": "2026-04-02T18:00:00.662Z",
+    "source": "Notion",
+    "isStatic": true
+  },
+  {
+    "id": "notion-security-engineer-5-1775152800662",
+    "title": "Security Engineer",
+    "company": "Notion",
+    "location": "San Francisco / Remote",
+    "department": "Security",
+    "description": "Security Engineer at Notion. Join the Security team.",
+    "requirements": [
+      "Security"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://notion.com/careers",
+    "postedAt": "2026-04-02T18:00:00.662Z",
+    "source": "Notion",
+    "isStatic": true
+  },
+  {
+    "id": "notion-data-engineer-6-1775152800662",
+    "title": "Data Engineer",
+    "company": "Notion",
+    "location": "San Francisco / Remote",
+    "department": "Data",
+    "description": "Data Engineer at Notion. Join the Data team.",
+    "requirements": [
+      "Data"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://notion.com/careers",
+    "postedAt": "2026-04-02T18:00:00.662Z",
+    "source": "Notion",
+    "isStatic": true
+  },
+  {
+    "id": "notion-product-designer-7-1775152800662",
+    "title": "Product Designer",
+    "company": "Notion",
+    "location": "San Francisco / Remote",
+    "department": "Design",
+    "description": "Product Designer at Notion. Join the Design team.",
+    "requirements": [
+      "Design"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://notion.com/careers",
+    "postedAt": "2026-04-02T18:00:00.662Z",
+    "source": "Notion",
+    "isStatic": true
+  },
+  {
+    "id": "linear-senior-full-stack-engineer-0-1775152800713",
+    "title": "Senior Full Stack Engineer",
+    "company": "Linear",
+    "location": "Remote",
+    "department": "Engineering",
+    "description": "Senior Full Stack Engineer at Linear. Join the Engineering team.",
+    "requirements": [
+      "Full Stack"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://linear.com/careers",
+    "postedAt": "2026-04-02T18:00:00.713Z",
+    "source": "Linear",
+    "isStatic": true
+  },
+  {
+    "id": "linear-senior-backend-engineer-1-1775152800713",
+    "title": "Senior Backend Engineer",
+    "company": "Linear",
+    "location": "Remote",
+    "department": "Engineering",
+    "description": "Senior Backend Engineer at Linear. Join the Engineering team.",
+    "requirements": [
+      "Backend"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://linear.com/careers",
+    "postedAt": "2026-04-02T18:00:00.713Z",
+    "source": "Linear",
+    "isStatic": true
+  },
+  {
+    "id": "linear-senior-frontend-engineer-2-1775152800713",
+    "title": "Senior Frontend Engineer",
+    "company": "Linear",
+    "location": "Remote",
+    "department": "Engineering",
+    "description": "Senior Frontend Engineer at Linear. Join the Engineering team.",
+    "requirements": [
+      "Frontend"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://linear.com/careers",
+    "postedAt": "2026-04-02T18:00:00.713Z",
+    "source": "Linear",
+    "isStatic": true
+  },
+  {
+    "id": "linear-product-manager-3-1775152800713",
+    "title": "Product Manager",
+    "company": "Linear",
+    "location": "Remote",
+    "department": "Product",
+    "description": "Product Manager at Linear. Join the Product team.",
+    "requirements": [
+      "Product Manager"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://linear.com/careers",
+    "postedAt": "2026-04-02T18:00:00.713Z",
+    "source": "Linear",
+    "isStatic": true
+  },
+  {
+    "id": "linear-product-designer-4-1775152800713",
+    "title": "Product Designer",
+    "company": "Linear",
+    "location": "Remote",
+    "department": "Design",
+    "description": "Product Designer at Linear. Join the Design team.",
+    "requirements": [
+      "Design"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://linear.com/careers",
+    "postedAt": "2026-04-02T18:00:00.713Z",
+    "source": "Linear",
+    "isStatic": true
+  },
+  {
+    "id": "linear-engineering-manager-5-1775152800713",
+    "title": "Engineering Manager",
+    "company": "Linear",
+    "location": "Remote",
+    "department": "Engineering",
+    "description": "Engineering Manager at Linear. Join the Engineering team.",
+    "requirements": [
+      "Engineering"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://linear.com/careers",
+    "postedAt": "2026-04-02T18:00:00.713Z",
+    "source": "Linear",
+    "isStatic": true
+  },
+  {
+    "id": "vercel-senior-software-engineer--platform-0-1775152800763",
+    "title": "Senior Software Engineer, Platform",
+    "company": "Vercel",
+    "location": "Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer, Platform at Vercel. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://vercel.com/careers",
+    "postedAt": "2026-04-02T18:00:00.763Z",
+    "source": "Vercel",
+    "isStatic": true
+  },
+  {
+    "id": "vercel-senior-software-engineer--next-js-1-1775152800763",
+    "title": "Senior Software Engineer, Next.js",
+    "company": "Vercel",
+    "location": "Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer, Next.js at Vercel. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://vercel.com/careers",
+    "postedAt": "2026-04-02T18:00:00.763Z",
+    "source": "Vercel",
+    "isStatic": true
+  },
+  {
+    "id": "vercel-staff-engineer--infrastructure-2-1775152800763",
+    "title": "Staff Engineer, Infrastructure",
+    "company": "Vercel",
+    "location": "Remote",
+    "department": "Engineering",
+    "description": "Staff Engineer, Infrastructure at Vercel. Join the Engineering team.",
+    "requirements": [
+      "Infrastructure"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://vercel.com/careers",
+    "postedAt": "2026-04-02T18:00:00.763Z",
+    "source": "Vercel",
+    "isStatic": true
+  },
+  {
+    "id": "vercel-product-manager-3-1775152800763",
+    "title": "Product Manager",
+    "company": "Vercel",
+    "location": "Remote",
+    "department": "Product",
+    "description": "Product Manager at Vercel. Join the Product team.",
+    "requirements": [
+      "Product Manager"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://vercel.com/careers",
+    "postedAt": "2026-04-02T18:00:00.763Z",
+    "source": "Vercel",
+    "isStatic": true
+  },
+  {
+    "id": "vercel-developer-advocate-4-1775152800763",
+    "title": "Developer Advocate",
+    "company": "Vercel",
+    "location": "Remote",
+    "department": "DevRel",
+    "description": "Developer Advocate at Vercel. Join the DevRel team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://vercel.com/careers",
+    "postedAt": "2026-04-02T18:00:00.763Z",
+    "source": "Vercel",
+    "isStatic": true
+  },
+  {
+    "id": "vercel-security-engineer-5-1775152800763",
+    "title": "Security Engineer",
+    "company": "Vercel",
+    "location": "Remote",
+    "department": "Security",
+    "description": "Security Engineer at Vercel. Join the Security team.",
+    "requirements": [
+      "Security"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://vercel.com/careers",
+    "postedAt": "2026-04-02T18:00:00.763Z",
+    "source": "Vercel",
+    "isStatic": true
+  },
+  {
+    "id": "vercel-site-reliability-engineer-6-1775152800763",
+    "title": "Site Reliability Engineer",
+    "company": "Vercel",
+    "location": "Remote",
+    "department": "Infrastructure",
+    "description": "Site Reliability Engineer at Vercel. Join the Infrastructure team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://vercel.com/careers",
+    "postedAt": "2026-04-02T18:00:00.763Z",
+    "source": "Vercel",
+    "isStatic": true
+  },
+  {
+    "id": "vercel-data-engineer-7-1775152800763",
+    "title": "Data Engineer",
+    "company": "Vercel",
+    "location": "Remote",
+    "department": "Data",
+    "description": "Data Engineer at Vercel. Join the Data team.",
+    "requirements": [
+      "Data"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://vercel.com/careers",
+    "postedAt": "2026-04-02T18:00:00.763Z",
+    "source": "Vercel",
+    "isStatic": true
+  },
+  {
+    "id": "supabase-senior-software-engineer--database-0-1775152800813",
+    "title": "Senior Software Engineer, Database",
+    "company": "Supabase",
+    "location": "Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer, Database at Supabase. Join the Engineering team.",
+    "requirements": [
+      "Data"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://supabase.com/careers",
+    "postedAt": "2026-04-02T18:00:00.813Z",
+    "source": "Supabase",
+    "isStatic": true
+  },
+  {
+    "id": "supabase-senior-software-engineer--auth-1-1775152800813",
+    "title": "Senior Software Engineer, Auth",
+    "company": "Supabase",
+    "location": "Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer, Auth at Supabase. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://supabase.com/careers",
+    "postedAt": "2026-04-02T18:00:00.813Z",
+    "source": "Supabase",
+    "isStatic": true
+  },
+  {
+    "id": "supabase-full-stack-engineer-2-1775152800813",
+    "title": "Full Stack Engineer",
+    "company": "Supabase",
+    "location": "Remote",
+    "department": "Engineering",
+    "description": "Full Stack Engineer at Supabase. Join the Engineering team.",
+    "requirements": [
+      "Full Stack"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://supabase.com/careers",
+    "postedAt": "2026-04-02T18:00:00.813Z",
+    "source": "Supabase",
+    "isStatic": true
+  },
+  {
+    "id": "supabase-developer-advocate-3-1775152800813",
+    "title": "Developer Advocate",
+    "company": "Supabase",
+    "location": "Remote",
+    "department": "DevRel",
+    "description": "Developer Advocate at Supabase. Join the DevRel team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://supabase.com/careers",
+    "postedAt": "2026-04-02T18:00:00.813Z",
+    "source": "Supabase",
+    "isStatic": true
+  },
+  {
+    "id": "supabase-solutions-architect-4-1775152800813",
+    "title": "Solutions Architect",
+    "company": "Supabase",
+    "location": "Remote",
+    "department": "Solutions",
+    "description": "Solutions Architect at Supabase. Join the Solutions team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://supabase.com/careers",
+    "postedAt": "2026-04-02T18:00:00.813Z",
+    "source": "Supabase",
+    "isStatic": true
+  },
+  {
+    "id": "prisma-senior-software-engineer--engine-0-1775152800864",
+    "title": "Senior Software Engineer, Engine",
+    "company": "Prisma",
+    "location": "Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer, Engine at Prisma. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://prisma.com/careers",
+    "postedAt": "2026-04-02T18:00:00.864Z",
+    "source": "Prisma",
+    "isStatic": true
+  },
+  {
+    "id": "prisma-senior-software-engineer--client-1-1775152800864",
+    "title": "Senior Software Engineer, Client",
+    "company": "Prisma",
+    "location": "Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer, Client at Prisma. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://prisma.com/careers",
+    "postedAt": "2026-04-02T18:00:00.864Z",
+    "source": "Prisma",
+    "isStatic": true
+  },
+  {
+    "id": "prisma-developer-advocate-2-1775152800864",
+    "title": "Developer Advocate",
+    "company": "Prisma",
+    "location": "Remote",
+    "department": "DevRel",
+    "description": "Developer Advocate at Prisma. Join the DevRel team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://prisma.com/careers",
+    "postedAt": "2026-04-02T18:00:00.864Z",
+    "source": "Prisma",
+    "isStatic": true
+  },
+  {
+    "id": "prisma-technical-writer-3-1775152800864",
+    "title": "Technical Writer",
+    "company": "Prisma",
+    "location": "Remote",
+    "department": "Documentation",
+    "description": "Technical Writer at Prisma. Join the Documentation team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://prisma.com/careers",
+    "postedAt": "2026-04-02T18:00:00.864Z",
+    "source": "Prisma",
+    "isStatic": true
+  },
+  {
+    "id": "hashicorp-senior-software-engineer--terraform-0-1775152800914",
+    "title": "Senior Software Engineer, Terraform",
+    "company": "HashiCorp",
+    "location": "Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer, Terraform at HashiCorp. Join the Engineering team.",
+    "requirements": [
+      "Terraform"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://hashicorp.com/careers",
+    "postedAt": "2026-04-02T18:00:00.914Z",
+    "source": "HashiCorp",
+    "isStatic": true
+  },
+  {
+    "id": "hashicorp-senior-software-engineer--vault-1-1775152800914",
+    "title": "Senior Software Engineer, Vault",
+    "company": "HashiCorp",
+    "location": "Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer, Vault at HashiCorp. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://hashicorp.com/careers",
+    "postedAt": "2026-04-02T18:00:00.914Z",
+    "source": "HashiCorp",
+    "isStatic": true
+  },
+  {
+    "id": "hashicorp-senior-software-engineer--consul-2-1775152800914",
+    "title": "Senior Software Engineer, Consul",
+    "company": "HashiCorp",
+    "location": "Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer, Consul at HashiCorp. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://hashicorp.com/careers",
+    "postedAt": "2026-04-02T18:00:00.914Z",
+    "source": "HashiCorp",
+    "isStatic": true
+  },
+  {
+    "id": "hashicorp-senior-software-engineer--nomad-3-1775152800914",
+    "title": "Senior Software Engineer, Nomad",
+    "company": "HashiCorp",
+    "location": "Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer, Nomad at HashiCorp. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://hashicorp.com/careers",
+    "postedAt": "2026-04-02T18:00:00.914Z",
+    "source": "HashiCorp",
+    "isStatic": true
+  },
+  {
+    "id": "hashicorp-developer-advocate-4-1775152800914",
+    "title": "Developer Advocate",
+    "company": "HashiCorp",
+    "location": "Remote",
+    "department": "DevRel",
+    "description": "Developer Advocate at HashiCorp. Join the DevRel team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://hashicorp.com/careers",
+    "postedAt": "2026-04-02T18:00:00.914Z",
+    "source": "HashiCorp",
+    "isStatic": true
+  },
+  {
+    "id": "hashicorp-product-manager-5-1775152800914",
+    "title": "Product Manager",
+    "company": "HashiCorp",
+    "location": "Remote",
+    "department": "Product",
+    "description": "Product Manager at HashiCorp. Join the Product team.",
+    "requirements": [
+      "Product Manager"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://hashicorp.com/careers",
+    "postedAt": "2026-04-02T18:00:00.914Z",
+    "source": "HashiCorp",
+    "isStatic": true
+  },
+  {
+    "id": "hashicorp-security-engineer-6-1775152800914",
+    "title": "Security Engineer",
+    "company": "HashiCorp",
+    "location": "Remote",
+    "department": "Security",
+    "description": "Security Engineer at HashiCorp. Join the Security team.",
+    "requirements": [
+      "Security"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://hashicorp.com/careers",
+    "postedAt": "2026-04-02T18:00:00.914Z",
+    "source": "HashiCorp",
+    "isStatic": true
+  },
+  {
+    "id": "cloudflare-senior-software-engineer--workers-0-1775152800965",
+    "title": "Senior Software Engineer, Workers",
+    "company": "Cloudflare",
+    "location": "Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer, Workers at Cloudflare. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://cloudflare.com/careers",
+    "postedAt": "2026-04-02T18:00:00.965Z",
+    "source": "Cloudflare",
+    "isStatic": true
+  },
+  {
+    "id": "cloudflare-senior-software-engineer--edge-1-1775152800965",
+    "title": "Senior Software Engineer, Edge",
+    "company": "Cloudflare",
+    "location": "Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer, Edge at Cloudflare. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://cloudflare.com/careers",
+    "postedAt": "2026-04-02T18:00:00.965Z",
+    "source": "Cloudflare",
+    "isStatic": true
+  },
+  {
+    "id": "cloudflare-staff-engineer--infrastructure-2-1775152800965",
+    "title": "Staff Engineer, Infrastructure",
+    "company": "Cloudflare",
+    "location": "Remote",
+    "department": "Engineering",
+    "description": "Staff Engineer, Infrastructure at Cloudflare. Join the Engineering team.",
+    "requirements": [
+      "Infrastructure"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://cloudflare.com/careers",
+    "postedAt": "2026-04-02T18:00:00.965Z",
+    "source": "Cloudflare",
+    "isStatic": true
+  },
+  {
+    "id": "cloudflare-security-engineer--research-3-1775152800965",
+    "title": "Security Engineer, Research",
+    "company": "Cloudflare",
+    "location": "Remote",
+    "department": "Security",
+    "description": "Security Engineer, Research at Cloudflare. Join the Security team.",
+    "requirements": [
+      "Security"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://cloudflare.com/careers",
+    "postedAt": "2026-04-02T18:00:00.965Z",
+    "source": "Cloudflare",
+    "isStatic": true
+  },
+  {
+    "id": "cloudflare-product-manager--developer-platform-4-1775152800965",
+    "title": "Product Manager, Developer Platform",
+    "company": "Cloudflare",
+    "location": "Remote",
+    "department": "Product",
+    "description": "Product Manager, Developer Platform at Cloudflare. Join the Product team.",
+    "requirements": [
+      "Product Manager"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://cloudflare.com/careers",
+    "postedAt": "2026-04-02T18:00:00.965Z",
+    "source": "Cloudflare",
+    "isStatic": true
+  },
+  {
+    "id": "cloudflare-systems-engineer-5-1775152800965",
+    "title": "Systems Engineer",
+    "company": "Cloudflare",
+    "location": "Remote",
+    "department": "Engineering",
+    "description": "Systems Engineer at Cloudflare. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://cloudflare.com/careers",
+    "postedAt": "2026-04-02T18:00:00.965Z",
+    "source": "Cloudflare",
+    "isStatic": true
+  },
+  {
+    "id": "cloudflare-site-reliability-engineer-6-1775152800965",
+    "title": "Site Reliability Engineer",
+    "company": "Cloudflare",
+    "location": "Remote",
+    "department": "Infrastructure",
+    "description": "Site Reliability Engineer at Cloudflare. Join the Infrastructure team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://cloudflare.com/careers",
+    "postedAt": "2026-04-02T18:00:00.965Z",
+    "source": "Cloudflare",
+    "isStatic": true
+  },
+  {
+    "id": "cloudflare-data-engineer-7-1775152800965",
+    "title": "Data Engineer",
+    "company": "Cloudflare",
+    "location": "Remote",
+    "department": "Data",
+    "description": "Data Engineer at Cloudflare. Join the Data team.",
+    "requirements": [
+      "Data"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://cloudflare.com/careers",
+    "postedAt": "2026-04-02T18:00:00.965Z",
+    "source": "Cloudflare",
+    "isStatic": true
+  },
+  {
+    "id": "plaid-senior-software-engineer--api-0-1775152801016",
+    "title": "Senior Software Engineer, API",
+    "company": "Plaid",
+    "location": "San Francisco / Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer, API at Plaid. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://plaid.com/careers",
+    "postedAt": "2026-04-02T18:00:01.016Z",
+    "source": "Plaid",
+    "isStatic": true
+  },
+  {
+    "id": "plaid-senior-software-engineer--data-1-1775152801016",
+    "title": "Senior Software Engineer, Data",
+    "company": "Plaid",
+    "location": "San Francisco / Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer, Data at Plaid. Join the Engineering team.",
+    "requirements": [
+      "Data"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://plaid.com/careers",
+    "postedAt": "2026-04-02T18:00:01.016Z",
+    "source": "Plaid",
+    "isStatic": true
+  },
+  {
+    "id": "plaid-product-manager-2-1775152801016",
+    "title": "Product Manager",
+    "company": "Plaid",
+    "location": "San Francisco / Remote",
+    "department": "Product",
+    "description": "Product Manager at Plaid. Join the Product team.",
+    "requirements": [
+      "Product Manager"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://plaid.com/careers",
+    "postedAt": "2026-04-02T18:00:01.016Z",
+    "source": "Plaid",
+    "isStatic": true
+  },
+  {
+    "id": "plaid-data-scientist-3-1775152801016",
+    "title": "Data Scientist",
+    "company": "Plaid",
+    "location": "San Francisco / Remote",
+    "department": "Data",
+    "description": "Data Scientist at Plaid. Join the Data team.",
+    "requirements": [
+      "Data"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://plaid.com/careers",
+    "postedAt": "2026-04-02T18:00:01.016Z",
+    "source": "Plaid",
+    "isStatic": true
+  },
+  {
+    "id": "plaid-security-engineer-4-1775152801016",
+    "title": "Security Engineer",
+    "company": "Plaid",
+    "location": "San Francisco / Remote",
+    "department": "Security",
+    "description": "Security Engineer at Plaid. Join the Security team.",
+    "requirements": [
+      "Security"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://plaid.com/careers",
+    "postedAt": "2026-04-02T18:00:01.016Z",
+    "source": "Plaid",
+    "isStatic": true
+  },
+  {
+    "id": "scale-software-engineer--infrastructure-0-1775152801066",
+    "title": "Software Engineer, Infrastructure",
+    "company": "Scale AI",
+    "location": "San Francisco / Remote",
+    "department": "Engineering",
+    "description": "Software Engineer, Infrastructure at Scale AI. Join the Engineering team.",
+    "requirements": [
+      "Infrastructure"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://scale.com/careers",
+    "postedAt": "2026-04-02T18:00:01.066Z",
+    "source": "Scale AI",
+    "isStatic": true
+  },
+  {
+    "id": "scale-machine-learning-engineer--perception-1-1775152801066",
+    "title": "Machine Learning Engineer, Perception",
+    "company": "Scale AI",
+    "location": "San Francisco / Remote",
+    "department": "ML",
+    "description": "Machine Learning Engineer, Perception at Scale AI. Join the ML team.",
+    "requirements": [
+      "Machine Learning"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://scale.com/careers",
+    "postedAt": "2026-04-02T18:00:01.066Z",
+    "source": "Scale AI",
+    "isStatic": true
+  },
+  {
+    "id": "scale-machine-learning-engineer--llm-2-1775152801066",
+    "title": "Machine Learning Engineer, LLM",
+    "company": "Scale AI",
+    "location": "San Francisco / Remote",
+    "department": "ML",
+    "description": "Machine Learning Engineer, LLM at Scale AI. Join the ML team.",
+    "requirements": [
+      "Machine Learning",
+      "LLM"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://scale.com/careers",
+    "postedAt": "2026-04-02T18:00:01.066Z",
+    "source": "Scale AI",
+    "isStatic": true
+  },
+  {
+    "id": "scale-product-manager-3-1775152801066",
+    "title": "Product Manager",
+    "company": "Scale AI",
+    "location": "San Francisco / Remote",
+    "department": "Product",
+    "description": "Product Manager at Scale AI. Join the Product team.",
+    "requirements": [
+      "Product Manager"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://scale.com/careers",
+    "postedAt": "2026-04-02T18:00:01.066Z",
+    "source": "Scale AI",
+    "isStatic": true
+  },
+  {
+    "id": "scale-data-engineer-4-1775152801066",
+    "title": "Data Engineer",
+    "company": "Scale AI",
+    "location": "San Francisco / Remote",
+    "department": "Data",
+    "description": "Data Engineer at Scale AI. Join the Data team.",
+    "requirements": [
+      "Data"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://scale.com/careers",
+    "postedAt": "2026-04-02T18:00:01.066Z",
+    "source": "Scale AI",
+    "isStatic": true
+  },
+  {
+    "id": "scale-engineering-manager-5-1775152801066",
+    "title": "Engineering Manager",
+    "company": "Scale AI",
+    "location": "San Francisco / Remote",
+    "department": "Engineering",
+    "description": "Engineering Manager at Scale AI. Join the Engineering team.",
+    "requirements": [
+      "Engineering"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://scale.com/careers",
+    "postedAt": "2026-04-02T18:00:01.066Z",
+    "source": "Scale AI",
+    "isStatic": true
+  },
+  {
+    "id": "anthropic-ai-safety-researcher-0-1775152801117",
+    "title": "AI Safety Researcher",
+    "company": "Anthropic",
+    "location": "San Francisco / Remote",
+    "department": "Research",
+    "description": "AI Safety Researcher at Anthropic. Join the Research team.",
+    "requirements": [
+      "AI"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://anthropic.com/careers",
+    "postedAt": "2026-04-02T18:00:01.117Z",
+    "source": "Anthropic",
+    "isStatic": true
+  },
+  {
+    "id": "anthropic-machine-learning-engineer--training-1-1775152801117",
+    "title": "Machine Learning Engineer, Training",
+    "company": "Anthropic",
+    "location": "San Francisco / Remote",
+    "department": "Engineering",
+    "description": "Machine Learning Engineer, Training at Anthropic. Join the Engineering team.",
+    "requirements": [
+      "AI",
+      "Machine Learning"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://anthropic.com/careers",
+    "postedAt": "2026-04-02T18:00:01.117Z",
+    "source": "Anthropic",
+    "isStatic": true
+  },
+  {
+    "id": "anthropic-machine-learning-engineer--inference-2-1775152801117",
+    "title": "Machine Learning Engineer, Inference",
+    "company": "Anthropic",
+    "location": "San Francisco / Remote",
+    "department": "Engineering",
+    "description": "Machine Learning Engineer, Inference at Anthropic. Join the Engineering team.",
+    "requirements": [
+      "Machine Learning"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://anthropic.com/careers",
+    "postedAt": "2026-04-02T18:00:01.117Z",
+    "source": "Anthropic",
+    "isStatic": true
+  },
+  {
+    "id": "anthropic-research-engineer-3-1775152801117",
+    "title": "Research Engineer",
+    "company": "Anthropic",
+    "location": "San Francisco / Remote",
+    "department": "Research",
+    "description": "Research Engineer at Anthropic. Join the Research team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://anthropic.com/careers",
+    "postedAt": "2026-04-02T18:00:01.117Z",
+    "source": "Anthropic",
+    "isStatic": true
+  },
+  {
+    "id": "anthropic-software-engineer--infrastructure-4-1775152801117",
+    "title": "Software Engineer, Infrastructure",
+    "company": "Anthropic",
+    "location": "San Francisco / Remote",
+    "department": "Engineering",
+    "description": "Software Engineer, Infrastructure at Anthropic. Join the Engineering team.",
+    "requirements": [
+      "Infrastructure"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://anthropic.com/careers",
+    "postedAt": "2026-04-02T18:00:01.117Z",
+    "source": "Anthropic",
+    "isStatic": true
+  },
+  {
+    "id": "anthropic-policy-researcher-5-1775152801117",
+    "title": "Policy Researcher",
+    "company": "Anthropic",
+    "location": "San Francisco / Remote",
+    "department": "Policy",
+    "description": "Policy Researcher at Anthropic. Join the Policy team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://anthropic.com/careers",
+    "postedAt": "2026-04-02T18:00:01.117Z",
+    "source": "Anthropic",
+    "isStatic": true
+  },
+  {
+    "id": "anthropic-security-engineer-6-1775152801117",
+    "title": "Security Engineer",
+    "company": "Anthropic",
+    "location": "San Francisco / Remote",
+    "department": "Security",
+    "description": "Security Engineer at Anthropic. Join the Security team.",
+    "requirements": [
+      "Security"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://anthropic.com/careers",
+    "postedAt": "2026-04-02T18:00:01.117Z",
+    "source": "Anthropic",
+    "isStatic": true
+  },
+  {
+    "id": "cohere-machine-learning-engineer--training-0-1775152801168",
+    "title": "Machine Learning Engineer, Training",
+    "company": "Cohere",
+    "location": "Toronto / Remote",
+    "department": "ML",
+    "description": "Machine Learning Engineer, Training at Cohere. Join the ML team.",
+    "requirements": [
+      "AI",
+      "Machine Learning"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://cohere.com/careers",
+    "postedAt": "2026-04-02T18:00:01.168Z",
+    "source": "Cohere",
+    "isStatic": true
+  },
+  {
+    "id": "cohere-research-scientist-1-1775152801168",
+    "title": "Research Scientist",
+    "company": "Cohere",
+    "location": "Toronto / Remote",
+    "department": "Research",
+    "description": "Research Scientist at Cohere. Join the Research team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://cohere.com/careers",
+    "postedAt": "2026-04-02T18:00:01.168Z",
+    "source": "Cohere",
+    "isStatic": true
+  },
+  {
+    "id": "cohere-software-engineer--infrastructure-2-1775152801168",
+    "title": "Software Engineer, Infrastructure",
+    "company": "Cohere",
+    "location": "Toronto / Remote",
+    "department": "Engineering",
+    "description": "Software Engineer, Infrastructure at Cohere. Join the Engineering team.",
+    "requirements": [
+      "Infrastructure"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://cohere.com/careers",
+    "postedAt": "2026-04-02T18:00:01.168Z",
+    "source": "Cohere",
+    "isStatic": true
+  },
+  {
+    "id": "cohere-software-engineer--api-3-1775152801168",
+    "title": "Software Engineer, API",
+    "company": "Cohere",
+    "location": "Toronto / Remote",
+    "department": "Engineering",
+    "description": "Software Engineer, API at Cohere. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://cohere.com/careers",
+    "postedAt": "2026-04-02T18:00:01.168Z",
+    "source": "Cohere",
+    "isStatic": true
+  },
+  {
+    "id": "cohere-product-manager-4-1775152801168",
+    "title": "Product Manager",
+    "company": "Cohere",
+    "location": "Toronto / Remote",
+    "department": "Product",
+    "description": "Product Manager at Cohere. Join the Product team.",
+    "requirements": [
+      "Product Manager"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://cohere.com/careers",
+    "postedAt": "2026-04-02T18:00:01.168Z",
+    "source": "Cohere",
+    "isStatic": true
+  },
+  {
+    "id": "google-software-engineer--l4-0-1775152801219",
+    "title": "Software Engineer, L4",
+    "company": "Google",
+    "location": "Mountain View, CA / Remote",
+    "department": "Engineering",
+    "description": "Software Engineer, L4 at Google. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://google.com/careers",
+    "postedAt": "2026-04-02T18:00:01.219Z",
+    "source": "Google",
+    "isStatic": true
+  },
+  {
+    "id": "google-software-engineer--l5-1-1775152801219",
+    "title": "Software Engineer, L5",
+    "company": "Google",
+    "location": "Mountain View, CA / Remote",
+    "department": "Engineering",
+    "description": "Software Engineer, L5 at Google. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://google.com/careers",
+    "postedAt": "2026-04-02T18:00:01.219Z",
+    "source": "Google",
+    "isStatic": true
+  },
+  {
+    "id": "google-senior-software-engineer--l6-2-1775152801219",
+    "title": "Senior Software Engineer, L6",
+    "company": "Google",
+    "location": "Mountain View, CA / Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer, L6 at Google. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://google.com/careers",
+    "postedAt": "2026-04-02T18:00:01.219Z",
+    "source": "Google",
+    "isStatic": true
+  },
+  {
+    "id": "google-staff-software-engineer--l7-3-1775152801219",
+    "title": "Staff Software Engineer, L7",
+    "company": "Google",
+    "location": "Mountain View, CA / Remote",
+    "department": "Engineering",
+    "description": "Staff Software Engineer, L7 at Google. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://google.com/careers",
+    "postedAt": "2026-04-02T18:00:01.219Z",
+    "source": "Google",
+    "isStatic": true
+  },
+  {
+    "id": "google-machine-learning-engineer-4-1775152801219",
+    "title": "Machine Learning Engineer",
+    "company": "Google",
+    "location": "Mountain View, CA / Remote",
+    "department": "ML",
+    "description": "Machine Learning Engineer at Google. Join the ML team.",
+    "requirements": [
+      "Machine Learning"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://google.com/careers",
+    "postedAt": "2026-04-02T18:00:01.219Z",
+    "source": "Google",
+    "isStatic": true
+  },
+  {
+    "id": "google-machine-learning-researcher-5-1775152801219",
+    "title": "Machine Learning Researcher",
+    "company": "Google",
+    "location": "Mountain View, CA / Remote",
+    "department": "Research",
+    "description": "Machine Learning Researcher at Google. Join the Research team.",
+    "requirements": [
+      "Machine Learning"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://google.com/careers",
+    "postedAt": "2026-04-02T18:00:01.219Z",
+    "source": "Google",
+    "isStatic": true
+  },
+  {
+    "id": "google-product-manager-6-1775152801219",
+    "title": "Product Manager",
+    "company": "Google",
+    "location": "Mountain View, CA / Remote",
+    "department": "Product",
+    "description": "Product Manager at Google. Join the Product team.",
+    "requirements": [
+      "Product Manager"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://google.com/careers",
+    "postedAt": "2026-04-02T18:00:01.219Z",
+    "source": "Google",
+    "isStatic": true
+  },
+  {
+    "id": "google-data-scientist-7-1775152801219",
+    "title": "Data Scientist",
+    "company": "Google",
+    "location": "Mountain View, CA / Remote",
+    "department": "Data",
+    "description": "Data Scientist at Google. Join the Data team.",
+    "requirements": [
+      "Data"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://google.com/careers",
+    "postedAt": "2026-04-02T18:00:01.219Z",
+    "source": "Google",
+    "isStatic": true
+  },
+  {
+    "id": "google-security-engineer-8-1775152801219",
+    "title": "Security Engineer",
+    "company": "Google",
+    "location": "Mountain View, CA / Remote",
+    "department": "Security",
+    "description": "Security Engineer at Google. Join the Security team.",
+    "requirements": [
+      "Security"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://google.com/careers",
+    "postedAt": "2026-04-02T18:00:01.219Z",
+    "source": "Google",
+    "isStatic": true
+  },
+  {
+    "id": "google-site-reliability-engineer-9-1775152801219",
+    "title": "Site Reliability Engineer",
+    "company": "Google",
+    "location": "Mountain View, CA / Remote",
+    "department": "Infrastructure",
+    "description": "Site Reliability Engineer at Google. Join the Infrastructure team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://google.com/careers",
+    "postedAt": "2026-04-02T18:00:01.219Z",
+    "source": "Google",
+    "isStatic": true
+  },
+  {
+    "id": "google-ios-engineer-10-1775152801219",
+    "title": "iOS Engineer",
+    "company": "Google",
+    "location": "Mountain View, CA / Remote",
+    "department": "Engineering",
+    "description": "iOS Engineer at Google. Join the Engineering team.",
+    "requirements": [
+      "iOS"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://google.com/careers",
+    "postedAt": "2026-04-02T18:00:01.219Z",
+    "source": "Google",
+    "isStatic": true
+  },
+  {
+    "id": "google-android-engineer-11-1775152801219",
+    "title": "Android Engineer",
+    "company": "Google",
+    "location": "Mountain View, CA / Remote",
+    "department": "Engineering",
+    "description": "Android Engineer at Google. Join the Engineering team.",
+    "requirements": [
+      "Android"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://google.com/careers",
+    "postedAt": "2026-04-02T18:00:01.219Z",
+    "source": "Google",
+    "isStatic": true
+  },
+  {
+    "id": "amazon-software-development-engineer-i-0-1775152801270",
+    "title": "Software Development Engineer I",
+    "company": "Amazon",
+    "location": "Seattle, WA / Remote",
+    "department": "Engineering",
+    "description": "Software Development Engineer I at Amazon. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://amazon.com/careers",
+    "postedAt": "2026-04-02T18:00:01.270Z",
+    "source": "Amazon",
+    "isStatic": true
+  },
+  {
+    "id": "amazon-software-development-engineer-ii-1-1775152801270",
+    "title": "Software Development Engineer II",
+    "company": "Amazon",
+    "location": "Seattle, WA / Remote",
+    "department": "Engineering",
+    "description": "Software Development Engineer II at Amazon. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://amazon.com/careers",
+    "postedAt": "2026-04-02T18:00:01.270Z",
+    "source": "Amazon",
+    "isStatic": true
+  },
+  {
+    "id": "amazon-senior-software-engineer-2-1775152801270",
+    "title": "Senior Software Engineer",
+    "company": "Amazon",
+    "location": "Seattle, WA / Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer at Amazon. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://amazon.com/careers",
+    "postedAt": "2026-04-02T18:00:01.270Z",
+    "source": "Amazon",
+    "isStatic": true
+  },
+  {
+    "id": "amazon-principal-engineer-3-1775152801270",
+    "title": "Principal Engineer",
+    "company": "Amazon",
+    "location": "Seattle, WA / Remote",
+    "department": "Engineering",
+    "description": "Principal Engineer at Amazon. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://amazon.com/careers",
+    "postedAt": "2026-04-02T18:00:01.270Z",
+    "source": "Amazon",
+    "isStatic": true
+  },
+  {
+    "id": "amazon-machine-learning-engineer-4-1775152801270",
+    "title": "Machine Learning Engineer",
+    "company": "Amazon",
+    "location": "Seattle, WA / Remote",
+    "department": "ML",
+    "description": "Machine Learning Engineer at Amazon. Join the ML team.",
+    "requirements": [
+      "Machine Learning"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://amazon.com/careers",
+    "postedAt": "2026-04-02T18:00:01.270Z",
+    "source": "Amazon",
+    "isStatic": true
+  },
+  {
+    "id": "amazon-applied-scientist-5-1775152801270",
+    "title": "Applied Scientist",
+    "company": "Amazon",
+    "location": "Seattle, WA / Remote",
+    "department": "Research",
+    "description": "Applied Scientist at Amazon. Join the Research team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://amazon.com/careers",
+    "postedAt": "2026-04-02T18:00:01.270Z",
+    "source": "Amazon",
+    "isStatic": true
+  },
+  {
+    "id": "amazon-product-manager-6-1775152801270",
+    "title": "Product Manager",
+    "company": "Amazon",
+    "location": "Seattle, WA / Remote",
+    "department": "Product",
+    "description": "Product Manager at Amazon. Join the Product team.",
+    "requirements": [
+      "Product Manager"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://amazon.com/careers",
+    "postedAt": "2026-04-02T18:00:01.270Z",
+    "source": "Amazon",
+    "isStatic": true
+  },
+  {
+    "id": "amazon-data-engineer-7-1775152801270",
+    "title": "Data Engineer",
+    "company": "Amazon",
+    "location": "Seattle, WA / Remote",
+    "department": "Data",
+    "description": "Data Engineer at Amazon. Join the Data team.",
+    "requirements": [
+      "Data"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://amazon.com/careers",
+    "postedAt": "2026-04-02T18:00:01.270Z",
+    "source": "Amazon",
+    "isStatic": true
+  },
+  {
+    "id": "amazon-security-engineer-8-1775152801270",
+    "title": "Security Engineer",
+    "company": "Amazon",
+    "location": "Seattle, WA / Remote",
+    "department": "Security",
+    "description": "Security Engineer at Amazon. Join the Security team.",
+    "requirements": [
+      "Security"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://amazon.com/careers",
+    "postedAt": "2026-04-02T18:00:01.270Z",
+    "source": "Amazon",
+    "isStatic": true
+  },
+  {
+    "id": "meta-software-engineer--e4-0-1775152801320",
+    "title": "Software Engineer, E4",
+    "company": "Meta",
+    "location": "Menlo Park, CA / Remote",
+    "department": "Engineering",
+    "description": "Software Engineer, E4 at Meta. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://meta.com/careers",
+    "postedAt": "2026-04-02T18:00:01.320Z",
+    "source": "Meta",
+    "isStatic": true
+  },
+  {
+    "id": "meta-software-engineer--e5-1-1775152801320",
+    "title": "Software Engineer, E5",
+    "company": "Meta",
+    "location": "Menlo Park, CA / Remote",
+    "department": "Engineering",
+    "description": "Software Engineer, E5 at Meta. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://meta.com/careers",
+    "postedAt": "2026-04-02T18:00:01.320Z",
+    "source": "Meta",
+    "isStatic": true
+  },
+  {
+    "id": "meta-software-engineer--e6-2-1775152801320",
+    "title": "Software Engineer, E6",
+    "company": "Meta",
+    "location": "Menlo Park, CA / Remote",
+    "department": "Engineering",
+    "description": "Software Engineer, E6 at Meta. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://meta.com/careers",
+    "postedAt": "2026-04-02T18:00:01.320Z",
+    "source": "Meta",
+    "isStatic": true
+  },
+  {
+    "id": "meta-research-scientist-3-1775152801320",
+    "title": "Research Scientist",
+    "company": "Meta",
+    "location": "Menlo Park, CA / Remote",
+    "department": "Research",
+    "description": "Research Scientist at Meta. Join the Research team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://meta.com/careers",
+    "postedAt": "2026-04-02T18:00:01.320Z",
+    "source": "Meta",
+    "isStatic": true
+  },
+  {
+    "id": "meta-machine-learning-engineer-4-1775152801320",
+    "title": "Machine Learning Engineer",
+    "company": "Meta",
+    "location": "Menlo Park, CA / Remote",
+    "department": "ML",
+    "description": "Machine Learning Engineer at Meta. Join the ML team.",
+    "requirements": [
+      "Machine Learning"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://meta.com/careers",
+    "postedAt": "2026-04-02T18:00:01.320Z",
+    "source": "Meta",
+    "isStatic": true
+  },
+  {
+    "id": "meta-product-manager-5-1775152801320",
+    "title": "Product Manager",
+    "company": "Meta",
+    "location": "Menlo Park, CA / Remote",
+    "department": "Product",
+    "description": "Product Manager at Meta. Join the Product team.",
+    "requirements": [
+      "Product Manager"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://meta.com/careers",
+    "postedAt": "2026-04-02T18:00:01.320Z",
+    "source": "Meta",
+    "isStatic": true
+  },
+  {
+    "id": "meta-data-scientist-6-1775152801320",
+    "title": "Data Scientist",
+    "company": "Meta",
+    "location": "Menlo Park, CA / Remote",
+    "department": "Data",
+    "description": "Data Scientist at Meta. Join the Data team.",
+    "requirements": [
+      "Data"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://meta.com/careers",
+    "postedAt": "2026-04-02T18:00:01.320Z",
+    "source": "Meta",
+    "isStatic": true
+  },
+  {
+    "id": "meta-security-engineer-7-1775152801320",
+    "title": "Security Engineer",
+    "company": "Meta",
+    "location": "Menlo Park, CA / Remote",
+    "department": "Security",
+    "description": "Security Engineer at Meta. Join the Security team.",
+    "requirements": [
+      "Security"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://meta.com/careers",
+    "postedAt": "2026-04-02T18:00:01.320Z",
+    "source": "Meta",
+    "isStatic": true
+  },
+  {
+    "id": "meta-ios-engineer-8-1775152801320",
+    "title": "iOS Engineer",
+    "company": "Meta",
+    "location": "Menlo Park, CA / Remote",
+    "department": "Engineering",
+    "description": "iOS Engineer at Meta. Join the Engineering team.",
+    "requirements": [
+      "iOS"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://meta.com/careers",
+    "postedAt": "2026-04-02T18:00:01.320Z",
+    "source": "Meta",
+    "isStatic": true
+  },
+  {
+    "id": "meta-android-engineer-9-1775152801320",
+    "title": "Android Engineer",
+    "company": "Meta",
+    "location": "Menlo Park, CA / Remote",
+    "department": "Engineering",
+    "description": "Android Engineer at Meta. Join the Engineering team.",
+    "requirements": [
+      "Android"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://meta.com/careers",
+    "postedAt": "2026-04-02T18:00:01.320Z",
+    "source": "Meta",
+    "isStatic": true
+  },
+  {
+    "id": "apple-software-engineer--i-0-1775152801371",
+    "title": "Software Engineer, I",
+    "company": "Apple",
+    "location": "Cupertino, CA",
+    "department": "Engineering",
+    "description": "Software Engineer, I at Apple. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://apple.com/careers",
+    "postedAt": "2026-04-02T18:00:01.371Z",
+    "source": "Apple",
+    "isStatic": true
+  },
+  {
+    "id": "apple-software-engineer--ii-1-1775152801371",
+    "title": "Software Engineer, II",
+    "company": "Apple",
+    "location": "Cupertino, CA",
+    "department": "Engineering",
+    "description": "Software Engineer, II at Apple. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://apple.com/careers",
+    "postedAt": "2026-04-02T18:00:01.371Z",
+    "source": "Apple",
+    "isStatic": true
+  },
+  {
+    "id": "apple-senior-software-engineer-2-1775152801371",
+    "title": "Senior Software Engineer",
+    "company": "Apple",
+    "location": "Cupertino, CA",
+    "department": "Engineering",
+    "description": "Senior Software Engineer at Apple. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://apple.com/careers",
+    "postedAt": "2026-04-02T18:00:01.371Z",
+    "source": "Apple",
+    "isStatic": true
+  },
+  {
+    "id": "apple-machine-learning-engineer-3-1775152801371",
+    "title": "Machine Learning Engineer",
+    "company": "Apple",
+    "location": "Cupertino, CA",
+    "department": "ML",
+    "description": "Machine Learning Engineer at Apple. Join the ML team.",
+    "requirements": [
+      "Machine Learning"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://apple.com/careers",
+    "postedAt": "2026-04-02T18:00:01.371Z",
+    "source": "Apple",
+    "isStatic": true
+  },
+  {
+    "id": "apple-ios-engineer-4-1775152801371",
+    "title": "iOS Engineer",
+    "company": "Apple",
+    "location": "Cupertino, CA",
+    "department": "Engineering",
+    "description": "iOS Engineer at Apple. Join the Engineering team.",
+    "requirements": [
+      "iOS"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://apple.com/careers",
+    "postedAt": "2026-04-02T18:00:01.371Z",
+    "source": "Apple",
+    "isStatic": true
+  },
+  {
+    "id": "apple-macos-engineer-5-1775152801371",
+    "title": "macOS Engineer",
+    "company": "Apple",
+    "location": "Cupertino, CA",
+    "department": "Engineering",
+    "description": "macOS Engineer at Apple. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://apple.com/careers",
+    "postedAt": "2026-04-02T18:00:01.371Z",
+    "source": "Apple",
+    "isStatic": true
+  },
+  {
+    "id": "apple-security-engineer-6-1775152801371",
+    "title": "Security Engineer",
+    "company": "Apple",
+    "location": "Cupertino, CA",
+    "department": "Security",
+    "description": "Security Engineer at Apple. Join the Security team.",
+    "requirements": [
+      "Security"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://apple.com/careers",
+    "postedAt": "2026-04-02T18:00:01.371Z",
+    "source": "Apple",
+    "isStatic": true
+  },
+  {
+    "id": "apple-site-reliability-engineer-7-1775152801371",
+    "title": "Site Reliability Engineer",
+    "company": "Apple",
+    "location": "Cupertino, CA",
+    "department": "Infrastructure",
+    "description": "Site Reliability Engineer at Apple. Join the Infrastructure team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://apple.com/careers",
+    "postedAt": "2026-04-02T18:00:01.371Z",
+    "source": "Apple",
+    "isStatic": true
+  },
+  {
+    "id": "apple-product-manager-8-1775152801371",
+    "title": "Product Manager",
+    "company": "Apple",
+    "location": "Cupertino, CA",
+    "department": "Product",
+    "description": "Product Manager at Apple. Join the Product team.",
+    "requirements": [
+      "Product Manager"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://apple.com/careers",
+    "postedAt": "2026-04-02T18:00:01.371Z",
+    "source": "Apple",
+    "isStatic": true
+  },
+  {
+    "id": "microsoft-software-engineer--l60-0-1775152801422",
+    "title": "Software Engineer, L60",
+    "company": "Microsoft",
+    "location": "Redmond, WA / Remote",
+    "department": "Engineering",
+    "description": "Software Engineer, L60 at Microsoft. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://microsoft.com/careers",
+    "postedAt": "2026-04-02T18:00:01.422Z",
+    "source": "Microsoft",
+    "isStatic": true
+  },
+  {
+    "id": "microsoft-software-engineer--l61-1-1775152801422",
+    "title": "Software Engineer, L61",
+    "company": "Microsoft",
+    "location": "Redmond, WA / Remote",
+    "department": "Engineering",
+    "description": "Software Engineer, L61 at Microsoft. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://microsoft.com/careers",
+    "postedAt": "2026-04-02T18:00:01.422Z",
+    "source": "Microsoft",
+    "isStatic": true
+  },
+  {
+    "id": "microsoft-software-engineer--l63-2-1775152801422",
+    "title": "Software Engineer, L63",
+    "company": "Microsoft",
+    "location": "Redmond, WA / Remote",
+    "department": "Engineering",
+    "description": "Software Engineer, L63 at Microsoft. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://microsoft.com/careers",
+    "postedAt": "2026-04-02T18:00:01.422Z",
+    "source": "Microsoft",
+    "isStatic": true
+  },
+  {
+    "id": "microsoft-senior-software-engineer--l64-3-1775152801422",
+    "title": "Senior Software Engineer, L64",
+    "company": "Microsoft",
+    "location": "Redmond, WA / Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer, L64 at Microsoft. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://microsoft.com/careers",
+    "postedAt": "2026-04-02T18:00:01.422Z",
+    "source": "Microsoft",
+    "isStatic": true
+  },
+  {
+    "id": "microsoft-principal-engineer-4-1775152801422",
+    "title": "Principal Engineer",
+    "company": "Microsoft",
+    "location": "Redmond, WA / Remote",
+    "department": "Engineering",
+    "description": "Principal Engineer at Microsoft. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://microsoft.com/careers",
+    "postedAt": "2026-04-02T18:00:01.422Z",
+    "source": "Microsoft",
+    "isStatic": true
+  },
+  {
+    "id": "microsoft-machine-learning-engineer-5-1775152801422",
+    "title": "Machine Learning Engineer",
+    "company": "Microsoft",
+    "location": "Redmond, WA / Remote",
+    "department": "ML",
+    "description": "Machine Learning Engineer at Microsoft. Join the ML team.",
+    "requirements": [
+      "Machine Learning"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://microsoft.com/careers",
+    "postedAt": "2026-04-02T18:00:01.422Z",
+    "source": "Microsoft",
+    "isStatic": true
+  },
+  {
+    "id": "microsoft-research-scientist-6-1775152801422",
+    "title": "Research Scientist",
+    "company": "Microsoft",
+    "location": "Redmond, WA / Remote",
+    "department": "Research",
+    "description": "Research Scientist at Microsoft. Join the Research team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://microsoft.com/careers",
+    "postedAt": "2026-04-02T18:00:01.422Z",
+    "source": "Microsoft",
+    "isStatic": true
+  },
+  {
+    "id": "microsoft-product-manager-7-1775152801422",
+    "title": "Product Manager",
+    "company": "Microsoft",
+    "location": "Redmond, WA / Remote",
+    "department": "Product",
+    "description": "Product Manager at Microsoft. Join the Product team.",
+    "requirements": [
+      "Product Manager"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://microsoft.com/careers",
+    "postedAt": "2026-04-02T18:00:01.422Z",
+    "source": "Microsoft",
+    "isStatic": true
+  },
+  {
+    "id": "microsoft-security-engineer-8-1775152801422",
+    "title": "Security Engineer",
+    "company": "Microsoft",
+    "location": "Redmond, WA / Remote",
+    "department": "Security",
+    "description": "Security Engineer at Microsoft. Join the Security team.",
+    "requirements": [
+      "Security"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://microsoft.com/careers",
+    "postedAt": "2026-04-02T18:00:01.422Z",
+    "source": "Microsoft",
+    "isStatic": true
+  },
+  {
+    "id": "bytedance-software-engineer--backend-0-1775152801472",
+    "title": "Software Engineer, Backend",
+    "company": "ByteDance",
+    "location": "Singapore / Remote",
+    "department": "Engineering",
+    "description": "Software Engineer, Backend at ByteDance. Join the Engineering team.",
+    "requirements": [
+      "Backend"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://bytedance.com/careers",
+    "postedAt": "2026-04-02T18:00:01.472Z",
+    "source": "ByteDance",
+    "isStatic": true
+  },
+  {
+    "id": "bytedance-software-engineer--ml-1-1775152801472",
+    "title": "Software Engineer, ML",
+    "company": "ByteDance",
+    "location": "Singapore / Remote",
+    "department": "ML",
+    "description": "Software Engineer, ML at ByteDance. Join the ML team.",
+    "requirements": [
+      "ML"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://bytedance.com/careers",
+    "postedAt": "2026-04-02T18:00:01.472Z",
+    "source": "ByteDance",
+    "isStatic": true
+  },
+  {
+    "id": "bytedance-machine-learning-engineer--recommendatio-2-1775152801472",
+    "title": "Machine Learning Engineer, Recommendation",
+    "company": "ByteDance",
+    "location": "Singapore / Remote",
+    "department": "ML",
+    "description": "Machine Learning Engineer, Recommendation at ByteDance. Join the ML team.",
+    "requirements": [
+      "Machine Learning"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://bytedance.com/careers",
+    "postedAt": "2026-04-02T18:00:01.472Z",
+    "source": "ByteDance",
+    "isStatic": true
+  },
+  {
+    "id": "bytedance-product-manager-3-1775152801472",
+    "title": "Product Manager",
+    "company": "ByteDance",
+    "location": "Singapore / Remote",
+    "department": "Product",
+    "description": "Product Manager at ByteDance. Join the Product team.",
+    "requirements": [
+      "Product Manager"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://bytedance.com/careers",
+    "postedAt": "2026-04-02T18:00:01.472Z",
+    "source": "ByteDance",
+    "isStatic": true
+  },
+  {
+    "id": "bytedance-data-engineer-4-1775152801472",
+    "title": "Data Engineer",
+    "company": "ByteDance",
+    "location": "Singapore / Remote",
+    "department": "Data",
+    "description": "Data Engineer at ByteDance. Join the Data team.",
+    "requirements": [
+      "Data"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://bytedance.com/careers",
+    "postedAt": "2026-04-02T18:00:01.472Z",
+    "source": "ByteDance",
+    "isStatic": true
+  },
+  {
+    "id": "bytedance-ios-engineer-5-1775152801472",
+    "title": "iOS Engineer",
+    "company": "ByteDance",
+    "location": "Singapore / Remote",
+    "department": "Engineering",
+    "description": "iOS Engineer at ByteDance. Join the Engineering team.",
+    "requirements": [
+      "iOS"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://bytedance.com/careers",
+    "postedAt": "2026-04-02T18:00:01.472Z",
+    "source": "ByteDance",
+    "isStatic": true
+  },
+  {
+    "id": "bytedance-android-engineer-6-1775152801472",
+    "title": "Android Engineer",
+    "company": "ByteDance",
+    "location": "Singapore / Remote",
+    "department": "Engineering",
+    "description": "Android Engineer at ByteDance. Join the Engineering team.",
+    "requirements": [
+      "Android"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://bytedance.com/careers",
+    "postedAt": "2026-04-02T18:00:01.472Z",
+    "source": "ByteDance",
+    "isStatic": true
+  },
+  {
+    "id": "alibaba-senior-java-engineer-0-1775152801523",
+    "title": "Senior Java Engineer",
+    "company": "Alibaba",
+    "location": "Hangzhou / Remote",
+    "department": "Engineering",
+    "description": "Senior Java Engineer at Alibaba. Join the Engineering team.",
+    "requirements": [
+      "Java"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://alibaba.com/careers",
+    "postedAt": "2026-04-02T18:00:01.523Z",
+    "source": "Alibaba",
+    "isStatic": true
+  },
+  {
+    "id": "alibaba-machine-learning-engineer-1-1775152801523",
+    "title": "Machine Learning Engineer",
+    "company": "Alibaba",
+    "location": "Hangzhou / Remote",
+    "department": "ML",
+    "description": "Machine Learning Engineer at Alibaba. Join the ML team.",
+    "requirements": [
+      "Machine Learning"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://alibaba.com/careers",
+    "postedAt": "2026-04-02T18:00:01.523Z",
+    "source": "Alibaba",
+    "isStatic": true
+  },
+  {
+    "id": "alibaba-data-engineer-2-1775152801523",
+    "title": "Data Engineer",
+    "company": "Alibaba",
+    "location": "Hangzhou / Remote",
+    "department": "Data",
+    "description": "Data Engineer at Alibaba. Join the Data team.",
+    "requirements": [
+      "Data"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://alibaba.com/careers",
+    "postedAt": "2026-04-02T18:00:01.523Z",
+    "source": "Alibaba",
+    "isStatic": true
+  },
+  {
+    "id": "alibaba-product-manager-3-1775152801523",
+    "title": "Product Manager",
+    "company": "Alibaba",
+    "location": "Hangzhou / Remote",
+    "department": "Product",
+    "description": "Product Manager at Alibaba. Join the Product team.",
+    "requirements": [
+      "Product Manager"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://alibaba.com/careers",
+    "postedAt": "2026-04-02T18:00:01.523Z",
+    "source": "Alibaba",
+    "isStatic": true
+  },
+  {
+    "id": "alibaba-cloud-architect-4-1775152801523",
+    "title": "Cloud Architect",
+    "company": "Alibaba",
+    "location": "Hangzhou / Remote",
+    "department": "Engineering",
+    "description": "Cloud Architect at Alibaba. Join the Engineering team.",
+    "requirements": [
+      "Cloud"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://alibaba.com/careers",
+    "postedAt": "2026-04-02T18:00:01.523Z",
+    "source": "Alibaba",
+    "isStatic": true
+  },
+  {
+    "id": "tencent-senior-software-engineer-0-1775152801574",
+    "title": "Senior Software Engineer",
+    "company": "Tencent",
+    "location": "Shenzhen / Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer at Tencent. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://tencent.com/careers",
+    "postedAt": "2026-04-02T18:00:01.574Z",
+    "source": "Tencent",
+    "isStatic": true
+  },
+  {
+    "id": "tencent-game-developer-1-1775152801574",
+    "title": "Game Developer",
+    "company": "Tencent",
+    "location": "Shenzhen / Remote",
+    "department": "Engineering",
+    "description": "Game Developer at Tencent. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://tencent.com/careers",
+    "postedAt": "2026-04-02T18:00:01.574Z",
+    "source": "Tencent",
+    "isStatic": true
+  },
+  {
+    "id": "tencent-machine-learning-engineer-2-1775152801574",
+    "title": "Machine Learning Engineer",
+    "company": "Tencent",
+    "location": "Shenzhen / Remote",
+    "department": "ML",
+    "description": "Machine Learning Engineer at Tencent. Join the ML team.",
+    "requirements": [
+      "Machine Learning"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://tencent.com/careers",
+    "postedAt": "2026-04-02T18:00:01.574Z",
+    "source": "Tencent",
+    "isStatic": true
+  },
+  {
+    "id": "tencent-product-manager-3-1775152801574",
+    "title": "Product Manager",
+    "company": "Tencent",
+    "location": "Shenzhen / Remote",
+    "department": "Product",
+    "description": "Product Manager at Tencent. Join the Product team.",
+    "requirements": [
+      "Product Manager"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://tencent.com/careers",
+    "postedAt": "2026-04-02T18:00:01.574Z",
+    "source": "Tencent",
+    "isStatic": true
+  },
+  {
+    "id": "tencent-data-engineer-4-1775152801574",
+    "title": "Data Engineer",
+    "company": "Tencent",
+    "location": "Shenzhen / Remote",
+    "department": "Data",
+    "description": "Data Engineer at Tencent. Join the Data team.",
+    "requirements": [
+      "Data"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://tencent.com/careers",
+    "postedAt": "2026-04-02T18:00:01.574Z",
+    "source": "Tencent",
+    "isStatic": true
+  },
+  {
+    "id": "tesla-senior-software-engineer--autopilot-0-1775152801624",
+    "title": "Senior Software Engineer, Autopilot",
+    "company": "Tesla",
+    "location": "Palo Alto, CA",
+    "department": "Engineering",
+    "description": "Senior Software Engineer, Autopilot at Tesla. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://tesla.com/careers",
+    "postedAt": "2026-04-02T18:00:01.624Z",
+    "source": "Tesla",
+    "isStatic": true
+  },
+  {
+    "id": "tesla-machine-learning-engineer--vision-1-1775152801624",
+    "title": "Machine Learning Engineer, Vision",
+    "company": "Tesla",
+    "location": "Palo Alto, CA",
+    "department": "ML",
+    "description": "Machine Learning Engineer, Vision at Tesla. Join the ML team.",
+    "requirements": [
+      "Machine Learning"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://tesla.com/careers",
+    "postedAt": "2026-04-02T18:00:01.624Z",
+    "source": "Tesla",
+    "isStatic": true
+  },
+  {
+    "id": "tesla-machine-learning-engineer--planning-2-1775152801624",
+    "title": "Machine Learning Engineer, Planning",
+    "company": "Tesla",
+    "location": "Palo Alto, CA",
+    "department": "ML",
+    "description": "Machine Learning Engineer, Planning at Tesla. Join the ML team.",
+    "requirements": [
+      "Machine Learning"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://tesla.com/careers",
+    "postedAt": "2026-04-02T18:00:01.624Z",
+    "source": "Tesla",
+    "isStatic": true
+  },
+  {
+    "id": "tesla-embedded-software-engineer-3-1775152801624",
+    "title": "Embedded Software Engineer",
+    "company": "Tesla",
+    "location": "Palo Alto, CA",
+    "department": "Engineering",
+    "description": "Embedded Software Engineer at Tesla. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://tesla.com/careers",
+    "postedAt": "2026-04-02T18:00:01.624Z",
+    "source": "Tesla",
+    "isStatic": true
+  },
+  {
+    "id": "tesla-firmware-engineer-4-1775152801624",
+    "title": "Firmware Engineer",
+    "company": "Tesla",
+    "location": "Palo Alto, CA",
+    "department": "Engineering",
+    "description": "Firmware Engineer at Tesla. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://tesla.com/careers",
+    "postedAt": "2026-04-02T18:00:01.624Z",
+    "source": "Tesla",
+    "isStatic": true
+  },
+  {
+    "id": "tesla-security-engineer-5-1775152801624",
+    "title": "Security Engineer",
+    "company": "Tesla",
+    "location": "Palo Alto, CA",
+    "department": "Security",
+    "description": "Security Engineer at Tesla. Join the Security team.",
+    "requirements": [
+      "Security"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://tesla.com/careers",
+    "postedAt": "2026-04-02T18:00:01.624Z",
+    "source": "Tesla",
+    "isStatic": true
+  },
+  {
+    "id": "tesla-data-engineer-6-1775152801624",
+    "title": "Data Engineer",
+    "company": "Tesla",
+    "location": "Palo Alto, CA",
+    "department": "Data",
+    "description": "Data Engineer at Tesla. Join the Data team.",
+    "requirements": [
+      "Data"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://tesla.com/careers",
+    "postedAt": "2026-04-02T18:00:01.624Z",
+    "source": "Tesla",
+    "isStatic": true
+  },
+  {
+    "id": "tesla-site-reliability-engineer-7-1775152801624",
+    "title": "Site Reliability Engineer",
+    "company": "Tesla",
+    "location": "Palo Alto, CA",
+    "department": "Infrastructure",
+    "description": "Site Reliability Engineer at Tesla. Join the Infrastructure team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://tesla.com/careers",
+    "postedAt": "2026-04-02T18:00:01.624Z",
+    "source": "Tesla",
+    "isStatic": true
+  },
+  {
+    "id": "uber-senior-software-engineer--backend-0-1775152801675",
+    "title": "Senior Software Engineer, Backend",
+    "company": "Uber",
+    "location": "San Francisco, CA / Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer, Backend at Uber. Join the Engineering team.",
+    "requirements": [
+      "Backend"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://uber.com/careers",
+    "postedAt": "2026-04-02T18:00:01.675Z",
+    "source": "Uber",
+    "isStatic": true
+  },
+  {
+    "id": "uber-senior-software-engineer--ml-platform-1-1775152801675",
+    "title": "Senior Software Engineer, ML Platform",
+    "company": "Uber",
+    "location": "San Francisco, CA / Remote",
+    "department": "ML",
+    "description": "Senior Software Engineer, ML Platform at Uber. Join the ML team.",
+    "requirements": [
+      "ML"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://uber.com/careers",
+    "postedAt": "2026-04-02T18:00:01.675Z",
+    "source": "Uber",
+    "isStatic": true
+  },
+  {
+    "id": "uber-machine-learning-engineer--maps-2-1775152801675",
+    "title": "Machine Learning Engineer, Maps",
+    "company": "Uber",
+    "location": "San Francisco, CA / Remote",
+    "department": "ML",
+    "description": "Machine Learning Engineer, Maps at Uber. Join the ML team.",
+    "requirements": [
+      "Machine Learning"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://uber.com/careers",
+    "postedAt": "2026-04-02T18:00:01.675Z",
+    "source": "Uber",
+    "isStatic": true
+  },
+  {
+    "id": "uber-ios-engineer-3-1775152801675",
+    "title": "iOS Engineer",
+    "company": "Uber",
+    "location": "San Francisco, CA / Remote",
+    "department": "Engineering",
+    "description": "iOS Engineer at Uber. Join the Engineering team.",
+    "requirements": [
+      "iOS"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://uber.com/careers",
+    "postedAt": "2026-04-02T18:00:01.675Z",
+    "source": "Uber",
+    "isStatic": true
+  },
+  {
+    "id": "uber-android-engineer-4-1775152801675",
+    "title": "Android Engineer",
+    "company": "Uber",
+    "location": "San Francisco, CA / Remote",
+    "department": "Engineering",
+    "description": "Android Engineer at Uber. Join the Engineering team.",
+    "requirements": [
+      "Android"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://uber.com/careers",
+    "postedAt": "2026-04-02T18:00:01.675Z",
+    "source": "Uber",
+    "isStatic": true
+  },
+  {
+    "id": "uber-product-manager-5-1775152801675",
+    "title": "Product Manager",
+    "company": "Uber",
+    "location": "San Francisco, CA / Remote",
+    "department": "Product",
+    "description": "Product Manager at Uber. Join the Product team.",
+    "requirements": [
+      "Product Manager"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://uber.com/careers",
+    "postedAt": "2026-04-02T18:00:01.675Z",
+    "source": "Uber",
+    "isStatic": true
+  },
+  {
+    "id": "uber-data-scientist-6-1775152801675",
+    "title": "Data Scientist",
+    "company": "Uber",
+    "location": "San Francisco, CA / Remote",
+    "department": "Data",
+    "description": "Data Scientist at Uber. Join the Data team.",
+    "requirements": [
+      "Data"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://uber.com/careers",
+    "postedAt": "2026-04-02T18:00:01.675Z",
+    "source": "Uber",
+    "isStatic": true
+  },
+  {
+    "id": "uber-security-engineer-7-1775152801675",
+    "title": "Security Engineer",
+    "company": "Uber",
+    "location": "San Francisco, CA / Remote",
+    "department": "Security",
+    "description": "Security Engineer at Uber. Join the Security team.",
+    "requirements": [
+      "Security"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://uber.com/careers",
+    "postedAt": "2026-04-02T18:00:01.675Z",
+    "source": "Uber",
+    "isStatic": true
+  },
+  {
+    "id": "lyft-software-engineer--backend-0-1775152801725",
+    "title": "Software Engineer, Backend",
+    "company": "Lyft",
+    "location": "San Francisco, CA / Remote",
+    "department": "Engineering",
+    "description": "Software Engineer, Backend at Lyft. Join the Engineering team.",
+    "requirements": [
+      "Backend"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://lyft.com/careers",
+    "postedAt": "2026-04-02T18:00:01.726Z",
+    "source": "Lyft",
+    "isStatic": true
+  },
+  {
+    "id": "lyft-software-engineer--ml-1-1775152801726",
+    "title": "Software Engineer, ML",
+    "company": "Lyft",
+    "location": "San Francisco, CA / Remote",
+    "department": "ML",
+    "description": "Software Engineer, ML at Lyft. Join the ML team.",
+    "requirements": [
+      "ML"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://lyft.com/careers",
+    "postedAt": "2026-04-02T18:00:01.726Z",
+    "source": "Lyft",
+    "isStatic": true
+  },
+  {
+    "id": "lyft-ios-engineer-2-1775152801726",
+    "title": "iOS Engineer",
+    "company": "Lyft",
+    "location": "San Francisco, CA / Remote",
+    "department": "Engineering",
+    "description": "iOS Engineer at Lyft. Join the Engineering team.",
+    "requirements": [
+      "iOS"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://lyft.com/careers",
+    "postedAt": "2026-04-02T18:00:01.726Z",
+    "source": "Lyft",
+    "isStatic": true
+  },
+  {
+    "id": "lyft-android-engineer-3-1775152801726",
+    "title": "Android Engineer",
+    "company": "Lyft",
+    "location": "San Francisco, CA / Remote",
+    "department": "Engineering",
+    "description": "Android Engineer at Lyft. Join the Engineering team.",
+    "requirements": [
+      "Android"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://lyft.com/careers",
+    "postedAt": "2026-04-02T18:00:01.726Z",
+    "source": "Lyft",
+    "isStatic": true
+  },
+  {
+    "id": "lyft-product-manager-4-1775152801726",
+    "title": "Product Manager",
+    "company": "Lyft",
+    "location": "San Francisco, CA / Remote",
+    "department": "Product",
+    "description": "Product Manager at Lyft. Join the Product team.",
+    "requirements": [
+      "Product Manager"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://lyft.com/careers",
+    "postedAt": "2026-04-02T18:00:01.726Z",
+    "source": "Lyft",
+    "isStatic": true
+  },
+  {
+    "id": "lyft-data-scientist-5-1775152801726",
+    "title": "Data Scientist",
+    "company": "Lyft",
+    "location": "San Francisco, CA / Remote",
+    "department": "Data",
+    "description": "Data Scientist at Lyft. Join the Data team.",
+    "requirements": [
+      "Data"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://lyft.com/careers",
+    "postedAt": "2026-04-02T18:00:01.726Z",
+    "source": "Lyft",
+    "isStatic": true
+  },
+  {
+    "id": "x-senior-software-engineer--backend-0-1775152801776",
+    "title": "Senior Software Engineer, Backend",
+    "company": "Twitter/X",
+    "location": "San Francisco, CA / Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer, Backend at Twitter/X. Join the Engineering team.",
+    "requirements": [
+      "Backend"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://x.com/careers",
+    "postedAt": "2026-04-02T18:00:01.776Z",
+    "source": "Twitter/X",
+    "isStatic": true
+  },
+  {
+    "id": "x-senior-software-engineer--infrastructure-1-1775152801776",
+    "title": "Senior Software Engineer, Infrastructure",
+    "company": "Twitter/X",
+    "location": "San Francisco, CA / Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer, Infrastructure at Twitter/X. Join the Engineering team.",
+    "requirements": [
+      "Infrastructure"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://x.com/careers",
+    "postedAt": "2026-04-02T18:00:01.776Z",
+    "source": "Twitter/X",
+    "isStatic": true
+  },
+  {
+    "id": "x-machine-learning-engineer--timeline-2-1775152801776",
+    "title": "Machine Learning Engineer, Timeline",
+    "company": "Twitter/X",
+    "location": "San Francisco, CA / Remote",
+    "department": "ML",
+    "description": "Machine Learning Engineer, Timeline at Twitter/X. Join the ML team.",
+    "requirements": [
+      "Machine Learning"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://x.com/careers",
+    "postedAt": "2026-04-02T18:00:01.776Z",
+    "source": "Twitter/X",
+    "isStatic": true
+  },
+  {
+    "id": "x-ios-engineer-3-1775152801776",
+    "title": "iOS Engineer",
+    "company": "Twitter/X",
+    "location": "San Francisco, CA / Remote",
+    "department": "Engineering",
+    "description": "iOS Engineer at Twitter/X. Join the Engineering team.",
+    "requirements": [
+      "iOS"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://x.com/careers",
+    "postedAt": "2026-04-02T18:00:01.776Z",
+    "source": "Twitter/X",
+    "isStatic": true
+  },
+  {
+    "id": "x-android-engineer-4-1775152801776",
+    "title": "Android Engineer",
+    "company": "Twitter/X",
+    "location": "San Francisco, CA / Remote",
+    "department": "Engineering",
+    "description": "Android Engineer at Twitter/X. Join the Engineering team.",
+    "requirements": [
+      "Android"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://x.com/careers",
+    "postedAt": "2026-04-02T18:00:01.776Z",
+    "source": "Twitter/X",
+    "isStatic": true
+  },
+  {
+    "id": "x-product-manager-5-1775152801776",
+    "title": "Product Manager",
+    "company": "Twitter/X",
+    "location": "San Francisco, CA / Remote",
+    "department": "Product",
+    "description": "Product Manager at Twitter/X. Join the Product team.",
+    "requirements": [
+      "Product Manager"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://x.com/careers",
+    "postedAt": "2026-04-02T18:00:01.776Z",
+    "source": "Twitter/X",
+    "isStatic": true
+  },
+  {
+    "id": "x-security-engineer-6-1775152801776",
+    "title": "Security Engineer",
+    "company": "Twitter/X",
+    "location": "San Francisco, CA / Remote",
+    "department": "Security",
+    "description": "Security Engineer at Twitter/X. Join the Security team.",
+    "requirements": [
+      "Security"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://x.com/careers",
+    "postedAt": "2026-04-02T18:00:01.776Z",
+    "source": "Twitter/X",
+    "isStatic": true
+  },
+  {
+    "id": "linkedin-senior-software-engineer-0-1775152801827",
+    "title": "Senior Software Engineer",
+    "company": "LinkedIn",
+    "location": "Sunnyvale, CA / Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer at LinkedIn. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://linkedin.com/careers",
+    "postedAt": "2026-04-02T18:00:01.827Z",
+    "source": "LinkedIn",
+    "isStatic": true
+  },
+  {
+    "id": "linkedin-staff-software-engineer-1-1775152801827",
+    "title": "Staff Software Engineer",
+    "company": "LinkedIn",
+    "location": "Sunnyvale, CA / Remote",
+    "department": "Engineering",
+    "description": "Staff Software Engineer at LinkedIn. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://linkedin.com/careers",
+    "postedAt": "2026-04-02T18:00:01.827Z",
+    "source": "LinkedIn",
+    "isStatic": true
+  },
+  {
+    "id": "linkedin-machine-learning-engineer--feed-2-1775152801827",
+    "title": "Machine Learning Engineer, Feed",
+    "company": "LinkedIn",
+    "location": "Sunnyvale, CA / Remote",
+    "department": "ML",
+    "description": "Machine Learning Engineer, Feed at LinkedIn. Join the ML team.",
+    "requirements": [
+      "Machine Learning"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://linkedin.com/careers",
+    "postedAt": "2026-04-02T18:00:01.827Z",
+    "source": "LinkedIn",
+    "isStatic": true
+  },
+  {
+    "id": "linkedin-machine-learning-engineer--search-3-1775152801827",
+    "title": "Machine Learning Engineer, Search",
+    "company": "LinkedIn",
+    "location": "Sunnyvale, CA / Remote",
+    "department": "ML",
+    "description": "Machine Learning Engineer, Search at LinkedIn. Join the ML team.",
+    "requirements": [
+      "Machine Learning"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://linkedin.com/careers",
+    "postedAt": "2026-04-02T18:00:01.827Z",
+    "source": "LinkedIn",
+    "isStatic": true
+  },
+  {
+    "id": "linkedin-ios-engineer-4-1775152801827",
+    "title": "iOS Engineer",
+    "company": "LinkedIn",
+    "location": "Sunnyvale, CA / Remote",
+    "department": "Engineering",
+    "description": "iOS Engineer at LinkedIn. Join the Engineering team.",
+    "requirements": [
+      "iOS"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://linkedin.com/careers",
+    "postedAt": "2026-04-02T18:00:01.827Z",
+    "source": "LinkedIn",
+    "isStatic": true
+  },
+  {
+    "id": "linkedin-android-engineer-5-1775152801827",
+    "title": "Android Engineer",
+    "company": "LinkedIn",
+    "location": "Sunnyvale, CA / Remote",
+    "department": "Engineering",
+    "description": "Android Engineer at LinkedIn. Join the Engineering team.",
+    "requirements": [
+      "Android"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://linkedin.com/careers",
+    "postedAt": "2026-04-02T18:00:01.827Z",
+    "source": "LinkedIn",
+    "isStatic": true
+  },
+  {
+    "id": "linkedin-product-manager-6-1775152801827",
+    "title": "Product Manager",
+    "company": "LinkedIn",
+    "location": "Sunnyvale, CA / Remote",
+    "department": "Product",
+    "description": "Product Manager at LinkedIn. Join the Product team.",
+    "requirements": [
+      "Product Manager"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://linkedin.com/careers",
+    "postedAt": "2026-04-02T18:00:01.827Z",
+    "source": "LinkedIn",
+    "isStatic": true
+  },
+  {
+    "id": "linkedin-data-scientist-7-1775152801827",
+    "title": "Data Scientist",
+    "company": "LinkedIn",
+    "location": "Sunnyvale, CA / Remote",
+    "department": "Data",
+    "description": "Data Scientist at LinkedIn. Join the Data team.",
+    "requirements": [
+      "Data"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://linkedin.com/careers",
+    "postedAt": "2026-04-02T18:00:01.827Z",
+    "source": "LinkedIn",
+    "isStatic": true
+  },
+  {
+    "id": "salesforce-senior-software-engineer-0-1775152801877",
+    "title": "Senior Software Engineer",
+    "company": "Salesforce",
+    "location": "San Francisco, CA / Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer at Salesforce. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://salesforce.com/careers",
+    "postedAt": "2026-04-02T18:00:01.877Z",
+    "source": "Salesforce",
+    "isStatic": true
+  },
+  {
+    "id": "salesforce-principal-software-engineer-1-1775152801877",
+    "title": "Principal Software Engineer",
+    "company": "Salesforce",
+    "location": "San Francisco, CA / Remote",
+    "department": "Engineering",
+    "description": "Principal Software Engineer at Salesforce. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://salesforce.com/careers",
+    "postedAt": "2026-04-02T18:00:01.877Z",
+    "source": "Salesforce",
+    "isStatic": true
+  },
+  {
+    "id": "salesforce-machine-learning-engineer-2-1775152801877",
+    "title": "Machine Learning Engineer",
+    "company": "Salesforce",
+    "location": "San Francisco, CA / Remote",
+    "department": "ML",
+    "description": "Machine Learning Engineer at Salesforce. Join the ML team.",
+    "requirements": [
+      "Machine Learning"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://salesforce.com/careers",
+    "postedAt": "2026-04-02T18:00:01.877Z",
+    "source": "Salesforce",
+    "isStatic": true
+  },
+  {
+    "id": "salesforce-product-manager-3-1775152801877",
+    "title": "Product Manager",
+    "company": "Salesforce",
+    "location": "San Francisco, CA / Remote",
+    "department": "Product",
+    "description": "Product Manager at Salesforce. Join the Product team.",
+    "requirements": [
+      "Product Manager"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://salesforce.com/careers",
+    "postedAt": "2026-04-02T18:00:01.877Z",
+    "source": "Salesforce",
+    "isStatic": true
+  },
+  {
+    "id": "salesforce-security-engineer-4-1775152801877",
+    "title": "Security Engineer",
+    "company": "Salesforce",
+    "location": "San Francisco, CA / Remote",
+    "department": "Security",
+    "description": "Security Engineer at Salesforce. Join the Security team.",
+    "requirements": [
+      "Security"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://salesforce.com/careers",
+    "postedAt": "2026-04-02T18:00:01.877Z",
+    "source": "Salesforce",
+    "isStatic": true
+  },
+  {
+    "id": "salesforce-data-engineer-5-1775152801877",
+    "title": "Data Engineer",
+    "company": "Salesforce",
+    "location": "San Francisco, CA / Remote",
+    "department": "Data",
+    "description": "Data Engineer at Salesforce. Join the Data team.",
+    "requirements": [
+      "Data"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://salesforce.com/careers",
+    "postedAt": "2026-04-02T18:00:01.877Z",
+    "source": "Salesforce",
+    "isStatic": true
+  },
+  {
+    "id": "adobe-senior-software-engineer-0-1775152801928",
+    "title": "Senior Software Engineer",
+    "company": "Adobe",
+    "location": "San Jose, CA / Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer at Adobe. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://adobe.com/careers",
+    "postedAt": "2026-04-02T18:00:01.928Z",
+    "source": "Adobe",
+    "isStatic": true
+  },
+  {
+    "id": "adobe-machine-learning-engineer-1-1775152801928",
+    "title": "Machine Learning Engineer",
+    "company": "Adobe",
+    "location": "San Jose, CA / Remote",
+    "department": "ML",
+    "description": "Machine Learning Engineer at Adobe. Join the ML team.",
+    "requirements": [
+      "Machine Learning"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://adobe.com/careers",
+    "postedAt": "2026-04-02T18:00:01.928Z",
+    "source": "Adobe",
+    "isStatic": true
+  },
+  {
+    "id": "adobe-ios-engineer-2-1775152801928",
+    "title": "iOS Engineer",
+    "company": "Adobe",
+    "location": "San Jose, CA / Remote",
+    "department": "Engineering",
+    "description": "iOS Engineer at Adobe. Join the Engineering team.",
+    "requirements": [
+      "iOS"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://adobe.com/careers",
+    "postedAt": "2026-04-02T18:00:01.928Z",
+    "source": "Adobe",
+    "isStatic": true
+  },
+  {
+    "id": "adobe-product-manager-3-1775152801928",
+    "title": "Product Manager",
+    "company": "Adobe",
+    "location": "San Jose, CA / Remote",
+    "department": "Product",
+    "description": "Product Manager at Adobe. Join the Product team.",
+    "requirements": [
+      "Product Manager"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://adobe.com/careers",
+    "postedAt": "2026-04-02T18:00:01.928Z",
+    "source": "Adobe",
+    "isStatic": true
+  },
+  {
+    "id": "adobe-ux-designer-4-1775152801928",
+    "title": "UX Designer",
+    "company": "Adobe",
+    "location": "San Jose, CA / Remote",
+    "department": "Design",
+    "description": "UX Designer at Adobe. Join the Design team.",
+    "requirements": [
+      "UX",
+      "Design"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://adobe.com/careers",
+    "postedAt": "2026-04-02T18:00:01.928Z",
+    "source": "Adobe",
+    "isStatic": true
+  },
+  {
+    "id": "adobe-security-engineer-5-1775152801928",
+    "title": "Security Engineer",
+    "company": "Adobe",
+    "location": "San Jose, CA / Remote",
+    "department": "Security",
+    "description": "Security Engineer at Adobe. Join the Security team.",
+    "requirements": [
+      "Security"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://adobe.com/careers",
+    "postedAt": "2026-04-02T18:00:01.928Z",
+    "source": "Adobe",
+    "isStatic": true
+  },
+  {
+    "id": "oracle-senior-software-engineer-0-1775152801978",
+    "title": "Senior Software Engineer",
+    "company": "Oracle",
+    "location": "Austin, TX / Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer at Oracle. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://oracle.com/careers",
+    "postedAt": "2026-04-02T18:00:01.978Z",
+    "source": "Oracle",
+    "isStatic": true
+  },
+  {
+    "id": "oracle-principal-software-engineer-1-1775152801978",
+    "title": "Principal Software Engineer",
+    "company": "Oracle",
+    "location": "Austin, TX / Remote",
+    "department": "Engineering",
+    "description": "Principal Software Engineer at Oracle. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://oracle.com/careers",
+    "postedAt": "2026-04-02T18:00:01.978Z",
+    "source": "Oracle",
+    "isStatic": true
+  },
+  {
+    "id": "oracle-cloud-engineer-2-1775152801978",
+    "title": "Cloud Engineer",
+    "company": "Oracle",
+    "location": "Austin, TX / Remote",
+    "department": "Engineering",
+    "description": "Cloud Engineer at Oracle. Join the Engineering team.",
+    "requirements": [
+      "Cloud"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://oracle.com/careers",
+    "postedAt": "2026-04-02T18:00:01.978Z",
+    "source": "Oracle",
+    "isStatic": true
+  },
+  {
+    "id": "oracle-database-engineer-3-1775152801978",
+    "title": "Database Engineer",
+    "company": "Oracle",
+    "location": "Austin, TX / Remote",
+    "department": "Engineering",
+    "description": "Database Engineer at Oracle. Join the Engineering team.",
+    "requirements": [
+      "Data"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://oracle.com/careers",
+    "postedAt": "2026-04-02T18:00:01.978Z",
+    "source": "Oracle",
+    "isStatic": true
+  },
+  {
+    "id": "oracle-product-manager-4-1775152801978",
+    "title": "Product Manager",
+    "company": "Oracle",
+    "location": "Austin, TX / Remote",
+    "department": "Product",
+    "description": "Product Manager at Oracle. Join the Product team.",
+    "requirements": [
+      "Product Manager"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://oracle.com/careers",
+    "postedAt": "2026-04-02T18:00:01.978Z",
+    "source": "Oracle",
+    "isStatic": true
+  },
+  {
+    "id": "oracle-security-engineer-5-1775152801978",
+    "title": "Security Engineer",
+    "company": "Oracle",
+    "location": "Austin, TX / Remote",
+    "department": "Security",
+    "description": "Security Engineer at Oracle. Join the Security team.",
+    "requirements": [
+      "Security"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://oracle.com/careers",
+    "postedAt": "2026-04-02T18:00:01.978Z",
+    "source": "Oracle",
+    "isStatic": true
+  },
+  {
+    "id": "nvidia-senior-software-engineer--cuda-0-1775152802029",
+    "title": "Senior Software Engineer, CUDA",
+    "company": "NVIDIA",
+    "location": "Santa Clara, CA",
+    "department": "Engineering",
+    "description": "Senior Software Engineer, CUDA at NVIDIA. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://nvidia.com/careers",
+    "postedAt": "2026-04-02T18:00:02.029Z",
+    "source": "NVIDIA",
+    "isStatic": true
+  },
+  {
+    "id": "nvidia-senior-software-engineer--ai-1-1775152802029",
+    "title": "Senior Software Engineer, AI",
+    "company": "NVIDIA",
+    "location": "Santa Clara, CA",
+    "department": "Engineering",
+    "description": "Senior Software Engineer, AI at NVIDIA. Join the Engineering team.",
+    "requirements": [
+      "AI"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://nvidia.com/careers",
+    "postedAt": "2026-04-02T18:00:02.029Z",
+    "source": "NVIDIA",
+    "isStatic": true
+  },
+  {
+    "id": "nvidia-machine-learning-engineer--llm-2-1775152802029",
+    "title": "Machine Learning Engineer, LLM",
+    "company": "NVIDIA",
+    "location": "Santa Clara, CA",
+    "department": "ML",
+    "description": "Machine Learning Engineer, LLM at NVIDIA. Join the ML team.",
+    "requirements": [
+      "Machine Learning",
+      "LLM"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://nvidia.com/careers",
+    "postedAt": "2026-04-02T18:00:02.029Z",
+    "source": "NVIDIA",
+    "isStatic": true
+  },
+  {
+    "id": "nvidia-deep-learning-researcher-3-1775152802029",
+    "title": "Deep Learning Researcher",
+    "company": "NVIDIA",
+    "location": "Santa Clara, CA",
+    "department": "Research",
+    "description": "Deep Learning Researcher at NVIDIA. Join the Research team.",
+    "requirements": [
+      "Deep Learning"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://nvidia.com/careers",
+    "postedAt": "2026-04-02T18:00:02.029Z",
+    "source": "NVIDIA",
+    "isStatic": true
+  },
+  {
+    "id": "nvidia-gpu-architect-4-1775152802029",
+    "title": "GPU Architect",
+    "company": "NVIDIA",
+    "location": "Santa Clara, CA",
+    "department": "Hardware",
+    "description": "GPU Architect at NVIDIA. Join the Hardware team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://nvidia.com/careers",
+    "postedAt": "2026-04-02T18:00:02.029Z",
+    "source": "NVIDIA",
+    "isStatic": true
+  },
+  {
+    "id": "nvidia-system-software-engineer-5-1775152802029",
+    "title": "System Software Engineer",
+    "company": "NVIDIA",
+    "location": "Santa Clara, CA",
+    "department": "Engineering",
+    "description": "System Software Engineer at NVIDIA. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://nvidia.com/careers",
+    "postedAt": "2026-04-02T18:00:02.029Z",
+    "source": "NVIDIA",
+    "isStatic": true
+  },
+  {
+    "id": "nvidia-security-engineer-6-1775152802029",
+    "title": "Security Engineer",
+    "company": "NVIDIA",
+    "location": "Santa Clara, CA",
+    "department": "Security",
+    "description": "Security Engineer at NVIDIA. Join the Security team.",
+    "requirements": [
+      "Security"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://nvidia.com/careers",
+    "postedAt": "2026-04-02T18:00:02.029Z",
+    "source": "NVIDIA",
+    "isStatic": true
+  },
+  {
+    "id": "nvidia-product-manager-7-1775152802029",
+    "title": "Product Manager",
+    "company": "NVIDIA",
+    "location": "Santa Clara, CA",
+    "department": "Product",
+    "description": "Product Manager at NVIDIA. Join the Product team.",
+    "requirements": [
+      "Product Manager"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://nvidia.com/careers",
+    "postedAt": "2026-04-02T18:00:02.029Z",
+    "source": "NVIDIA",
+    "isStatic": true
+  },
+  {
+    "id": "intel-software-engineer--fpga-0-1775152802080",
+    "title": "Software Engineer, FPGA",
+    "company": "Intel",
+    "location": "Santa Clara, CA",
+    "department": "Engineering",
+    "description": "Software Engineer, FPGA at Intel. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://intel.com/careers",
+    "postedAt": "2026-04-02T18:00:02.080Z",
+    "source": "Intel",
+    "isStatic": true
+  },
+  {
+    "id": "intel-software-engineer--compiler-1-1775152802080",
+    "title": "Software Engineer, Compiler",
+    "company": "Intel",
+    "location": "Santa Clara, CA",
+    "department": "Engineering",
+    "description": "Software Engineer, Compiler at Intel. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://intel.com/careers",
+    "postedAt": "2026-04-02T18:00:02.080Z",
+    "source": "Intel",
+    "isStatic": true
+  },
+  {
+    "id": "intel-machine-learning-engineer-2-1775152802080",
+    "title": "Machine Learning Engineer",
+    "company": "Intel",
+    "location": "Santa Clara, CA",
+    "department": "ML",
+    "description": "Machine Learning Engineer at Intel. Join the ML team.",
+    "requirements": [
+      "Machine Learning"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://intel.com/careers",
+    "postedAt": "2026-04-02T18:00:02.080Z",
+    "source": "Intel",
+    "isStatic": true
+  },
+  {
+    "id": "intel-hardware-engineer-3-1775152802080",
+    "title": "Hardware Engineer",
+    "company": "Intel",
+    "location": "Santa Clara, CA",
+    "department": "Hardware",
+    "description": "Hardware Engineer at Intel. Join the Hardware team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://intel.com/careers",
+    "postedAt": "2026-04-02T18:00:02.080Z",
+    "source": "Intel",
+    "isStatic": true
+  },
+  {
+    "id": "intel-security-engineer-4-1775152802080",
+    "title": "Security Engineer",
+    "company": "Intel",
+    "location": "Santa Clara, CA",
+    "department": "Security",
+    "description": "Security Engineer at Intel. Join the Security team.",
+    "requirements": [
+      "Security"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://intel.com/careers",
+    "postedAt": "2026-04-02T18:00:02.080Z",
+    "source": "Intel",
+    "isStatic": true
+  },
+  {
+    "id": "intel-firmware-engineer-5-1775152802080",
+    "title": "Firmware Engineer",
+    "company": "Intel",
+    "location": "Santa Clara, CA",
+    "department": "Engineering",
+    "description": "Firmware Engineer at Intel. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://intel.com/careers",
+    "postedAt": "2026-04-02T18:00:02.080Z",
+    "source": "Intel",
+    "isStatic": true
+  },
+  {
+    "id": "amd-software-engineer--gpu-0-1775152802130",
+    "title": "Software Engineer, GPU",
+    "company": "AMD",
+    "location": "Santa Clara, CA",
+    "department": "Engineering",
+    "description": "Software Engineer, GPU at AMD. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://amd.com/careers",
+    "postedAt": "2026-04-02T18:00:02.130Z",
+    "source": "AMD",
+    "isStatic": true
+  },
+  {
+    "id": "amd-software-engineer--driver-1-1775152802130",
+    "title": "Software Engineer, Driver",
+    "company": "AMD",
+    "location": "Santa Clara, CA",
+    "department": "Engineering",
+    "description": "Software Engineer, Driver at AMD. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://amd.com/careers",
+    "postedAt": "2026-04-02T18:00:02.130Z",
+    "source": "AMD",
+    "isStatic": true
+  },
+  {
+    "id": "amd-machine-learning-engineer-2-1775152802130",
+    "title": "Machine Learning Engineer",
+    "company": "AMD",
+    "location": "Santa Clara, CA",
+    "department": "ML",
+    "description": "Machine Learning Engineer at AMD. Join the ML team.",
+    "requirements": [
+      "Machine Learning"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://amd.com/careers",
+    "postedAt": "2026-04-02T18:00:02.130Z",
+    "source": "AMD",
+    "isStatic": true
+  },
+  {
+    "id": "amd-hardware-engineer-3-1775152802130",
+    "title": "Hardware Engineer",
+    "company": "AMD",
+    "location": "Santa Clara, CA",
+    "department": "Hardware",
+    "description": "Hardware Engineer at AMD. Join the Hardware team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://amd.com/careers",
+    "postedAt": "2026-04-02T18:00:02.130Z",
+    "source": "AMD",
+    "isStatic": true
+  },
+  {
+    "id": "amd-firmware-engineer-4-1775152802130",
+    "title": "Firmware Engineer",
+    "company": "AMD",
+    "location": "Santa Clara, CA",
+    "department": "Engineering",
+    "description": "Firmware Engineer at AMD. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://amd.com/careers",
+    "postedAt": "2026-04-02T18:00:02.130Z",
+    "source": "AMD",
+    "isStatic": true
+  },
+  {
+    "id": "qualcomm-software-engineer--mobile-0-1775152802180",
+    "title": "Software Engineer, Mobile",
+    "company": "Qualcomm",
+    "location": "San Diego, CA",
+    "department": "Engineering",
+    "description": "Software Engineer, Mobile at Qualcomm. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://qualcomm.com/careers",
+    "postedAt": "2026-04-02T18:00:02.180Z",
+    "source": "Qualcomm",
+    "isStatic": true
+  },
+  {
+    "id": "qualcomm-software-engineer--5g-1-1775152802180",
+    "title": "Software Engineer, 5G",
+    "company": "Qualcomm",
+    "location": "San Diego, CA",
+    "department": "Engineering",
+    "description": "Software Engineer, 5G at Qualcomm. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://qualcomm.com/careers",
+    "postedAt": "2026-04-02T18:00:02.180Z",
+    "source": "Qualcomm",
+    "isStatic": true
+  },
+  {
+    "id": "qualcomm-machine-learning-engineer-2-1775152802180",
+    "title": "Machine Learning Engineer",
+    "company": "Qualcomm",
+    "location": "San Diego, CA",
+    "department": "ML",
+    "description": "Machine Learning Engineer at Qualcomm. Join the ML team.",
+    "requirements": [
+      "Machine Learning"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://qualcomm.com/careers",
+    "postedAt": "2026-04-02T18:00:02.180Z",
+    "source": "Qualcomm",
+    "isStatic": true
+  },
+  {
+    "id": "qualcomm-hardware-engineer-3-1775152802180",
+    "title": "Hardware Engineer",
+    "company": "Qualcomm",
+    "location": "San Diego, CA",
+    "department": "Hardware",
+    "description": "Hardware Engineer at Qualcomm. Join the Hardware team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://qualcomm.com/careers",
+    "postedAt": "2026-04-02T18:00:02.181Z",
+    "source": "Qualcomm",
+    "isStatic": true
+  },
+  {
+    "id": "qualcomm-security-engineer-4-1775152802181",
+    "title": "Security Engineer",
+    "company": "Qualcomm",
+    "location": "San Diego, CA",
+    "department": "Security",
+    "description": "Security Engineer at Qualcomm. Join the Security team.",
+    "requirements": [
+      "Security"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": false,
+    "applyUrl": "https://qualcomm.com/careers",
+    "postedAt": "2026-04-02T18:00:02.181Z",
+    "source": "Qualcomm",
+    "isStatic": true
+  },
+  {
+    "id": "samsung-software-engineer--mobile-0-1775152802231",
+    "title": "Software Engineer, Mobile",
+    "company": "Samsung",
+    "location": "Seoul / Remote",
+    "department": "Engineering",
+    "description": "Software Engineer, Mobile at Samsung. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://samsung.com/careers",
+    "postedAt": "2026-04-02T18:00:02.231Z",
+    "source": "Samsung",
+    "isStatic": true
+  },
+  {
+    "id": "samsung-software-engineer--tv-1-1775152802231",
+    "title": "Software Engineer, TV",
+    "company": "Samsung",
+    "location": "Seoul / Remote",
+    "department": "Engineering",
+    "description": "Software Engineer, TV at Samsung. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://samsung.com/careers",
+    "postedAt": "2026-04-02T18:00:02.231Z",
+    "source": "Samsung",
+    "isStatic": true
+  },
+  {
+    "id": "samsung-machine-learning-engineer-2-1775152802231",
+    "title": "Machine Learning Engineer",
+    "company": "Samsung",
+    "location": "Seoul / Remote",
+    "department": "ML",
+    "description": "Machine Learning Engineer at Samsung. Join the ML team.",
+    "requirements": [
+      "Machine Learning"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://samsung.com/careers",
+    "postedAt": "2026-04-02T18:00:02.231Z",
+    "source": "Samsung",
+    "isStatic": true
+  },
+  {
+    "id": "samsung-hardware-engineer-3-1775152802231",
+    "title": "Hardware Engineer",
+    "company": "Samsung",
+    "location": "Seoul / Remote",
+    "department": "Hardware",
+    "description": "Hardware Engineer at Samsung. Join the Hardware team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://samsung.com/careers",
+    "postedAt": "2026-04-02T18:00:02.231Z",
+    "source": "Samsung",
+    "isStatic": true
+  },
+  {
+    "id": "samsung-security-engineer-4-1775152802231",
+    "title": "Security Engineer",
+    "company": "Samsung",
+    "location": "Seoul / Remote",
+    "department": "Security",
+    "description": "Security Engineer at Samsung. Join the Security team.",
+    "requirements": [
+      "Security"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://samsung.com/careers",
+    "postedAt": "2026-04-02T18:00:02.231Z",
+    "source": "Samsung",
+    "isStatic": true
+  },
+  {
+    "id": "sony-software-engineer--playstation-0-1775152802282",
+    "title": "Software Engineer, PlayStation",
+    "company": "Sony",
+    "location": "Tokyo / Remote",
+    "department": "Engineering",
+    "description": "Software Engineer, PlayStation at Sony. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://sony.com/careers",
+    "postedAt": "2026-04-02T18:00:02.282Z",
+    "source": "Sony",
+    "isStatic": true
+  },
+  {
+    "id": "sony-software-engineer--audio-1-1775152802282",
+    "title": "Software Engineer, Audio",
+    "company": "Sony",
+    "location": "Tokyo / Remote",
+    "department": "Engineering",
+    "description": "Software Engineer, Audio at Sony. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://sony.com/careers",
+    "postedAt": "2026-04-02T18:00:02.282Z",
+    "source": "Sony",
+    "isStatic": true
+  },
+  {
+    "id": "sony-game-developer-2-1775152802282",
+    "title": "Game Developer",
+    "company": "Sony",
+    "location": "Tokyo / Remote",
+    "department": "Engineering",
+    "description": "Game Developer at Sony. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://sony.com/careers",
+    "postedAt": "2026-04-02T18:00:02.282Z",
+    "source": "Sony",
+    "isStatic": true
+  },
+  {
+    "id": "sony-machine-learning-engineer-3-1775152802282",
+    "title": "Machine Learning Engineer",
+    "company": "Sony",
+    "location": "Tokyo / Remote",
+    "department": "ML",
+    "description": "Machine Learning Engineer at Sony. Join the ML team.",
+    "requirements": [
+      "Machine Learning"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://sony.com/careers",
+    "postedAt": "2026-04-02T18:00:02.282Z",
+    "source": "Sony",
+    "isStatic": true
+  },
+  {
+    "id": "sony-ux-designer-4-1775152802282",
+    "title": "UX Designer",
+    "company": "Sony",
+    "location": "Tokyo / Remote",
+    "department": "Design",
+    "description": "UX Designer at Sony. Join the Design team.",
+    "requirements": [
+      "UX",
+      "Design"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://sony.com/careers",
+    "postedAt": "2026-04-02T18:00:02.282Z",
+    "source": "Sony",
+    "isStatic": true
+  },
+  {
+    "id": "snap-senior-software-engineer-0-1775152802332",
+    "title": "Senior Software Engineer",
+    "company": "Snap",
+    "location": "Los Angeles, CA / Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer at Snap. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://snap.com/careers",
+    "postedAt": "2026-04-02T18:00:02.332Z",
+    "source": "Snap",
+    "isStatic": true
+  },
+  {
+    "id": "snap-machine-learning-engineer--camera-1-1775152802332",
+    "title": "Machine Learning Engineer, Camera",
+    "company": "Snap",
+    "location": "Los Angeles, CA / Remote",
+    "department": "ML",
+    "description": "Machine Learning Engineer, Camera at Snap. Join the ML team.",
+    "requirements": [
+      "Machine Learning"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://snap.com/careers",
+    "postedAt": "2026-04-02T18:00:02.332Z",
+    "source": "Snap",
+    "isStatic": true
+  },
+  {
+    "id": "snap-ios-engineer-2-1775152802332",
+    "title": "iOS Engineer",
+    "company": "Snap",
+    "location": "Los Angeles, CA / Remote",
+    "department": "Engineering",
+    "description": "iOS Engineer at Snap. Join the Engineering team.",
+    "requirements": [
+      "iOS"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://snap.com/careers",
+    "postedAt": "2026-04-02T18:00:02.332Z",
+    "source": "Snap",
+    "isStatic": true
+  },
+  {
+    "id": "snap-android-engineer-3-1775152802332",
+    "title": "Android Engineer",
+    "company": "Snap",
+    "location": "Los Angeles, CA / Remote",
+    "department": "Engineering",
+    "description": "Android Engineer at Snap. Join the Engineering team.",
+    "requirements": [
+      "Android"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://snap.com/careers",
+    "postedAt": "2026-04-02T18:00:02.332Z",
+    "source": "Snap",
+    "isStatic": true
+  },
+  {
+    "id": "snap-product-manager-4-1775152802332",
+    "title": "Product Manager",
+    "company": "Snap",
+    "location": "Los Angeles, CA / Remote",
+    "department": "Product",
+    "description": "Product Manager at Snap. Join the Product team.",
+    "requirements": [
+      "Product Manager"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://snap.com/careers",
+    "postedAt": "2026-04-02T18:00:02.332Z",
+    "source": "Snap",
+    "isStatic": true
+  },
+  {
+    "id": "pinterest-senior-software-engineer-0-1775152802383",
+    "title": "Senior Software Engineer",
+    "company": "Pinterest",
+    "location": "San Francisco, CA / Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer at Pinterest. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://pinterest.com/careers",
+    "postedAt": "2026-04-02T18:00:02.383Z",
+    "source": "Pinterest",
+    "isStatic": true
+  },
+  {
+    "id": "pinterest-machine-learning-engineer--search-1-1775152802383",
+    "title": "Machine Learning Engineer, Search",
+    "company": "Pinterest",
+    "location": "San Francisco, CA / Remote",
+    "department": "ML",
+    "description": "Machine Learning Engineer, Search at Pinterest. Join the ML team.",
+    "requirements": [
+      "Machine Learning"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://pinterest.com/careers",
+    "postedAt": "2026-04-02T18:00:02.383Z",
+    "source": "Pinterest",
+    "isStatic": true
+  },
+  {
+    "id": "pinterest-machine-learning-engineer--recommendatio-2-1775152802383",
+    "title": "Machine Learning Engineer, Recommendations",
+    "company": "Pinterest",
+    "location": "San Francisco, CA / Remote",
+    "department": "ML",
+    "description": "Machine Learning Engineer, Recommendations at Pinterest. Join the ML team.",
+    "requirements": [
+      "Machine Learning"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://pinterest.com/careers",
+    "postedAt": "2026-04-02T18:00:02.383Z",
+    "source": "Pinterest",
+    "isStatic": true
+  },
+  {
+    "id": "pinterest-ios-engineer-3-1775152802383",
+    "title": "iOS Engineer",
+    "company": "Pinterest",
+    "location": "San Francisco, CA / Remote",
+    "department": "Engineering",
+    "description": "iOS Engineer at Pinterest. Join the Engineering team.",
+    "requirements": [
+      "iOS"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://pinterest.com/careers",
+    "postedAt": "2026-04-02T18:00:02.383Z",
+    "source": "Pinterest",
+    "isStatic": true
+  },
+  {
+    "id": "pinterest-product-manager-4-1775152802383",
+    "title": "Product Manager",
+    "company": "Pinterest",
+    "location": "San Francisco, CA / Remote",
+    "department": "Product",
+    "description": "Product Manager at Pinterest. Join the Product team.",
+    "requirements": [
+      "Product Manager"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://pinterest.com/careers",
+    "postedAt": "2026-04-02T18:00:02.383Z",
+    "source": "Pinterest",
+    "isStatic": true
+  },
+  {
+    "id": "zoom-senior-software-engineer--video-0-1775152802433",
+    "title": "Senior Software Engineer, Video",
+    "company": "Zoom",
+    "location": "San Jose, CA / Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer, Video at Zoom. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://zoom.com/careers",
+    "postedAt": "2026-04-02T18:00:02.433Z",
+    "source": "Zoom",
+    "isStatic": true
+  },
+  {
+    "id": "zoom-senior-software-engineer--backend-1-1775152802433",
+    "title": "Senior Software Engineer, Backend",
+    "company": "Zoom",
+    "location": "San Jose, CA / Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer, Backend at Zoom. Join the Engineering team.",
+    "requirements": [
+      "Backend"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://zoom.com/careers",
+    "postedAt": "2026-04-02T18:00:02.433Z",
+    "source": "Zoom",
+    "isStatic": true
+  },
+  {
+    "id": "zoom-machine-learning-engineer--audio-2-1775152802433",
+    "title": "Machine Learning Engineer, Audio",
+    "company": "Zoom",
+    "location": "San Jose, CA / Remote",
+    "department": "ML",
+    "description": "Machine Learning Engineer, Audio at Zoom. Join the ML team.",
+    "requirements": [
+      "Machine Learning"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://zoom.com/careers",
+    "postedAt": "2026-04-02T18:00:02.434Z",
+    "source": "Zoom",
+    "isStatic": true
+  },
+  {
+    "id": "zoom-security-engineer-3-1775152802434",
+    "title": "Security Engineer",
+    "company": "Zoom",
+    "location": "San Jose, CA / Remote",
+    "department": "Security",
+    "description": "Security Engineer at Zoom. Join the Security team.",
+    "requirements": [
+      "Security"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://zoom.com/careers",
+    "postedAt": "2026-04-02T18:00:02.434Z",
+    "source": "Zoom",
+    "isStatic": true
+  },
+  {
+    "id": "zoom-product-manager-4-1775152802434",
+    "title": "Product Manager",
+    "company": "Zoom",
+    "location": "San Jose, CA / Remote",
+    "department": "Product",
+    "description": "Product Manager at Zoom. Join the Product team.",
+    "requirements": [
+      "Product Manager"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://zoom.com/careers",
+    "postedAt": "2026-04-02T18:00:02.434Z",
+    "source": "Zoom",
+    "isStatic": true
+  },
+  {
+    "id": "slack-senior-software-engineer--backend-0-1775152802484",
+    "title": "Senior Software Engineer, Backend",
+    "company": "Slack",
+    "location": "San Francisco, CA / Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer, Backend at Slack. Join the Engineering team.",
+    "requirements": [
+      "Backend"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://slack.com/careers",
+    "postedAt": "2026-04-02T18:00:02.484Z",
+    "source": "Slack",
+    "isStatic": true
+  },
+  {
+    "id": "slack-senior-software-engineer--frontend-1-1775152802484",
+    "title": "Senior Software Engineer, Frontend",
+    "company": "Slack",
+    "location": "San Francisco, CA / Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer, Frontend at Slack. Join the Engineering team.",
+    "requirements": [
+      "Frontend"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://slack.com/careers",
+    "postedAt": "2026-04-02T18:00:02.484Z",
+    "source": "Slack",
+    "isStatic": true
+  },
+  {
+    "id": "slack-machine-learning-engineer--search-2-1775152802484",
+    "title": "Machine Learning Engineer, Search",
+    "company": "Slack",
+    "location": "San Francisco, CA / Remote",
+    "department": "ML",
+    "description": "Machine Learning Engineer, Search at Slack. Join the ML team.",
+    "requirements": [
+      "Machine Learning"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://slack.com/careers",
+    "postedAt": "2026-04-02T18:00:02.484Z",
+    "source": "Slack",
+    "isStatic": true
+  },
+  {
+    "id": "slack-security-engineer-3-1775152802484",
+    "title": "Security Engineer",
+    "company": "Slack",
+    "location": "San Francisco, CA / Remote",
+    "department": "Security",
+    "description": "Security Engineer at Slack. Join the Security team.",
+    "requirements": [
+      "Security"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://slack.com/careers",
+    "postedAt": "2026-04-02T18:00:02.484Z",
+    "source": "Slack",
+    "isStatic": true
+  },
+  {
+    "id": "slack-product-manager-4-1775152802484",
+    "title": "Product Manager",
+    "company": "Slack",
+    "location": "San Francisco, CA / Remote",
+    "department": "Product",
+    "description": "Product Manager at Slack. Join the Product team.",
+    "requirements": [
+      "Product Manager"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://slack.com/careers",
+    "postedAt": "2026-04-02T18:00:02.484Z",
+    "source": "Slack",
+    "isStatic": true
+  },
+  {
+    "id": "discord-senior-software-engineer--backend-0-1775152802535",
+    "title": "Senior Software Engineer, Backend",
+    "company": "Discord",
+    "location": "San Francisco, CA / Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer, Backend at Discord. Join the Engineering team.",
+    "requirements": [
+      "Backend"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://discord.com/careers",
+    "postedAt": "2026-04-02T18:00:02.535Z",
+    "source": "Discord",
+    "isStatic": true
+  },
+  {
+    "id": "discord-senior-software-engineer--realtime-1-1775152802535",
+    "title": "Senior Software Engineer, Realtime",
+    "company": "Discord",
+    "location": "San Francisco, CA / Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer, Realtime at Discord. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://discord.com/careers",
+    "postedAt": "2026-04-02T18:00:02.535Z",
+    "source": "Discord",
+    "isStatic": true
+  },
+  {
+    "id": "discord-machine-learning-engineer-2-1775152802535",
+    "title": "Machine Learning Engineer",
+    "company": "Discord",
+    "location": "San Francisco, CA / Remote",
+    "department": "ML",
+    "description": "Machine Learning Engineer at Discord. Join the ML team.",
+    "requirements": [
+      "Machine Learning"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://discord.com/careers",
+    "postedAt": "2026-04-02T18:00:02.535Z",
+    "source": "Discord",
+    "isStatic": true
+  },
+  {
+    "id": "discord-ios-engineer-3-1775152802535",
+    "title": "iOS Engineer",
+    "company": "Discord",
+    "location": "San Francisco, CA / Remote",
+    "department": "Engineering",
+    "description": "iOS Engineer at Discord. Join the Engineering team.",
+    "requirements": [
+      "iOS"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://discord.com/careers",
+    "postedAt": "2026-04-02T18:00:02.535Z",
+    "source": "Discord",
+    "isStatic": true
+  },
+  {
+    "id": "discord-android-engineer-4-1775152802535",
+    "title": "Android Engineer",
+    "company": "Discord",
+    "location": "San Francisco, CA / Remote",
+    "department": "Engineering",
+    "description": "Android Engineer at Discord. Join the Engineering team.",
+    "requirements": [
+      "Android"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://discord.com/careers",
+    "postedAt": "2026-04-02T18:00:02.535Z",
+    "source": "Discord",
+    "isStatic": true
+  },
+  {
+    "id": "discord-product-manager-5-1775152802535",
+    "title": "Product Manager",
+    "company": "Discord",
+    "location": "San Francisco, CA / Remote",
+    "department": "Product",
+    "description": "Product Manager at Discord. Join the Product team.",
+    "requirements": [
+      "Product Manager"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://discord.com/careers",
+    "postedAt": "2026-04-02T18:00:02.535Z",
+    "source": "Discord",
+    "isStatic": true
+  },
+  {
+    "id": "robinhood-senior-software-engineer--backend-0-1775152802585",
+    "title": "Senior Software Engineer, Backend",
+    "company": "Robinhood",
+    "location": "Menlo Park, CA / Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer, Backend at Robinhood. Join the Engineering team.",
+    "requirements": [
+      "Backend"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://robinhood.com/careers",
+    "postedAt": "2026-04-02T18:00:02.585Z",
+    "source": "Robinhood",
+    "isStatic": true
+  },
+  {
+    "id": "robinhood-senior-software-engineer--data-1-1775152802585",
+    "title": "Senior Software Engineer, Data",
+    "company": "Robinhood",
+    "location": "Menlo Park, CA / Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer, Data at Robinhood. Join the Engineering team.",
+    "requirements": [
+      "Data"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://robinhood.com/careers",
+    "postedAt": "2026-04-02T18:00:02.585Z",
+    "source": "Robinhood",
+    "isStatic": true
+  },
+  {
+    "id": "robinhood-security-engineer-2-1775152802585",
+    "title": "Security Engineer",
+    "company": "Robinhood",
+    "location": "Menlo Park, CA / Remote",
+    "department": "Security",
+    "description": "Security Engineer at Robinhood. Join the Security team.",
+    "requirements": [
+      "Security"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://robinhood.com/careers",
+    "postedAt": "2026-04-02T18:00:02.585Z",
+    "source": "Robinhood",
+    "isStatic": true
+  },
+  {
+    "id": "robinhood-product-manager-3-1775152802585",
+    "title": "Product Manager",
+    "company": "Robinhood",
+    "location": "Menlo Park, CA / Remote",
+    "department": "Product",
+    "description": "Product Manager at Robinhood. Join the Product team.",
+    "requirements": [
+      "Product Manager"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://robinhood.com/careers",
+    "postedAt": "2026-04-02T18:00:02.585Z",
+    "source": "Robinhood",
+    "isStatic": true
+  },
+  {
+    "id": "robinhood-data-scientist-4-1775152802585",
+    "title": "Data Scientist",
+    "company": "Robinhood",
+    "location": "Menlo Park, CA / Remote",
+    "department": "Data",
+    "description": "Data Scientist at Robinhood. Join the Data team.",
+    "requirements": [
+      "Data"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://robinhood.com/careers",
+    "postedAt": "2026-04-02T18:00:02.585Z",
+    "source": "Robinhood",
+    "isStatic": true
+  },
+  {
+    "id": "doordash-senior-software-engineer--backend-0-1775152802636",
+    "title": "Senior Software Engineer, Backend",
+    "company": "DoorDash",
+    "location": "San Francisco, CA / Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer, Backend at DoorDash. Join the Engineering team.",
+    "requirements": [
+      "Backend"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://doordash.com/careers",
+    "postedAt": "2026-04-02T18:00:02.636Z",
+    "source": "DoorDash",
+    "isStatic": true
+  },
+  {
+    "id": "doordash-machine-learning-engineer--logistics-1-1775152802636",
+    "title": "Machine Learning Engineer, Logistics",
+    "company": "DoorDash",
+    "location": "San Francisco, CA / Remote",
+    "department": "ML",
+    "description": "Machine Learning Engineer, Logistics at DoorDash. Join the ML team.",
+    "requirements": [
+      "Machine Learning"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://doordash.com/careers",
+    "postedAt": "2026-04-02T18:00:02.636Z",
+    "source": "DoorDash",
+    "isStatic": true
+  },
+  {
+    "id": "doordash-ios-engineer-2-1775152802636",
+    "title": "iOS Engineer",
+    "company": "DoorDash",
+    "location": "San Francisco, CA / Remote",
+    "department": "Engineering",
+    "description": "iOS Engineer at DoorDash. Join the Engineering team.",
+    "requirements": [
+      "iOS"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://doordash.com/careers",
+    "postedAt": "2026-04-02T18:00:02.636Z",
+    "source": "DoorDash",
+    "isStatic": true
+  },
+  {
+    "id": "doordash-android-engineer-3-1775152802636",
+    "title": "Android Engineer",
+    "company": "DoorDash",
+    "location": "San Francisco, CA / Remote",
+    "department": "Engineering",
+    "description": "Android Engineer at DoorDash. Join the Engineering team.",
+    "requirements": [
+      "Android"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://doordash.com/careers",
+    "postedAt": "2026-04-02T18:00:02.636Z",
+    "source": "DoorDash",
+    "isStatic": true
+  },
+  {
+    "id": "doordash-product-manager-4-1775152802636",
+    "title": "Product Manager",
+    "company": "DoorDash",
+    "location": "San Francisco, CA / Remote",
+    "department": "Product",
+    "description": "Product Manager at DoorDash. Join the Product team.",
+    "requirements": [
+      "Product Manager"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://doordash.com/careers",
+    "postedAt": "2026-04-02T18:00:02.636Z",
+    "source": "DoorDash",
+    "isStatic": true
+  },
+  {
+    "id": "instacart-senior-software-engineer-0-1775152802686",
+    "title": "Senior Software Engineer",
+    "company": "Instacart",
+    "location": "San Francisco, CA / Remote",
+    "department": "Engineering",
+    "description": "Senior Software Engineer at Instacart. Join the Engineering team.",
+    "requirements": [],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://instacart.com/careers",
+    "postedAt": "2026-04-02T18:00:02.687Z",
+    "source": "Instacart",
+    "isStatic": true
+  },
+  {
+    "id": "instacart-machine-learning-engineer--recommendatio-1-1775152802687",
+    "title": "Machine Learning Engineer, Recommendations",
+    "company": "Instacart",
+    "location": "San Francisco, CA / Remote",
+    "department": "ML",
+    "description": "Machine Learning Engineer, Recommendations at Instacart. Join the ML team.",
+    "requirements": [
+      "Machine Learning"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://instacart.com/careers",
+    "postedAt": "2026-04-02T18:00:02.687Z",
+    "source": "Instacart",
+    "isStatic": true
+  },
+  {
+    "id": "instacart-ios-engineer-2-1775152802687",
+    "title": "iOS Engineer",
+    "company": "Instacart",
+    "location": "San Francisco, CA / Remote",
+    "department": "Engineering",
+    "description": "iOS Engineer at Instacart. Join the Engineering team.",
+    "requirements": [
+      "iOS"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://instacart.com/careers",
+    "postedAt": "2026-04-02T18:00:02.687Z",
+    "source": "Instacart",
+    "isStatic": true
+  },
+  {
+    "id": "instacart-android-engineer-3-1775152802687",
+    "title": "Android Engineer",
+    "company": "Instacart",
+    "location": "San Francisco, CA / Remote",
+    "department": "Engineering",
+    "description": "Android Engineer at Instacart. Join the Engineering team.",
+    "requirements": [
+      "Android"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://instacart.com/careers",
+    "postedAt": "2026-04-02T18:00:02.687Z",
+    "source": "Instacart",
+    "isStatic": true
+  },
+  {
+    "id": "instacart-product-manager-4-1775152802687",
+    "title": "Product Manager",
+    "company": "Instacart",
+    "location": "San Francisco, CA / Remote",
+    "department": "Product",
+    "description": "Product Manager at Instacart. Join the Product team.",
+    "requirements": [
+      "Product Manager"
+    ],
+    "jobType": "FULL_TIME",
+    "remote": true,
+    "applyUrl": "https://instacart.com/careers",
+    "postedAt": "2026-04-02T18:00:02.687Z",
+    "source": "Instacart",
+    "isStatic": true
+  }
+]

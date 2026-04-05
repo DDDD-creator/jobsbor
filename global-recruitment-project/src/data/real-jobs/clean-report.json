@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-04-04T07:54:40.154Z",
+  "totalJobs": 240,
+  "sources": {
+    "RemoteOK": 199,
+    "Remotive": 41
+  },
+  "industries": {
+    "web3": 55,
+    "finance": 38,
+    "internet": 147
+  }
+}

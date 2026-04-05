@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "title": "Jobsbor - Việc Làm Tài Chính & Web3 Hàng Đầu",
+    "description": "Kết nối với các tổ chức tài chính hàng đầu, dự án Web3 và công ty công nghệ. Tìm công việc mơ ước của bạn trong giao dịch lượng tử, blockchain, DeFi và hơn nữa.",
+    "keywords": "việc làm, việc làm tài chính, việc làm web3, việc làm blockchain, giao dịch lượng tử, DeFi, sự nghiệp crypto"
+  },
+  "nav": {
+    "home": "Trang chủ",
+    "jobs": "Việc làm",
+    "companies": "Công ty",
+    "industries": "Ngành",
+    "blog": "Blog",
+    "guide": "Hướng dẫn",
+    "about": "Về chúng tôi",
+    "search": "Tìm kiếm",
+    "postJob": "Đăng tin tuyển dụng"
+  },
+  "hero": {
+    "tagline": "Kết nối nhân tài hàng đầu với doanh nghiệp tương lai",
+    "title": "Việc Làm Tài Chính & Web3",
+    "subtitle": "Khám phá các vị trí cao cấp tại các tổ chức tài chính và công ty công nghệ hàng đầu. Ghép nối nhân tài chính xác cho sự phát triển nghề nghiệp.",
+    "searchPlaceholder": "Tìm kiếm việc làm, công ty hoặc từ khóa...",
+    "searchButton": "Tìm kiếm việc làm",
+    "hotSearches": "Tìm kiếm phổ biến",
+    "stats": {
+      "activeJobs": "Việc làm đang tuyển",
+      "companies": "Công ty",
+      "monthlyUsers": "Ngườ dùng hàng tháng",
+      "successRate": "Tỷ lệ thành công"
+    }
+  },
+  "industries": {
+    "title": "Khám phá Ngành",
+    "subtitle": "Chọn con đường nghề nghiệp và bắt đầu chương mới",
+    "finance": {
+      "title": "Tài chính",
+      "description": "Các tổ chức tài chính hàng đầu: chứng khoán, quỹ, ngân hàng đầu tư"
+    },
+    "web3": {
+      "title": "Web3",
+      "description": "Blockchain, DeFi, NFT và các lĩnh vực tiên tiến khác"
+    },
+    "internet": {
+      "title": "Internet",
+      "description": "Các công ty công nghệ lớn và kỳ lân"
+    }
+  },
+  "jobs": {
+    "latest": "Việc làm mới nhất",
+    "viewAll": "Xem tất cả việc làm",
+    "remote": "Làm việc từ xa",
+    "fullTime": "Toàn thờ gian",
+    "partTime": "Bán thờ gian",
+    "contract": "Hợp đồng",
+    "internship": "Thực tập",
+    "salary": "Lương",
+    "location": "Địa điểm",
+    "type": "Loại",
+    "apply": "Ứng tuyển ngay",
+    "save": "Lưu",
+    "share": "Chia sẻ",
+    "posted": "Đăng ngày",
+    "expires": "Hết hạn"
+  },
+  "companies": {
+    "title": "Công ty Hàng đầu",
+    "subtitle": "Tham gia các công ty dẫn đầu và đạt được xuất sắc",
+    "viewAll": "Xem tất cả công ty",
+    "jobs": "việc làm",
+    "follow": "Theo dõi",
+    "website": "Trang web"
+  },
+  "telegram": {
+    "join": "Tham gia Kênh Telegram",
+    "description": "Nhận thông báo việc làm mới nhất, tin tức ngành và mẹo nghề nghiệp",
+    "benefits": ["Việc làm chọn lọc hàng ngày", "Tin tức ngành", "Mẹo nghề nghiệp", "Giới thiệu ưu tiên"]
+  },
+  "testimonials": {
+    "title": "Câu chuyện Thành công",
+    "subtitle": "Lắng nghe từ những ngườ tìm việc thành công"
+  },
+  "cta": {
+    "title": "Sẵn sàng bắt đầu hành trình nghề nghiệp của bạn?",
+    "subtitle": "Đăng ký ngay để khám phá thêm cơ hội việc làm cao cấp",
+    "primaryButton": "Tham gia Telegram",
+    "secondaryButton": "Duyệt việc làm"
+  },
+  "footer": {
+    "about": "Về chúng tôi",
+    "careers": "Nghề nghiệp",
+    "contact": "Liên hệ",
+    "privacy": "Chính sách bảo mật",
+    "terms": "Điều khoản dịch vụ",
+    "copyright": "© 2024 Jobsbor. Đã đăng ký bản quyền."
+  },
+  "language": {
+    "title": "Ngôn ngữ",
+    "en": "English",
+    "ja": "日本語",
+    "de": "Deutsch",
+    "fr": "Français",
+    "es": "Español",
+    "ko": "한국어",
+    "th": "ไทย",
+    "vi": "Tiếng Việt",
+    "hi": "हिन्दी",
+    "zh": "简体中文"
+  }
+}

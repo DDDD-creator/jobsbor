@@ -1,0 +1,27 @@
+{
+  "id": "web3-004",
+  "source": "cryptocurrency-jobs",
+  "title": "DeFi Risk Engineer",
+  "companyId": "company-etherfi",
+  "companyName": "ether.fi",
+  "description": "ether.fi is seeking a DeFi Risk Engineer to analyze and mitigate risks across our liquid staking protocol. You will develop risk models, monitor protocol health, and implement risk management strategies for our decentralized finance products.",
+  "url": "https://cryptocurrencyjobs.co/engineering/ether-fi-defi-risk-engineer/",
+  "location": {
+    "remote": false,
+    "city": "Denver",
+    "country": "USA"
+  },
+  "employmentType": "full-time",
+  "experienceLevel": "senior",
+  "category": "engineering",
+  "tags": ["DeFi", "Risk Management", "Solidity", "Smart Contracts", "Token"],
+  "salary": {
+    "min": 130000,
+    "max": 150000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "postedAt": "2026-03-31T11:00:00Z",
+  "expiresAt": "2026-04-30T23:59:59Z",
+  "status": "active"
+}

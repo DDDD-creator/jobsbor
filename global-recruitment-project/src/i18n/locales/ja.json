@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "title": "Jobsbor - 金融・Web3求人情報",
+    "description": "大手金融機関、Web3プロジェクト、テック企業とつながる。クオンツトレーディング、ブロックチェーン、DeFiなど、夢の求人を見つけよう。",
+    "keywords": "求人, 金融求人, Web3求人, ブロックチェーン求人, クオンツトレーディング, DeFi, 暗号資産キャリア"
+  },
+  "nav": {
+    "home": "ホーム",
+    "jobs": "求人一覧",
+    "companies": "企業一覧",
+    "industries": "業界",
+    "blog": "ブログ",
+    "guide": "ガイド",
+    "about": "会社概要",
+    "search": "検索",
+    "postJob": "求人を掲載"
+  },
+  "hero": {
+    "tagline": "トップ人材と未来の企業をつなぐ",
+    "title": "金融・Web3求人",
+    "subtitle": "大手金融機関やテック企業の優良ポジションを発見。キャリア成長のための的確な人材マッチング。",
+    "searchPlaceholder": "求人、企業、キーワードを検索...",
+    "searchButton": "求人を検索",
+    "hotSearches": "人気検索",
+    "stats": {
+      "activeJobs": "アクティブ求人",
+      "companies": "企業数",
+      "monthlyUsers": "月間ユーザー",
+      "successRate": "成功率"
+    }
+  },
+  "industries": {
+    "title": "業界を探索",
+    "subtitle": "キャリアパスを選び、新しい章を始めよう",
+    "finance": {
+      "title": "金融",
+      "description": "証券、ファンド、投資銀行などのトップ金融機関"
+    },
+    "web3": {
+      "title": "Web3",
+      "description": "ブロックチェーン、DeFi、NFTなどの最先端分野"
+    },
+    "internet": {
+      "title": "インターネット",
+      "description": "大手テック企業とユニコーン企業"
+    }
+  },
+  "jobs": {
+    "latest": "最新求人",
+    "viewAll": "すべての求人を見る",
+    "remote": "リモート",
+    "fullTime": "正社員",
+    "partTime": "パートタイム",
+    "contract": "契約社員",
+    "internship": "インターン",
+    "salary": "給与",
+    "location": "勤務地",
+    "type": "雇用形態",
+    "apply": "応募する",
+    "save": "保存",
+    "share": "共有",
+    "posted": "掲載日",
+    "expires": "締切日"
+  },
+  "companies": {
+    "title": "トップ企業",
+    "subtitle": "業界をリードする企業に参加し、卓越性を追求しよう",
+    "viewAll": "すべての企業を見る",
+    "jobs": "件の求人",
+    "follow": "フォロー",
+    "website": "ウェブサイト"
+  },
+  "telegram": {
+    "join": "Telegramチャンネルに参加",
+    "description": "最新の求人情報、業界ニュース、キャリアのアドバイスを受け取ろう",
+    "benefits": ["厳選求人を毎日配信", "業界ニュース", "キャリアTips", "優先紹介"]
+  },
+  "testimonials": {
+    "title": "成功事例",
+    "subtitle": "成功した求職者の声"
+  },
+  "cta": {
+    "title": "キャリアの旅を始める準備はできましたか？",
+    "subtitle": "今すぐ登録して、優良な求人情報を発見しよう",
+    "primaryButton": "Telegramに参加",
+    "secondaryButton": "求人を見る"
+  },
+  "footer": {
+    "about": "会社概要",
+    "careers": "採用情報",
+    "contact": "お問い合わせ",
+    "privacy": "プライバシーポリシー",
+    "terms": "利用規約",
+    "copyright": "© 2024 Jobsbor. All rights reserved."
+  },
+  "language": {
+    "title": "言語",
+    "en": "English",
+    "ja": "日本語",
+    "de": "Deutsch",
+    "fr": "Français",
+    "es": "Español",
+    "ko": "한국어",
+    "th": "ไทย",
+    "vi": "Tiếng Việt",
+    "hi": "हिन्दी",
+    "zh": "简体中文"
+  }
+}
