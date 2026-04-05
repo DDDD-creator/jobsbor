@@ -1,7 +1,7 @@
 "use client"
 
 import { useState } from "react"
-import { useRouter } from "next/navigation"
+import { useRouter, usePathname } from "next/navigation"
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
@@ -13,6 +13,9 @@ import { Loader2, Mail, Lock, User, Building2 } from "lucide-react"
 
 export default function RegisterPage() {
   const router = useRouter()
+  const pathname = usePathname()
+  // Extract language from pathname (e.g., /zh/auth/register -> zh)
+  const lang = pathname?.split('/')[1] || 'zh'
   
   const [role, setRole] = useState<"JOBSEEKER" | "RECRUITER">("JOBSEEKER")
   const [isLoading, setIsLoading] = useState(false)
@@ -56,7 +59,7 @@ export default function RegisterPage() {
       }
 
       // 注册成功，跳转到登录页
-      router.push("/auth/login?registered=true")
+      router.push(`/${lang}/auth/login?registered=true`)
     } catch (error) {
       setError("注册失败，请稍后重试")
       setIsLoading(false)
@@ -211,7 +214,7 @@ export default function RegisterPage() {
             <p className="text-sm text-gray-400 text-center">
               已有账号？{" "}
               <Link
-                href="/auth/login"
+                href={}
                 className="text-blue-400 hover:text-blue-300 transition-colors"
               >
                 立即登录
