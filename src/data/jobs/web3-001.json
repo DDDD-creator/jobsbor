@@ -1,0 +1,27 @@
+{
+  "id": "web3-001",
+  "source": "web3-career",
+  "title": "Senior Solidity Developer",
+  "companyId": "company-aave",
+  "companyName": "Aave Labs",
+  "description": "Aave Labs is seeking a Senior Solidity Developer to join our DeFi protocol team. You will be responsible for designing, implementing, and auditing smart contracts for our decentralized lending platform. This role involves working with cutting-edge blockchain technology and contributing to one of the largest DeFi protocols in the ecosystem.",
+  "url": "https://web3.career/senior-solidity-developer-aave/12345",
+  "location": {
+    "remote": true,
+    "city": null,
+    "country": null
+  },
+  "employmentType": "full-time",
+  "experienceLevel": "senior",
+  "category": "engineering",
+  "tags": ["Solidity", "DeFi", "Smart Contracts", "Ethereum", "Token"],
+  "salary": {
+    "min": 150000,
+    "max": 220000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "postedAt": "2026-04-01T10:00:00Z",
+  "expiresAt": "2026-05-01T23:59:59Z",
+  "status": "active"
+}

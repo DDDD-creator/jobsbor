@@ -1,0 +1,25 @@
+{
+  "id": "company-nethermind",
+  "name": "Nethermind",
+  "description": "Nethermind is a blockchain research and software engineering company focused on Ethereum and Starknet. They build high-performance Ethereum clients, security audit services, and infrastructure solutions for the decentralized web.",
+  "logoUrl": "https://cryptocurrencyjobs.co/startups/nethermind/logo",
+  "websiteUrl": "https://nethermind.io",
+  "careersUrl": "https://nethermind.io/careers",
+  "location": {
+    "city": "London",
+    "country": "UK",
+    "remote": true
+  },
+  "industry": "Blockchain Infrastructure",
+  "size": "201-500",
+  "founded": 2017,
+  "socialLinks": {
+    "linkedin": "https://linkedin.com/company/nethermind",
+    "twitter": "https://twitter.com/NethermindEth",
+    "github": "https://github.com/NethermindEth"
+  },
+  "meta": {
+    "source": "cryptocurrency-jobs",
+    "lastUpdated": "2026-04-02T03:00:00Z"
+  }
+}

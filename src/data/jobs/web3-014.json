@@ -1,0 +1,27 @@
+{
+  "id": "web3-014",
+  "source": "cryptocurrency-jobs",
+  "title": "Senior Data Engineer - DeFi",
+  "companyId": "company-paradex",
+  "companyName": "Paradex",
+  "description": "Paradex is seeking a Senior Data Engineer to build data infrastructure for our decentralized perpetuals exchange. You will design data pipelines for on-chain analytics, build real-time monitoring systems, and enable data-driven decision making across the organization.",
+  "url": "https://cryptocurrencyjobs.co/engineering/paradex-senior-data-engineer-paradex/",
+  "location": {
+    "remote": true,
+    "city": "Singapore",
+    "country": "Singapore"
+  },
+  "employmentType": "full-time",
+  "experienceLevel": "senior",
+  "category": "engineering",
+  "tags": ["DeFi", "Data Engineering", "DEX", "Blockchain", "Smart Contracts"],
+  "salary": {
+    "min": 130000,
+    "max": 250000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "postedAt": "2026-03-26T12:00:00Z",
+  "expiresAt": "2026-04-26T23:59:59Z",
+  "status": "active"
+}

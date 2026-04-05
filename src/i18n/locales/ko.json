@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "title": "Jobsbor - 금융 & Web3 채용정보",
+    "description": "최고의 금융기관, Web3 프로젝트, 테크 기업과 연결하세요. 퀀트 트레이딩, 블록체인, DeFi 등 꿈의 직장을 찾아보세요.",
+    "keywords": "채용, 금융 채용, Web3 채용, 블록체인 채용, 퀀트 트레이딩, DeFi, 암호화폐 커리어"
+  },
+  "nav": {
+    "home": "홈",
+    "jobs": "채용공고",
+    "companies": "기업",
+    "industries": "산업",
+    "blog": "블로그",
+    "guide": "가이드",
+    "about": "회사소개",
+    "search": "검색",
+    "postJob": "채용공고 등록"
+  },
+  "hero": {
+    "tagline": "최고 인재와 미래 기업을 연결합니다",
+    "title": "금융 & Web3 채용",
+    "subtitle": "선도적인 금융기관과 테크 기업의 프리미엄 포지션을 발견하세요. 커리어 성장을 위한 정확한 인재 매칭.",
+    "searchPlaceholder": "채용공고, 기업 또는 키워드 검색...",
+    "searchButton": "채용공고 검색",
+    "hotSearches": "인기 검색어",
+    "stats": {
+      "activeJobs": "활성 채용공고",
+      "companies": "기업 수",
+      "monthlyUsers": "월간 사용자",
+      "successRate": "성공률"
+    }
+  },
+  "industries": {
+    "title": "산업 탐색",
+    "subtitle": "커리어 경로를 선택하고 새로운 장을 시작하세요",
+    "finance": {
+      "title": "금융",
+      "description": "증권사, 펀드, 투자은행 등 최고의 금융기관"
+    },
+    "web3": {
+      "title": "Web3",
+      "description": "블록체인, DeFi, NFT 등 최첨단 분야"
+    },
+    "internet": {
+      "title": "인터넷",
+      "description": "대형 테크 기업과 유니콘 기업"
+    }
+  },
+  "jobs": {
+    "latest": "최신 채용공고",
+    "viewAll": "전체 채용공고 보기",
+    "remote": "원격",
+    "fullTime": "정규직",
+    "partTime": "파트타임",
+    "contract": "계약직",
+    "internship": "인턴십",
+    "salary": "급여",
+    "location": "근무지",
+    "type": "고용형태",
+    "apply": "지원하기",
+    "save": "저장",
+    "share": "공유",
+    "posted": "게시일",
+    "expires": "마감일"
+  },
+  "companies": {
+    "title": "Top 기업",
+    "subtitle": "선도 기업에 합류하여 탁월함을 이루세요",
+    "viewAll": "전체 기업 보기",
+    "jobs": "개 채용공고",
+    "follow": "팔로우",
+    "website": "웹사이트"
+  },
+  "telegram": {
+    "join": "Telegram 채널 가입",
+    "description": "최신 채용 알림, 업계 소식, 커리어 팁을 받아보세요",
+    "benefits": ["매일 선별된 채용공고", "업계 소식", "커리어 팁", "우선 추천"]
+  },
+  "testimonials": {
+    "title": "성공 사례",
+    "subtitle": "성공한 구직자들의 이야기"
+  },
+  "cta": {
+    "title": "커리어 여정을 시작할 준비가 되셨나요?",
+    "subtitle": "지금 가입하여 더 많은 프리미엄 채용 기회를 발견하세요",
+    "primaryButton": "Telegram 가입",
+    "secondaryButton": "채용공고 둘러보기"
+  },
+  "footer": {
+    "about": "회사소개",
+    "careers": "채용",
+    "contact": "문의하기",
+    "privacy": "개인정보처리방침",
+    "terms": "이용약관",
+    "copyright": "© 2024 Jobsbor. All rights reserved."
+  },
+  "language": {
+    "title": "언어",
+    "en": "English",
+    "ja": "日本語",
+    "de": "Deutsch",
+    "fr": "Français",
+    "es": "Español",
+    "ko": "한국어",
+    "th": "ไทย",
+    "vi": "Tiếng Việt",
+    "hi": "हिन्दी",
+    "zh": "简体中文"
+  }
+}

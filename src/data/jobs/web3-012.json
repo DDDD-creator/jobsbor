@@ -1,0 +1,22 @@
+{
+  "id": "web3-012",
+  "source": "web3-career",
+  "title": "P2P Networking Protocol Engineer",
+  "companyId": "company-logos",
+  "companyName": "Logos",
+  "description": "Logos is seeking a P2P Networking Protocol Engineer to build decentralized communication infrastructure. You will implement libp2p protocols, optimize network performance, and contribute to the underlying peer-to-peer architecture of our blockchain systems.",
+  "url": "https://cryptocurrencyjobs.co/engineering/logos-p2p-networking-protocol-engineer/",
+  "location": {
+    "remote": true,
+    "city": null,
+    "country": null
+  },
+  "employmentType": "full-time",
+  "experienceLevel": "senior",
+  "category": "engineering",
+  "tags": ["P2P", "Protocol", "Rust", "Networking", "Blockchain", "Smart Contracts"],
+  "salary": null,
+  "postedAt": "2026-03-19T14:00:00Z",
+  "expiresAt": "2026-04-19T23:59:59Z",
+  "status": "active"
+}

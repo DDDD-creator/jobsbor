@@ -1,0 +1,27 @@
+{
+  "id": "web3-007",
+  "source": "remote3",
+  "title": "DAO Community Manager",
+  "companyId": "company-kernel-dao",
+  "companyName": "Kernel DAO",
+  "description": "Kernel DAO is looking for a DAO Community Manager to grow and nurture our decentralized autonomous organization. You will engage with community members, coordinate governance proposals, and drive participation in our DeFi ecosystem.",
+  "url": "https://remote3.co/remote-jobs/growth-marketing-lead-kernel-dao",
+  "location": {
+    "remote": true,
+    "city": null,
+    "country": "India"
+  },
+  "employmentType": "full-time",
+  "experienceLevel": "mid",
+  "category": "community",
+  "tags": ["DAO", "Community Management", "DeFi", "Governance", "Token"],
+  "salary": {
+    "min": 40000,
+    "max": 50000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "postedAt": "2026-03-29T15:00:00Z",
+  "expiresAt": "2026-04-29T23:59:59Z",
+  "status": "active"
+}

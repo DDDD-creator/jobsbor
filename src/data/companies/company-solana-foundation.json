@@ -1,0 +1,25 @@
+{
+  "id": "company-solana-foundation",
+  "name": "Solana Foundation",
+  "description": "The Solana Foundation is dedicated to the adoption, decentralization, and security of the Solana network. It supports the Solana ecosystem through grants, education, and community initiatives to build the fastest blockchain in the world.",
+  "logoUrl": "https://cryptocurrencyjobs.co/startups/solana-foundation/logo",
+  "websiteUrl": "https://solana.org",
+  "careersUrl": "https://solana.org/careers",
+  "location": {
+    "city": "Geneva",
+    "country": "Switzerland",
+    "remote": true
+  },
+  "industry": "Blockchain Infrastructure",
+  "size": "51-200",
+  "founded": 2019,
+  "socialLinks": {
+    "linkedin": "https://linkedin.com/company/solana-foundation",
+    "twitter": "https://twitter.com/SolanaFndn",
+    "github": "https://github.com/solana-labs"
+  },
+  "meta": {
+    "source": "cryptocurrency-jobs",
+    "lastUpdated": "2026-04-02T03:00:00Z"
+  }
+}

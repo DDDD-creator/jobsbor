@@ -1,0 +1,25 @@
+{
+  "id": "company-ethereum-foundation",
+  "name": "Ethereum Foundation",
+  "description": "The Ethereum Foundation is a non-profit organization dedicated to supporting Ethereum and related technologies. It funds protocol development, research, and community building to ensure Ethereum remains a world-class, decentralized computing platform.",
+  "logoUrl": "https://cryptocurrencyjobs.co/startups/ethereum-foundation/logo",
+  "websiteUrl": "https://ethereum.foundation",
+  "careersUrl": "https://ethereum.foundation/jobs",
+  "location": {
+    "city": "Zug",
+    "country": "Switzerland",
+    "remote": true
+  },
+  "industry": "Blockchain Infrastructure",
+  "size": "51-200",
+  "founded": 2014,
+  "socialLinks": {
+    "linkedin": "https://linkedin.com/company/ethereum-foundation",
+    "twitter": "https://twitter.com/EFDevcon",
+    "github": "https://github.com/ethereum"
+  },
+  "meta": {
+    "source": "web3-career",
+    "lastUpdated": "2026-04-02T03:00:00Z"
+  }
+}

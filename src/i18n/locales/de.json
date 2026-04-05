@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "title": "Jobsbor - Top Finanz- & Web3-Jobs",
+    "description": "Verbinden Sie sich mit erstklassigen Finanzinstitutionen, Web3-Projekten und Tech-Unternehmen. Finden Sie Ihren Traumjob im Quant-Trading, Blockchain, DeFi und mehr.",
+    "keywords": "Jobs, Finanzjobs, Web3-Jobs, Blockchain-Jobs, Quant-Trading, DeFi, Krypto-Karriere"
+  },
+  "nav": {
+    "home": "Startseite",
+    "jobs": "Jobs",
+    "companies": "Unternehmen",
+    "industries": "Branchen",
+    "blog": "Blog",
+    "guide": "Leitfaden",
+    "about": "Über uns",
+    "search": "Suche",
+    "postJob": "Job inserieren"
+  },
+  "hero": {
+    "tagline": "Top-Talente mit zukunftsweisenden Unternehmen verbinden",
+    "title": "Finanz- & Web3-Jobs",
+    "subtitle": "Entdecken Sie erstklassige Positionen bei führenden Finanzinstituten und Tech-Unternehmen. Präzises Talent-Matching für Ihre Karriereentwicklung.",
+    "searchPlaceholder": "Jobs, Unternehmen oder Stichwörter suchen...",
+    "searchButton": "Jobs suchen",
+    "hotSearches": "Beliebte Suchen",
+    "stats": {
+      "activeJobs": "Aktive Jobs",
+      "companies": "Unternehmen",
+      "monthlyUsers": "Monatliche Nutzer",
+      "successRate": "Erfolgsrate"
+    }
+  },
+  "industries": {
+    "title": "Branchen erkunden",
+    "subtitle": "Wählen Sie Ihren Karriereweg und starten Sie ein neues Kapitel",
+    "finance": {
+      "title": "Finanzen",
+      "description": "Top-Finanzinstitute: Wertpapierfirmen, Fonds, Investmentbanken"
+    },
+    "web3": {
+      "title": "Web3",
+      "description": "Blockchain, DeFi, NFT und andere Spitzentechnologien"
+    },
+    "internet": {
+      "title": "Internet",
+      "description": "Große Tech-Unternehmen und Einhörner"
+    }
+  },
+  "jobs": {
+    "latest": "Neueste Jobs",
+    "viewAll": "Alle Jobs ansehen",
+    "remote": "Remote",
+    "fullTime": "Vollzeit",
+    "partTime": "Teilzeit",
+    "contract": "Vertrag",
+    "internship": "Praktikum",
+    "salary": "Gehalt",
+    "location": "Standort",
+    "type": "Anstellungsart",
+    "apply": "Jetzt bewerben",
+    "save": "Speichern",
+    "share": "Teilen",
+    "posted": "Veröffentlicht",
+    "expires": "Läuft ab"
+  },
+  "companies": {
+    "title": "Top-Unternehmen",
+    "subtitle": "Schließen Sie sich führenden Unternehmen an und erreichen Sie Exzellenz",
+    "viewAll": "Alle Unternehmen ansehen",
+    "jobs": "Jobs",
+    "follow": "Folgen",
+    "website": "Webseite"
+  },
+  "telegram": {
+    "join": "Telegram-Kanal beitreten",
+    "description": "Erhalten Sie die neuesten Job-Benachrichtigungen, Branchennachrichten und Karrieretipps",
+    "benefits": ["Täglich kuratierte Jobs", "Branchennachrichten", "Karrieretipps", "Priorisierte Empfehlungen"]
+  },
+  "testimonials": {
+    "title": "Erfolgsgeschichten",
+    "subtitle": "Hören Sie von erfolgreichen Jobsuchenden"
+  },
+  "cta": {
+    "title": "Bereit, Ihre Karriere zu starten?",
+    "subtitle": "Melden Sie sich jetzt an, um mehr erstklassige Jobmöglichkeiten zu entdecken",
+    "primaryButton": "Telegram beitreten",
+    "secondaryButton": "Jobs durchsuchen"
+  },
+  "footer": {
+    "about": "Über uns",
+    "careers": "Karriere",
+    "contact": "Kontakt",
+    "privacy": "Datenschutz",
+    "terms": "Nutzungsbedingungen",
+    "copyright": "© 2024 Jobsbor. Alle Rechte vorbehalten."
+  },
+  "language": {
+    "title": "Sprache",
+    "en": "English",
+    "ja": "日本語",
+    "de": "Deutsch",
+    "fr": "Français",
+    "es": "Español",
+    "ko": "한국어",
+    "th": "ไทย",
+    "vi": "Tiếng Việt",
+    "hi": "हिन्दी",
+    "zh": "简体中文"
+  }
+}

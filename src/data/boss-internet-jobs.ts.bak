@@ -1,0 +1,363 @@
+// BOSS直聘互联网岗位数据 - 由爬虫智能体生成
+// 生成时间: 2026-04-02
+// 数据来源: BOSS直聘 (https://www.zhipin.com)
+// 搜索关键词: 产品经理、前端开发、后端开发、算法工程师、数据分析
+
+import { JobSeed } from './jobs';
+
+export const bossInternetJobs: JobSeed[] = [
+  // ========== 字节跳动 ==========
+  {
+    title: '高级产品经理（抖音电商）',
+    companyName: '字节跳动',
+    department: '抖音电商',
+    location: '北京·海淀区',
+    salaryMin: 25000,
+    salaryMax: 45000,
+    salaryMonths: 15,
+    description: '负责抖音电商平台的产品规划和设计，深入理解内容电商业务场景，搭建从种草到拔草的全链路产品体验。与算法、运营、设计团队紧密协作，推动产品方案落地并持续优化。',
+    requirements: '本科及以上学历，3年以上互联网产品经验\n有电商或内容社区产品经验者优先\n具备优秀的数据分析能力和逻辑思维能力\n对内容电商趋势有深刻洞察，具备创新意识',
+    benefits: [
+      '六险一金',
+      '免费三餐',
+      '租房补贴',
+      '带薪年假15天+',
+      '股票期权'
+    ],
+    headcount: 3,
+    tags: ['产品经理', '电商', '抖音', '内容电商', '大厂'],
+    hiringManagerName: '张经理',
+    hiringManagerTitle: '产品总监',
+    source: 'BOSS直聘'
+  },
+  {
+    title: '前端开发工程师（抖音直播）',
+    companyName: '字节跳动',
+    department: '抖音直播技术部',
+    location: '北京·海淀区',
+    salaryMin: 20000,
+    salaryMax: 40000,
+    salaryMonths: 15,
+    description: '负责抖音直播业务的前端开发工作，包括直播间、互动玩法、数据看板等核心模块。参与技术架构设计，优化前端性能和用户体验，推动前端工程化建设。',
+    requirements: '本科及以上学历，2年以上前端开发经验\n精通React/Vue等主流框架，熟悉TypeScript\n熟悉前端工程化、模块化开发\n有直播、实时通信相关经验者优先',
+    benefits: [
+      '六险一金',
+      '免费三餐',
+      '健身房',
+      '股票期权',
+      '弹性工作'
+    ],
+    headcount: 5,
+    tags: ['前端开发', 'React', 'TypeScript', '直播', '抖音'],
+    hiringManagerName: '李总监',
+    hiringManagerTitle: '技术总监',
+    source: 'BOSS直聘'
+  },
+  {
+    title: '后端开发工程师（推荐架构）',
+    companyName: '字节跳动',
+    department: '推荐系统架构部',
+    location: '北京·海淀区',
+    salaryMin: 30000,
+    salaryMax: 50000,
+    salaryMonths: 16,
+    description: '负责字节跳动推荐系统的后端架构设计与开发，支撑抖音、今日头条等产品的个性化推荐服务。优化高并发、大流量场景下的系统性能和稳定性。',
+    requirements: '本科及以上学历，3年以上后端开发经验\n精通Java/Go/C++至少一门语言\n熟悉分布式系统、微服务架构\n有大规模推荐系统经验者优先',
+    benefits: [
+      '六险一金',
+      '免费三餐',
+      '住房补贴',
+      '股票期权',
+      '年度体检'
+    ],
+    headcount: 4,
+    tags: ['后端开发', 'Java', '推荐系统', '分布式', '高并发'],
+    hiringManagerName: '王架构师',
+    hiringManagerTitle: '资深架构师',
+    source: 'BOSS直聘'
+  },
+
+  // ========== 阿里巴巴 ==========
+  {
+    title: '产品经理（淘宝商家平台）',
+    companyName: '阿里巴巴',
+    department: '淘宝商家平台事业部',
+    location: '杭州·余杭区',
+    salaryMin: 25000,
+    salaryMax: 45000,
+    salaryMonths: 16,
+    description: '负责淘宝商家后台产品规划和设计，帮助商家提升经营效率。深入理解商家痛点，设计店铺管理、数据分析、营销工具等产品模块，推动商家数字化升级。',
+    requirements: '本科及以上学历，3年以上B端产品经验\n有电商商家产品或SaaS产品经验者优先\n具备优秀的业务理解能力和数据分析能力\n良好的跨团队协作能力',
+    benefits: [
+      '五险一金+商业保险',
+      '免息购房贷款',
+      '子女教育基金',
+      '带薪年假',
+      '股票期权'
+    ],
+    headcount: 2,
+    tags: ['产品经理', 'B端', '电商', '商家平台', '淘宝'],
+    hiringManagerName: '陈总监',
+    hiringManagerTitle: '产品VP',
+    source: 'BOSS直聘'
+  },
+  {
+    title: '高级前端开发工程师（阿里云）',
+    companyName: '阿里巴巴',
+    department: '阿里云智能',
+    location: '杭州·余杭区',
+    salaryMin: 25000,
+    salaryMax: 45000,
+    salaryMonths: 16,
+    description: '负责阿里云控制台及企业级应用的前端开发，打造极致用户体验。参与前端技术架构演进，推动可视化搭建、低代码等前沿技术在云产品中的应用。',
+    requirements: '本科及以上学历，3年以上前端开发经验\n精通React，熟悉前端工程化、组件化开发\n有大型中后台系统或可视化产品经验\n熟悉云计算、云原生技术者优先',
+    benefits: [
+      '五险一金+商业保险',
+      '免息购房贷款',
+      '免费体检',
+      '股票期权',
+      '弹性办公'
+    ],
+    headcount: 4,
+    tags: ['前端开发', 'React', '阿里云', '云计算', '中后台'],
+    hiringManagerName: '刘技术专家',
+    hiringManagerTitle: '前端技术专家',
+    source: 'BOSS直聘'
+  },
+  {
+    title: 'Java后端开发工程师（蚂蚁支付）',
+    companyName: '蚂蚁集团',
+    department: '支付技术部',
+    location: '杭州·西湖区',
+    salaryMin: 25000,
+    salaryMax: 45000,
+    salaryMonths: 16,
+    description: '负责支付宝核心支付链路的后端开发，参与高并发金融级系统的架构设计与实现。保障支付系统的稳定性、安全性，持续优化系统性能。',
+    requirements: '本科及以上学历，3年以上Java开发经验\n精通Java并发编程、JVM调优\n熟悉分布式系统、微服务架构\n有金融、支付相关经验者优先',
+    benefits: [
+      '六险一金',
+      '免息购房贷款',
+      '子女教育补贴',
+      '股票期权',
+      '健康关怀'
+    ],
+    headcount: 6,
+    tags: ['后端开发', 'Java', '支付', '金融', '高并发'],
+    hiringManagerName: '赵架构师',
+    hiringManagerTitle: '高级架构师',
+    source: 'BOSS直聘'
+  },
+
+  // ========== 腾讯 ==========
+  {
+    title: '高级产品经理（企业微信）',
+    companyName: '腾讯',
+    department: '微信事业群',
+    location: '广州·天河区',
+    salaryMin: 25000,
+    salaryMax: 45000,
+    salaryMonths: 15,
+    description: '负责企业微信核心功能的产品规划与设计，打造企业数字化转型的一站式解决方案。深入理解B端企业用户需求，推动产品创新与体验优化。',
+    requirements: '本科及以上学历，3年以上B端产品经验\n有企业协作、SaaS产品经验者优先\n具备优秀的用户洞察和数据分析能力\n良好的跨部门沟通和协调能力',
+    benefits: [
+      '六险一金',
+      '免费三餐',
+      '租房补贴',
+      '股票期权',
+      '弹性工作'
+    ],
+    headcount: 2,
+    tags: ['产品经理', 'B端', '企业微信', 'SaaS', '协作办公'],
+    hiringManagerName: '马总监',
+    hiringManagerTitle: '产品总监',
+    source: 'BOSS直聘'
+  },
+  {
+    title: '前端开发工程师（腾讯游戏）',
+    companyName: '腾讯',
+    department: '互动娱乐事业群',
+    location: '深圳·南山区',
+    salaryMin: 20000,
+    salaryMax: 40000,
+    salaryMonths: 15,
+    description: '负责腾讯游戏平台、游戏运营系统的前端开发工作。参与游戏社区、直播、赛事等互动产品的技术实现，打造极致的游戏社交体验。',
+    requirements: '本科及以上学历，2年以上前端开发经验\n精通React/Vue，熟悉前端性能优化\n有游戏行业或互动娱乐产品经验者优先\n对游戏有热情，关注用户体验',
+    benefits: [
+      '六险一金',
+      '游戏福利',
+      '健身房',
+      '股票期权',
+      '年度旅游'
+    ],
+    headcount: 3,
+    tags: ['前端开发', '游戏', 'React', '互动娱乐', '大厂'],
+    hiringManagerName: '孙技术经理',
+    hiringManagerTitle: '前端技术经理',
+    source: 'BOSS直聘'
+  },
+  {
+    title: '后端开发工程师（微信支付）',
+    companyName: '腾讯',
+    department: '微信事业群',
+    location: '广州·天河区',
+    salaryMin: 28000,
+    salaryMax: 50000,
+    salaryMonths: 15,
+    description: '负责微信支付核心系统的后端开发，参与高并发、高可用的金融级支付架构设计与实现。保障支付安全与稳定性，持续优化系统性能。',
+    requirements: '本科及以上学历，3年以上后端开发经验\n精通C++/Go/Java至少一门语言\n熟悉分布式系统、高并发架构设计\n有支付、金融行业经验者优先',
+    benefits: [
+      '六险一金',
+      '免费三餐',
+      '住房补贴',
+      '股票期权',
+      '健康管理'
+    ],
+    headcount: 4,
+    tags: ['后端开发', 'C++', '支付', '金融', '微信支付'],
+    hiringManagerName: '周技术专家',
+    hiringManagerTitle: '后端技术专家',
+    source: 'BOSS直聘'
+  },
+
+  // ========== 美团 ==========
+  {
+    title: '产品经理（美团外卖商家端）',
+    companyName: '美团',
+    department: '外卖事业部',
+    location: '北京·朝阳区',
+    salaryMin: 22000,
+    salaryMax: 40000,
+    salaryMonths: 15,
+    description: '负责美团外卖商家端产品规划，帮助餐饮商家提升数字化经营能力。设计店铺管理、订单处理、营销推广、数据分析等产品功能，推动商家增长。',
+    requirements: '本科及以上学历，2年以上产品经验\n有O2O、本地生活或B端产品经验者优先\n具备优秀的业务理解能力和数据分析能力\n工作积极主动，有责任心',
+    benefits: [
+      '五险一金',
+      '补充医疗保险',
+      '餐补',
+      '股票期权',
+      '年度体检'
+    ],
+    headcount: 3,
+    tags: ['产品经理', 'O2O', '本地生活', '外卖', '商家端'],
+    hiringManagerName: '吴产品总监',
+    hiringManagerTitle: '产品总监',
+    source: 'BOSS直聘'
+  },
+  {
+    title: '前端开发工程师（美团酒店）',
+    companyName: '美团',
+    department: '到店事业群',
+    location: '北京·朝阳区',
+    salaryMin: 18000,
+    salaryMax: 35000,
+    salaryMonths: 15,
+    description: '负责美团酒店业务的前端开发工作，包括酒店详情页、预订流程、商家后台等核心模块。参与前端技术选型与架构设计，提升用户体验。',
+    requirements: '本科及以上学历，2年以上前端开发经验\n精通Vue/React，熟悉前端工程化\n熟悉移动端H5开发，有性能优化经验\n有旅游、OTA行业经验者优先',
+    benefits: [
+      '五险一金',
+      '补充医疗保险',
+      '餐补',
+      '股票期权',
+      '弹性工作'
+    ],
+    headcount: 3,
+    tags: ['前端开发', 'Vue', 'H5', 'OTA', '旅游'],
+    hiringManagerName: '郑技术经理',
+    hiringManagerTitle: '前端技术经理',
+    source: 'BOSS直聘'
+  },
+  {
+    title: '算法工程师（美团配送）',
+    companyName: '美团',
+    department: '配送事业部',
+    location: '北京·朝阳区',
+    salaryMin: 30000,
+    salaryMax: 50000,
+    salaryMonths: 15,
+    description: '负责美团配送算法的研发，包括订单分配、路径规划、ETA预估等核心算法。利用机器学习、运筹优化技术，提升配送效率和用户体验。',
+    requirements: '硕士及以上学历，计算机、运筹学等相关专业\n精通机器学习、深度学习算法\n熟悉运筹优化、路径规划算法\n有物流、配送相关算法经验者优先',
+    benefits: [
+      '五险一金',
+      '补充医疗保险',
+      '餐补',
+      '股票期权',
+      '技术分享'
+    ],
+    headcount: 4,
+    tags: ['算法工程师', '机器学习', '运筹优化', '物流', '配送'],
+    hiringManagerName: '钱算法专家',
+    hiringManagerTitle: '高级算法专家',
+    source: 'BOSS直聘'
+  },
+
+  // ========== 拼多多 ==========
+  {
+    title: '产品经理（拼多多商业化）',
+    companyName: '拼多多',
+    department: '商业化技术部',
+    location: '上海·长宁区',
+    salaryMin: 25000,
+    salaryMax: 45000,
+    salaryMonths: 16,
+    description: '负责拼多多广告投放平台、商家营销工具的产品设计。深入理解社交电商场景下的广告需求，优化投放效果，提升商家ROI。',
+    requirements: '本科及以上学历，2年以上产品经验\n有广告、商业化产品经验者优先\n具备优秀的数据分析能力和商业敏感度\n对电商、社交广告有深入理解',
+    benefits: [
+      '六险一金',
+      '免费三餐',
+      '住房补贴',
+      '股票期权',
+      '加班补贴'
+    ],
+    headcount: 2,
+    tags: ['产品经理', '广告', '商业化', '电商', '社交'],
+    hiringManagerName: '冯总监',
+    hiringManagerTitle: '商业化产品总监',
+    source: 'BOSS直聘'
+  },
+  {
+    title: '后端开发工程师（拼多多供应链）',
+    companyName: '拼多多',
+    department: '供应链技术部',
+    location: '上海·长宁区',
+    salaryMin: 25000,
+    salaryMax: 45000,
+    salaryMonths: 16,
+    description: '负责拼多多供应链系统的后端开发，包括商品管理、库存管理、订单履约等核心模块。支撑海量订单的高效处理，优化供应链效率。',
+    requirements: '本科及以上学历，3年以上后端开发经验\n精通Java/Go，熟悉分布式系统\n有供应链、电商系统开发经验者优先\n具备高并发系统设计和优化能力',
+    benefits: [
+      '六险一金',
+      '免费三餐',
+      '住房补贴',
+      '股票期权',
+      '技术晋升'
+    ],
+    headcount: 5,
+    tags: ['后端开发', 'Java', '供应链', '电商', '高并发'],
+    hiringManagerName: '沈技术专家',
+    hiringManagerTitle: '资深技术专家',
+    source: 'BOSS直聘'
+  },
+  {
+    title: '数据分析师（拼多多用户增长）',
+    companyName: '拼多多',
+    department: '用户增长部',
+    location: '上海·长宁区',
+    salaryMin: 20000,
+    salaryMax: 35000,
+    salaryMonths: 16,
+    description: '负责拼多多用户增长的数据分析工作，通过数据挖掘和用户行为分析，发现增长机会，优化拉新、促活、留存策略，驱动业务增长。',
+    requirements: '本科及以上学历，统计学、数学、计算机等相关专业\n2年以上数据分析经验，熟练使用SQL、Python\n有增长黑客、用户增长相关经验者优先\n具备优秀的业务理解和沟通能力',
+    benefits: [
+      '六险一金',
+      '免费三餐',
+      '住房补贴',
+      '股票期权',
+      '数据驱动'
+    ],
+    headcount: 3,
+    tags: ['数据分析', '用户增长', 'SQL', 'Python', '增长黑客'],
+    hiringManagerName: '韩数据分析总监',
+    hiringManagerTitle: '数据分析总监',
+    source: 'BOSS直聘'
+  }
+];

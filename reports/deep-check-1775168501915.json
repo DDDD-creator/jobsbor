@@ -1,0 +1,20 @@
+{
+  "timestamp": "2026-04-02T22:21:19.293Z",
+  "checks": {
+    "build": "✅ PASS",
+    "typescript": "✅ PASS",
+    "eslint": "✅ PASS",
+    "staticParams": "✅ PASS",
+    "links": "⚠️ WARN",
+    "envFiles": "✅ PASS",
+    "criticalPages": "✅ PASS",
+    "components": "✅ PASS",
+    "dataFiles": "❌ FAIL",
+    "configFiles": "✅ PASS"
+  },
+  "errors": [
+    "数据文件缺失: src/data/real-jobs.ts"
+  ],
+  "warnings": [],
+  "summary": {}
+}

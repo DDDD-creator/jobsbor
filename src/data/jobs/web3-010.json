@@ -1,0 +1,27 @@
+{
+  "id": "web3-010",
+  "source": "remote3",
+  "title": "Developer Relations Engineer",
+  "companyId": "company-switchboard",
+  "companyName": "Switchboard Protocol Foundation",
+  "description": "Switchboard Protocol Foundation is seeking a Developer Relations Engineer to grow our oracle network ecosystem. You will create technical documentation, build developer tools, and support projects integrating Switchboard's decentralized oracle infrastructure.",
+  "url": "https://remote3.co/remote-jobs/developer-relations-engineer-switchboard-protocol-foundation",
+  "location": {
+    "remote": true,
+    "city": null,
+    "country": null
+  },
+  "employmentType": "contract",
+  "experienceLevel": "mid",
+  "category": "engineering",
+  "tags": ["Web3", "Oracle", "Developer Relations", "Blockchain", "Smart Contracts"],
+  "salary": {
+    "min": 90000,
+    "max": 150000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "postedAt": "2026-03-26T11:30:00Z",
+  "expiresAt": "2026-04-26T23:59:59Z",
+  "status": "active"
+}

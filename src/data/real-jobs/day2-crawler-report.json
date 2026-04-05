@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-04-04T07:27:39.451Z",
+  "sources": {
+    "remotive": 19,
+    "himalayas": 0,
+    "jobspresso": 0,
+    "github": 2,
+    "stackoverflow": 0
+  },
+  "newJobs": 3,
+  "totalJobs": 513,
+  "target": 800,
+  "progress": 64
+}

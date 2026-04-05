@@ -1,0 +1,25 @@
+{
+  "id": "company-parity",
+  "name": "Parity Technologies",
+  "description": "Parity Technologies is a blockchain infrastructure company building core technology for the decentralized web. They are the creators of Polkadot, Substrate, and the Parity Ethereum client, enabling scalable, interoperable blockchain networks.",
+  "logoUrl": "https://cryptocurrencyjobs.co/startups/parity-technologies/logo",
+  "websiteUrl": "https://parity.io",
+  "careersUrl": "https://parity.io/careers",
+  "location": {
+    "city": "London",
+    "country": "UK",
+    "remote": true
+  },
+  "industry": "Blockchain Infrastructure",
+  "size": "51-200",
+  "founded": 2015,
+  "socialLinks": {
+    "linkedin": "https://linkedin.com/company/paritytech",
+    "twitter": "https://twitter.com/ParityTech",
+    "github": "https://github.com/paritytech"
+  },
+  "meta": {
+    "source": "cryptocurrency-jobs",
+    "lastUpdated": "2026-04-02T03:00:00Z"
+  }
+}

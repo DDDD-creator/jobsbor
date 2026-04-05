@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "title": "Jobsbor - Meilleurs Emplois Finance & Web3",
+    "description": "Connectez-vous avec les meilleures institutions financières, projets Web3 et entreprises tech. Trouvez l'emploi de vos rêves en trading quantitatif, blockchain, DeFi et plus.",
+    "keywords": "emplois, emplois finance, emplois web3, emplois blockchain, trading quantitatif, DeFi, carrière crypto"
+  },
+  "nav": {
+    "home": "Accueil",
+    "jobs": "Emplois",
+    "companies": "Entreprises",
+    "industries": "Industries",
+    "blog": "Blog",
+    "guide": "Guide",
+    "about": "À propos",
+    "search": "Recherche",
+    "postJob": "Publier une offre"
+  },
+  "hero": {
+    "tagline": "Connecter les talents de premier plan avec les entreprises du futur",
+    "title": "Emplois Finance & Web3",
+    "subtitle": "Découvrez des postes premium dans les meilleures institutions financières et entreprises tech. Matching précis des talents pour votre développement de carrière.",
+    "searchPlaceholder": "Rechercher des emplois, entreprises ou mots-clés...",
+    "searchButton": "Rechercher",
+    "hotSearches": "Recherches populaires",
+    "stats": {
+      "activeJobs": "Emplois actifs",
+      "companies": "Entreprises",
+      "monthlyUsers": "Utilisateurs mensuels",
+      "successRate": "Taux de réussite"
+    }
+  },
+  "industries": {
+    "title": "Explorer les Industries",
+    "subtitle": "Choisissez votre voie de carrière et commencez un nouveau chapitre",
+    "finance": {
+      "title": "Finance",
+      "description": "Meilleures institutions financières: titres, fonds, banques d'investissement"
+    },
+    "web3": {
+      "title": "Web3",
+      "description": "Blockchain, DeFi, NFT et autres domaines de pointe"
+    },
+    "internet": {
+      "title": "Internet",
+      "description": "Grandes entreprises tech et licornes"
+    }
+  },
+  "jobs": {
+    "latest": "Derniers Emplois",
+    "viewAll": "Voir tous les emplois",
+    "remote": "Télétravail",
+    "fullTime": "Temps plein",
+    "partTime": "Temps partiel",
+    "contract": "Contrat",
+    "internship": "Stage",
+    "salary": "Salaire",
+    "location": "Lieu",
+    "type": "Type",
+    "apply": "Postuler",
+    "save": "Sauvegarder",
+    "share": "Partager",
+    "posted": "Publié",
+    "expires": "Expire"
+  },
+  "companies": {
+    "title": "Top Entreprises",
+    "subtitle": "Rejoignez les entreprises leaders et atteignez l'excellence",
+    "viewAll": "Voir toutes les entreprises",
+    "jobs": "emplois",
+    "follow": "Suivre",
+    "website": "Site web"
+  },
+  "telegram": {
+    "join": "Rejoindre le canal Telegram",
+    "description": "Recevez les dernières offres d'emploi, actualités du secteur et conseils de carrière",
+    "benefits": ["Emplois sélectionnés quotidiennement", "Actualités du secteur", "Conseils de carrière", "Recommandations prioritaires"]
+  },
+  "testimonials": {
+    "title": "Histoires de Réussite",
+    "subtitle": "Écoutez les chercheurs d'emploi qui ont réussi"
+  },
+  "cta": {
+    "title": "Prêt à démarrer votre parcours professionnel ?",
+    "subtitle": "Inscrivez-vous maintenant pour découvrir plus d'opportunités d'emploi premium",
+    "primaryButton": "Rejoindre Telegram",
+    "secondaryButton": "Parcourir les emplois"
+  },
+  "footer": {
+    "about": "À propos",
+    "careers": "Carrières",
+    "contact": "Contact",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "copyright": "© 2024 Jobsbor. Tous droits réservés."
+  },
+  "language": {
+    "title": "Langue",
+    "en": "English",
+    "ja": "日本語",
+    "de": "Deutsch",
+    "fr": "Français",
+    "es": "Español",
+    "ko": "한국어",
+    "th": "ไทย",
+    "vi": "Tiếng Việt",
+    "hi": "हिन्दी",
+    "zh": "简体中文"
+  }
+}

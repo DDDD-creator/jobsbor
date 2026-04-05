@@ -1,0 +1,25 @@
+{
+  "id": "company-etherfi",
+  "name": "ether.fi",
+  "description": "ether.fi is a decentralized liquid staking protocol on Ethereum. It allows users to stake ETH while retaining control of their keys and receiving liquid staking tokens that can be used across DeFi protocols.",
+  "logoUrl": "https://cryptocurrencyjobs.co/startups/ether-fi/logo",
+  "websiteUrl": "https://ether.fi",
+  "careersUrl": "https://ether.fi/careers",
+  "location": {
+    "city": "Grand Cayman",
+    "country": "Cayman Islands",
+    "remote": true
+  },
+  "industry": "DeFi",
+  "size": "11-50",
+  "founded": 2023,
+  "socialLinks": {
+    "linkedin": "https://linkedin.com/company/ether-fi",
+    "twitter": "https://twitter.com/ether_fi",
+    "github": "https://github.com/etherfi-protocol"
+  },
+  "meta": {
+    "source": "cryptocurrency-jobs",
+    "lastUpdated": "2026-04-02T03:00:00Z"
+  }
+}

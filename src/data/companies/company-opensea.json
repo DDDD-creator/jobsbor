@@ -1,0 +1,25 @@
+{
+  "id": "company-opensea",
+  "name": "OpenSea",
+  "description": "OpenSea is the world's first and largest digital marketplace for crypto collectibles and non-fungible tokens (NFTs). Buy, sell, and discover exclusive digital assets on the leading NFT marketplace.",
+  "logoUrl": "https://cryptocurrencyjobs.co/startups/opensea/logo",
+  "websiteUrl": "https://opensea.io",
+  "careersUrl": "https://opensea.io/careers",
+  "location": {
+    "city": "New York",
+    "country": "USA",
+    "remote": true
+  },
+  "industry": "NFT Marketplace",
+  "size": "201-500",
+  "founded": 2017,
+  "socialLinks": {
+    "linkedin": "https://linkedin.com/company/opensea",
+    "twitter": "https://twitter.com/opensea",
+    "github": "https://github.com/ProjectOpenSea"
+  },
+  "meta": {
+    "source": "web3-career",
+    "lastUpdated": "2026-04-02T03:00:00Z"
+  }
+}
