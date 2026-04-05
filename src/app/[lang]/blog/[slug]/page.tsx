@@ -104,7 +104,7 @@ export default async function BlogPostPage({
         {/* Hero Image */}
         {post.image && (
           <div className="relative h-64 sm:h-80 lg:h-96 overflow-hidden">
-            <img src={post.image} alt={post.title} className="w-full h-full object-cover" onError={(e) => { (e.target as HTMLImageElement).style.display = 'none' }} />
+            <img src={post.image} alt={post.title} className="w-full h-full object-cover" />
             <div className="absolute inset-0 bg-gradient-to-t from-dark-500 via-dark-500/50 to-transparent" />
           </div>
         )}
