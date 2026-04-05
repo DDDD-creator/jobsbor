@@ -1,8 +1,7 @@
 /**
- * Blog RSS Fetcher - Improved parser
- * Fetches articles from global tech/Web3/career RSS feeds
+ * Blog RSS Fetcher v4 - Anti-scraping bypass
+ * Strategy: Sequential fetch with retry + backoff + RSSHub proxy fallback
  */
-
 import { promises as fs } from 'fs';
 import { fileURLToPath } from 'url';
 import { dirname, join } from 'path';
@@ -10,171 +9,264 @@ import { dirname, join } from 'path';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
 const RSS_FEEDS = [
-  // === 科技类 ===
-  { name: 'TechCrunch', url: 'https://techcrunch.com/feed/', category: 'technology', lang: 'en' },
-  { name: 'Ars Technica', url: 'https://feeds.arstechnica.com/arstechnica/index', category: 'technology', lang: 'en' },
-  { name: 'MIT Tech Review', url: 'https://www.technologyreview.com/feed/', category: 'technology', lang: 'en' },
-  { name: 'Wired', url: 'https://www.wired.com/feed/rss', category: 'technology', lang: 'en' },
-  { name: 'Engadget', url: 'https://www.engadget.com/rss.xml', category: 'technology', lang: 'en' },
-  { name: 'VentureBeat', url: 'https://venturebeat.com/feed/', category: 'technology', lang: 'en' },
-  { name: 'The Verge', url: 'https://www.theverge.com/rss/index.xml', category: 'technology', lang: 'en', format: 'atom' },
-  { name: 'Hacker News Best', url: 'https://hnrss.org/best', category: 'technology', lang: 'en' },
-
-  // === Web3/区块链 ===
-  { name: 'CoinTelegraph', url: 'https://cointelegraph.com/rss', category: 'web3', lang: 'en' },
-  { name: 'CoinDesk', url: 'https://www.coindesk.com/arc/outboundfeeds/rss/', category: 'web3', lang: 'en' },
-  { name: 'Decrypt', url: 'https://decrypt.co/feed', category: 'web3', lang: 'en' },
-  { name: 'Bitcoin Magazine', url: 'https://bitcoinmagazine.com/.rss/full/', category: 'web3', lang: 'en' },
-
-  // === 远程工作/职业 ===
-  { name: 'FlexJobs', url: 'https://www.flexjobs.com/blog/feed/', category: 'remote-work', lang: 'en' },
-
-  // === 创业/商业 ===
-  { name: 'Inc', url: 'https://www.inc.com/rss/feed/', category: 'business', lang: 'en' },
-  { name: 'Business Insider', url: 'https://www.businessinsider.com/rss', category: 'business', lang: 'en' },
+  // === Technology ===
+  { name: 'TechCrunch', url: 'https://techcrunch.com/feed/', category: 'technology' },
+  { name: 'Ars Technica', url: 'https://feeds.arstechnica.com/arstechnica/index', category: 'technology' },
+  { name: 'MIT Tech Review', url: 'https://www.technologyreview.com/feed/', category: 'technology' },
+  { name: 'Wired', url: 'https://www.wired.com/feed/rss', category: 'technology' },
+  { name: 'The Verge', url: 'https://www.theverge.com/rss/index.xml', category: 'technology' },
+  { name: 'VentureBeat', url: 'https://venturebeat.com/feed/', category: 'technology' },
+  { name: 'Hacker News Best', url: 'https://hnrss.org/best', category: 'technology' },
+  // === Web3 ===
+  { name: 'CoinTelegraph', url: 'https://cointelegraph.com/rss', category: 'web3' },
+  { name: 'CoinDesk', url: 'https://www.coindesk.com/arc/outboundfeeds/rss/', category: 'web3' },
+  { name: 'Decrypt', url: 'https://decrypt.co/feed', category: 'web3' },
+  { name: 'Bitcoin Magazine', url: 'https://bitcoinmagazine.com/.rss/full/', category: 'web3' },
+  // === Business ===
+  { name: 'Inc', url: 'https://www.inc.com/rss/feed/', category: 'business' },
+  { name: 'Business Insider', url: 'https://www.businessinsider.com/rss', category: 'business' },
+  // === Remote Work ===
+  { name: 'FlexJobs', url: 'https://www.flexjobs.com/blog/feed/', category: 'remote-work' },
 ];
 
-// Universal RSS/Atom parser
-function parseFeed(xml, format) {
+// RSSHub public instances as fallback
+const RSSHUB_INSTANCES = [
+  'https://rsshub.app',
+  'https://rsshub.rssforever.com',
+];
+
+function getRSSHubUrl(originalUrl) {
+  // Extract domain and path for RSSHub routing
+  try {
+    const u = new URL(originalUrl);
+    const domain = u.hostname.replace('www.', '');
+    const path = u.pathname.replace(/^\//, '');
+    return `https://rsshub.app/${domain}/${path}`;
+  } catch {
+    return null;
+  }
+}
+
+function stripCdata(s) {
+  if (!s) return '';
+  return s.replace(/<!\[CDATA\[/g, '').replace(/\]\]>/g, '').trim();
+}
+
+function extractTag(content, tag) {
+  const regex = new RegExp(`<${tag}(?:\\s[^>]*)?>([\\s\\S]*?)</${tag}>`, 'i');
+  const m = content.match(regex);
+  if (!m) return '';
+  // Strip CDATA first (before HTML tag removal), since CDATA content may contain '>' chars
+  return stripCdata(m[1]).replace(/<[^>]*>/g, '').trim();
+}
+
+function extractImage(content) {
+  if (!content) return '';
+  const patterns = [
+    /<media:content[^>]*url="([^"]+)"/i,
+    /<media:thumbnail[^>]*url="([^"]+)"/i,
+    /<enclosure[^>]*url="([^"]+)"/i,
+    /<image[^>]*url="([^"]+)"/i,
+  ];
+  for (const p of patterns) {
+    const m = content.match(p);
+    if (m && m[1]) return m[1];
+  }
+  const desc = content.match(/<description[^>]*>([\s\S]*?)<\/description>/i);
+  if (desc) {
+    const imgMatch = desc[1].match(/<img[^>]*src="([^"]+)"/i);
+    if (imgMatch) return imgMatch[1];
+  }
+  return '';
+}
+
+function parseRSS(xml) {
   const items = [];
-  
-  if (format === 'atom') {
-    // Atom format
-    const entryRegex = /<entry[^>]*>([\s\S]*?)<\/entry>/g;
-    let match;
-    while ((match = entryRegex.exec(xml)) !== null) {
-      const content = match[1];
-      const extract = (tag) => {
-        const m = content.match(new RegExp(`<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`));
-        return m ? m[1].replace(/<[^>]*>/g, '').trim() : '';
-      };
-      const title = extract('title');
-      const linkMatch = content.match(/<link[^>]*href="([^"]*)"/);
-      const link = linkMatch?.[1] || extract('link');
-      const summary = extract('summary') || extract('content') || extract('subtitle');
-      const published = extract('published') || extract('updated');
-      const nameMatch = content.match(/<name>([^<]+)<\/name>/);
-      const author = nameMatch?.[1] || '';
-      
-      if (title && link) {
-        items.push({ title, link, description: summary?.replace(/<[^>]*>/g, '').substring(0, 300) || '', pubDate: published || new Date().toISOString(), author: author || 'Unknown', category: 'general', image: '' });
-      }
-    }
-  } else {
-    // RSS 2.0 format
-    const itemRegex = /<item[^>]*>([\s\S]*?)<\/item>/g;
-    let match;
-    while ((match = itemRegex.exec(xml)) !== null) {
-      const content = match[1];
-      const extract = (tag) => {
-        const m = content.match(new RegExp(`<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`));
-        return m ? m[1].replace(/<[^>]*>/g, '').trim() : '';
-      };
-      const title = extract('title');
-      const link = extract('link');
-      const description = extract('description');
-      const pubDate = extract('pubDate');
-      const creator = extract('dc:creator') || extract('author') || extract('name');
-      const category = extract('category');
-      
-      const imgMatch = content.match(/<media:content[^>]*url="([^"]*)"/);
-      const enclosureMatch = content.match(/<enclosure[^>]*url="([^"]*)"/);
-      const imgInDesc = description?.match(/<img[^>]*src="([^"]*)"/);
-      const image = imgMatch?.[1] || enclosureMatch?.[1] || imgInDesc?.[1] || '';
-      
-      if (title && link) {
-        items.push({ title, link, description: description?.replace(/<[^>]*>/g, '').substring(0, 300) || '', pubDate: pubDate || new Date().toISOString(), author: creator || 'Unknown', category: category || 'general', image });
-      }
+  const itemRegex = /<item(?:\s[^>]*)?>([\s\S]*?)<\/item>/gi;
+  let match;
+  while ((match = itemRegex.exec(xml)) !== null) {
+    const title = extractTag(match[1], 'title');
+    const link = extractTag(match[1], 'link');
+    if (title && link) {
+      items.push({
+        title, link,
+        description: extractTag(match[1], 'description').substring(0, 300),
+        pubDate: extractTag(match[1], 'pubDate'),
+        author: extractTag(match[1], 'dc:creator') || extractTag(match[1], 'author'),
+        category: extractTag(match[1], 'category'),
+        image: extractImage(match[1]),
+      });
     }
   }
-  
   return items;
 }
 
-async function fetchFeed(feed) {
-  console.log(`Fetching: ${feed.name} (${feed.url})`);
-  try {
-    const response = await fetch(feed.url, {
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (compatible; JobsborBot/1.0; +https://jobsbor.vercel.app)',
-        'Accept': 'application/rss+xml, application/xml, text/xml, */*',
-      },
-      signal: AbortSignal.timeout(15000),
-    });
-    
-    if (!response.ok) {
-      console.warn(`  ✗ HTTP ${response.status}: ${feed.name}`);
-      return [];
+function parseAtom(xml) {
+  const items = [];
+  const entryRegex = /<entry(?:\s[^>]*)?>([\s\S]*?)<\/entry>/gi;
+  let match;
+  while ((match = entryRegex.exec(xml)) !== null) {
+    const title = extractTag(match[1], 'title');
+    const linkMatch = match[1].match(/<link[^>]*href="([^"]+)"/i);
+    const link = linkMatch ? linkMatch[1] : extractTag(match[1], 'link');
+    if (title && link) {
+      items.push({
+        title, link,
+        description: (extractTag(match[1], 'summary') || extractTag(match[1], 'content')).replace(/<[^>]*>/g, '').substring(0, 300),
+        pubDate: extractTag(match[1], 'published') || extractTag(match[1], 'updated'),
+        author: (() => { const m = match[1].match(/<name>([^<]+)<\/name>/i); return m ? m[1].trim() : ''; })(),
+        category: 'general',
+        image: extractImage(match[1]),
+      });
     }
-    
-    const xml = await response.text();
-    const format = feed.format || (xml.includes('<entry>') ? 'atom' : 'rss');
-    const items = parseFeed(xml, format);
-    
-    console.log(`  ✓ ${items.length} articles from ${feed.name}`);
-    
-    return items.map(item => ({
-      ...item,
-      id: Buffer.from(item.link).toString('base64url').substring(0, 16),
-      source: feed.name,
-      sourceCategory: feed.category,
-      sourceLang: feed.lang,
-      fetchedAt: new Date().toISOString(),
-    }));
-  } catch (err) {
-    console.warn(`  ✗ Failed: ${feed.name} - ${err.message}`);
-    return [];
   }
+  return items;
+}
+
+function parseFeed(xml) {
+  if (xml.includes('<feed') && xml.includes('Atom')) return parseAtom(xml);
+  if (xml.includes('<entry>') && !xml.includes('<item>')) return parseAtom(xml);
+  return parseRSS(xml);
+}
+
+const USER_AGENTS = [
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15',
+  'Mozilla/5.0 (X11; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0',
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0',
+];
+
+async function fetchWithRetry(url, maxRetries = 2) {
+  for (let attempt = 0; attempt <= maxRetries; attempt++) {
+    try {
+      const ua = USER_AGENTS[Math.floor(Math.random() * USER_AGENTS.length)];
+      const res = await fetch(url, {
+        headers: {
+          'User-Agent': ua,
+          'Accept': 'application/rss+xml, application/xml, text/xml, */*',
+          'Accept-Language': 'en-US,en;q=0.9',
+          'Cache-Control': 'no-cache',
+        },
+        signal: AbortSignal.timeout(20000),
+        redirect: 'follow',
+      });
+
+      if (!res.ok) {
+        if (attempt < maxRetries) {
+          const delay = (attempt + 1) * 3000;
+          console.log(`    Retry ${attempt + 1}/${maxRetries} in ${delay}ms...`);
+          await new Promise(r => setTimeout(r, delay));
+          continue;
+        }
+        return { ok: false, status: res.status, xml: null };
+      }
+
+      const xml = await res.text();
+      return { ok: true, status: res.status, xml };
+    } catch (err) {
+      if (attempt < maxRetries) {
+        const delay = (attempt + 1) * 2000;
+        console.log(`    Retry ${attempt + 1}/${maxRetries} (${err.message}) in ${delay}ms...`);
+        await new Promise(r => setTimeout(r, delay));
+        continue;
+      }
+      return { ok: false, error: err.message, xml: null };
+    }
+  }
+  return { ok: false, error: 'max retries', xml: null };
+}
+
+async function fetchFeed(feed) {
+  console.log(`  Fetching: ${feed.name}`);
+
+  // Direct fetch with retry
+  const result = await fetchWithRetry(feed.url);
+
+  if (result.ok && result.xml) {
+    const items = parseFeed(result.xml);
+    if (items.length > 0) {
+      console.log(`    ✓ ${items.length} articles`);
+      return items.map(item => ({
+        ...item,
+        id: Buffer.from(item.link).toString('base64url').substring(0, 16),
+        source: feed.name,
+        sourceCategory: feed.category,
+        sourceLang: 'en',
+        fetchedAt: new Date().toISOString(),
+      }));
+    }
+    console.log(`    ✗ 0 articles parsed (feed may have changed format)`);
+  } else {
+    console.log(`    ✗ HTTP ${result.status || 'ERR'}: ${result.error || ''}`);
+  }
+
+  // Fallback: try RSSHub
+  const rsshubUrl = getRSSHubUrl(feed.url);
+  if (rsshubUrl) {
+    console.log(`    Trying RSSHub fallback...`);
+    const hubResult = await fetchWithRetry(rsshubUrl);
+    if (hubResult.ok && hubResult.xml) {
+      const items = parseFeed(hubResult.xml);
+      if (items.length > 0) {
+        console.log(`    ✓ ${items.length} articles via RSSHub`);
+        return items.map(item => ({
+          ...item,
+          id: Buffer.from(item.link).toString('base64url').substring(0, 16),
+          source: `${feed.name} (via RSSHub)`,
+          sourceCategory: feed.category,
+          sourceLang: 'en',
+          fetchedAt: new Date().toISOString(),
+        }));
+      }
+    }
+  }
+
+  return [];
 }
 
 async function main() {
-  console.log('📡 Fetching blog RSS feeds...\n');
-  console.log(`Total sources: ${RSS_FEEDS.length}`);
-  
-  const results = [];
-  const batchSize = 5;
-  
-  for (let i = 0; i < RSS_FEEDS.length; i += batchSize) {
-    const batch = RSS_FEEDS.slice(i, i + batchSize);
-    console.log(`\n--- Batch ${Math.floor(i/batchSize) + 1} ---`);
-    const batchResults = await Promise.allSettled(batch.map(fetchFeed));
-    results.push(...batchResults);
-    if (i + batchSize < RSS_FEEDS.length) {
-      await new Promise(r => setTimeout(r, 1000));
+  console.log('📡 Fetching blog RSS feeds (sequential + retry + RSSHub fallback)\n');
+  console.log(`Total sources: ${RSS_FEEDS.length}\n`);
+
+  const allResults = [];
+
+  // Sequential fetch to avoid rate limiting
+  for (const feed of RSS_FEEDS) {
+    const items = await fetchFeed(feed);
+    allResults.push(...items);
+    // Delay between feeds to avoid rate limiting
+    if (RSS_FEEDS.indexOf(feed) < RSS_FEEDS.length - 1) {
+      await new Promise(r => setTimeout(r, 2000));
     }
   }
-  
-  const allPosts = results
-    .filter(r => r.status === 'fulfilled')
-    .flatMap(r => r.value);
-  
-  // Deduplicate by link
+
+  // Deduplicate
   const seen = new Set();
-  const unique = allPosts.filter(p => {
+  const unique = allResults.filter(p => {
     if (seen.has(p.link)) return false;
     seen.add(p.link);
     return true;
   });
-  
+
   unique.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
   const latest = unique.slice(0, 300);
-  
+
   const outputPath = join(__dirname, '..', 'src', 'data', 'blog-posts.json');
   await fs.writeFile(outputPath, JSON.stringify(latest, null, 2), 'utf-8');
-  
+
   console.log(`\n✅ Saved ${latest.length} blog posts`);
-  console.log(`📅 ${latest[latest.length-1]?.pubDate || 'N/A'} → ${latest[0]?.pubDate || 'N/A'}`);
-  
-  const sourceCount = {}, categoryCount = {};
+  console.log(`📅 ${latest[latest.length - 1]?.pubDate?.substring(0, 16) || 'N/A'} → ${latest[0]?.pubDate?.substring(0, 16) || 'N/A'}`);
+
+  const sc = {}, cc = {};
   latest.forEach(p => {
-    sourceCount[p.source] = (sourceCount[p.source] || 0) + 1;
-    categoryCount[p.sourceCategory] = (categoryCount[p.sourceCategory] || 0) + 1;
+    sc[p.source] = (sc[p.source] || 0) + 1;
+    cc[p.sourceCategory] = (cc[p.sourceCategory] || 0) + 1;
   });
-  
+
   console.log('\n📂 Sources:');
-  Object.entries(sourceCount).sort((a,b) => b[1]-a[1]).forEach(([s, c]) => console.log(`  ${s}: ${c}`));
+  Object.entries(sc).sort((a, b) => b[1] - a[1]).forEach(([s, c]) => console.log(`  ${s}: ${c}`));
   console.log('\n📁 Categories:');
-  Object.entries(categoryCount).sort((a,b) => b[1]-a[1]).forEach(([c, n]) => console.log(`  ${c}: ${n}`));
+  Object.entries(cc).sort((a, b) => b[1] - a[1]).forEach(([c, n]) => console.log(`  ${c}: ${n}`));
 }
 
 main().catch(console.error);
