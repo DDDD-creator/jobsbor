@@ -302,41 +302,12 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
   })
 }
 
-// 生成静态参数 - 生成所有职位页面的静态路径
-export function generateStaticParams() {
-  // 支持的语言
-  const locales = ['zh', 'en']
-
-  // 生成485个真实职位的slug
-  const realJobSlugs = realJobs.map((job, index) =>
-    `${job.company.toLowerCase().replace(/\s+/g, '-')}-${job.title.toLowerCase().replace(/\s+/g, '-').substring(0, 30)}-${index}`
-  )
-
-  // 生成爬虫职位的slug
-  const crawledJobSlugs = crawledJobs.map((job, index) =>
-    `${job.companySlug}-${job.title.toLowerCase().replace(/\s+/g, '-')}-${index}`
-  )
-
-  // 合并所有职位slug（模拟职位 + 种子职位 + 真实职位 + 爬虫职位）
-  const allSlugs = new Set([
-    ...mockJobs.map((job) => job.slug),
-    ...seedJobs.map((job) => job.slug),
-    ...realJobSlugs,
-    ...crawledJobSlugs,
-  ])
-
-  // 为每种语言生成参数
-  const params: { lang: string; slug: string }[] = []
-  locales.forEach(lang => {
-    allSlugs.forEach(slug => {
-      params.push({ lang, slug })
-    })
-  })
-
-  return params
-}
+// Dynamic rendering - no static pre-generation (prevents Vercel build timeout)
+export const dynamic = 'force-dynamic'
+export const dynamicParams = true
 
 /**
+ * 职位详情页
  * 职位详情页
  * - 面包屑导航
  * - 职位标题 + 公司名
