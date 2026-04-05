@@ -318,10 +318,14 @@ export default async function JobDetailPage({ params }: { params: Promise<{ lang
 
   let job: JobWithCompany | null = null
   // Skip DB - use static data only (prevents Vercel serverless timeout)
-  // try {
-  // } catch {}
 
-  // 如果数据库找不到，尝试从seedJobs查找
+  // 1. 先尝试从mockJobs查找（模拟数据）
+  if (!job) {
+    const mockJob = mockJobs.find((j) => j.slug === slug)
+    if (mockJob) job = mockJob
+  }
+
+  // 2. 尝试从seedJobs查找
   if (!job) {
     const jobData = seedJobs.find((j) => j.slug === slug)
     if (jobData) {
