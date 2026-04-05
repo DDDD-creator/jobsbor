@@ -1,5 +1,19 @@
 [
   {
+    "title": "I quit my corporate job at 25 to sell pizza with a friend. Now we have 9 locations.",
+    "link": "https://www.businessinsider.com/quit-corporate-job-start-pizza-business-20000-timber-pizza-2026-4",
+    "description": "Chris Brady quit tech sales at 25 to start Timber Pizza Co. with $20,000. It has since grown to multiple locations and mobile units.",
+    "pubDate": "2026-04-05T19:56:01Z",
+    "author": "Elliott Harrell",
+    "category": "general",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Business Insider",
+    "sourceCategory": "business",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:41:05.905Z"
+  },
+  {
     "title": "Polymarket took down wagers tied to rescue of downed Air Force officer",
     "link": "https://techcrunch.com/2026/04/05/polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-officer/",
     "description": "",
@@ -11,7 +25,7 @@
     "source": "TechCrunch",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.809Z"
+    "fetchedAt": "2026-04-05T20:40:43.941Z"
   },
   {
     "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
@@ -25,7 +39,7 @@
     "source": "TechCrunch",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.809Z"
+    "fetchedAt": "2026-04-05T20:40:43.941Z"
   },
   {
     "title": "As people look for ways to make new friends, here are the apps promising to help",
@@ -39,7 +53,21 @@
     "source": "TechCrunch",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.809Z"
+    "fetchedAt": "2026-04-05T20:40:43.941Z"
+  },
+  {
+    "title": "I spent 11 hours in Korean Air&#39;s business-class suites. My seat felt more private than I expected and had cool perks.",
+    "link": "https://www.businessinsider.com/trying-business-class-korean-air-prestige-suites-mostly-worth-it-2026-4",
+    "description": "I spent hours in Korean Air&#39;s upgraded business class, Prestige Suites 2.0. The seat, food, and amenities on my flight were great despite one con.",
+    "pubDate": "2026-04-05T17:35:01Z",
+    "author": "Amber Gibson",
+    "category": "general",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Business Insider",
+    "sourceCategory": "business",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:41:05.905Z"
   },
   {
     "title": "TechCrunch Mobility: ‘A stunning lack of transparency’",
@@ -53,7 +81,21 @@
     "source": "TechCrunch",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.809Z"
+    "fetchedAt": "2026-04-05T20:40:43.941Z"
+  },
+  {
+    "title": "I never cared about Easter. Now that my kids are all grown up, it&#39;s the easier holiday for them to come home.",
+    "link": "https://www.businessinsider.com/empty-nest-mom-holidays-easter-new-tradition-2026-4",
+    "description": "As a mom of adult kids, I stopped trying to control Christmas and created a new tradition by making Easter our family holiday.",
+    "pubDate": "2026-04-05T15:42:01Z",
+    "author": "Jennifer McGuire",
+    "category": "general",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Business Insider",
+    "sourceCategory": "business",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:41:05.905Z"
   },
   {
     "title": "Can orbital data centers help justify a massive valuation for SpaceX?",
@@ -67,7 +109,35 @@
     "source": "TechCrunch",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.809Z"
+    "fetchedAt": "2026-04-05T20:40:43.941Z"
+  },
+  {
+    "title": "I tried Italian sandwiches from Subway, Jimmy John&#39;s, and Jersey Mike&#39;s. One stood out from the rest.",
+    "link": "https://www.businessinsider.com/which-chain-best-italian-sandwich-subway-jimmy-johns-jersey-mikes-2026-4",
+    "description": "I ordered an Italian sandwich from Subway, Jimmy John&#39;s, and Jersey Mike&#39;s to see which popular chain does the classic sub justice. One stood out.",
+    "pubDate": "2026-04-05T14:48:01Z",
+    "author": "Steven John",
+    "category": "general",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Business Insider",
+    "sourceCategory": "business",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:41:05.905Z"
+  },
+  {
+    "title": "My kids don&#39;t remember living in New York, so I retraced their earliest days with them",
+    "link": "https://www.businessinsider.com/family-returns-nyc-after-leaving-relocation-discover-roots-2026-4",
+    "description": "Ten years after leaving, I took my kids back to where they were born, New York City, to remind them of their roots.",
+    "pubDate": "2026-04-05T14:08:01Z",
+    "author": "Isobella Jade",
+    "category": "general",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Business Insider",
+    "sourceCategory": "business",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:41:05.905Z"
   },
   {
     "title": "In Japan, the robot isn&#8217;t coming for your job; it&#8217;s filling the one nobody wants",
@@ -81,7 +151,119 @@
     "source": "TechCrunch",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.809Z"
+    "fetchedAt": "2026-04-05T20:40:43.941Z"
+  },
+  {
+    "title": "I compared Martha Stewart&#39;s and Ina Garten&#39;s BLT sandwiches, and I preferred the recipe with store-bought mayo",
+    "link": "https://www.businessinsider.com/ina-garten-martha-stewart-blt-sandwiches-compared-review-2022-4",
+    "description": "Ina Garten&#39;s recipe for a BLT sandwich used store-bought mayonnaise, whereas Martha Stewart&#39;s recipe included homemade mayo.",
+    "pubDate": "2026-04-05T13:32:01Z",
+    "author": "Erin McDowell",
+    "category": "general",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Business Insider",
+    "sourceCategory": "business",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:41:05.905Z"
+  },
+  {
+    "title": "I made Gordon Ramsay&#39;s famous soft scrambled eggs. His recipe&#39;s good, but I found an easy way to make it even better.",
+    "link": "https://www.businessinsider.com/gordon-ramsay-scrambled-eggs-recipe-chef-tips-2026-4",
+    "description": "I followed celebrity chef Gordon Ramsay&#39;s soft scrambled eggs recipe — and one simple tweak made them silkier, richer, and even more delicious.",
+    "pubDate": "2026-04-05T13:06:01Z",
+    "author": "George Duran",
+    "category": "general",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Business Insider",
+    "sourceCategory": "business",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:41:05.905Z"
+  },
+  {
+    "title": "My fiancée and I live with my parents in a New York City apartment. It&#39;s helped us save money and open a business.",
+    "link": "https://www.businessinsider.com/couple-live-with-parents-nyc-apartment-save-money-2026-4",
+    "description": "My parents live in a rent-controlled NYC apartment, so my fiancée and I moved in. We were able to save enough money to open an art gallery.",
+    "pubDate": "2026-04-05T12:07:01Z",
+    "author": "Ciaran Short",
+    "category": "general",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Business Insider",
+    "sourceCategory": "business",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:41:05.905Z"
+  },
+  {
+    "title": "Best Apple Watch Bands of 2026: Nike, Hermés, and More",
+    "link": "https://www.wired.com/story/best-apple-watch-bands/",
+    "description": "We've actually been testing bands since the first Apple Watch launched in 2015. From silicone sports straps to leather bands, I've rounded up the best for every occasion.",
+    "pubDate": "Sun, 05 Apr 2026 12:00:00 +0000",
+    "author": "Boutayna Chokrane",
+    "category": "Gear",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
+  },
+  {
+    "title": "OpenAI Is Making Microsoft and Ashton Kutcher Incredibly Rich",
+    "link": "https://www.fastcompany.com/91327086/openai-is-making-microsoft-and-ashton-kutcher-incredibly-rich",
+    "description": "Microsoft made a smart bet on OpenAI back in 2019.\n\n\n\nAn initial $13 billion investment, supplemented with another $10 billion four years later, is now worth $228.3 billion, according to a leaked document that details all of OpenAI’s compiled public filings and secondary-market disclosures.\n\n\n\nMicro",
+    "pubDate": "2026-04-05T19:54:49",
+    "author": "Unknown",
+    "category": "general",
+    "image": "https://img-cdn.inc.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/vip/2026/04/OpenAI.jpg",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Inc",
+    "sourceCategory": "business",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:49.390Z"
+  },
+  {
+    "title": "Trump says US forces pulled off a high-risk rescue of a downed airman being hunted &#39;deep inside&#39; Iran",
+    "link": "https://www.businessinsider.com/trump-celebrates-rescue-of-american-airman-shot-down-over-iran-2026-4",
+    "description": "A US airman missing after his fighter jet was shot down over Iran has been rescued. Trump said he &#34;sustained injuries, but he will be just fine.&#34;",
+    "pubDate": "2026-04-05T11:54:07Z",
+    "author": "Tristan Anthony,Jake Epstein",
+    "category": "general",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Business Insider",
+    "sourceCategory": "business",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:41:05.905Z"
+  },
+  {
+    "title": "I&#39;m a 76-year-old retiree who travels often with my grandma friends. We&#39;re learning that the secret to healthy aging is adventure.",
+    "link": "https://www.businessinsider.com/retired-grandmas-superager-travel-healthy-aging-2026-4",
+    "description": "When I became an empty nester, I invited my friends on mini-trips and filmed our journeys for YouTube, where we&#39;re known as Two Grannies on the Road.",
+    "pubDate": "2026-04-05T11:45:01Z",
+    "author": "Beth Sobiloff",
+    "category": "general",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Business Insider",
+    "sourceCategory": "business",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:41:05.905Z"
+  },
+  {
+    "title": "A family of 4 lives in a 560-square-foot tiny home. Here&#39;s what they love about its design — and what they&#39;d change.",
+    "link": "https://www.businessinsider.com/family-560-sq-ft-tiny-home-best-worst-design-features-2026-4",
+    "description": "Brielle Matranga loves that her tiny home brings her family together and is easy to clean, but she hates not having a dishwasher or ample storage.",
+    "pubDate": "2026-04-05T11:16:01Z",
+    "author": "Samantha Grindell Pettyjohn",
+    "category": "general",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Business Insider",
+    "sourceCategory": "business",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:41:05.905Z"
   },
   {
     "title": "CBP facility codes sure seem to have leaked via online flashcards",
@@ -95,7 +277,399 @@
     "source": "Ars Technica",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.816Z"
+    "fetchedAt": "2026-04-05T20:40:43.993Z"
+  },
+  {
+    "title": "Heatbit Maxi Pro Review: a Space Heater That Also Mines Bitcoin",
+    "link": "https://www.wired.com/review/heatbit-maxi-pro-bitcoin-miner-heater/",
+    "description": "Electricity rates have gotten so atrocious that this Heatbit wants to offset your costs with bitcoin mining. But the math doesn't add up.",
+    "pubDate": "Sun, 05 Apr 2026 11:04:00 +0000",
+    "author": "Matthew Korfhage",
+    "category": "Gear",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
+  },
+  {
+    "title": "Panic and confusion: Student-loan borrowers scramble after getting kicked off Biden&#39;s key affordable repayment plan",
+    "link": "https://www.businessinsider.com/student-loan-borrowers-scramble-save-debt-repayment-plan-trump-confusion-2026-4",
+    "description": "&#34;It&#39;s been very chaotic,&#34; Joseph Strafaci, a SAVE student-loan borrower, said. He will soon have to transition off the affordable repayment plan.",
+    "pubDate": "2026-04-05T11:01:01Z",
+    "author": "Ayelet Sheffey",
+    "category": "general",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Business Insider",
+    "sourceCategory": "business",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:41:05.905Z"
+  },
+  {
+    "title": "For crypto miners turned AI stars, the real test is about to come",
+    "link": "https://www.businessinsider.com/crypto-miners-ai-data-centers-big-tech-infrastructure-apld-iren-2026-4",
+    "description": "Meet the quiet winners of the AI boom, the crypto mining players pivoting to big opportunities in the AI boom.",
+    "pubDate": "2026-04-05T10:43:01Z",
+    "author": "Daniel Geiger",
+    "category": "general",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Business Insider",
+    "sourceCategory": "business",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:41:05.905Z"
+  },
+  {
+    "title": "3 Best Robot Lawn Mowers (2026), Tested and Reviewed",
+    "link": "https://www.wired.com/gallery/best-robot-lawn-mowers/",
+    "description": "These smart mowers are expensive alternatives to some good old-fashioned yard work, but they’re finally good enough to consider if you’d rather sip an iced tea and watch the robot go by.",
+    "pubDate": "Sun, 05 Apr 2026 10:00:00 +0000",
+    "author": "Simon Hill",
+    "category": "Gear",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
+  },
+  {
+    "title": "How AI Is Transforming B2B Sales Without Replacing Human Sellers",
+    "link": "https://www.fastcompany.com/91323869/how-ai-is-transforming-b2b-sales-without-replacing-human-salespeople",
+    "description": "This article was written by Keith Ferrazzi, as well as Wendy Smith — the head of research &amp; thought leadership at Ferrazzi Greenlight, and Thierry Kahane — the CEO and Founder of the Executive AIgility Partnership.\n\n\n\nSociety is currently experiencing&nbsp;a paradox in&nbsp;B2B sales. Everywhere",
+    "pubDate": "2026-04-05T18:00:00",
+    "author": "Unknown",
+    "category": "general",
+    "image": "https://img-cdn.inc.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/vip/2026/04/GettyImages-2253932684.jpg",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Inc",
+    "sourceCategory": "business",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:49.390Z"
+  },
+  {
+    "title": "Workers are feeling AI anxiety — and that they might be training their replacements",
+    "link": "https://www.businessinsider.com/workers-worry-using-ai-will-make-them-replaceable-2026-4",
+    "description": "Some workers worry that using AI makes it easier for the technology to replace them. Yet it&#39;s not a 1-for-1 swap, workplace observers say.",
+    "pubDate": "2026-04-05T09:55:01Z",
+    "author": "Tim Paradis",
+    "category": "general",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Business Insider",
+    "sourceCategory": "business",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:41:05.905Z"
+  },
+  {
+    "title": "I founded Culture Pop in my 50s, but my youngest hires keep it relevant and fresh",
+    "link": "https://www.businessinsider.com/culture-pop-founder-i-rely-gen-z-millennial-employees-2026-4",
+    "description": "Culture Pop CEO and founder Tom First says he uses insights from younger employees to connect with consumers — and even make TikTok videos.",
+    "pubDate": "2026-04-05T09:51:01Z",
+    "author": "Jordan Hart",
+    "category": "general",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Business Insider",
+    "sourceCategory": "business",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:41:05.905Z"
+  },
+  {
+    "title": "Sony’s PS5 Price Hikes Prove This Console Generation Is Far From Over. Good.",
+    "link": "https://www.wired.com/story/sonys-ps5-price-hikes-prove-this-console-generation-is-far-from-over-good/",
+    "description": "The current console generation may last longer than anyone expects.",
+    "pubDate": "Sun, 05 Apr 2026 09:30:00 +0000",
+    "author": "Matt Kamen",
+    "category": "Gear",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
+  },
+  {
+    "title": "With One Million Displaced, Lebanon Turns to Digital Wallets for Aid",
+    "link": "https://www.wired.com/story/with-one-million-displaced-lebanon-turns-to-digital-wallets-for-aid/",
+    "description": "Amid mass displacement and collapsing trust in institutions, digital wallets are becoming critical conduits for aid, connecting diaspora donors directly with communities on the ground.",
+    "pubDate": "Sun, 05 Apr 2026 09:30:00 +0000",
+    "author": "Carla Sertin",
+    "category": "Business",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
+  },
+  {
+    "title": "A $185 cookware set I bought from Costco in late 2024 has become my personal tariff impact tracker",
+    "link": "https://www.businessinsider.com/tracking-tariff-impact-with-costco-henckels-cookware-set-2026-4",
+    "description": "Costco&#39;s price for a 12-piece Henckels cookware set swung by 72% in less than a year due to the tariff impact of President Donald Trump&#39;s trade war.",
+    "pubDate": "2026-04-05T09:23:01Z",
+    "author": "Dominick Reuter",
+    "category": "general",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Business Insider",
+    "sourceCategory": "business",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:41:05.905Z"
+  },
+  {
+    "title": "The quiet career cost of losing a parent young",
+    "link": "https://www.businessinsider.com/job-market-gen-z-early-career-parent-death-2026-4",
+    "description": "Navigating your early career is hard. Navigating it without a parent — and in this job market — presents another set of challenges.",
+    "pubDate": "2026-04-05T09:15:01Z",
+    "author": "Alice Tecotzky",
+    "category": "general",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Business Insider",
+    "sourceCategory": "business",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:41:05.905Z"
+  },
+  {
+    "title": "I vibe coded an AI tool to help my mom fight stage 4 cancer. It helped us catch errors in her treatment and let her die with dignity.",
+    "link": "https://www.businessinsider.com/vibe-coding-ai-tool-manage-cancer-treatment-caregiver-2026-4",
+    "description": "Pratik Desai, 34, vibe coded a platform to help track symptoms, analyze medical records, and catch doctors&#39; errors during his mom&#39;s cancer treatment.",
+    "pubDate": "2026-04-05T09:14:01Z",
+    "author": "Noah Sheidlower",
+    "category": "general",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Business Insider",
+    "sourceCategory": "business",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:41:05.905Z"
+  },
+  {
+    "title": "I quit tech, bought 22 acres, and didn&#39;t look at my computer for years — until AI brought me back",
+    "link": "https://www.businessinsider.com/founder-quit-tech-started-homesteading-ai-2026-4",
+    "description": "Ryan Courtnage quit the tech company he cofounded and bought 22 acres of land in Creston, British Columbia.",
+    "pubDate": "2026-04-05T09:12:01Z",
+    "author": "Henry Chandonnet",
+    "category": "general",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Business Insider",
+    "sourceCategory": "business",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:41:05.905Z"
+  },
+  {
+    "title": "She spent $100,000 on a tiny home in California. Now she rents it on Airbnb.",
+    "link": "https://www.businessinsider.com/how-a-custom-tiny-home-became-a-luxury-california-airbnb-2026-4",
+    "description": "Sakura Kishiro, 26, bought a 400-square-foot tiny home and designed &#34;every square inch.&#34; It became a popular vacation rental — and a source of income.",
+    "pubDate": "2026-04-05T09:10:01Z",
+    "author": "Allie Kelly",
+    "category": "general",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Business Insider",
+    "sourceCategory": "business",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:41:05.905Z"
+  },
+  {
+    "title": "The Hack That Exposed Syria’s Sweeping Security Failures",
+    "link": "https://www.wired.com/story/inside-the-hack-that-exposed-syrias-security-failures/",
+    "description": "When Syrian government accounts were hijacked in March, the breach looked chaotic. But it revealed something more troubling: a state struggling with the most basic layer of cybersecurity.",
+    "pubDate": "Sun, 05 Apr 2026 09:00:00 +0000",
+    "author": "Danny Makki",
+    "category": "Security",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
+  },
+  {
+    "title": "Busy Doesn’t Mean Productive. How Quiet Time Makes You a Better Leader",
+    "link": "https://www.fastcompany.com/91321970/busy-doesnt-mean-productive-how-quiet-time-makes-you-a-better-leader",
+    "description": "Imagine telling everyone at your next leadership team meeting, “I’m working on taking more quiet time.”&nbsp;They’d&nbsp;probably ask&nbsp;if&nbsp;everything’s&nbsp;okay.&nbsp;&nbsp;\n\n\n\nMost leaders live with nonstop input and activity. Meetings, messages, news, podcasts, alerts, opinions, demands, ",
+    "pubDate": "2026-04-05T17:00:00",
+    "author": "Unknown",
+    "category": "general",
+    "image": "https://img-cdn.inc.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/vip/2026/04/GettyImages-2223346213.jpg",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Inc",
+    "sourceCategory": "business",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:49.390Z"
+  },
+  {
+    "title": "Economists Calculated Exactly How Much Trump Tariffs Will Cost You in 2026—and Who Is Paying the Most",
+    "link": "https://www.fastcompany.com/91327041/economists-calculated-trump-tariffs-cost-you-paying-most",
+    "description": "The majority of President Trump’s tariffs were struck down earlier this year by the Supreme Court, but a number remain in place, with the threat of higher tariffs still to come. While the importers of tariffed goods are the ones who pay the actual tariff costs up front, they generally pass the cost ",
+    "pubDate": "2026-04-05T16:29:32",
+    "author": "Unknown",
+    "category": "general",
+    "image": "https://img-cdn.inc.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/vip/2026/04/p-1-91514824-economists-trump-tariffs-2026.webp",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Inc",
+    "sourceCategory": "business",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:49.390Z"
+  },
+  {
+    "title": "AI Is Causing Employee Burnout. Here’s What Leaders Can Do About It",
+    "link": "https://www.fastcompany.com/91321789/ai-is-causing-employee-burnout-heres-what-leaders-can-do-about-it",
+    "description": "I recently met with a client who felt like her team was rapidly burning out. She had implemented&nbsp;AI tools earlier and thought the shift would make her team more productive.&nbsp;&nbsp;\n\n\n\nOn the surface, the extra help seemed to achieve exactly what she intended — faster project completion and ",
+    "pubDate": "2026-04-05T16:00:00",
+    "author": "Unknown",
+    "category": "general",
+    "image": "https://img-cdn.inc.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/vip/2026/04/GettyImages-2264859908.jpg",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Inc",
+    "sourceCategory": "business",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:49.390Z"
+  },
+  {
+    "title": "Cheaper Seats, Fewer Perks: United Takes a Basic Economy Approach to Premium Cabins",
+    "link": "https://www.fastcompany.com/91327056/cheaper-seats-fewer-perks-united-takes-a-basic-economy-approach-to-premium-cabins",
+    "description": "United Airlines is drawing back the curtains in its first- and business-class cabins, unveiling a new three-tiered price structure—base, standard, and flexible— that fundamentally changes the &#8220;all-inclusive&#8221; nature of luxury travel.\n\n\n\nStarting this month, the Chicago-based airline will ",
+    "pubDate": "2026-04-05T15:37:57",
+    "author": "Unknown",
+    "category": "general",
+    "image": "https://img-cdn.inc.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/vip/2026/04/UNITED-AIRLINES.jpg",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Inc",
+    "sourceCategory": "business",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:49.390Z"
+  },
+  {
+    "title": "Why Promoting Your Best Frontline Workers Can Backfire",
+    "link": "https://www.fastcompany.com/91321736/why-promoting-your-best-frontline-workers-can-backfire",
+    "description": "I recently read a Gallup article with a provocative title: “When Good Frontline Workers Make Bad Supervisors.” It surprised me. Not because the risk&nbsp;isn’t&nbsp;real, but because&nbsp;I’ve&nbsp;seen the opposite happen&nbsp;repeatedly. Strong frontline performers get promoted. Their peers suppor",
+    "pubDate": "2026-04-05T15:00:00",
+    "author": "Unknown",
+    "category": "general",
+    "image": "https://img-cdn.inc.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/vip/2026/04/GettyImages-1049404210.jpg",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Inc",
+    "sourceCategory": "business",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:49.390Z"
+  },
+  {
+    "title": "How to Improve Your Prioritization Skills and Stop Procrastinating",
+    "link": "https://www.fastcompany.com/91320891/why-shifting-your-mindset-around-prioritization-skills-matters",
+    "description": "When I was about 9 years old, I took&nbsp;swimming&nbsp;lessons&nbsp;at&nbsp;a&nbsp;local&nbsp;outdoor&nbsp;public pool. Unfortunately, that summer in New York City was a cool one with many overcast days and highs in the mid 70s. I remember standing on the pool deck in the early morning, peering dow",
+    "pubDate": "2026-04-05T14:00:00",
+    "author": "Unknown",
+    "category": "general",
+    "image": "https://img-cdn.inc.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/vip/2026/04/GettyImages-2225161419.jpg",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Inc",
+    "sourceCategory": "business",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:49.390Z"
+  },
+  {
+    "title": "Americans Say They Need $1.46 Million to Retire—Few Are Anywhere Near It",
+    "link": "https://www.fastcompany.com/91325735/retirement-new-benchmarkts-1-46-million",
+    "description": "Americans believe they now need significantly more money to retire comfortably. For most, however, that goal is moving further out of reach.&nbsp;\n\n\n\nThe latest “magic number” for retirement savings has climbed to $1.46 million in 2026, up roughly $200,000 from last year, according to a new study fr",
+    "pubDate": "2026-04-05T13:00:00",
+    "author": "Unknown",
+    "category": "general",
+    "image": "https://img-cdn.inc.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/vip/2026/04/retirement-cost-inc.jpg",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Inc",
+    "sourceCategory": "business",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:49.390Z"
+  },
+  {
+    "title": "How Entrepreneurs Can Stay Relevant in the Age of AI and Disruption",
+    "link": "https://www.fastcompany.com/91320754/how-entrepreneurs-can-stay-relevant-in-the-age-of-ai-and-disruption",
+    "description": "Running a business in a fast-moving industry means accepting a hard truth. What worked yesterday could eventually stop working. When I sat down with&nbsp;Advantage&nbsp;Founder and CEO Adam Witty on&nbsp;The Big Idea&nbsp;podcast from Yahoo Finance, we talked about how entrepreneurs can stay relevan",
+    "pubDate": "2026-04-05T13:00:00",
+    "author": "Unknown",
+    "category": "general",
+    "image": "https://img-cdn.inc.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/vip/2026/04/GettyImages-2208258210.jpg",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Inc",
+    "sourceCategory": "business",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:49.390Z"
+  },
+  {
+    "title": "You’re Chasing the Wrong Definition of Success. Here’s How to Fix It",
+    "link": "https://www.fastcompany.com/91320723/youre-chasing-the-wrong-definition-of-success-heres-how-to-fix-it",
+    "description": "This article was written by Saahil Mehta, an Entrepreneurs’ Organization (EO) member in Dubai. Mehta is an author and success coach who helps business owners design a zero-regret life. He is currently co-authoring a book with Marshall Goldsmith on behavioral patterns that limit entrepreneurial succe",
+    "pubDate": "2026-04-05T12:00:00",
+    "author": "Unknown",
+    "category": "general",
+    "image": "https://img-cdn.inc.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/vip/2026/04/GettyImages-2263338800.jpg",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Inc",
+    "sourceCategory": "business",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:49.390Z"
+  },
+  {
+    "title": "How Disney Imagineering Has Increased Its Pace of Innovation by Thinking Like a Startup",
+    "link": "https://www.fastcompany.com/91326644/how-disney-imagineering-has-increased-its-pace-of-innovation-by-thinking-like-a-startup",
+    "description": "Bruce Vaughn has spent 26 years of his working life as a Walt Disney Imagineer, creating the innovative experiences (like animatronics and rides) that guests encounter at the company’s theme parks and cruise ships. But between his first 22 year run at the company and his current one, where he serves",
+    "pubDate": "2026-04-05T11:00:00",
+    "author": "Unknown",
+    "category": "general",
+    "image": "https://img-cdn.inc.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/vip/2026/04/disney-inc-2266467004.jpg",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Inc",
+    "sourceCategory": "business",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:49.390Z"
+  },
+  {
+    "title": "This 1 Weird Mental Shift Is Scientifically Proven to Make You Happier",
+    "link": "https://www.fastcompany.com/91325911/this-1-weird-mental-shift-is-scientifically-proven-to-make-you-happier",
+    "description": "What can you do to make yourself happier? If you&#8217;re like most people, the idea of increasing your own happiness probably appeals to you. But here&#8217;s a second question: Do you think it&#8217;s possible? Or do you believe some people are just born with a happy outlook on life, while other, ",
+    "pubDate": "2026-04-05T09:23:00",
+    "author": "Unknown",
+    "category": "general",
+    "image": "https://img-cdn.inc.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/vip/2026/04/GettyImages-1441693609.jpg",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Inc",
+    "sourceCategory": "business",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:49.390Z"
+  },
+  {
+    "title": "The Marketing Playbook That Propelled This Cat Food Brand to $100 Million in Less Than a Decade",
+    "link": "https://www.fastcompany.com/91326224/the-marketing-playbook-that-propelled-this-cat-food-brand-to-100-million-in-less-than-a-decade",
+    "description": "Matthew Michaelson and Veronica del Rosario relish cat discourse. The co-founders of Smalls, a fresh cat food brand, have funneled all of that collective love, hate, and misunderstanding about the beloved pets, which often get reduced to second billing below dogs, into a marketing machine that prope",
+    "pubDate": "2026-04-05T09:00:00",
+    "author": "Unknown",
+    "category": "general",
+    "image": "https://img-cdn.inc.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/vip/2026/04/smalls-pano-1-inc_63dda8.jpg",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Inc",
+    "sourceCategory": "business",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:49.390Z"
+  },
+  {
+    "title": "United Airlines Just Made a Game-Changing Announcement, and Certain Kinds of Passengers Will Love It",
+    "link": "https://www.fastcompany.com/91327063/united-airlines-just-made-a-game-changing-announcement-and-passengers-will-love-it-if-it-works",
+    "description": "It&#8217;s the end of ski season, and I&#8217;m sad. One way I cope is to daydream and plan for next season.\n\n\n\nSpecifically, I&#8217;m blocking out time on my calendar for early December, when I&#8217;ll try to schedule my first 2-3 day trip of the 2026-27 season out to Utah or Colorado. I&#8217;m ",
+    "pubDate": "2026-04-05T08:32:00",
+    "author": "Unknown",
+    "category": "general",
+    "image": "https://img-cdn.inc.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/vip/2025/06/United_airlines_spotify.jpg",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Inc",
+    "sourceCategory": "business",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:49.390Z"
   },
   {
     "title": "Artemis II is going so well that we're left to talk about frozen urine",
@@ -109,7 +683,7 @@
     "source": "Ars Technica",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.816Z"
+    "fetchedAt": "2026-04-05T20:40:43.993Z"
   },
   {
     "title": "Peter Thiel&#8217;s big bet on solar-powered cow collars",
@@ -123,7 +697,7 @@
     "source": "TechCrunch",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.809Z"
+    "fetchedAt": "2026-04-05T20:40:43.941Z"
   },
   {
     "title": "Embattled startup Delve has ‘parted ways’ with Y Combinator",
@@ -137,7 +711,7 @@
     "source": "TechCrunch",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.809Z"
+    "fetchedAt": "2026-04-05T20:40:43.941Z"
   },
   {
     "title": "Tech companies are trying to neuter Colorado’s landmark right-to-repair law",
@@ -151,7 +725,7 @@
     "source": "Ars Technica",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.816Z"
+    "fetchedAt": "2026-04-05T20:40:43.993Z"
   },
   {
     "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
@@ -165,7 +739,49 @@
     "source": "TechCrunch",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.809Z"
+    "fetchedAt": "2026-04-05T20:40:43.941Z"
+  },
+  {
+    "title": "AI Giant Anthropic Files to Launch &#39;AnthroPAC&#39; Amid Clash With Trump Administration",
+    "link": "https://decrypt.co/363355/ai-giant-anthropic-anthropac-clash-trump-administration",
+    "description": "Claude developer Anthropic registered an employee-funded PAC amid a legal battle with the White House and rising election-year scrutiny of AI.",
+    "pubDate": "Sat, 04 Apr 2026 16:01:03 +0000",
+    "author": "Jason Nelson",
+    "category": "Artificial Intelligence",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-anthropic-dario-amodei-gID_7.png@png",
+    "id": "aHR0cHM6Ly9kZWNy",
+    "source": "Decrypt",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:47.899Z"
+  },
+  {
+    "title": "Defiant Delve Lashes Out Against Fraud Allegations",
+    "link": "https://www.fastcompany.com/91327049/defiant-delve-lashes-out-against-fraud-allegations",
+    "description": "Delve’s co-founders are delving into all-out defense mode in the wake of fraud allegations and the loss of the $300 million compliance startup’s biggest investor, Y Combinator.\n\n\n\nIn a video statement posted to X on Friday night, chief executive officer Karun Kaushik and chief operating officer Seli",
+    "pubDate": "2026-04-04T21:37:37",
+    "author": "Unknown",
+    "category": "general",
+    "image": "https://img-cdn.inc.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/vip/2026/04/DELVE.jpg",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Inc",
+    "sourceCategory": "business",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:49.390Z"
+  },
+  {
+    "title": "Anthropic Spots &#39;Emotion Vectors&#39; Inside Claude That Influence AI Behavior",
+    "link": "https://decrypt.co/363309/anthropic-emotion-vectors-claude-influence-ai-behavior",
+    "description": "Researchers say internal emotion-like signals shape how large language models make decisions.",
+    "pubDate": "Sat, 04 Apr 2026 13:01:02 +0000",
+    "author": "Jason Nelson",
+    "category": "Artificial Intelligence",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-12-gID_7.png@png",
+    "id": "aHR0cHM6Ly9kZWNy",
+    "source": "Decrypt",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:47.899Z"
   },
   {
     "title": "After fighting malware for decades, this cybersecurity veteran is now hacking drones",
@@ -179,7 +795,161 @@
     "source": "TechCrunch",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.809Z"
+    "fetchedAt": "2026-04-05T20:40:43.941Z"
+  },
+  {
+    "title": "Sonos Play Review: Performance Meets Convenience",
+    "link": "https://www.wired.com/review/sonos-play/",
+    "description": "With great sound and versatility, this new speaker may be Sonos’ best.",
+    "pubDate": "Sat, 04 Apr 2026 13:00:00 +0000",
+    "author": "Ryan Waniata",
+    "category": "Gear",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
+  },
+  {
+    "title": "Best Ski Clothes (2026): Patagonia, Arc’teryx, Burton, and More",
+    "link": "https://www.wired.com/gallery/best-ski-clothes/",
+    "description": "From weatherproof jackets and pants to puffers, gloves, and socks, WIRED’s winter sports experts have you covered.",
+    "pubDate": "Sat, 04 Apr 2026 12:00:00 +0000",
+    "author": "Chris Haslam",
+    "category": "Gear",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
+  },
+  {
+    "title": "Aiper IrriSense 2 Smart Irrigation System Review: Clever Yet Uneven",
+    "link": "https://www.wired.com/review/aiper-irrisense-2-smart-irrigation-system/",
+    "description": "This hose-attached smart sprinkler maps your yard, rotates on command, and measures water use. Despite these clever features, the results are a little uneven.",
+    "pubDate": "Sat, 04 Apr 2026 11:01:00 +0000",
+    "author": "Christopher Null",
+    "category": "Gear",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
+  },
+  {
+    "title": "Your Tax Refund Could Be Delayed—and the IRS Says You Need to Act Fast",
+    "link": "https://www.fastcompany.com/91326534/irs-tax-refund-delayed-national-taxpayer-advocate",
+    "description": "Tax refunds are typically a welcomed reprieve for millions of Americans facing challenging financial times. While many tax filers are set to receive higher refunds&nbsp;this year, around 1.4 million Americans who typically receive paper refund checks may have to wait longer for their refunds because",
+    "pubDate": "2026-04-04T18:48:30",
+    "author": "Unknown",
+    "category": "general",
+    "image": "https://img-cdn.inc.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/vip/2026/04/p-1-91517670-News-Your-tax-refund-could-be-delayeda__and-the-IRS-says-you-need-to-act-fast.webp",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Inc",
+    "sourceCategory": "business",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:49.390Z"
+  },
+  {
+    "title": "Hackers Are Posting the Claude Code Leak With Bonus Malware",
+    "link": "https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/",
+    "description": "Plus: The FBI says a recent hack of its wiretap tools poses a national security risk, attackers stole Cisco source code as part of an ongoing supply chain hacking spree, and more.",
+    "pubDate": "Sat, 04 Apr 2026 10:30:00 +0000",
+    "author": "Andy Greenberg, Dell Cameron, Maddy Varner, Andrew Couts",
+    "category": "Security",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
+  },
+  {
+    "title": "The Unprecedented Catch in Elon Musk’s SpaceX IPO",
+    "link": "https://www.fastcompany.com/91327031/the-unprecedented-catch-in-elon-musks-spacex-ipo",
+    "description": "The most contentious detail of the upcoming SpaceX initial public offering isn&#8217;t the rocket science—it’s a mandatory software subscription.\n\n\n\nElon Musk is reportedly requiring the deal’s lead investment banks, law firms, and other advisors to commit tens of millions of dollars to his artifici",
+    "pubDate": "2026-04-04T18:16:28",
+    "author": "Unknown",
+    "category": "general",
+    "image": "https://img-cdn.inc.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/vip/2026/04/SPACE-X.jpg",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Inc",
+    "sourceCategory": "business",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:49.390Z"
+  },
+  {
+    "title": "How to Get Reliable Wi-Fi in Your Backyard",
+    "link": "https://www.wired.com/story/how-to-get-wifi-in-your-backyard/",
+    "description": "There are several ways to extend your Wi-Fi network into your backyard and out onto the deck or patio. Here’s how.",
+    "pubDate": "Sat, 04 Apr 2026 10:00:00 +0000",
+    "author": "Simon Hill",
+    "category": "Gear",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
+  },
+  {
+    "title": "Forget ‘Self-Made.’ The Key to Business Success Is Support",
+    "link": "https://www.fastcompany.com/91320578/forget-self-made-the-key-to-business-success-is-support",
+    "description": "The myth of the self-made millionaire is one of the most damaging stories in business. It implies that success is only available to the founders who white-knuckle their way to the top without asking for help. After starting two businesses, one of which ended in heartbreak, and becoming part of a com",
+    "pubDate": "2026-04-04T18:00:00",
+    "author": "Unknown",
+    "category": "general",
+    "image": "https://img-cdn.inc.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/vip/2026/04/GettyImages-2248497743.jpg",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Inc",
+    "sourceCategory": "business",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:49.390Z"
+  },
+  {
+    "title": "The Trajectory of the Artemis II Moon Mission Is a Feat of Engineering",
+    "link": "https://www.wired.com/story/the-trajectory-of-the-artemis-ii-moon-mission-is-a-feat-of-engineering/",
+    "description": "The astronauts will arrive about 10,300 kilometers beyond our satellite, breaking all previous records for distance from Earth. But how was their route chosen?",
+    "pubDate": "Sat, 04 Apr 2026 09:30:00 +0000",
+    "author": "Luca Nardi",
+    "category": "Science",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
+  },
+  {
+    "title": "How to Answer ‘What Do You Do?’ Without Using Your Job Title",
+    "link": "https://www.fastcompany.com/91320557/how-to-answer-what-do-you-do-without-using-your-job-title",
+    "description": "People&nbsp;tend to be wrapped up in&nbsp;themselves, both personally and professionally.&nbsp;That’s&nbsp;not selfish or Machiavellian.&nbsp;It’s&nbsp;just human nature. While&nbsp;that’s&nbsp;ok,&nbsp;it’s&nbsp;not effective when it comes to communicating&nbsp;how&nbsp;you&nbsp;view&nbsp;your&nbsp",
+    "pubDate": "2026-04-04T17:00:00",
+    "author": "Unknown",
+    "category": "general",
+    "image": "https://img-cdn.inc.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/vip/2026/04/GettyImages-2156163379.jpg",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Inc",
+    "sourceCategory": "business",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:49.390Z"
+  },
+  {
+    "title": "Maytag Promo Codes and Deals: Appliances Under $300",
+    "link": "https://www.wired.com/story/maytag-promo-code/",
+    "description": "Upgrade your home for less with these verified Maytag discount codes, military savings, and limited-time closeout offers on washers, dryers, and more.",
+    "pubDate": "Sat, 04 Apr 2026 05:00:00 +0000",
+    "author": "Matthew Korfhage",
+    "category": "Gear",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
   },
   {
     "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
@@ -193,7 +963,7 @@
     "source": "TechCrunch",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.809Z"
+    "fetchedAt": "2026-04-05T20:40:43.941Z"
   },
   {
     "title": "Lucid blames dip in Q1 sales on seat supplier issue",
@@ -207,7 +977,7 @@
     "source": "TechCrunch",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.809Z"
+    "fetchedAt": "2026-04-05T20:40:43.941Z"
   },
   {
     "title": "Trump proposes steep cut to NASA budget as astronauts head for the Moon",
@@ -221,7 +991,7 @@
     "source": "Ars Technica",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.816Z"
+    "fetchedAt": "2026-04-05T20:40:43.993Z"
   },
   {
     "title": "Ice Age dice show early Native Americans may have understood probability",
@@ -235,7 +1005,7 @@
     "source": "Ars Technica",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.816Z"
+    "fetchedAt": "2026-04-05T20:40:43.993Z"
   },
   {
     "title": "The anonymous social app that thinks it can work in Saudi Arabia",
@@ -249,7 +1019,7 @@
     "source": "TechCrunch",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.809Z"
+    "fetchedAt": "2026-04-05T20:40:43.941Z"
   },
   {
     "title": "As Artemis II zooms to the Moon, everything seems to be going swimmingly",
@@ -263,7 +1033,35 @@
     "source": "Ars Technica",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.816Z"
+    "fetchedAt": "2026-04-05T20:40:43.993Z"
+  },
+  {
+    "title": "Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk",
+    "link": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
+    "description": "Major AI labs are investigating a security incident that impacted Mercor, a leading data vendor. The incident could have exposed key data about how they train AI models.",
+    "pubDate": "Fri, 03 Apr 2026 21:28:14 +0000",
+    "author": "Maxwell Zeff, Zoë Schiffer, Lily Hay Newman",
+    "category": "Business",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
+  },
+  {
+    "title": "Scientists Have Made a French Fry Breakthrough",
+    "link": "https://www.wired.com/story/scientists-have-made-french-fry-breakthrough/",
+    "description": "Researchers have developed a method of making french fries that results in a healthier bite without sacrificing crispiness.",
+    "pubDate": "Fri, 03 Apr 2026 21:23:33 +0000",
+    "author": "Marta Musso",
+    "category": "Science",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
   },
   {
     "title": "Elon Musk insists banks working on SpaceX IPO must buy Grok subscriptions",
@@ -277,7 +1075,21 @@
     "source": "Ars Technica",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.816Z"
+    "fetchedAt": "2026-04-05T20:40:43.993Z"
+  },
+  {
+    "title": "Charles Schwab Is Gearing Up to Offer Bitcoin, Ethereum Spot Trading",
+    "link": "https://decrypt.co/363336/charles-schwab-bitcoin-ethereum-spot-trading",
+    "description": "Financial giant Charles Schwab is set to launch spot buying of Bitcoin and Ethereum by the end of the quarter, the firm said Friday.",
+    "pubDate": "Fri, 03 Apr 2026 21:11:55 +0000",
+    "author": "Logan Hitchcock",
+    "category": "general",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-charles-schwab-gID_7.png@png",
+    "id": "aHR0cHM6Ly9kZWNy",
+    "source": "Decrypt",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:47.899Z"
   },
   {
     "title": "\"Cognitive surrender\" leads AI users to abandon logical thinking, research finds",
@@ -291,7 +1103,21 @@
     "source": "Ars Technica",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.816Z"
+    "fetchedAt": "2026-04-05T20:40:43.993Z"
+  },
+  {
+    "title": "FIFA Inks World Cup Prediction Market Deal With ADI Predictstreet",
+    "link": "https://decrypt.co/363330/fifa-inks-world-cup-prediction-market-deal-adi-predictstreet",
+    "description": "The FIFA World Cup will feature a prediction market platform built on ADI Chain, with the network’s token hitting a new high Friday.",
+    "pubDate": "Fri, 03 Apr 2026 21:00:54 +0000",
+    "author": "Decrypt Agent",
+    "category": "Business",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-fifa-predictstreet-gID_7.jpg@png",
+    "id": "aHR0cHM6Ly9kZWNy",
+    "source": "Decrypt",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:47.899Z"
   },
   {
     "title": "Tesla&#8217;s Texas factory workforce reportedly shrunk 22% in 2025",
@@ -305,7 +1131,7 @@
     "source": "TechCrunch",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.809Z"
+    "fetchedAt": "2026-04-05T20:40:43.941Z"
   },
   {
     "title": "Trump ignores biggest reasons his AI data center buildout is failing",
@@ -319,7 +1145,7 @@
     "source": "Ars Technica",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.816Z"
+    "fetchedAt": "2026-04-05T20:40:43.993Z"
   },
   {
     "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead &#8216;special projects&#8217;",
@@ -333,7 +1159,7 @@
     "source": "TechCrunch",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.809Z"
+    "fetchedAt": "2026-04-05T20:40:43.941Z"
   },
   {
     "title": "OpenClaw gives users yet another reason to be freaked out about security",
@@ -347,7 +1173,7 @@
     "source": "Ars Technica",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.816Z"
+    "fetchedAt": "2026-04-05T20:40:43.993Z"
   },
   {
     "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
@@ -361,7 +1187,7 @@
     "source": "TechCrunch",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.809Z"
+    "fetchedAt": "2026-04-05T20:40:43.941Z"
   },
   {
     "title": "Anthropic ramps up its political activities with a new PAC",
@@ -375,7 +1201,21 @@
     "source": "TechCrunch",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.809Z"
+    "fetchedAt": "2026-04-05T20:40:43.941Z"
+  },
+  {
+    "title": "Our Favorite iPad Is $50 Off",
+    "link": "https://www.wired.com/story/ipad-a16-deal-426/",
+    "description": "Score an 11th-generation A16-powered iPad for just $300.",
+    "pubDate": "Fri, 03 Apr 2026 20:06:20 +0000",
+    "author": "Brad Bourque",
+    "category": "Gear",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
   },
   {
     "title": "Best iPad apps to boost productivity and make your life easier",
@@ -389,7 +1229,7 @@
     "source": "TechCrunch",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.809Z"
+    "fetchedAt": "2026-04-05T20:40:43.941Z"
   },
   {
     "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
@@ -403,7 +1243,49 @@
     "source": "TechCrunch",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.809Z"
+    "fetchedAt": "2026-04-05T20:40:43.941Z"
+  },
+  {
+    "title": "Charles Schwab Teases Direct Bitcoin Trading With New ‘Schwab Crypto’ Account",
+    "link": "https://bitcoinmagazine.com/news/charles-schwab-direct-bitcoin-trading",
+    "description": "Bitcoin Magazine\n\nCharles Schwab Teases Direct Bitcoin Trading With New ‘Schwab Crypto’ Account\nCharles Schwab is expanding deeper into digital assets, announcing plans for a forthcoming product that will allow clients to buy and sell bitcoin directly.\nThis post Charles Schwab Teases Direct Bitcoin ",
+    "pubDate": "Fri, 03 Apr 2026 19:42:51 +0000",
+    "author": "Unknown",
+    "category": "general",
+    "image": "",
+    "id": "aHR0cHM6Ly9iaXRj",
+    "source": "Bitcoin Magazine",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:48.338Z"
+  },
+  {
+    "title": "OpenAI’s Fidji Simo Is Taking Medical Leave Amid an Executive Shake-Up",
+    "link": "https://www.wired.com/story/openais-fidji-simo-is-taking-a-leave-of-absence/",
+    "description": "The company is undergoing major leadership restructuring as its CEO of AGI deployment goes on leave for “several weeks.”",
+    "pubDate": "Fri, 03 Apr 2026 19:38:35 +0000",
+    "author": "Zoë Schiffer",
+    "category": "Business",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
+  },
+  {
+    "title": "Edward ‘Big Balls’ Coristine Is Helping Out on Viral Fraud Videos Now",
+    "link": "https://www.wired.com/story/edward-coristine-nick-shirley-fraud-videos/",
+    "description": "The DOGE engineer appeared on influencer Nick Shirley's podcast this week to talk corruption and government work—and how they collaborated on Shirley's recent ‘investigation.’",
+    "pubDate": "Fri, 03 Apr 2026 19:36:59 +0000",
+    "author": "Makena Kelly, Vittoria Elliott",
+    "category": "Politics",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
   },
   {
     "title": "People would rather have an Amazon warehouse in their backyard than a data center",
@@ -417,7 +1299,49 @@
     "source": "TechCrunch",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.809Z"
+    "fetchedAt": "2026-04-05T20:40:43.942Z"
+  },
+  {
+    "title": "Jack Dorsey Reveals Bitcoin Faucet Revival with “Bitcoin Day” Announcement",
+    "link": "https://bitcoinmagazine.com/news/jack-dorsey-reveals-bitcoin-faucet",
+    "description": "Bitcoin Magazine\n\nJack Dorsey Reveals Bitcoin Faucet Revival with “Bitcoin Day” Announcement\nJack Dorsey teased a potential revival of the Bitcoin faucet tied to “Bitcoin Day,” echoing Gavin Andresen’s 2010 giveaway model.\nThis post Jack Dorsey Reveals Bitcoin Faucet Revival with “Bitcoin Day” Annou",
+    "pubDate": "Fri, 03 Apr 2026 19:14:02 +0000",
+    "author": "Unknown",
+    "category": "general",
+    "image": "",
+    "id": "aHR0cHM6Ly9iaXRj",
+    "source": "Bitcoin Magazine",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:48.338Z"
+  },
+  {
+    "title": "Bitcoin Miner MARA Slashes 15% of Workforce After Selling $1.1 Billion in BTC",
+    "link": "https://decrypt.co/363263/bitcoin-miner-mara-slashes-workforce-selling-billion-btc",
+    "description": "Publicly traded Bitcoin miner MARA cut 15% of its staff this week after selling $1.1 billion in Bitcoin to fuel an AI push.",
+    "pubDate": "Fri, 03 Apr 2026 18:29:20 +0000",
+    "author": "Logan Hitchcock",
+    "category": "general",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/layoffs-decrypt-style-gID_7.jpeg@png",
+    "id": "aHR0cHM6Ly9kZWNy",
+    "source": "Decrypt",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:47.899Z"
+  },
+  {
+    "title": "Myriad Traders Predict US Boots in Iran After Downed Fighter Jet Prompts Rescue Mission",
+    "link": "https://decrypt.co/363303/myriad-traders-predict-us-boots-iran-downed-fighter-jet",
+    "description": "President Trump insisted that the Strait of Hormuz could easily be reopened &#34;with a little more time.&#34;",
+    "pubDate": "Fri, 03 Apr 2026 18:13:43 +0000",
+    "author": "André Beganski",
+    "category": "Markets",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/iran-missiles-decrypt-style-gID_7.jpg@png",
+    "id": "aHR0cHM6Ly9kZWNy",
+    "source": "Decrypt",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:47.899Z"
   },
   {
     "title": "Netflix must refund customers for years of price hikes, Italian court rules",
@@ -431,7 +1355,35 @@
     "source": "Ars Technica",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.816Z"
+    "fetchedAt": "2026-04-05T20:40:43.993Z"
+  },
+  {
+    "title": "Decentralized Email Service Dmail to Shut Down, Token Hits New Low",
+    "link": "https://decrypt.co/363289/decentralized-email-service-dmail-shut-down-token-new-low",
+    "description": "Dmail’s team said it struggled with infrastructure costs and failed monetization attempts despite five years of development.",
+    "pubDate": "Fri, 03 Apr 2026 17:28:08 +0000",
+    "author": "Decrypt Agent",
+    "category": "Business",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-04-gID_7.png@png",
+    "id": "aHR0cHM6Ly9kZWNy",
+    "source": "Decrypt",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:47.899Z"
+  },
+  {
+    "title": "Trump’s New Attorney General Held Bitcoin—But Has a Mixed Crypto Track Record",
+    "link": "https://decrypt.co/363267/trumps-new-attorney-general-held-bitcoin-mixed-crypto-track-record",
+    "description": "Acting Attorney General Todd Blanche directed his staff last year to lay off crypto developers—but also oversaw their continued prosecution.",
+    "pubDate": "Fri, 03 Apr 2026 17:09:42 +0000",
+    "author": "Sander Lutz",
+    "category": "general",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-todd-blanche-gID_7.jpg@png",
+    "id": "aHR0cHM6Ly9kZWNy",
+    "source": "Decrypt",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:47.899Z"
   },
   {
     "title": "Four things we’d need to put data centers in space",
@@ -445,7 +1397,63 @@
     "source": "MIT Tech Review",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.821Z"
+    "fetchedAt": "2026-04-05T20:40:43.950Z"
+  },
+  {
+    "title": "&#39;We Are Ready to Speak&#39;: Drift Beckons North Korea-Linked Hackers Following $285M Exploit",
+    "link": "https://decrypt.co/363260/we-are-ready-to-speak-drift-beckons-north-korea-linked-hackers-following-285m-exploit",
+    "description": "The Solana-based project reached out to wallets holding stolen funds on Ethereum.",
+    "pubDate": "Fri, 03 Apr 2026 16:34:12 +0000",
+    "author": "André Beganski",
+    "category": "general",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/dprk-north-korea-hacker-decrypt-style-gID_7.jpg@png",
+    "id": "aHR0cHM6Ly9kZWNy",
+    "source": "Decrypt",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:47.899Z"
+  },
+  {
+    "title": "What Is Q-Day? The Quantum Threat to Bitcoin Explained",
+    "link": "https://decrypt.co/resources/what-q-day-quantum-threat-bitcoin-explained",
+    "description": "Experts warn quantum computers could someday forge Bitcoin’s digital signatures, allowing unauthorized transactions.",
+    "pubDate": "Fri, 03 Apr 2026 16:33:05 +0000",
+    "author": "Jason Nelson",
+    "category": "general",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/02/bitcoin-what-is-gID_5-pID_5.png@png",
+    "id": "aHR0cHM6Ly9kZWNy",
+    "source": "Decrypt",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:47.899Z"
+  },
+  {
+    "title": "Cathie Wood Calls Bitcoin’s 50% Crash a “Victory” as Market Tests New Floor",
+    "link": "https://bitcoinmagazine.com/news/cathie-wood-calls-bitcoins-crash-victory",
+    "description": "Bitcoin Magazine\n\nCathie Wood Calls Bitcoin’s 50% Crash a “Victory” as Market Tests New Floor\nCathie Wood is urging investors to stay focused on Bitcoin’s long-term trajectory, arguing that its roughly 50% pullback signals market maturation.\nThis post Cathie Wood Calls Bitcoin’s 50% Crash a “Victory",
+    "pubDate": "Fri, 03 Apr 2026 16:14:33 +0000",
+    "author": "Unknown",
+    "category": "general",
+    "image": "",
+    "id": "aHR0cHM6Ly9iaXRj",
+    "source": "Bitcoin Magazine",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:48.338Z"
+  },
+  {
+    "title": "Where Next for Bitcoin After Worst Quarter Since 2018?",
+    "link": "https://decrypt.co/363259/where-next-for-bitcoin-after-worst-quarter-since-2018",
+    "description": "Bitcoin shed 22% in Q1 2026 as war, tariffs, and a hawkish Fed crushed risk appetite, but late-quarter data hints the worst may have passed.",
+    "pubDate": "Fri, 03 Apr 2026 15:51:25 +0000",
+    "author": "Vince Dioquino",
+    "category": "general",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-B1-decrypt-style-gID_7.png@png",
+    "id": "aHR0cHM6Ly9kZWNy",
+    "source": "Decrypt",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:47.899Z"
   },
   {
     "title": "EV adoption in America: Who's winning, who's losing?",
@@ -459,7 +1467,63 @@
     "source": "Ars Technica",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.816Z"
+    "fetchedAt": "2026-04-05T20:40:43.993Z"
+  },
+  {
+    "title": "John Perry Barlow, JFK Jr., and a Night of Grief I Can’t Forget",
+    "link": "https://www.wired.com/story/jfk-jr-john-perry-barlow-friendship-love-story/",
+    "description": "Watching Love Story brought back a surreal evening in 1994.",
+    "pubDate": "Fri, 03 Apr 2026 15:00:00 +0000",
+    "author": "Steven Levy",
+    "category": "Business",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
+  },
+  {
+    "title": "Bitcoin Miner Riot Platforms Sells Over $250 Million Worth of BTC",
+    "link": "https://decrypt.co/363255/bitcoin-miner-riot-platforms-sells-250-million-btc",
+    "description": "Publicly traded Bitcoin miner Riot Platforms sold another $250 million worth of BTC as it strategically pivots into AI.",
+    "pubDate": "Fri, 03 Apr 2026 14:53:57 +0000",
+    "author": "Logan Hitchcock",
+    "category": "general",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg@png",
+    "id": "aHR0cHM6Ly9kZWNy",
+    "source": "Decrypt",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:47.899Z"
+  },
+  {
+    "title": "Ethereum Foundation Stakes $93M Worth of ETH, Nears Strategic Target",
+    "link": "https://decrypt.co/363253/ethereum-foundation-stakes-93m-worth-of-eth-nears-strategic-target",
+    "description": "The deposits bring the Foundation close to its strategic staking target of 70,000 ETH, bolstering Ethereum’s proof-of-stake infrastructure.",
+    "pubDate": "Fri, 03 Apr 2026 14:35:31 +0000",
+    "author": "Decrypt Agent",
+    "category": "general",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-decrypt-style-03-gID_7.png@png",
+    "id": "aHR0cHM6Ly9kZWNy",
+    "source": "Decrypt",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:47.899Z"
+  },
+  {
+    "title": "Riot Platforms Sells 3,778 Bitcoin in Q1 as Miner Strategy Shifts Toward AI Infrastructure",
+    "link": "https://bitcoinmagazine.com/news/riot-platforms-sells-3778-bitcoin-in-q1",
+    "description": "Bitcoin Magazine\n\nRiot Platforms Sells 3,778 Bitcoin in Q1 as Miner Strategy Shifts Toward AI Infrastructure\nRiot Platforms offloaded 3,778 BTC in Q1 — more than 2.5x its production — as it pivots from mining to AI infrastructure.\nThis post Riot Platforms Sells 3,778 Bitcoin in Q1 as Miner Strategy ",
+    "pubDate": "Fri, 03 Apr 2026 13:51:05 +0000",
+    "author": "Unknown",
+    "category": "general",
+    "image": "",
+    "id": "aHR0cHM6Ly9iaXRj",
+    "source": "Bitcoin Magazine",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:48.338Z"
   },
   {
     "title": "OpenAI takes on another \"side quest,\" buys tech-focused talk show TBPN",
@@ -473,7 +1537,315 @@
     "source": "Ars Technica",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.816Z"
+    "fetchedAt": "2026-04-05T20:40:43.993Z"
+  },
+  {
+    "title": "The Bitcoin Treasury Model With a Built-In Valuation Floor",
+    "link": "https://bitcoinmagazine.com/bitcoin-for-corporations/bitcoin-treasury-valuation-floor",
+    "description": "Bitcoin Magazine\n\nThe Bitcoin Treasury Model With a Built-In Valuation Floor\nA profitable operating business adds a second valuation component to a Bitcoin treasury. One that isn't driven purely by sentiment.\nThis post The Bitcoin Treasury Model With a Built-In Valuation Floor first appeared on Bitc",
+    "pubDate": "Fri, 03 Apr 2026 12:18:18 +0000",
+    "author": "Unknown",
+    "category": "general",
+    "image": "",
+    "id": "aHR0cHM6Ly9iaXRj",
+    "source": "Bitcoin Magazine",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:48.338Z"
+  },
+  {
+    "title": "Cambodia Advances Law Targeting Crypto Scam Compound Kingpins with Life in Jail",
+    "link": "https://decrypt.co/363244/cambodia-advances-law-targeting-crypto-scam-compound-kingpins-with-life-in-jail",
+    "description": "The draft law would impose prison terms of up to life for those running the scam compounds behind billions of dollars in crypto fraud.",
+    "pubDate": "Fri, 03 Apr 2026 12:12:33 +0000",
+    "author": "Vismaya V",
+    "category": "general",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png@png",
+    "id": "aHR0cHM6Ly9kZWNy",
+    "source": "Decrypt",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:47.899Z"
+  },
+  {
+    "title": "The Best Samsung Galaxy S26 Cases (2026): S26, S26+, and S26 Ultra",
+    "link": "https://www.wired.com/gallery/best-samsung-s26-cases-and-accessories/",
+    "description": "Protect your new Samsung phone with the help of these cases and screen protectors.",
+    "pubDate": "Fri, 03 Apr 2026 12:07:00 +0000",
+    "author": "Louryn Strampe",
+    "category": "Gear",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
+  },
+  {
+    "title": "Algorand Soars Double-Digits On Google ‘Post-Quantum Protocols’ Citation",
+    "link": "https://decrypt.co/363236/algorand-soars-double-digits-on-google-post-quantum-protocols-citation",
+    "description": "Algorand jumped following its mention in a Google research paper, as post-quantum cryptography emerges as a new crypto narrative.",
+    "pubDate": "Fri, 03 Apr 2026 11:35:36 +0000",
+    "author": "Akash Girimath",
+    "category": "algorand",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/algorand-decrypt-style-gID_7.jpg@png",
+    "id": "aHR0cHM6Ly9kZWNy",
+    "source": "Decrypt",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:47.899Z"
+  },
+  {
+    "title": "The Best iPad to Buy (and Some to Avoid) in 2026: Compare the Air, Pro, Mini",
+    "link": "https://www.wired.com/gallery/the-best-ipad/",
+    "description": "We break down the current iPad lineup to help you figure out which of Apple’s tablets is best for you.",
+    "pubDate": "Fri, 03 Apr 2026 11:30:00 +0000",
+    "author": "Luke Larsen",
+    "category": "Gear",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
+  },
+  {
+    "title": "A Year After DOGE Cuts, GSA Now Plans to Hire Hundreds of Employees",
+    "link": "https://www.wired.com/story/doge-cuts-gsa-plans-to-hire-hundreds-of-employees/",
+    "description": "The General Services Administration is hiring “approximately 400 positions,” according to an internal email viewed by WIRED. Last year the agency lost thousands of workers as part of DOGE’s rampage.",
+    "pubDate": "Fri, 03 Apr 2026 11:05:38 +0000",
+    "author": "Leah Feiger, Zoë Schiffer",
+    "category": "Politics",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
+  },
+  {
+    "title": "New Garmin Training Features (2026): Nutrition Tracking, Lifestyle Logging, and More",
+    "link": "https://www.wired.com/story/garmin-training-features-2026/",
+    "description": "Nutrition tracking? Gear tracking? Garmin’s latest software updates aim to add value to the company’s line of premium sports watches.",
+    "pubDate": "Fri, 03 Apr 2026 11:00:00 +0000",
+    "author": "Michael Sawh",
+    "category": "Gear",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
+  },
+  {
+    "title": "Best Game Controllers for PC, Switch, PS5, and Xbox",
+    "link": "https://www.wired.com/gallery/best-gaming-controllers/",
+    "description": "A great gamepad instantly levels up your play. These are our top picks for Switch, Xbox, PlayStation, and PC.",
+    "pubDate": "Fri, 03 Apr 2026 11:00:00 +0000",
+    "author": "Brad Bourque",
+    "category": "Gear",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
+  },
+  {
+    "title": "The 3 Best Portable Jump Starters in 2026: Get Charged Up",
+    "link": "https://www.wired.com/story/best-portable-jump-starters/",
+    "description": "The new crop of portable jump starters means you'll never be stuck waiting on a tow. Here are the devices we'd trust.",
+    "pubDate": "Fri, 03 Apr 2026 10:39:00 +0000",
+    "author": "Matthew Korfhage",
+    "category": "Gear",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
+  },
+  {
+    "title": "Trump’s Economy Has Come for Sugar Babies",
+    "link": "https://www.wired.com/story/trumps-economy-has-come-for-sugar-babies/",
+    "description": "Amid the latest economic downturn, sugar babies are asking their daddies for stock market advice and taking on vanilla jobs to recession-proof their incomes.",
+    "pubDate": "Fri, 03 Apr 2026 10:30:00 +0000",
+    "author": "Jason Parham",
+    "category": "Culture",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
+  },
+  {
+    "title": "Polymarket Inks US, Canada Deal with European Soccer League LaLiga",
+    "link": "https://decrypt.co/363233/polymarket-inks-us-canada-deal-with-european-soccer-league-laliga",
+    "description": "The multi-year partnership covers the US and Canada, marking Polymarket&#39;s continued expansion into traditional sports markets.",
+    "pubDate": "Fri, 03 Apr 2026 10:11:54 +0000",
+    "author": "Decrypt Agent",
+    "category": "Business",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/polymarket-decrypt-style-gID_7.jpg@png",
+    "id": "aHR0cHM6Ly9kZWNy",
+    "source": "Decrypt",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:47.899Z"
+  },
+  {
+    "title": "Samsung Frame Pro and OLED TV News: What You Need To Know in 2026",
+    "link": "https://www.wired.com/story/samsung-frame-oled-tvs-news-2026/",
+    "description": "Samsung leans into its artistic side with its newest TVs.",
+    "pubDate": "Fri, 03 Apr 2026 10:00:00 +0000",
+    "author": "Ryan Waniata",
+    "category": "Gear",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
+  },
+  {
+    "title": "CBP Facility Codes Sure Seem to Have Leaked Via Online Flashcards",
+    "link": "https://www.wired.com/story/cbp-facility-codes-sure-seem-to-have-leaked-via-online-flashcards/",
+    "description": "The Quizlet flashcards, which WIRED found through basic Google searches, seem to include sensitive information about gate security at Customs and Border Protection locations.",
+    "pubDate": "Fri, 03 Apr 2026 09:00:00 +0000",
+    "author": "Sammy Sussman",
+    "category": "Security",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
+  },
+  {
+    "title": "$20 Chewy Promo Code | April 2026",
+    "link": "https://www.wired.com/story/chewy-promo-code/",
+    "description": "Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more April 2026 discounts.",
+    "pubDate": "Fri, 03 Apr 2026 05:00:00 +0000",
+    "author": "Molly Higgins",
+    "category": "Gear",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
+  },
+  {
+    "title": "50% Off Home Depot Promo Codes | April 2026",
+    "link": "https://www.wired.com/story/home-depot-promo-code/",
+    "description": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this April.",
+    "pubDate": "Fri, 03 Apr 2026 05:00:00 +0000",
+    "author": "Matthew Korfhage",
+    "category": "Gear",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
+  },
+  {
+    "title": "50% Off DoorDash Promo Code | April 2026",
+    "link": "https://www.wired.com/story/doordash-promo-code/",
+    "description": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and up to 50% off for existing customers.",
+    "pubDate": "Fri, 03 Apr 2026 05:00:00 +0000",
+    "author": "Molly Higgins",
+    "category": "Gear",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
+  },
+  {
+    "title": "HelloFresh Coupon Codes: 55% Off + Free Meals",
+    "link": "https://www.wired.com/story/hellofresh-coupon/",
+    "description": "Get up to 55% off and free meal boxes using a HelloFresh coupon code today. Discover our best codes and discounts to let you save time and money.",
+    "pubDate": "Fri, 03 Apr 2026 05:00:00 +0000",
+    "author": "Matthew Korfhage",
+    "category": "Gear",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
+  },
+  {
+    "title": "Booking.com Promo Codes and Deals: Up to 20% Off",
+    "link": "https://www.wired.com/story/booking-com-promo-code/",
+    "description": "Enjoy big savings on your next adventure with our Booking.com coupons and handpicked travel deals.",
+    "pubDate": "Fri, 03 Apr 2026 05:00:00 +0000",
+    "author": "Molly Higgins",
+    "category": "Gear",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
+  },
+  {
+    "title": "Castlery Promo Code: Save Up to 15% in April 2026",
+    "link": "https://www.wired.com/story/castlery-promo-code/",
+    "description": "Refresh your living space for less with these verified Castlery coupons, including free shipping offers and furniture set discounts.",
+    "pubDate": "Fri, 03 Apr 2026 05:00:00 +0000",
+    "author": "Boutayna Chokrane",
+    "category": "Gear",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
+  },
+  {
+    "title": "30% Off Skullcandy Coupon Codes | April 2026",
+    "link": "https://www.wired.com/story/skullcandy-discount-code/",
+    "description": "Save on today’s top Skullcandy Promo Codes for Crusher Evo headphones, 36% off Crusher ANC 2 noise-canceling headphones, and more with amazing deals.",
+    "pubDate": "Fri, 03 Apr 2026 05:00:00 +0000",
+    "author": "Parker Hall",
+    "category": "Gear",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
+  },
+  {
+    "title": "30% Off Samsung Promo Code | April 2026",
+    "link": "https://www.wired.com/story/samsung-promo-codes/",
+    "description": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.",
+    "pubDate": "Fri, 03 Apr 2026 05:00:00 +0000",
+    "author": "Molly Higgins",
+    "category": "Gear",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
+  },
+  {
+    "title": "25% Off Dyson Promo Code | April 2026",
+    "link": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
+    "description": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
+    "pubDate": "Fri, 03 Apr 2026 05:00:00 +0000",
+    "author": "Nena Farrell",
+    "category": "Gear",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
   },
   {
     "title": "Four astronauts are now inexorably bound for the Moon",
@@ -487,7 +1859,91 @@
     "source": "Ars Technica",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.816Z"
+    "fetchedAt": "2026-04-05T20:40:43.993Z"
+  },
+  {
+    "title": "Naoris Launches Post-Quantum Blockchain as Bitcoin, Ethereum Devs Scramble to Face Threat",
+    "link": "https://decrypt.co/363207/naoris-launches-post-quantum-blockchain-bitcoin-ethereum",
+    "description": "Naoris Protocol says its blockchain network uses quantum-resistant cryptography, as the wider crypto industry prepares for future threats.",
+    "pubDate": "Thu, 02 Apr 2026 23:00:05 +0000",
+    "author": "Jason Nelson",
+    "category": "general",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/quantum-decrypt-style-gID_7.jpg@png",
+    "id": "aHR0cHM6Ly9kZWNy",
+    "source": "Decrypt",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:47.899Z"
+  },
+  {
+    "title": "How Real Is The Quantum Threat?",
+    "link": "https://bitcoinmagazine.com/conference/how-real-is-the-quantum-threat",
+    "description": "Bitcoin Magazine\n\nHow Real Is The Quantum Threat?\nA new panel has officially been announced to take place at Bitcoin 2026 titled &#8220;How Real Is The Quantum Threat?&#8221; The conversation will bring together five voices at the center of one of the most actively debated technical questions in Bit",
+    "pubDate": "Thu, 02 Apr 2026 22:55:56 +0000",
+    "author": "Unknown",
+    "category": "general",
+    "image": "https://www.youtube.com/embed/zCgwHtG40hg",
+    "id": "aHR0cHM6Ly9iaXRj",
+    "source": "Bitcoin Magazine",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:48.338Z"
+  },
+  {
+    "title": "MARA Conducts Ongoing Layoffs Following $1.1B Bitcoin Sale and Debt Reduction Push",
+    "link": "https://bitcoinmagazine.com/news/mara-conducts-ongoing-layoffs",
+    "description": "Bitcoin Magazine\n\nMARA Conducts Ongoing Layoffs Following $1.1B Bitcoin Sale and Debt Reduction Push\nMARA Holdings is conducting ongoing layoffs across multiple departments after selling $1.1 billion in Bitcoin to cut debt.\nThis post MARA Conducts Ongoing Layoffs Following $1.1B Bitcoin Sale and Deb",
+    "pubDate": "Thu, 02 Apr 2026 21:24:25 +0000",
+    "author": "Unknown",
+    "category": "general",
+    "image": "",
+    "id": "aHR0cHM6Ly9iaXRj",
+    "source": "Bitcoin Magazine",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:48.338Z"
+  },
+  {
+    "title": "USDC Stablecoin Issuer Circle Unveils New Token to Give Bitcoin More Utility",
+    "link": "https://decrypt.co/363199/usdc-stablecoin-issuer-circle-give-bitcoin-utility",
+    "description": "Publicly traded stablecoin issuer Circle is launching a new token, cirBTC, its own wrapped Bitcoin alternative.",
+    "pubDate": "Thu, 02 Apr 2026 21:04:47 +0000",
+    "author": "Logan Hitchcock",
+    "category": "general",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/USDC-decrypt-style-07-gID_7.png@png",
+    "id": "aHR0cHM6Ly9kZWNy",
+    "source": "Decrypt",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:47.899Z"
+  },
+  {
+    "title": "‘Uncanny Valley’: Iran’s Threats on US Tech, Trump’s Plans for Midterms, and Polymarket’s Pop-up Flop",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-iran-targets-us-tech-polymarket-pop-up-trump-midterms/",
+    "description": "In this episode, we discuss Iran’s threats to target US tech firms, gear up for the midterm elections, and get a scene report from the Polymarket pop-up bar in DC.",
+    "pubDate": "Thu, 02 Apr 2026 21:04:22 +0000",
+    "author": "Brian Barrett, Zoë Schiffer, Leah Feiger, Makena Kelly, Kate Knibbs",
+    "category": "Security",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
+  },
+  {
+    "title": "Google Researchers Reveal Every Way Hackers Can Trap, Hijack AI Agents",
+    "link": "https://decrypt.co/363201/google-researchers-reveal-every-way-hackers-can-trap-hijack-ai-agents",
+    "description": "A Google DeepMind paper maps six attack categories against autonomous AI agents—from invisible HTML commands to multi-agent flash crashes.",
+    "pubDate": "Thu, 02 Apr 2026 21:01:09 +0000",
+    "author": "Jose Antonio Lanz",
+    "category": "Artificial Intelligence",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker1-gID_7.png@png",
+    "id": "aHR0cHM6Ly9kZWNy",
+    "source": "Decrypt",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:47.899Z"
   },
   {
     "title": "Perplexity's \"Incognito Mode\" is a \"sham,\" lawsuit says",
@@ -501,7 +1957,35 @@
     "source": "Ars Technica",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.816Z"
+    "fetchedAt": "2026-04-05T20:40:43.993Z"
+  },
+  {
+    "title": "The Google Pixel 10 Is $150 Off",
+    "link": "https://www.wired.com/story/pixel-10-deal-3426/",
+    "description": "Amazon marks Google's flagship down to just $650 for 128 GB or $750 for 256 GB.",
+    "pubDate": "Thu, 02 Apr 2026 20:50:18 +0000",
+    "author": "Brad Bourque",
+    "category": "Gear",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
+  },
+  {
+    "title": "Tech Companies Are Trying to Neuter Colorado’s Landmark Right-to-Repair Law",
+    "link": "https://www.wired.com/story/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law/",
+    "description": "A bill in Colorado is a glimpse into the future of how corporations are working to limit the freedom people have to make their own fixes and upgrades.",
+    "pubDate": "Thu, 02 Apr 2026 20:36:27 +0000",
+    "author": "Boone Ashworth",
+    "category": "Gear",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
   },
   {
     "title": "SpaceX tries to convince FCC that Amazon put satellites into wrong altitude",
@@ -515,7 +1999,7 @@
     "source": "Ars Technica",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.816Z"
+    "fetchedAt": "2026-04-05T20:40:43.993Z"
   },
   {
     "title": "Google Vids gets AI upgrade with Veo and Lyria models, directable AI avatars",
@@ -529,7 +2013,7 @@
     "source": "Ars Technica",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.816Z"
+    "fetchedAt": "2026-04-05T20:40:43.993Z"
   },
   {
     "title": "Male octopuses guided through mating by female hormones",
@@ -543,7 +2027,105 @@
     "source": "Ars Technica",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.816Z"
+    "fetchedAt": "2026-04-05T20:40:43.993Z"
+  },
+  {
+    "title": "OpenAI Acquires Tech Talk Show ‘TBPN’—and Buys Itself Some Positive News",
+    "link": "https://www.wired.com/story/openai-acquires-tbpn-buys-positive-news-coverage/",
+    "description": "OpenAI is acquiring TBPN, a business talk show that’s popular among Silicon Valley elites, as it continues to battle its negative public image.",
+    "pubDate": "Thu, 02 Apr 2026 19:29:48 +0000",
+    "author": "Maxwell Zeff",
+    "category": "Business",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
+  },
+  {
+    "title": "Elon Musk&#39;s X Is Making Big Changes to Combat Crypto Scams",
+    "link": "https://decrypt.co/363194/elon-musk-x-making-changes-combat-crypto-scams",
+    "description": "Will Elon Musk&#39;s X finally zap crypto scams? Here&#39;s why one exec says the changes &#34;should kill 99% of the incentive.&#34;",
+    "pubDate": "Thu, 02 Apr 2026 19:21:15 +0000",
+    "author": "Logan Hitchcock",
+    "category": "Law and Order",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/X-gID_7.jpg@png",
+    "id": "aHR0cHM6Ly9kZWNy",
+    "source": "Decrypt",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:47.899Z"
+  },
+  {
+    "title": "Drift Protocol&#39;s $285 Million Exploit on Solana Raises Questions Over DeFi Security",
+    "link": "https://decrypt.co/363176/drift-protocol-285-million-exploit-solana-defi-security",
+    "description": "A blockchain security expert compared Drift’s lapse in security to Ethereum network Ronin&#39;s $625 million loss in 2022.",
+    "pubDate": "Thu, 02 Apr 2026 19:04:39 +0000",
+    "author": "André Beganski",
+    "category": "general",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png@png",
+    "id": "aHR0cHM6Ly9kZWNy",
+    "source": "Decrypt",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:47.899Z"
+  },
+  {
+    "title": "Your Art Can Go in This San Francisco Alley",
+    "link": "https://www.wired.com/story/your-art-can-go-in-this-san-francisco-alley-paint-a-street/",
+    "description": "A trio of tech pranksters have launched a website where you can submit artwork and vote on which pieces belong in the final design. Of course, AI will scan for dick pics.",
+    "pubDate": "Thu, 02 Apr 2026 18:27:45 +0000",
+    "author": "Boone Ashworth",
+    "category": "Culture",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
+  },
+  {
+    "title": "A New Google-Funded Data Center Will Be Powered by a Massive Gas Plant",
+    "link": "https://www.wired.com/story/a-new-google-funded-data-center-will-be-powered-by-a-massive-gas-plant/",
+    "description": "Documents show that one of Google’s new data centers would be powered by a natural gas plant that emits millions of tons of emissions each year—an increasingly common trend in the industry.",
+    "pubDate": "Thu, 02 Apr 2026 18:27:29 +0000",
+    "author": "Molly Taft",
+    "category": "Science",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
+  },
+  {
+    "title": "Google Jumps Back Into the Open Source AI Race With Gemma 4",
+    "link": "https://decrypt.co/363178/google-gemma-4-open-source-ai",
+    "description": "Google drops Gemma 4, a family of open models under the Apache 2.0 license, just as the U.S. open-source scene badly needed a win.",
+    "pubDate": "Thu, 02 Apr 2026 18:18:58 +0000",
+    "author": "Jose Antonio Lanz",
+    "category": "Artificial Intelligence",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png@png",
+    "id": "aHR0cHM6Ly9kZWNy",
+    "source": "Decrypt",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:47.899Z"
+  },
+  {
+    "title": "What Happens When a Nuclear Site Is Hit?",
+    "link": "https://www.wired.com/story/heres-what-can-happen-when-the-us-bombs-irans-nuclear-sites/",
+    "description": "As strikes continue on Iran’s nuclear facilities, the real danger isn’t the explosion, but what happens if critical safety systems fail—and how that risk could spread across the Gulf.",
+    "pubDate": "Thu, 02 Apr 2026 18:08:08 +0000",
+    "author": "Jethu Abraham",
+    "category": "Security",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
   },
   {
     "title": "New fossil deposits show complex animal groups predating the Cambrian",
@@ -557,7 +2139,49 @@
     "source": "Ars Technica",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.816Z"
+    "fetchedAt": "2026-04-05T20:40:43.993Z"
+  },
+  {
+    "title": "Coinbase Links Up With Linux Foundation to Launch x402 Foundation",
+    "link": "https://decrypt.co/363173/coinbase-linux-foundation-launch-x402-foundation",
+    "description": "The new group will steward an open standard for embedding payments into web interactions.",
+    "pubDate": "Thu, 02 Apr 2026 17:44:15 +0000",
+    "author": "Jason Nelson",
+    "category": "Technology",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/handshake-deal-decrypt-style-gID_7.jpg@png",
+    "id": "aHR0cHM6Ly9kZWNy",
+    "source": "Decrypt",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:47.899Z"
+  },
+  {
+    "title": "Trump Admin Backs Prediction Markets With Lawsuits Against Illinois, Arizona and Connecticut",
+    "link": "https://decrypt.co/363171/trump-admin-backs-prediction-markets-lawsuits-illinois-arizona-connecticut",
+    "description": "The lawsuits, jointly filed by the Justice Department and the CFTC, mark the most forceful move yet by the Trump administration to free prediction markets from state gambling regulations.",
+    "pubDate": "Thu, 02 Apr 2026 17:25:01 +0000",
+    "author": "Sander Lutz",
+    "category": "Law and Order",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-02-gID_7.png@png",
+    "id": "aHR0cHM6Ly9kZWNy",
+    "source": "Decrypt",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:47.899Z"
+  },
+  {
+    "title": "AI Could Become 2,000 Times More Efficient by Copying the Brain: Study",
+    "link": "https://decrypt.co/363164/ai-could-become-2000-times-more-efficient-by-copying-the-brain-study",
+    "description": "Researchers from Loughborough University are looking into a new type of computer chip that could make AI far more energy efficient.",
+    "pubDate": "Thu, 02 Apr 2026 17:00:32 +0000",
+    "author": "Alex Hughes",
+    "category": "Artificial Intelligence",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/AI-decrypt-style-03-gID_7.png@png",
+    "id": "aHR0cHM6Ly9kZWNy",
+    "source": "Decrypt",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:47.899Z"
   },
   {
     "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
@@ -571,7 +2195,189 @@
     "source": "Ars Technica",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.816Z"
+    "fetchedAt": "2026-04-05T20:40:43.993Z"
+  },
+  {
+    "title": "Cursor Launches a New AI Agent Experience to Take On Claude Code and Codex",
+    "link": "https://www.wired.com/story/cusor-launches-coding-agent-openai-anthropic/",
+    "description": "As Cursor launches the next generation of its product, the AI coding startup has to compete with OpenAI and Anthropic more directly than ever.",
+    "pubDate": "Thu, 02 Apr 2026 17:00:00 +0000",
+    "author": "Maxwell Zeff",
+    "category": "Business",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
+  },
+  {
+    "title": "Quantum-Powered Crypto Mining Is Here—But It Won&#39;t Help You Mine Bitcoin",
+    "link": "https://decrypt.co/363148/quantum-powered-crypto-mining-here-wont-help-you-mine-bitcoin",
+    "description": "Quip Network&#39;s creators say it&#39;s optimized for mining by quantum computers—a positive, unlike the looming quantum threat to Bitcoin.",
+    "pubDate": "Thu, 02 Apr 2026 16:31:57 +0000",
+    "author": "Jason Nelson",
+    "category": "general",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Mining-gID_7.png@png",
+    "id": "aHR0cHM6Ly9kZWNy",
+    "source": "Decrypt",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:47.899Z"
+  },
+  {
+    "title": "Coinbase Gets Conditional Approval From Banking Regulator—But Isn&#39;t Launching a Bank",
+    "link": "https://decrypt.co/363155/coinbase-conditional-approval-banking-regulator-isnt-launching-bank",
+    "description": "Coinbase said Thursday that it is the latest crypto firm to secure a conditional bank charter from the Office of the Comptroller of the Currency.",
+    "pubDate": "Thu, 02 Apr 2026 16:20:41 +0000",
+    "author": "André Beganski",
+    "category": "Law and Order",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Brian-Armstrong-coinbase-wikimedia-decrypt-style-gID_7.png@png",
+    "id": "aHR0cHM6Ly9kZWNy",
+    "source": "Decrypt",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:47.899Z"
+  },
+  {
+    "title": "Coinbase Receives Conditional OCC Approval to Form National Trust Company",
+    "link": "https://bitcoinmagazine.com/news/coinbase-receives-conditional-occ-approval",
+    "description": "Bitcoin Magazine\n\nCoinbase Receives Conditional OCC Approval to Form National Trust Company\nCoinbase has received conditional approval from the OCC to establish Coinbase National Trust Company, according to a company statement. \nThis post Coinbase Receives Conditional OCC Approval to Form National T",
+    "pubDate": "Thu, 02 Apr 2026 16:12:35 +0000",
+    "author": "Unknown",
+    "category": "general",
+    "image": "",
+    "id": "aHR0cHM6Ly9iaXRj",
+    "source": "Bitcoin Magazine",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:48.338Z"
+  },
+  {
+    "title": "Ethereum Founder Vitalik Buterin Details His &#39;Private&#39; and &#39;Secure&#39; AI Setup",
+    "link": "https://decrypt.co/363128/ethereu-founder-vitalik-buterin-details-private-secure-ai-setup",
+    "description": "Ethereum co-founder Vitalik Buterin detailed his local-first AI stack in a new blog post, including custom tools that rely on human approval.",
+    "pubDate": "Thu, 02 Apr 2026 16:04:54 +0000",
+    "author": "Stacy Elliott",
+    "category": "Artificial Intelligence",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Vitalik-Buterin-DecryptStyle3-scaled-gID_7.jpg@png",
+    "id": "aHR0cHM6Ly9kZWNy",
+    "source": "Decrypt",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:47.899Z"
+  },
+  {
+    "title": "Wall Street Firms and Crypto Companies to Review New Market Structure Proposal in Private Sessions",
+    "link": "https://bitcoinmagazine.com/news/wall-street-firms-and-crypto-companies",
+    "description": "Bitcoin Magazine\n\nWall Street Firms and Crypto Companies to Review New Market Structure Proposal in Private Sessions\nCrypto and banking industry representatives will review a revised stablecoin yield proposal this week as lawmakers try to resolve a months-long dispute over whether stablecoin issuers",
+    "pubDate": "Thu, 02 Apr 2026 16:03:09 +0000",
+    "author": "Unknown",
+    "category": "general",
+    "image": "",
+    "id": "aHR0cHM6Ly9iaXRj",
+    "source": "Bitcoin Magazine",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:48.338Z"
+  },
+  {
+    "title": "Anthropic Says That Claude Contains Its Own Kind of Emotions",
+    "link": "https://www.wired.com/story/anthropic-claude-research-functional-emotions/",
+    "description": "Researchers at the company found representations inside of Claude that perform functions similar to human feelings.",
+    "pubDate": "Thu, 02 Apr 2026 16:00:00 +0000",
+    "author": "Will Knight",
+    "category": "Business",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
+  },
+  {
+    "title": "Even Artemis II Astronauts Have Microsoft Outlook Problems",
+    "link": "https://www.wired.com/story/artemis-ii-microsoft-outlook-problems/",
+    "description": "The mission commander’s email inbox failed during the journey to the moon. Have they tried turning the computer off and back on again?",
+    "pubDate": "Thu, 02 Apr 2026 15:59:36 +0000",
+    "author": "Jeremy White",
+    "category": "Gear",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
+  },
+  {
+    "title": "Solana Meme Coin Linked to Death Hoax for 194-Year-Old Tortoise—Who Is Very Much Alive",
+    "link": "https://decrypt.co/363139/solana-meme-coin-death-hoax-194-year-old-tortoise-alive",
+    "description": "Jonathan, a nearly 200-year-old tortoise, was widely mourned Wednesday—but his purported demise was a hoax, and there&#39;s a crypto connection.",
+    "pubDate": "Thu, 02 Apr 2026 15:57:41 +0000",
+    "author": "Logan Hitchcock",
+    "category": "general",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-jonathan-tortoise-gID_7.png@png",
+    "id": "aHR0cHM6Ly9kZWNy",
+    "source": "Decrypt",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:47.899Z"
+  },
+  {
+    "title": "LNVPN Rebrands to Nadanada.me as Privacy Infrastructure Expands with Anonymous eSIMs and Lightning Payments",
+    "link": "https://bitcoinmagazine.com/business/lnvpn-rebrands-to-nadanada-me-as-privacy-infrastructure-expands-with-anonymous-esims-and-lightning-payments",
+    "description": "Bitcoin Magazine\n\nLNVPN Rebrands to Nadanada.me as Privacy Infrastructure Expands with Anonymous eSIMs and Lightning Payments\nNadanada.me, formerly LNVPN, now offers anonymous eSIM data plans in over 200 countries, disposable and rental phone numbers, WireGuard VPN, and no-login AI chat — all powere",
+    "pubDate": "Thu, 02 Apr 2026 15:36:18 +0000",
+    "author": "Unknown",
+    "category": "general",
+    "image": "",
+    "id": "aHR0cHM6Ly9iaXRj",
+    "source": "Bitcoin Magazine",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:48.338Z"
+  },
+  {
+    "title": "CFTC Settles With Former FTX Engineer for $3.7M, Closing First Individual Case",
+    "link": "https://decrypt.co/363131/cftc-settles-with-former-ftx-engineer-for-3-7m-closing-first-individual-case",
+    "description": "He built systems that moved billions in customer funds. Now, the CFTC has closed his case with no civil penalty, citing his cooperation.",
+    "pubDate": "Thu, 02 Apr 2026 14:59:27 +0000",
+    "author": "Vince Dioquino",
+    "category": "Law and Order",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ftx-decrypt-style-01-gID_7.png@png",
+    "id": "aHR0cHM6Ly9kZWNy",
+    "source": "Decrypt",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:47.899Z"
+  },
+  {
+    "title": "US Attorney&#39;s Office Recovers $600K in Crypto Fraud Scheme Targeting Ledger Wallet Owners",
+    "link": "https://decrypt.co/363126/us-attorneys-office-recovers-600k-crypto-fraud-scheme-ledger-wallets",
+    "description": "Federal prosecutors in Connecticut seized over $600,000 in crypto linked to a fraud case that hit at least one Ledger hardware wallet user.",
+    "pubDate": "Thu, 02 Apr 2026 14:39:31 +0000",
+    "author": "Stephen Graves",
+    "category": "general",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/ledger-flex-decrypt-style-01-gID_7.jpg@png",
+    "id": "aHR0cHM6Ly9kZWNy",
+    "source": "Decrypt",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:47.899Z"
+  },
+  {
+    "title": "Metaplanet Adds 5,075 BTC in Q1, Becomes Third Largest Bitcoin Treasury",
+    "link": "https://decrypt.co/363114/metaplanet-adds-5075-btc-in-q1-becomes-third-largest-bitcoin-treasury",
+    "description": "The Tokyo-listed firm is now the third-largest Bitcoin treasury company—though that&#39;s partly down to MARA Holdings&#39; recent sale of 15,000 BTC.",
+    "pubDate": "Thu, 02 Apr 2026 12:24:18 +0000",
+    "author": "Stacy Elliott",
+    "category": "general",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-24-gID_7.png@png",
+    "id": "aHR0cHM6Ly9kZWNy",
+    "source": "Decrypt",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:47.899Z"
   },
   {
     "title": "The Download: plastic&#8217;s problem with fuel prices, and SpaceX&#8217;s blockbuster IPO",
@@ -585,7 +2391,63 @@
     "source": "MIT Tech Review",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.821Z"
+    "fetchedAt": "2026-04-05T20:40:43.950Z"
+  },
+  {
+    "title": "Best Lego Gifts for Brick Builders (2026): Smart Bricks, Video Games, and More",
+    "link": "https://www.wired.com/gallery/gifts-for-lego-lovers/",
+    "description": "Your kids are only kids for so long, but love and Lego sets last forever. Here are our top picks for the Lego fan in your life.",
+    "pubDate": "Thu, 02 Apr 2026 11:30:00 +0000",
+    "author": "Adrienne So",
+    "category": "Gear",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
+  },
+  {
+    "title": "A New Implant Aims to Rewire the Brain to Help Stroke Patients",
+    "link": "https://www.wired.com/story/a-new-implant-aims-to-rewire-the-brain-to-help-stroke-patients/",
+    "description": "Epia Neuro’s brain-computer interface will include a motorized glove to help stroke patients recover movement in their hand.",
+    "pubDate": "Thu, 02 Apr 2026 11:30:00 +0000",
+    "author": "Emily Mullin",
+    "category": "Science",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
+  },
+  {
+    "title": "Coinbase CLO: Clarity Act Deal on Stablecoin Yield &#39;Very Close&#39;",
+    "link": "https://decrypt.co/363115/coinbase-clo-clarity-act-deal-on-stablecoin-yield-very-close",
+    "description": "The crypto exchange&#39;s top lawyer dismissed banking industry concerns about deposit flight as lawmakers work to finalize stablecoin provisions.",
+    "pubDate": "Thu, 02 Apr 2026 11:26:57 +0000",
+    "author": "Decrypt Agent",
+    "category": "Business",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-02-gID_7.jpg@png",
+    "id": "aHR0cHM6Ly9kZWNy",
+    "source": "Decrypt",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:47.899Z"
+  },
+  {
+    "title": "Our 7 Favorite Humidifiers for Home, Travel &amp; More (2026)",
+    "link": "https://www.wired.com/gallery/the-best-humidifier/",
+    "description": "From models for traveling to humidifiers that double as planters or air purifiers, we've tested a dozen of them.",
+    "pubDate": "Thu, 02 Apr 2026 11:09:00 +0000",
+    "author": "Lisa Wood Shapiro, Matthew Korfhage",
+    "category": "Gear",
+    "image": "",
+    "id": "aHR0cHM6Ly93d3cu",
+    "source": "Wired",
+    "sourceCategory": "technology",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:43.948Z"
   },
   {
     "title": "Fuel prices are soaring. Plastic could be next.",
@@ -599,7 +2461,63 @@
     "source": "MIT Tech Review",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.821Z"
+    "fetchedAt": "2026-04-05T20:40:43.950Z"
+  },
+  {
+    "title": "Bitcoin, Gold, and U.S. Stocks Dive as Trump Pledges to Hit Iran ‘Extremely Hard’",
+    "link": "https://decrypt.co/363111/bitcoin-gold-and-u-s-stocks-dive-as-trump-pledges-to-hit-iran-extremely-hard",
+    "description": "Markets slumped as Trump claimed the Iran war was “nearing completion” while offering no clear plan to reopen the Strait of Hormuz.",
+    "pubDate": "Thu, 02 Apr 2026 09:53:19 +0000",
+    "author": "Akash Girimath",
+    "category": "general",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-neon-gID_7.png@png",
+    "id": "aHR0cHM6Ly9kZWNy",
+    "source": "Decrypt",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:47.899Z"
+  },
+  {
+    "title": "These Three Altcoins Just Got Leveraged Crypto ETFs",
+    "link": "https://decrypt.co/363089/volatility-shares-everaged-crypto-etfs-three-altcoins",
+    "description": "Volatility Shares, the company that launched the first leveraged crypto fund in the U.S., is expanding its roster to smaller digital assets",
+    "pubDate": "Wed, 01 Apr 2026 21:08:22 +0000",
+    "author": "André Beganski",
+    "category": "general",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_green-gID_7.png@png",
+    "id": "aHR0cHM6Ly9kZWNy",
+    "source": "Decrypt",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:47.899Z"
+  },
+  {
+    "title": "Solana DeFi Exchange Drift Protocol Exploited, Upwards of $285 Million Stolen",
+    "link": "https://decrypt.co/363087/solana-drift-protocol-exploited-285-million",
+    "description": "Solana-based perpetuals DEX Drift Protocol has suffered an exploit impacting more than $200 million in funds.",
+    "pubDate": "Wed, 01 Apr 2026 20:13:38 +0000",
+    "author": "Logan Hitchcock",
+    "category": "general",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png@png",
+    "id": "aHR0cHM6Ly9kZWNy",
+    "source": "Decrypt",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:47.899Z"
+  },
+  {
+    "title": "Google&#39;s Veo 3.1 Lite Cuts API Costs in Half as OpenAI&#39;s Sora Exits the Market",
+    "link": "https://decrypt.co/363077/google-veo-3-1-lite-cuts-api-costs-half-openai-sora",
+    "description": "Google&#39;s cheapest video model yet targets developers burned by high generation costs, arriving just days after OpenAI pulled the plug on Sora.",
+    "pubDate": "Wed, 01 Apr 2026 19:47:28 +0000",
+    "author": "Jose Antonio Lanz",
+    "category": "Artificial Intelligence",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-2-gID_7.png@png",
+    "id": "aHR0cHM6Ly9kZWNy",
+    "source": "Decrypt",
+    "sourceCategory": "web3",
+    "sourceLang": "en",
+    "fetchedAt": "2026-04-05T20:40:47.899Z"
   },
   {
     "title": "The Download: gig workers training humanoids, and better AI benchmarks",
@@ -613,7 +2531,7 @@
     "source": "MIT Tech Review",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.821Z"
+    "fetchedAt": "2026-04-05T20:40:43.950Z"
   },
   {
     "title": "The gig workers who are training humanoid robots at home",
@@ -627,7 +2545,7 @@
     "source": "MIT Tech Review",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.821Z"
+    "fetchedAt": "2026-04-05T20:40:43.950Z"
   },
   {
     "title": "Shifting to AI model customization is an architectural imperative",
@@ -641,7 +2559,7 @@
     "source": "MIT Tech Review",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.821Z"
+    "fetchedAt": "2026-04-05T20:40:43.950Z"
   },
   {
     "title": "The Download: AI health tools and the Pentagon’s Anthropic culture war",
@@ -655,7 +2573,7 @@
     "source": "MIT Tech Review",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.821Z"
+    "fetchedAt": "2026-04-05T20:40:43.950Z"
   },
   {
     "title": "AI benchmarks are broken. Here’s what we need instead.",
@@ -669,7 +2587,7 @@
     "source": "MIT Tech Review",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.821Z"
+    "fetchedAt": "2026-04-05T20:40:43.950Z"
   },
   {
     "title": "There are more AI health tools than ever—but how well do they work?",
@@ -683,7 +2601,7 @@
     "source": "MIT Tech Review",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.821Z"
+    "fetchedAt": "2026-04-05T20:40:43.950Z"
   },
   {
     "title": "The Pentagon’s culture war tactic against Anthropic has backfired",
@@ -697,6 +2615,6 @@
     "source": "MIT Tech Review",
     "sourceCategory": "technology",
     "sourceLang": "en",
-    "fetchedAt": "2026-04-05T20:26:09.821Z"
+    "fetchedAt": "2026-04-05T20:40:43.950Z"
   }
 ]
