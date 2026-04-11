@@ -9,10 +9,12 @@ const articleContents = {
   'article-001': fs.readFileSync('./article-001-full.md', 'utf8'),
   'article-002': fs.readFileSync('./article-002-full.md', 'utf8'),
   'article-003': fs.readFileSync('./article-003-full.md', 'utf8'),
+  'article-004': fs.readFileSync('./article-004-full.md', 'utf8'),
   'article-005': fs.readFileSync('./article-005-full.md', 'utf8'),
   'article-006': fs.readFileSync('./article-006-full.md', 'utf8'),
   'article-007': fs.readFileSync('./article-007-full.md', 'utf8'),
   'article-008': fs.readFileSync('./article-008-full.md', 'utf8'),
+  'article-009': fs.readFileSync('./article-009-full.md', 'utf8'),
   'article-010': fs.readFileSync('./article-010-full.md', 'utf8')
 };
 
