@@ -34,12 +34,15 @@ TASK-001-blog-content-generation
 - [x] article-021: 继任管理与领导力梯队建设：构建面向未来的领导力供应链（已完成，约11500字）
 - [x] article-022: Z世代 workforce 与代际管理：理解数字原住民的职场期望与管理策略（已完成，约11000字）
 - [x] article-023: 人才流失预警与智能留任：构建数据驱动的人才保留体系（已完成，约11600字）
+- [x] article-024: 候选人体验与雇主品牌联动：从申请到入职的全流程体验优化策略（已完成，约11000字）
 
 ## 完成时间
+2026-04-12 - article-024 已成功生成并推送至 main 分支
 2026-04-12 - article-023 已成功生成并推送至 main 分支
 
 ## 提交记录
 - 最新: feat: Add article-023 - 人才流失预警与智能留任：构建数据驱动的人才保留体系
+- 最新: feat: Add article-024 - 候选人体验与雇主品牌联动：从申请到入职的全流程体验优化策略
 - 最新: feat: Add article-022 - Z世代 workforce 与代际管理：理解数字原住民的职场期望与管理策略
 - `53363a6` feat: Complete all blog articles 001-010 with full content
 - `b2ff4b2` feat: Add article-011 - 人才测评科技与胜任力模型构建
