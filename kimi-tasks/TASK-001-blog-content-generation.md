@@ -32,11 +32,13 @@ TASK-001-blog-content-generation
 - [x] article-019: 全面报酬战略与薪酬福利创新：构建人才驱动的价值回报体系（已完成，约10500字）
 - [x] article-020: 数字化转型与HR科技生态系统：构建智能人力资源管理的数字底座（已完成，约10500字）
 - [x] article-021: 继任管理与领导力梯队建设：构建面向未来的领导力供应链（已完成，约11500字）
+- [x] article-022: Z世代 workforce 与代际管理：理解数字原住民的职场期望与管理策略（已完成，约11000字）
 
 ## 完成时间
-2026-04-12 - article-021 已成功生成并推送至 main 分支
+2026-04-12 - article-022 已成功生成并推送至 main 分支
 
 ## 提交记录
+- 最新: feat: Add article-022 - Z世代 workforce 与代际管理：理解数字原住民的职场期望与管理策略
 - `53363a6` feat: Complete all blog articles 001-010 with full content
 - `b2ff4b2` feat: Add article-011 - 人才测评科技与胜任力模型构建
 - `c921dad` feat: Add article-013 - 全球化招聘与跨境人才管理
