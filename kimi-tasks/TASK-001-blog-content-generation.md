@@ -24,6 +24,7 @@ TASK-001-blog-content-generation
 - [x] article-011: 人才测评科技与胜任力模型构建：科学识别人才潜力的方法论与实践（已完成，约6200字）
 - [x] article-012: 人才画像与精准招聘：数据驱动的智能人才获取策略（已完成，约6200字）
 - [x] article-013: 全球化招聘与跨境人才管理：构建无国界的人才供应链（已完成，约8300字）
+- [x] article-014: 人才数据分析与预测：构建智能人才决策的核心引擎（已完成，约7800字）
 
 ## 完成时间
 2026-04-11 - 文章已成功生成并推送至 main 分支
@@ -31,4 +32,5 @@ TASK-001-blog-content-generation
 ## 提交记录
 - `53363a6` feat: Complete all blog articles 001-010 with full content
 - `b2ff4b2` feat: Add article-011 - 人才测评科技与胜任力模型构建
-- 最新: feat: Add article-012 - 人才画像与精准招聘
+- `c921dad` feat: Add article-013 - 全球化招聘与跨境人才管理
+- `9c7b062` feat: Add article-014 - 人才数据分析与预测：构建智能人才决策的核心引擎
