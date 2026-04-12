@@ -16,39 +16,22 @@ new_post = {
     "sourceCategory": "original",
     "sourceLang": "zh",
     "keywords": [
-        "职业发展双通道",
-        "内部人才市场",
-        "人才成长",
-        "晋升通道",
-        "导师制",
-        "职业发展对话",
-        "人才保留",
-        "组织发展",
-        "人力资源管理",
-        "Jobsbor"
+        "职业发展双通道", "内部人才市场", "人才成长", "晋升通道",
+        "导师制", "职业发展对话", "人才保留", "组织发展",
+        "人力资源管理", "Jobsbor"
     ],
     "tags": [
-        "职业发展双通道",
-        "内部人才市场",
-        "人才成长",
-        "晋升通道",
-        "导师制",
-        "职业发展对话",
-        "人才保留",
-        "组织发展",
-        "HR战略",
-        "Jobsbor"
+        "职业发展双通道", "内部人才市场", "人才成长", "晋升通道",
+        "导师制", "职业发展对话", "人才保留", "组织发展",
+        "HR战略", "Jobsbor"
     ],
     "metaDescription": "深度解析传统单通道晋升困境，系统阐述职业发展双通道与内部人才市场的构建方法论，帮助企业打破晋升天花板，构建组织与人才共同成长的可持续发展系统。"
 }
 
 with open('src/data/blog-posts.json', 'r', encoding='utf-8') as f:
-    posts = json.load(f)
+    data = json.load(f)
 
-if any(p.get('id') == 'article-073' for p in posts):
-    print('article-073 already exists, skipping')
-else:
-    posts.append(new_post)
-    with open('src/data/blog-posts.json', 'w', encoding='utf-8') as f:
-        json.dump(posts, f, ensure_ascii=False, indent=2)
-    print('article-073 appended successfully')
+data.append(new_post)
+
+with open('src/data/blog-posts.json', 'w', encoding='utf-8') as f:
+    json.dump(data, f, ensure_ascii=False, indent=4)
