@@ -33,41 +33,42 @@ Generate a high-quality, 5000+ word original article about a trending technology
 - [x] article-383 (Completed - 量子传感产业人才战略)
 - [x] article-384 (Completed - 超导计算产业人才战略)
 - [x] article-385 (Completed - 量子通信产业人才战略)
+- [x] article-386 (Completed - 空间光通信产业人才战略)
 
 ### Task Statistics
-- **Total Articles Published**: 385
-- **Next Article ID**: article-386
+- **Total Articles Published**: 386
+- **Next Article ID**: article-387
 - **Content Focus**: Emerging Technology Industries Talent Strategy
 - **Average Article Length**: 5000+ words
 
 ### Latest Article Summary
+- **ID**: article-386
+- **Title**: 空间光通信产业人才战略：当激光遇见深空，星地互联、自由空间光通信与下一代卫星互联网的人才竞赛与生态构建
+- **Topic**: 空间光通信、卫星互联网、星地激光通信、星间链路、自由空间光通信、激光通信、卫星星座、光通信终端、ATP系统
+- **Word Count**: ~8500 words
+- **PubDate**: 2026-04-16
+
+### Previous Article Summary
 - **ID**: article-385
 - **Title**: 量子通信产业人才战略：当量子态遇见绝对安全，量子密钥分发、量子隐形传态与量子互联网的人才竞赛与生态构建
 - **Topic**: 量子通信、量子密钥分发、QKD、量子互联网、墨子号、京沪干线、国盾量子、量子密码学
 - **Word Count**: ~8500 words
 - **PubDate**: 2026-04-16
 
-### Previous Article Summary
-- **ID**: article-384
-- **Title**: 超导计算产业人才战略：当零电阻遇见极限算力，约瑟夫森结、超导量子比特与低温工程的人才竞赛与生态构建
-- **Topic**: 超导计算、量子计算、约瑟夫森结、transmon、RSFQ、低温工程、稀释制冷机、微波控制
-- **Word Count**: ~7800 words
-- **PubDate**: 2026-04-16
-
 ## Next Task Planning
-**Target**: article-386
+**Target**: article-387
 **Suggested Topics**:
 - 超导数字电路人才战略
-- 空间光通信产业人才战略
 - 先进制程人才战略
 - 量子精密测量仪器人才战略
-- 空间光通信产业人才战略
 - 量子存储与量子中继人才战略
+- 卫星互联网运营人才战略
+- 深空探测通信人才战略
 
 ## File Locations
 - **Task File**: `kimi-tasks/TASK-001-blog-content-generation.md`
 - **Blog Posts Data**: `src/data/blog-posts.json`
-- **Article Template**: Follow existing 371 articles format
+- **Article Template**: Follow existing articles format
 
 ## Automation Notes
 - Auto-commit message format: `[Content Bot] Add article-{id}: {title}`
