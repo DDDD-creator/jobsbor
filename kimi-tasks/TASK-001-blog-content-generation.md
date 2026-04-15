@@ -27,35 +27,36 @@ Generate a high-quality, 5000+ word original article about a trending technology
 - [x] article-377 (Completed - 硅光芯片产业人才战略)
 - [x] article-378 (Completed - 存算一体芯片产业人才战略)
 - [x] article-379 (Completed - RISC-V生态人才战略)
+- [x] article-380 (Completed - 光子计算产业人才战略)
 
 ### Task Statistics
-- **Total Articles Published**: 379
-- **Next Article ID**: article-380
+- **Total Articles Published**: 380
+- **Next Article ID**: article-381
 - **Content Focus**: Emerging Technology Industries Talent Strategy
 - **Average Article Length**: 5000+ words
 
 ### Latest Article Summary
+- **ID**: article-380
+- **Title**: 光子计算产业人才战略：当光子遇见计算，光学矩阵运算、光神经网络与下一代AI算力的人才竞赛与生态构建
+- **Topic**: 光子计算、光神经网络、光学矩阵运算、硅光芯片、光电混合架构、Lightmatter、曦智科技、AI加速器
+- **Word Count**: ~7200 words
+- **PubDate**: 2026-04-16
+
+### Previous Article Summary
 - **ID**: article-379
 - **Title**: RISC-V生态人才战略：当开放遇见芯片，指令集自由、模块化设计与全球协作的人才竞赛与生态构建
 - **Topic**: RISC-V、开源指令集、处理器架构、编译器、芯片设计、开源生态、阿里平头哥、香山处理器
 - **Word Count**: ~6200 words
 - **PubDate**: 2026-04-16
 
-### Previous Article Summary
-- **ID**: article-378
-- **Title**: 存算一体芯片产业人才战略：当存储遇见计算，近存计算、存内计算与AI推理的人才竞赛与生态构建
-- **Topic**: 存算一体、近存计算、存内计算、存算融合、AI芯片、边缘计算、PIM、CIM
-- **Word Count**: ~5600 words
-- **PubDate**: 2026-04-16
-
 ## Next Task Planning
-**Target**: article-380
+**Target**: article-381
 **Suggested Topics**:
-- 光子计算产业人才战略
 - 异构集成人才战略
 - 量子传感产业人才战略
 - 神经形态计算人才战略
 - Chiplet与先进封装人才战略
+- 超导计算产业人才战略
 
 ## File Locations
 - **Task File**: `kimi-tasks/TASK-001-blog-content-generation.md`
