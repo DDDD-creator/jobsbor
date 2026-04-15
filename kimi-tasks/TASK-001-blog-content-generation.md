@@ -28,35 +28,38 @@ Generate a high-quality, 5000+ word original article about a trending technology
 - [x] article-378 (Completed - 存算一体芯片产业人才战略)
 - [x] article-379 (Completed - RISC-V生态人才战略)
 - [x] article-380 (Completed - 光子计算产业人才战略)
+- [x] article-381 (Completed - 神经形态计算产业人才战略)
+- [x] article-382 (Completed - 异构集成产业人才战略)
+- [x] article-383 (Completed - 量子传感产业人才战略)
 
 ### Task Statistics
-- **Total Articles Published**: 380
-- **Next Article ID**: article-381
+- **Total Articles Published**: 383
+- **Next Article ID**: article-384
 - **Content Focus**: Emerging Technology Industries Talent Strategy
 - **Average Article Length**: 5000+ words
 
 ### Latest Article Summary
-- **ID**: article-380
-- **Title**: 光子计算产业人才战略：当光子遇见计算，光学矩阵运算、光神经网络与下一代AI算力的人才竞赛与生态构建
-- **Topic**: 光子计算、光神经网络、光学矩阵运算、硅光芯片、光电混合架构、Lightmatter、曦智科技、AI加速器
-- **Word Count**: ~7200 words
+- **ID**: article-383
+- **Title**: 量子传感产业人才战略：当量子遇见精密测量，原子钟、量子陀螺仪与量子磁力计的人才竞赛与生态构建
+- **Topic**: 量子传感、原子钟、量子陀螺仪、量子磁力计、量子重力仪、精密测量、NV色心、冷原子
+- **Word Count**: ~7800 words
 - **PubDate**: 2026-04-16
 
 ### Previous Article Summary
-- **ID**: article-379
-- **Title**: RISC-V生态人才战略：当开放遇见芯片，指令集自由、模块化设计与全球协作的人才竞赛与生态构建
-- **Topic**: RISC-V、开源指令集、处理器架构、编译器、芯片设计、开源生态、阿里平头哥、香山处理器
-- **Word Count**: ~6200 words
+- **ID**: article-382
+- **Title**: 异构集成产业人才战略：当多元芯片遇见系统级封装，2.5D/3D堆叠、Chiplet互联与先进封装的人才竞赛与生态构建
+- **Topic**: 异构集成、Chiplet、2.5D封装、3D封装、UCIe、CoWoS、先进封装、系统集成
+- **Word Count**: ~7500 words
 - **PubDate**: 2026-04-16
 
 ## Next Task Planning
-**Target**: article-381
+**Target**: article-384
 **Suggested Topics**:
-- 异构集成人才战略
-- 量子传感产业人才战略
-- 神经形态计算人才战略
 - Chiplet与先进封装人才战略
 - 超导计算产业人才战略
+- 量子通信产业人才战略
+- 量子精密测量仪器人才战略
+- 空间光通信产业人才战略
 
 ## File Locations
 - **Task File**: `kimi-tasks/TASK-001-blog-content-generation.md`
