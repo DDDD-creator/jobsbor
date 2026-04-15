@@ -24,35 +24,37 @@ Generate a high-quality, 5000+ word original article about a trending technology
 - [x] article-374 (Completed - 钙钛矿太阳能电池产业人才战略)
 - [x] article-375 (Completed - 生物计算产业人才战略)
 - [x] article-376 (Completed - 先进封装产业人才战略)
+- [x] article-377 (Completed - 硅光芯片产业人才战略)
+- [x] article-378 (Completed - 存算一体芯片产业人才战略)
 
 ### Task Statistics
-- **Total Articles Published**: 376
-- **Next Article ID**: article-377
+- **Total Articles Published**: 378
+- **Next Article ID**: article-379
 - **Content Focus**: Emerging Technology Industries Talent Strategy
 - **Average Article Length**: 5000+ words
 
 ### Latest Article Summary
-- **ID**: article-376
-- **Title**: 先进封装产业人才战略：当摩尔定律遇见三维集成，Chiplet、异构集成与系统级封装的人才竞赛与生态构建
-- **Topic**: 先进封装、2.5D/3D封装、Chiplet、异构集成、系统级封装、扇出型封装、UCIe
-- **Word Count**: ~5500 words
+- **ID**: article-378
+- **Title**: 存算一体芯片产业人才战略：当存储遇见计算，近存计算、存内计算与AI推理的人才竞赛与生态构建
+- **Topic**: 存算一体、近存计算、存内计算、存算融合、AI芯片、边缘计算、PIM、CIM
+- **Word Count**: ~5600 words
 - **PubDate**: 2026-04-16
 
 ### Previous Article Summary
-- **ID**: article-375
-- **Title**: 生物计算产业人才战略：当生命遇见算力，DNA计算、分子编程与细胞智能的人才竞赛与生态构建
-- **Topic**: 生物计算、DNA计算、分子编程、细胞计算、蛋白质计算、合成生物学
-- **Word Count**: ~5800 words
+- **ID**: article-377
+- **Title**: 硅光芯片产业人才战略：当光子遇见硅基，光电融合、CPO互连与AI算力的人才竞赛与生态构建
+- **Topic**: 硅光芯片、光电融合、CPO共封装光学、光互连、光计算、数据中心、AI算力
+- **Word Count**: ~5700 words
 - **PubDate**: 2026-04-16
 
 ## Next Task Planning
-**Target**: article-376
+**Target**: article-379
 **Suggested Topics**:
-- 先进封装产业人才战略
-- 硅光芯片产业人才战略
 - RISC-V生态人才战略
-- 存算一体芯片产业人才战略
-- 光子计算产业人才战略
+- 光子计算产业人才战略  
+- 异构集成人才战略
+- 量子传感产业人才战略
+- 神经形态计算人才战略
 
 ## File Locations
 - **Task File**: `kimi-tasks/TASK-001-blog-content-generation.md`
