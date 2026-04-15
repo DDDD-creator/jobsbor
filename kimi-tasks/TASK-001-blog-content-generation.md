@@ -19,36 +19,40 @@ Generate a high-quality, 5000+ word original article about a trending technology
 - [x] article-351 (Completed - 自动驾驶产业人才战略)
 - [x] article-352 ~ article-370 (Completed)
 - [x] article-371 (Completed - AI治理与负责任人工智能产业人才战略)
-- [ ] article-372 (Next Task)
+- [x] article-372 (Completed - 氢能产业人才战略)
+- [x] article-373 (Completed - 钠离子电池产业人才战略)
+- [x] article-374 (Completed - 钙钛矿太阳能电池产业人才战略)
+- [x] article-375 (Completed - 生物计算产业人才战略)
+- [ ] article-376 (Next Task)
 
 ### Task Statistics
-- **Total Articles Published**: 371
-- **Next Article ID**: article-372
+- **Total Articles Published**: 375
+- **Next Article ID**: article-376
 - **Content Focus**: Emerging Technology Industries Talent Strategy
 - **Average Article Length**: 5000+ words
 
 ### Latest Article Summary
-- **ID**: article-371
-- **Title**: AI治理与负责任人工智能产业人才战略：当算法遇见伦理时，构建可信AI的人才竞赛与生态构建
-- **Topic**: AI治理、负责任AI、算法伦理、AI安全、AI合规
-- **Word Count**: ~5500 words
-- **PubDate**: 2026-04-16
-
-### Previous Article Summary
-- **ID**: article-370
-- **Title**: 空间计算产业人才战略：当虚拟遇见现实，三维重建、感知交互与数字孪生的人才竞赛与生态构建
-- **Topic**: 空间计算、数字孪生、三维重建、感知交互
+- **ID**: article-375
+- **Title**: 生物计算产业人才战略：当生命遇见算力，DNA计算、分子编程与细胞智能的人才竞赛与生态构建
+- **Topic**: 生物计算、DNA计算、分子编程、细胞计算、蛋白质计算、合成生物学
 - **Word Count**: ~5800 words
 - **PubDate**: 2026-04-16
 
+### Previous Article Summary
+- **ID**: article-374
+- **Title**: 钙钛矿太阳能电池产业人才战略：当钙钛矿遇见光伏，薄膜沉积、界面工程与产业化的人才竞赛与生态构建
+- **Topic**: 钙钛矿太阳能电池、薄膜沉积、界面工程、叠层电池、稳定性提升
+- **Word Count**: ~6000 words
+- **PubDate**: 2026-04-16
+
 ## Next Task Planning
-**Target**: article-372
+**Target**: article-376
 **Suggested Topics**:
-- 氢能产业人才战略
-- 钠离子电池产业人才战略
-- 钙钛矿太阳能电池产业人才战略
-- 生物计算产业人才战略
 - 先进封装产业人才战略
+- 硅光芯片产业人才战略
+- RISC-V生态人才战略
+- 存算一体芯片产业人才战略
+- 光子计算产业人才战略
 
 ## File Locations
 - **Task File**: `kimi-tasks/TASK-001-blog-content-generation.md`
