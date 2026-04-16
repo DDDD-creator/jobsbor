@@ -38,31 +38,31 @@ Generate a high-quality, 5000+ word original article about a trending technology
 - [x] article-388 (Completed - 先进制程产业人才战略)
 - [x] article-389 (Completed - Chiplet与芯粒互连人才战略)
 - [x] article-390 (Completed - 量子精密测量仪器人才战略)
+- [x] article-391 (Completed - 量子存储与量子中继人才战略)
 
 ### Task Statistics
-- **Total Articles Published**: 390
-- **Next Article ID**: article-391
+- **Total Articles Published**: 391
+- **Next Article ID**: article-392
 - **Content Focus**: Emerging Technology Industries Talent Strategy
 - **Average Article Length**: 5000+ words
 
 ### Latest Article Summary
+- **ID**: article-391
+- **Title**: 量子存储与量子中继人才战略：当量子纠缠遇见长距传输，量子存储器、纠缠交换与量子互联网的人才竞赛与生态构建
+- **Topic**: 量子存储、量子中继、量子存储器、纠缠交换、纠缠纯化、量子互联网、原子系综、固态存储器、稀土掺杂晶体、DLCZ
+- **Word Count**: ~9200 words
+- **PubDate**: 2026-04-16
+
+### Previous Article Summary
 - **ID**: article-390
 - **Title**: 量子精密测量仪器人才战略：当量子纠缠遇见极限精度，原子钟、量子磁力计与精密测量新时代的人才竞赛与生态构建
 - **Topic**: 量子精密测量、原子钟、光晶格钟、量子磁力计、NV色心、原子干涉、量子陀螺仪、单光子探测器、SNSPD、量子重力仪、精密测量、量子计量
 - **Word Count**: ~10200 words
 - **PubDate**: 2026-04-16
 
-### Previous Article Summary
-- **ID**: article-389
-- **Title**: Chiplet与芯粒互连人才战略：当摩尔定律遇见封装革命，2.5D/3D堆叠、UCIe互联与异构集成时代的人才竞赛与生态构建
-- **Topic**: Chiplet, 芯粒, 2.5D封装, 3D堆叠, UCIe, 硅中介层, TSV, 混合键合, CoWoS, EMIB, Foveros, 异构集成, 先进封装, 互连设计, 热管理, 信号完整性
-- **Word Count**: ~5500+ words
-- **PubDate**: 2026-04-16
-
 ## Next Task Planning
-**Target**: article-391
+**Target**: article-392
 **Suggested Topics**:
-- 量子存储与量子中继人才战略
 - 卫星互联网运营人才战略
 - 深空探测通信人才战略
 - 超导AI加速芯片人才战略
@@ -70,6 +70,7 @@ Generate a high-quality, 5000+ word original article about a trending technology
 - 柔性电子人才战略
 - 神经拟态传感器人才战略
 - 量子精密测量仪器人才战略
+- 量子随机数生成器人才战略
 
 ## File Locations
 - **Task File**: `kimi-tasks/TASK-001-blog-content-generation.md`
